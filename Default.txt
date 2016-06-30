@@ -95,7 +95,7 @@
 #93# Reset Pan
 #94# Local Vel.
 #95# Grid
-#96# SANDBOX TOOLS
+#96# Trade
 #97# BUILD
 #98# DECONSTRUCT
 #99# SANDBOX TOOLS
