@@ -1,4 +1,4 @@
-
+﻿
 #0# Запустить сервер
 #1# Присоединится к игре
 #2# Настройки
@@ -19,7 +19,7 @@
 #17# Are you sure?
 #18# Выход
 #19# Назад
-#20# Прямое подключение
+#20# Прямое Подключение
 #21# Steam Connect (coming soon)
 #22# Developers
 #23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
@@ -72,30 +72,102 @@
 #70# New world
 #71# BACK
 #72# START GAME
-#73# Language
-#74# Music
-#75# Music
-#76# Music
-#77# Music
-#78# Music
-#79# Music
-#80# Music
-#81# Music
-#82# Music
-#83# Music
-#84# Music
-#85# Music
-#86# Music
-#87# Music
-#88# Music
-#89# Music
-#90# Music
-#91# Music
-#92# Music
-#93# Music
-#94# Music
-#95# Music
-#96# Music
-#97# Music
-#98# Music
-#99# Music
+#73# Join Multiplayer
+#74# IP
+#75# Port
+#76# Pass
+#77# Join
+#78# Select the Server
+#79# Add to Favorites
+#80# Confirm deletion of server
+#81# Back
+#82# Name
+#83# IP
+#84# Port
+#85# Password
+#86# Delete
+#87# Join
+#88# Save
+#89# Edit
+#90# Language
+#91# Paused
+#92# Lock Rot.
+#93# Reset Pan
+#94# Local Vel.
+#95# Grid
+#96# SANDBOX TOOLS
+#97# BUILD
+#98# DECONSTRUCT
+#99# SANDBOX TOOLS
+#100# ADD RESOURCES
+#101# Oxygen
+#102# Hydrogen
+#103# Xenon
+#104# Rocket
+#105# Power
+#106# Food
+#107# Crew
+#108# AI
+#109# Duplicate selected ship
+#110# Set faction to friendly
+#111# Set faction to enemy
+#112# Create enemy ship
+#113# Add AI to the ship
+#114# Auto pilot
+#115# PHYSICS
+#116# Remove selected ship
+#117# Disable orbital mechanics
+#118# Place trajectory planner
+#119# Debris throw mode
+#120# Apply
+#121# Discard
+#122# Press Any Key Right Click
+#123# Set new hotkey Reset hotkey
+#124# Distance
+#125# Relative velocity
+#126# Player
+#127# Ping
+#128# Available modules
+#129# Storages
+#130# Production
+#131# Power
+#132# Miscellaneous
+#133# Weapons
+#134# Turrets
+#135# Propulsion
+#136# Crew Member Info
+#137# Health
+#138# Food
+#139# Morale
+#140# GETTING STARTED
+#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
+#142# OPEN GUIDE
+#143# TRADING
+#144# NAME
+#145# AMOUNT
+#146# PRICE
+#147# DEMAND
+#148# SUPPLY
+#149# PREV SHIP
+#150# NEXT SHIP
+#151# TOTAL MASS 
+#152# MOMENT OF INERTIA
+#153# MODULE MASS
+#154# Not connected to Power Storage
+#155# Power consumption
+#156# Attach
+#157# Detach
+#158# Drag for transfer
+#159# Right Click: Sell
+#160# Buy: Drag and drop to own container
+#161# Drop to transfer
+#162# Hold shift to specify amount
+#163# Drop to buy
+#164# Storage type mismatch (for liquid / for solid)
+#165# Ctrl+RMB - Deconstruct
+#166# Right click - Repair\nCtrl + Right click - Deconstruct
+#167# Right click - Construct\nCtrl + Right click - Deconstruct
+#168# Right Click - show content
+#169# Right Click - Assign hotkey
+#170# Mass
+#171# eject
