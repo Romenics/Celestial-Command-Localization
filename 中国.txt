@@ -1,0 +1,701 @@
+﻿
+#0# Start server
+#1# Join multiplayer
+#2# Settings
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time In chat
+#33# Sandbox Mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full Screen
+#38# Textures Quality
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to set key or press ESC to exit
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Language
+#74# Music
+#75# Music
+#76# Music
+#77# Music
+#78# Music
+#79# Music
+#80# Music
+#81# Music
+#82# Music
+#83# Music
+#84# Music
+#85# Music
+#86# Music
+#87# Music
+#88# Music
+#89# Music
+#90# Music
+#91# Music
+#92# Music
+#93# Music
+#94# Music
+#95# Music
+#96# Music
+#97# Music
+#98# Music
+#99# Music
+#0# Start server
+#1# Join multiplayer
+#2# Options
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time In chat
+#33# Sandbox Mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full Screen
+#38# Textures Quality
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to set key or press ESC to exit
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Music
+#74# Music
+#75# Music
+#76# Music
+#77# Music
+#78# Music
+#79# Music
+#80# Music
+#81# Music
+#82# Music
+#83# Music
+#84# Music
+#85# Music
+#86# Music
+#87# Music
+#88# Music
+#89# Music
+#90# Music
+#91# Music
+#92# Music
+#93# Music
+#94# Music
+#95# Music
+#96# Music
+#97# Music
+#98# Music
+#99# Music
+#0# Start server
+#1# Join multiplayer
+#2# Options
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time In chat
+#33# Sandbox Mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full Screen
+#38# Textures Quality
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to set key or press ESC to exit
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Music
+#74# Music
+#75# Music
+#76# Music
+#77# Music
+#78# Music
+#79# Music
+#80# Music
+#81# Music
+#82# Music
+#83# Music
+#84# Music
+#85# Music
+#86# Music
+#87# Music
+#88# Music
+#89# Music
+#90# Music
+#91# Music
+#92# Music
+#93# Music
+#94# Music
+#95# Music
+#96# Music
+#97# Music
+#98# Music
+#99# Music
+#0# Start server
+#1# Join multiplayer
+#2# Options
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time In chat
+#33# Sandbox Mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full Screen
+#38# Textures Quality
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to set key or press ESC to exit
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Music
+#74# Music
+#75# Music
+#76# Music
+#77# Music
+#78# Music
+#79# Music
+#80# Music
+#81# Music
+#82# Music
+#83# Music
+#84# Music
+#85# Music
+#86# Music
+#87# Music
+#88# Music
+#89# Music
+#90# Music
+#91# Music
+#92# Music
+#93# Music
+#94# Music
+#95# Music
+#96# Music
+#97# Music
+#98# Music
+#99# Music
+#0# Start server
+#1# Join multiplayer
+#2# Options
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time In chat
+#33# Sandbox Mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full Screen
+#38# Textures Quality
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to set key or press ESC to exit
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Music
+#74# Music
+#75# Music
+#76# Music
+#77# Music
+#78# Music
+#79# Music
+#80# Music
+#81# Music
+#82# Music
+#83# Music
+#84# Music
+#85# Music
+#86# Music
+#87# Music
+#88# Music
+#89# Music
+#90# Music
+#91# Music
+#92# Music
+#93# Music
+#94# Music
+#95# Music
+#96# Music
+#97# Music
+#98# Music
+#99# Music
+#0# Start server
+#1# Join multiplayer
+#2# Options
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time In chat
+#33# Sandbox Mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full Screen
+#38# Textures Quality
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to set key or press ESC to exit
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Music
+#74# Music
+#75# Music
+#76# Music
+#77# Music
+#78# Music
+#79# Music
+#80# Music
+#81# Music
+#82# Music
+#83# Music
+#84# Music
+#85# Music
+#86# Music
+#87# Music
+#88# Music
+#89# Music
+#90# Music
+#91# Music
+#92# Music
+#93# Music
+#94# Music
+#95# Music
+#96# Music
+#97# Music
+#98# Music
+#99# Music
+#0# Start server
+#1# Join multiplayer
+#2# Options
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time In chat
+#33# Sandbox Mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full Screen
+#38# Textures Quality
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to set key or press ESC to exit
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Music
+#74# Music
+#75# Music
+#76# Music
+#77# Music
+#78# Music
+#79# Music
+#80# Music
+#81# Music
+#82# Music
+#83# Music
+#84# Music
+#85# Music
+#86# Music
+#87# Music
+#88# Music
+#89# Music
+#90# Music
+#91# Music
+#92# Music
+#93# Music
+#94# Music
+#95# Music
+#96# Music
+#97# Music
+#98# Music
+#99# Music
