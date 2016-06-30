@@ -1,7 +1,7 @@
 ﻿
 #0# Start server
 #1# Join multiplayer
-#2# Options
+#2# Settings
 #3# Developers
 #4# Exit
 #5# Continue
