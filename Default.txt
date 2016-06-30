@@ -155,8 +155,8 @@
 #153# MODULE MASS
 #154# Not connected to Power Storage
 #155# Power consumption
-#156# Attach
-#157# Detach
+#156# Detach
+#157# Attach
 #158# Drag for transfer
 #159# Right Click: Sell
 #160# Buy: Drag and drop to own container
