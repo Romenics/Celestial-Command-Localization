@@ -1,25 +1,25 @@
 
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
-#4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
-#9# Exit
+#0# Запустить сервер
+#1# Присоединится к игре
+#2# Настройки
+#3# Разработчики
+#4# Выход
+#5# Продолжить
+#6# Пауза
+#7# Настройки
+#8# Сохранить
+#9# Выход
 #10# Respawn
-#11# EARLY ACCESS
+#11# Ранний доступ
 #12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
+#13# Новости
+#14# Обсуждения
+#15# Руководства
+#16# Список задач
 #17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
+#18# Выход
+#19# Назад
+#20# Прямое подключение
 #21# Steam Connect (coming soon)
 #22# Developers
 #23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
