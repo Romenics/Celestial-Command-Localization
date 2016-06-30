@@ -8,4 +8,4 @@ Requirements:
 4. Try to not leave needless space at the and of the text, for example "Start game      "
 
 
-If you wish to add a language, but its txt file still not exist in the repository...
+If you wish to add a language, but its txt file still not exist in the repository, you can add it.
