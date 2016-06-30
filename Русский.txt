@@ -26,7 +26,7 @@
 #24# Save
 #25# Default
 #26# Apply
-#27# AUDIO
+#27# Звук
 #28# Total
 #29# Music
 #30# GAME
