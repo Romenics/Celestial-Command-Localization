@@ -121,8 +121,8 @@
 #119# Modus zum Trümmer wegstoßen
 #120# Anwenden
 #121# Verwerfen
-#122# Eine beliebige Taste drücken rechte Maustaste
-#123# Setzes eines neuen Tastenkürzels Tastenkürzel zurücksetzen
+#122# Eine beliebige Taste drücken
+#123# Setzes eines neuen Tastenkürzels
 #124# Distanz
 #125# Relative Geschwindigkeit
 #126# Spieler
@@ -172,4 +172,4 @@
 #170# Masse
 #171# Auswerfen
 #172# Rechtsklick
-#173# Tstenkürzel zurücksetzen
+#173# Tastenkürzel zurücksetzen
