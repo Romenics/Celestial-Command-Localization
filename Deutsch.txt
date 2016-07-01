@@ -9,7 +9,7 @@
 #7# Optionen
 #8# Speichern
 #9# Ausgang
-#10# erneut starten
+#10# Erneut starten
 #11# EARLY ACCESS
 #12# Das Spiel ist noch nicht fertig, aber es ist in sehr aktiver Entwicklung. Besuchen Sie den Entwickler Blog im Steam Community Hub, um mehr Informationen zu erhalten.
 #13# Neuigkeiten
@@ -19,10 +19,10 @@
 #17# Sind sie sicher?
 #18# Ausgang
 #19# Zurück
-#20# direkte verbindung
+#20# Direkte Verbindung
 #21# Steam Verbindung (kommt bald)
 #22# Entwickler
-#23# Das Spiel wird von drei Freunden mit Spitznamen: Armani, Riya und Romenics entwickelt. Besuchen Sie unser Entwicklung Blog im Steam-Community-Hub für weitere Informationen.
+#23# Das Spiel wird von drei Freunden mit Spitznamen: Armani, Riya und Romenics entwickelt. Besuchen Sie unser Entwickler Blog im Steam-Community-Hub für weitere Informationen.
 #24# Speichern
 #25# Standard
 #26# Anwenden
@@ -34,13 +34,13 @@
 #32# Zeige die Zeit im Chat
 #33# Sandbox Modus
 #34# Wechseln der Maustasten
-#35# Interval für automatisches Speichern
+#35# Intervall für automatisches Speichern
 #36# Grafik
 #37# Vollbild
 #38# Textur Qualität
-#39# Anti-Aliasing
-#40# V-sync
-#41# Grafik Auflösung
+#39# Kantenglättung
+#40# Vertikale Synchronisation
+#41# Bildauflösung
 #42# Drücke eine Taste für die Tastenbelegung oder ESC um zu beenden
 #43# Speichern
 #44# Standard
@@ -97,7 +97,7 @@
 #95# Raster
 #96# Handel
 #97# Bauen
-#98# dekonstruieren
+#98# Abbauen
 #99# Sandbox Werkzeuge
 #100# Resourcen hinzufügen
 #101# Sauerstoff
@@ -108,7 +108,7 @@
 #106# Essen
 #107# Besatzung
 #108# KI
-#109# Verdoppeln des ausgewählten Schiffes
+#109# Ausgewähltes Schiff verdoppeln
 #110# Fraktion auf freundlich setzen
 #111# Fraktion aus feindlich setzen
 #112# Erstelle feindliches Schiff
@@ -116,13 +116,13 @@
 #114# Autopilot
 #115# Physik
 #116# Entferne ausgewähltes Schiff
-#117# Orbital Mechanik deaktivieren
+#117# Orbitale Mechanik deaktivieren
 #118# Setze eine Flugbahnplanung
 #119# Modus zum Trümmer wegstoßen
 #120# Anwenden
 #121# Verwerfen
 #122# Eine beliebige Taste drücken
-#123# Setzes eines neuen Tastenkürzels
+#123# Setzen eines neuen Tastenkürzels
 #124# Distanz
 #125# Relative Geschwindigkeit
 #126# Spieler
@@ -162,7 +162,7 @@
 #160# Kaufen: Ziehen und Fallenlassen auf eigenem Kontainer
 #161# Für Transfer fallen lassen
 #162# Shift-Taste gedrückt halten um Menge festzulegen
-#163# fallen lassen um zu kaufen
+#163# Fallen lassen um zu kaufen
 #164# Lager Inkompatibilität (für Flüssiges / für Festes)
 #165# Strg+RMT - Abbauen
 #166# Rechte Maustaste - Reparieren\nStrg + Rechte Maustaste - Abbauen
