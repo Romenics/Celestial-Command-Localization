@@ -169,5 +169,5 @@
 #167# Right click - Construct\nCtrl + Right click - Deconstruct
 #168# Right Click - show content
 #169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
+#170# Масса груза
+#171# Выбросить
