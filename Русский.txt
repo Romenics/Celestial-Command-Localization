@@ -121,8 +121,8 @@
 #119# Debris throw mode
 #120# Apply
 #121# Discard
-#122# Press Any Key Right Click
-#123# Set new hotkey Reset hotkey
+#122# Press Any Key
+#123# Set new hotkey
 #124# Distance
 #125# Relative velocity
 #126# Player
@@ -171,3 +171,5 @@
 #169# Right Click - Assign hotkey
 #170# Mass
 #171# eject
+#172# Right Click
+#173# Reset hotkey

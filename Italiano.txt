@@ -121,8 +121,8 @@
 #119# Modalita' "detriti scagliati"
 #120# Applica
 #121# Annulla
-#122# Premere qualsiasi tasto Clic Destro
-#123# Imposta nuovo tasto rapido Reimposta tasto rapido
+#122# Premere qualsiasi tasto
+#123# Imposta nuovo tasto rapido
 #124# Distanza
 #125# Velocita' relativa
 #126# Giocatore
@@ -171,3 +171,5 @@
 #169# Clic Destro - assegna tasto rapido
 #170# Massa
 #171# espelli
+#172# Clic Destro
+#173# Reimposta tasto rapido
