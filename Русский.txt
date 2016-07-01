@@ -9,170 +9,165 @@
 #7# Настройки
 #8# Сохранить
 #9# Выход
-#10# Respawn
+#10# Перезагрузить
 #11# Ранний доступ
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#12# Игра еще не завершена, но активно допиливается напильником.  Посетите Steam Community Hub чтобы получить больше информации.
 #13# Новости
 #14# Обсуждения
 #15# Руководства
 #16# Список задач
-#17# Are you sure?
+#17# Вы уверены?
 #18# Выход
 #19# Назад
 #20# Прямое Подключение
-#21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
+#21# Подкл. через STEAM (скоро будет)
+#22# Разработчики
+#23# Эта игра разрабатывается тремя друзьями Artaani, Riya and Romenics  Посетите наш блог на Steam Community Hub насчет дальнейшей инфы
+#24# Сохранить
+#25# По умолчанию
+#26# Применить
 #27# Звук
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
-#40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
-#55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
-#63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+#28# Громкость
+#29# Музыка
+#30# Игра
+#31# Показать помощь
+#32# Показывать время в чате
+#33# Песочница
+#34# Поменять кнопки мышки
+#35# Время авто-сохранения
+#36# Графика
+#37# Полный экран
+#38# Качество текстур
+#39# Сглаживание
+#40# Ограничитель кадров
+#41# Разрешение
+#42# Нажмите любую кнопку или ESC для отмены
+#43# Сохранить
+#44# По умолчанию
+#45# Кнопки
+#46# Выберите мир
+#47# Имя
+#48# Сохранить данные
+#49# Игровое время
+#50# Версия
+#51# Создать мир.
+#52# Подтвердите удаление мира
+#53# Назад
+#54# Удалить
+#55# Порт
+#56# Пароль
+#57# Максимально игроков
+#58# Удалить
+#59# Загрузить
+#60# Загрузка
+#61# Идет подключение...
+#62# Имя Мира
+#63# Порт
+#64# Пароль
+#65# Макс. игроков
+#66# Песочница
+#67# Кол. станций
+#68# Кол. врагов
+#69# Кол. астероидов
+#70# Новый мир
+#71# Назад
+#72# Создать
+#73# Присоединится
 #74# IP
-#75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#75# Порт
+#76# Пароль
+#77# Подключиться
+#78# Выбрать сервер
+#79# Добавить в избранное
+#80# Подтвердите удаление сервера
+#81# Назад
+#82# Имя сервера
 #83# IP
-#84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
-#94# Local Vel.
-#95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
-#108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
-#114# Auto pilot
+#84# Порт
+#85# Пароль
+#86# Удалить
+#87# Добавить
+#88# Сохранить
+#89# Изменить
+#90# Язык
+#91# Пауза
+#92# Стабилизация
+#93# Сбросить вид
+#94# Скорость объекта
+#95# Сетка
+#96# Торговля
+#97# Построить
+#98# Демонтировать
+#99# Инструменты песочницы
+#100# Добавить ресурсы
+#101# Кислород
+#102# Водород
+#103# Ксенон
+#104# Ракеты
+#105# Мощность
+#106# Еда
+#107# Экипаж
+#108# ИИ
+#109# Копировать выбранный корабль
+#110# Сделать союзником
+#111# Сделать врагом
+#112# Создать вражеский корабль
+#113# Добавить ИИ на корабль
+#114# Автопилот
 #115# PHYSICS
-#116# Remove selected ship
-#117# Disable orbital mechanics
-#118# Place trajectory planner
-#119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
-#124# Distance
-#125# Relative velocity
-#126# Player
-#127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
-#139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
-#155# Power consumption
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
-#172# Right Click
-#173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-
-#175# Ctrl + Right click - Deconstruct
+#116# Удалить выбранный корабль
+#117# Выключить орбитальную механику
+#118# Создать объект с траекторией
+#119# Космический мусор
+#120# Применить
+#121# Сбросить
+#122# Назначить Правый клик
+#123# кнопку    Сбросить
+#124# Дистанция
+#125# Ускорение
+#126# Игрок
+#127# Пинг
+#128# Доступные модули
+#129# Контейнеры и ком.модули
+#130# Добыча и обработка
+#131# Энергетика
+#132# Конструкции
+#133# Оружие
+#134# Платформы
+#135# Двигатели
+#136# Инфа об экипаже
+#137# Здоровье
+#138# Продукты
+#139# Мораль
+#140# Приступим
+#141# Туториал пока еще доделывается
+#142# Открыть мануал
+#143# Торговля
+#144# Продукция
+#145# Количество
+#146# Цена
+#147# Покупает
+#148# Производит
+#149# Пред. корабль
+#150# След. корабль
+#151# Масса корабля 
+#152# Момент инерции
+#153# Масса модуля
+#154# Не подключено к аккумуляторам
+#155# Потребляемая мощность
+#156# Отсоединить
+#157# Подсоединить
+#158# Перегрузить
+#159# Правый клик:Продать
+#160# Купить:Перетащи в свой контейне
+#161# Отпустить для передачи
+#162# Удерживай SHIFT для опр. кол.
+#163# Отпустить для покупки
+#164# Неподходящий вид хранения(для жидкости/для твердых материалов)
+#165# Ctrl+RMB - Демонтировать
+#166# Правый клик - Ремонт\Ctrl + Правый клик - Разобрать
+#167# Правый клик - Построить\Ctrl + Правый клик - Разобрать
+#168# Правый клик - Показать детали
+#169# Правый клик - Назначить кнопку
+#170# Масса груза
+#171# Выбросить
