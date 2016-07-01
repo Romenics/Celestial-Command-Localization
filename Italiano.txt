@@ -165,11 +165,13 @@
 #163# Rilascia per comprare
 #164# Errore nel tipo di deposito(per liquidi / per solidi)
 #165# Ctrl+Clic Dx - Smonta
-#166# Clic Destro - Ripara\nCtrl + Clic Destro - Smonta
-#167# Clic Destro - Costruisci\nCtrl + Clic Destro - Smonta
+#166# Clic Destro - Ripara
+#167# Clic Destro - Costruisci
 #168# Clic Destro - mostra contenuto
 #169# Clic Destro - assegna tasto rapido
 #170# Massa
 #171# espelli
 #172# Clic Destro
 #173# Reimposta tasto rapido
+#174# Ctrl + Clic Destro - Smonta
+#175# Ctrl + Clic Destro - Smonta

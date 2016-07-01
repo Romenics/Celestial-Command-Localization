@@ -165,11 +165,14 @@
 #163# Drop to buy
 #164# Storage type mismatch (for liquid / for solid)
 #165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair\nCtrl + Right click - Deconstruct
-#167# Right click - Construct\nCtrl + Right click - Deconstruct
+#166# Right click - Repair
+#167# Right click - Construct
 #168# Right Click - show content
 #169# Right Click - Assign hotkey
 #170# Mass
 #171# eject
 #172# Right Click
 #173# Reset hotkey
+#174# Ctrl + Right click - Deconstruct
+
+#175# Ctrl + Right click - Deconstruct
