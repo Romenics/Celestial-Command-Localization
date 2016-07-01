@@ -9,7 +9,7 @@
 #7# Optionen
 #8# Speichern
 #9# Ausgang
-#10# erneut starten
+#10# Erneut starten
 #11# EARLY ACCESS
 #12# Das Spiel ist noch nicht fertig, aber es ist in sehr aktiver Entwicklung. Besuchen Sie den Entwickler Blog im Steam Community Hub, um mehr Informationen zu erhalten.
 #13# Neuigkeiten
@@ -19,7 +19,7 @@
 #17# Sind sie sicher?
 #18# Ausgang
 #19# Zurück
-#20# direkte verbindung
+#20# Direkte verbindung
 #21# Steam Verbindung (kommt bald)
 #22# Entwickler
 #23# Das Spiel wird von drei Freunden mit Spitznamen: Armani, Riya und Romenics entwickelt. Besuchen Sie unseren Entwickler Blog im Steam-Community-Hub für weitere Informationen.
@@ -38,9 +38,9 @@
 #36# Grafik
 #37# Vollbild
 #38# Textur Qualität
-#39# Anti-Aliasing
-#40# V-sync
-#41# Grafik Auflösung
+#39# Kantenglättung
+#40# Vertikale Synchronisation
+#41# Bildauflösung
 #42# Drücke eine Taste für die Tastenbelegung oder ESC um zu beenden
 #43# Speichern
 #44# Standard
