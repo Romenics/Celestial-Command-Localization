@@ -121,8 +121,8 @@
 #119# Debris throw mode
 #120# Применить
 #121# Discard
-#122# Press Any Key Right Click
-#123# Set new hotkey Reset hotkey
+#122# Назначить Правый клир
+#123# Кнопку    Сбросить
 #124# Дистанция
 #125# Ускорение
 #126# Игрок
