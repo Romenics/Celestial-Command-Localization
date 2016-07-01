@@ -1,173 +1,173 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
-#4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
-#9# Exit
-#10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
+#0# Avvia server
+#1# Partecipa a multiplayer
+#2# Opzioni
+#3# Sviluppatori
+#4# Esci
+#5# Continua
+#6# Pausa
+#7# Opzioni
+#8# Salva
+#9# Esci
+#10# Ricomincia
+#11# ACCESSO ANTICIPATO
+#12# Il gioco non e' ancora pronto ma lo sviluppo procede attivamente. Visita il blog sullo sviluppo nella Comunita' di Steam per avere maggiori informazioni
+#13# Notizie
+#14# Discussioni
+#15# Guide
+#16# Lista cose da fare
+#17# Sei sicuro?
+#18# Esci
+#19# Indietro
+#20# Connessione Diretta
+#21# Connettiti con Steam (in arrivo)
+#22# Sviluppatori
+#23# Il gioco e' sviluppato da tre amici i cui nickname sono Artaani, Riya and Romenics. Visita il blog sullo sviluppo nella Comunita' di Steam per avere maggiori informazioni
+#24# Salva
+#25# Predefinito
+#26# Applica
 #27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
+#28# Totale
+#29# Musica
+#30# GIOCO
+#31# Mostra aiuti
+#32# Mostra l'ora in chat
+#33# Modalita' Sandbox
+#34# Inverti tasti del mouse
+#35# Frequenza salvataggio automtico
+#36# GRAFICA
+#37# A tutto schermo
+#38# Qualita' Texture
 #39# Anti-Aliasing
-#40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
-#55# PORT
+#40# Sincronizzazione verticale
+#41# Risoluzione
+#42# Premi un tasto qualsiasi per impostarlo o premi ESC per uscire
+#43# Salva
+#44# Predefinito
+#45# COMANDI RAPIDI
+#46# SELEZIONA IL MONDO
+#47# NOME
+#48# DATA SALVATAGGIO
+#49# TEMPO DI GIOCO
+#50# VERSIONE
+#51# CREA MONDO
+#52# Conferma cancellazione del mondo
+#53# Indietro
+#54# Elimina
+#55# PORTA
 #56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
-#63# PORT
+#57# NUMERO MASSIMO GIOCATORI
+#58# ELIMINA
+#59# CARICA
+#60# CARICAMENTO...
+#61# Connessione in corso...
+#62# NOME MONDO
+#63# PORTA
 #64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+#65# NUMERO MASSIMO GIOCATORI
+#66# MODALITA' SANDBOX
+#67# NUMERO DI STAZIONI
+#68# NUMERO DI NEMICI
+#69# NUMERO DI ASTEROIDI
+#70# Nuovo mondo
+#71# INDIETRO
+#72# INIZIA PARTITA
+#73# Partecipa a Multiplayer
 #74# IP
-#75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#75# Porta
+#76# Password
+#77# Partecipa
+#78# Seleziona il server
+#79# Aggiungi ai Preferiti
+#80# Conferma eliminazione del server
+#81# Indietro
+#82# Nome
 #83# IP
-#84# Port
+#84# Porta
 #85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
-#94# Local Vel.
-#95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
-#108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
-#114# Auto pilot
-#115# PHYSICS
-#116# Remove selected ship
-#117# Disable orbital mechanics
-#118# Place trajectory planner
-#119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key Right Click
-#123# Set new hotkey Reset hotkey
-#124# Distance
-#125# Relative velocity
-#126# Player
+#86# Elimina
+#87# Partecipa
+#88# Salva
+#89# Modifica
+#90# Lingua
+#91# In pausa
+#92# Rot. Bloccata
+#93# Reset Camera
+#94# Vel. Locale 
+#95# Griglia
+#96# Commercia
+#97# COSTRUISCI
+#98# SMANTELLA
+#99# STRUMENTI SANDBOX
+#100# AGGIUNGI RISORSE
+#101# Ossigeno
+#102# Idrogeno
+#103# Xeno
+#104# Razzo
+#105# Energia
+#106# Cibo
+#107# Equipaggio
+#108# IA
+#109# Duplica l'astronave selezionata
+#110# Imposta la fazione ad amichevole
+#111# Imposta la fazione ad ostile
+#112# Crea astronave ostile
+#113# Aggiungi IA all'astronave
+#114# Pilota automatico
+#115# FISICA
+#116# Rimuovi l'astronave selezionata
+#117# Disattiva meccaniche orbitali
+#118# Piazza pianificatore di traiettoria
+#119# Modalita' "detriti scagliati"
+#120# Applica
+#121# Annulla
+#122# Premere qualsiasi tasto Clic Destro
+#123# Imposta nuovo tasto rapido Reimposta tasto rapido
+#124# Distanza
+#125# Velocita' relativa
+#126# Giocatore
 #127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
+#128# Moduli disponibili
+#129# Depositi
+#130# Produzione
+#131# Energia
+#132# Varie
+#133# Armi
+#134# Torrette
+#135# Propulsione
+#136# Ifnormazioni equipaggio
+#137# Salute
+#138# Cibo
 #139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
-#155# Power consumption
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair\nCtrl + Right click - Deconstruct
-#167# Right click - Construct\nCtrl + Right click - Deconstruct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
+#140# PER INIZIARE
+#141# Siccome il tutorial non e' ancora pronto, vi raccomandiamo di leggere questa guida base scritta da un memnro della comunita'
+#142# APRI GUIDA
+#143# COMEMRCIO
+#144# NOME
+#145# QUANTITA'
+#146# PREZZO
+#147# DOMANDA
+#148# SCORTA
+#149# NAVE PREC
+#150# NAVE SUCC
+#151# MASSA TOTALE
+#152# MOMENTO D'INERZIA
+#153# MASSA MODULO
+#154# Non connesso alla riserva d'energia
+#155# Conumo energia
+#156# Scollega
+#157# COllega
+#158# Trascina per trasferire
+#159# Clic Destro: Vendi
+#160# Compra: Trascina e rilascia nel tuo contenitore
+#161# Rilascia per trasferire
+#162# Premi MAIUSC per specificare la quantita'
+#163# Rilascia per comprare
+#164# Errore nel tipo di deposito(per liquidi / per solidi)
+#165# Ctrl+Clic Dx - Smonta
+#166# Clic Destro - Ripara\nCtrl + Clic Destro - Smonta
+#167# Clic Destro - Costruisci\nCtrl + Clic Destro - Smonta
+#168# Clic Destro - mostra contenuto
+#169# Clic Destro - assegna tasto rapido
+#170# Massa
+#171# espelli
