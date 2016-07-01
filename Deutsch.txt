@@ -33,7 +33,7 @@
 #31# Hilfe anzeigen
 #32# Zeige die Zeit im Chat
 #33# Sandbox Modus
-#34# Wechseln der Maustasten
+#34# Maustasten vertauschen
 #35# Interval für automatisches Speichern
 #36# Grafik
 #37# Vollbild
