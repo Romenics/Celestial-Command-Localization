@@ -174,5 +174,4 @@
 #172# Clique Direito
 #173# Resetar hotkey
 #174# CTRL + Clique Direito - Desconstruir
-
 #175# CTRL + Clique Direito - Desconstruir
