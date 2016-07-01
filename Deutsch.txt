@@ -3,12 +3,12 @@
 #1# Betrete Mehrspieler
 #2# Optionen
 #3# Entwickler
-#4# Ausgang
+#4# Verlassen
 #5# Fortführen
 #6# Pause
 #7# Optionen
 #8# Speichern
-#9# Ausgang
+#9# Verlassen
 #10# Erneut starten
 #11# EARLY ACCESS
 #12# Das Spiel ist noch nicht fertig, aber es ist in sehr aktiver Entwicklung. Besuchen Sie den Entwickler Blog im Steam Community Hub, um mehr Informationen zu erhalten.
@@ -17,7 +17,7 @@
 #15# Anleitungen
 #16# To-Do Liste
 #17# Sind sie sicher?
-#18# Ausgang
+#18# Verlassen
 #19# Zurück
 #20# Direkte verbindung
 #21# Steam Verbindung (kommt bald)
@@ -97,7 +97,7 @@
 #95# Raster
 #96# Handel
 #97# Bauen
-#98# dekonstruieren
+#98# Abbauen
 #99# Sandbox Werkzeuge
 #100# Resourcen hinzufügen
 #101# Sauerstoff
@@ -159,10 +159,10 @@
 #157# Anhängen
 #158# Zum Transfer ziehen
 #159# Rechter Mausklick: Verkaufen
-#160# Kaufen: Ziehen und Fallenlassen auf eigenem Kontainer
+#160# Kaufen: Ziehen und fallen lassen auf eigenem Kontainer
 #161# Für Transfer fallen lassen
 #162# Shift-Taste gedrückt halten um Menge festzulegen
-#163# fallen lassen um zu kaufen
+#163# Fallen lassen um zu kaufen
 #164# Lager Inkompatibilität (für Flüssiges / für Festes)
 #165# Strg+RMT - Abbauen
 #166# Rechte Maustaste - Reparieren
