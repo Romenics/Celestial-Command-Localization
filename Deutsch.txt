@@ -108,9 +108,9 @@
 #106# Essen
 #107# Besatzung
 #108# KI
-#109# Verdoppeln des ausgewählten Schiffes
+#109# Ausgewählte Schiff verdoppeln
 #110# Fraktion auf freundlich setzen
-#111# Fraktion aus feindlich setzen
+#111# Fraktion auf feindlich setzen
 #112# Erstelle feindliches Schiff
 #113# KI zum Schiff hinzufügen
 #114# Autopilot
@@ -122,7 +122,7 @@
 #120# Anwenden
 #121# Verwerfen
 #122# Eine beliebige Taste drücken
-#123# Setzes eines neuen Tastenkürzels
+#123# Setzen eines neuen Tastenkürzels
 #124# Distanz
 #125# Relative Geschwindigkeit
 #126# Spieler
@@ -157,7 +157,7 @@
 #155# Energieverbrauch
 #156# Abtrennen
 #157# Anhängen
-#158# Zum Transfer ziehen
+#158# Für Transfer ziehen
 #159# Rechter Mausklick: Verkaufen
 #160# Kaufen: Ziehen und fallen lassen auf eigenem Kontainer
 #161# Für Transfer fallen lassen
