@@ -171,3 +171,5 @@
 #169# Rechte Maustaste - Tastenkürzel zuweisen
 #170# Masse
 #171# Auswerfen
+#172# Right Click
+#173# Reset hotkey
