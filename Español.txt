@@ -174,5 +174,4 @@
 #172# Click derecho
 #173# Resetear tecla rápida
 #174# Ctrl + Click derecho - Demoler
-
 #175# Ctrl + Click derecho - Demoler
