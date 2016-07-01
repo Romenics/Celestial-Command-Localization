@@ -11,7 +11,7 @@
 #9# Exit
 #10# Respawn
 #11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#12# The game is not yet complete but it is in very active development  Visit the development blog in Steam Community Hub for more information
 #13# News
 #14# Discussions
 #15# Guides
@@ -22,7 +22,7 @@
 #20# Direct Connect
 #21# Steam Connect (coming soon)
 #22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
+#23# The game is being developed by three friends under the nicknames Artaani, Riya and Romenics. Visit our development blog on Steam Community Hub for further information
 #24# Save
 #25# Default
 #26# Apply
@@ -31,17 +31,17 @@
 #29# Music
 #30# GAME
 #31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
+#32# Show time in chat
+#33# Sandbox mode
 #34# Swap mouse buttons
 #35# Auto save interval
 #36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
+#37# Full screen
+#38# Textures quality
+#39# Anti-aliasing
 #40# V-sync
 #41# Resolution
-#42# Press any key to set key or press ESC to exit
+#42# Press any key to bind it or ESC to cancel
 #43# Save
 #44# Default
 #45# HOTKEYS
@@ -72,13 +72,13 @@
 #70# New world
 #71# BACK
 #72# START GAME
-#73# Join Multiplayer
+#73# Join multiplayer
 #74# IP
 #75# Port
 #76# Pass
 #77# Join
-#78# Select the Server
-#79# Add to Favorites
+#78# Select the server
+#79# Add to favorites
 #80# Confirm deletion of server
 #81# Back
 #82# Name
@@ -91,9 +91,9 @@
 #89# Edit
 #90# Language
 #91# Paused
-#92# Lock Rot.
-#93# Reset Pan
-#94# Local Vel.
+#92# Lock rot.
+#93# Reset pan
+#94# Local vel.
 #95# Grid
 #96# Trade
 #97# BUILD
@@ -109,9 +109,9 @@
 #107# Crew
 #108# AI
 #109# Duplicate selected ship
-#110# Set faction to friendly
+#110# Set faction to friend
 #111# Set faction to enemy
-#112# Create enemy ship
+#112# Create an enemy ship
 #113# Add AI to the ship
 #114# Auto pilot
 #115# PHYSICS
@@ -128,7 +128,7 @@
 #126# Player
 #127# Ping
 #128# Available modules
-#129# Storages
+#129# Storage
 #130# Production
 #131# Power
 #132# Miscellaneous
@@ -140,7 +140,7 @@
 #138# Food
 #139# Morale
 #140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
+#141# Since the tutorial is not ready yet, we recommend checking out this starting guide from a community member
 #142# OPEN GUIDE
 #143# TRADING
 #144# NAME
@@ -150,29 +150,28 @@
 #148# SUPPLY
 #149# PREV SHIP
 #150# NEXT SHIP
-#151# TOTAL MASS 
+#151# TOTAL MASS
 #152# MOMENT OF INERTIA
 #153# MODULE MASS
-#154# Not connected to Power Storage
+#154# Not connected to power storage
 #155# Power consumption
 #156# Detach
 #157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
+#158# Drag to transfer
+#159# Right click: cell
+#160# Buy: drag and drop to own container
 #161# Drop to transfer
 #162# Hold shift to specify amount
 #163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
+#164# Storage type mismatch (for liquid/for solid)
 #165# Ctrl+RMB - Deconstruct
 #166# Right click - Repair
 #167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
+#168# Right click - Show content
+#169# Right click - Assign hotkey
 #170# Mass
 #171# eject
-#172# Right Click
+#172# Right click
 #173# Reset hotkey
 #174# Ctrl + Right click - Deconstruct
-
 #175# Ctrl + Right click - Deconstruct
