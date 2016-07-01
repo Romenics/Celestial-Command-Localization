@@ -140,7 +140,7 @@
 #138# Продукты
 #139# Мораль
 #140# Приступим
-#141# Туториал пока еще доделываеться
+#141# Туториал пока еще доделывается
 #142# Открыть мануал
 #143# Торговля
 #144# Продукция
@@ -165,9 +165,9 @@
 #163# Отпустить для покупки
 #164# в mismatch (for liquid / for solid)
 #165# Ctrl+RMB - Демонтировать
-#166# Right click - Repair\nCtrl + Right click - Deconstruct
-#167# Right click - Construct\nCtrl + Right click - Deconstruct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
+#166# Правый клик - Repair\nCtrl + Right click - Deconstruct
+#167# Правый клик - Construct\nCtrl + Right click - Deconstruct
+#168# Правый клик - Показать детали
+#169# Правый клик - Назначить кнопку
 #170# Масса груза
 #171# Выбросить
