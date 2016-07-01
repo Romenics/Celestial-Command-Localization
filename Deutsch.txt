@@ -122,7 +122,7 @@
 #120# Anwenden
 #121# Verwerfen
 #122# Eine beliebige Taste drücken rechte Maustaste
-#123# Setzes eines neues Tastenkürzels Tastenkürzel zurücksetzen
+#123# Setzes eines neuen Tastenkürzels Tastenkürzel zurücksetzen
 #124# Distanz
 #125# Relative Geschwindigkeit
 #126# Spieler
@@ -171,5 +171,5 @@
 #169# Rechte Maustaste - Tastenkürzel zuweisen
 #170# Masse
 #171# Auswerfen
-#172# Right Click
-#173# Reset hotkey
+#172# Rechtsklick
+#173# Tstenkürzel zurücksetzen
