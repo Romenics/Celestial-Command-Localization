@@ -163,7 +163,7 @@
 #161# Отпустить для передачи
 #162# Удерживай SHIFT для опр. кол.
 #163# Отпустить для покупки
-#164# в mismatch (for liquid / for solid)
+#164# Неподходящий вид хранения(для жидкости/для твердых мат.)
 #165# Ctrl+RMB - Демонтировать
 #166# Правый клик - Repair\nCtrl + Right click - Deconstruct
 #167# Правый клик - Construct\nCtrl + Right click - Deconstruct
