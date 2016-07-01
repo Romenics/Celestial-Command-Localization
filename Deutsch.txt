@@ -22,7 +22,7 @@
 #20# direkte verbindung
 #21# Steam Verbindung (kommt bald)
 #22# Entwickler
-#23# Das Spiel wird von drei Freunden mit Spitznamen: Armani, Riya und Romenics entwickelt. Besuchen Sie unser Entwicklung Blog im Steam-Community-Hub für weitere Informationen.
+#23# Das Spiel wird von drei Freunden mit Spitznamen: Armani, Riya und Romenics entwickelt. Besuchen Sie unser Entwickler Blog im Steam-Community-Hub für weitere Informationen.
 #24# Speichern
 #25# Standard
 #26# Anwenden
@@ -165,11 +165,13 @@
 #163# fallen lassen um zu kaufen
 #164# Lager Inkompatibilität (für Flüssiges / für Festes)
 #165# Strg+RMT - Abbauen
-#166# Rechte Maustaste - Reparieren\nStrg + Rechte Maustaste - Abbauen
-#167# Rechte Maustaste - Bauen\nStrg + Rechte Maustaste - Abbauen
+#166# Rechte Maustaste - Reparieren
+#167# Rechte Maustaste - Bauen
 #168# Rechte Maustaste - Inhalt anzeigen
 #169# Rechte Maustaste - Tastenkürzel zuweisen
 #170# Masse
 #171# Auswerfen
 #172# Rechtsklick
 #173# Tastenkürzel zurücksetzen
+#174# Strg + Rechte Maustaste - Abbauen
+#175# Strg + Rechte Maustaste - Abbauen
