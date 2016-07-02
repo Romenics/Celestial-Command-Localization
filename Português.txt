@@ -15,27 +15,27 @@
 #13# Notícias
 #14# Discussões
 #15# Guias
-#16# To-Do List
+#16# Lista de tarefas
 #17# Você tem certeza?
 #18# Sair
 #19# Voltar
 #20# Diretamente Conectado
 #21# Steam Connect (em breve)
 #22# Desenvolvedores
-#23# O jogo é desenvolvido por três amigos com apelidos Artaani, Riya e Romenics. Visite nosso blog de desenvolvimento no Steam Comunity Hub para informações futuras
+#23# O jogo é desenvolvido por três amigos apelidados de Artaani, Riya e Romenics. Visite nosso blog de desenvolvimento na Central da Comunidade Steam para mais informações
 #24# Salvar
 #25# Padrão
 #26# Aplicar
 #27# AUDIO
 #28# Total
-#29# Musica
+#29# Música
 #30# JOGO
 #31# Exibir Ajuda
 #32# Mostrar hora no chat
 #33# Modo Sandbox
 #34# Inverter botões do mouse
 #35# Intevalo entre Auto Save
-#36# GRAFICO
+#36# GRÁFICO
 #37# Tela Cheia
 #38# Qualidade das Texturas
 #39# Anti-Aliasing
@@ -56,7 +56,7 @@
 #54# Deletar
 #55# PORTA
 #56# Senha
-#57# MAX DE JOGADORES
+#57# MÁXIMO DE JOGADORES
 #58# DELETAR
 #59# CARREGAR
 #60# CARREGANDO
@@ -77,7 +77,7 @@
 #75# Porta
 #76# Senha
 #77# Entrar
-#78# Selecione o Server
+#78# Selecione o Servidor
 #79# Adicionar aos Favoritos
 #80# Confirmar Remoção do Servidor
 #81# Voltar
@@ -91,39 +91,39 @@
 #89# Editar
 #90# Idioma
 #91# Pausar
-#92# Travar Rot.
+#92# Travar Rotação
 #93# Resetar Pan
-#94# Vel. Local
+#94# Velocidade Local
 #95# Grid
-#96# Trade
+#96# Negociar
 #97# CONSTRUIR
 #98# DESCONSTRUIR
 #99# FERRAMENTAS SANDBOX
 #100# ADICIONAR RECURSOS
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
+#101# Oxigênio
+#102# Hidrogênio
+#103# Xenônio
+#104# Míssil
 #105# Energia
 #106# Comida
-#107# Triplação
-#108# AI
+#107# Tripulação
+#108# IA
 #109# Duplicar nave selecionada
 #110# Definir facção para amigo
 #111# Definir facção para inimigo
 #112# Criar nave inimiga
-#113# Adicionar AI para a nave
+#113# Adicionar IA para a nave
 #114# Piloto Automatico
-#115# PHYSICS
+#115# FÍSICA
 #116# Remover nave selecionada
-#117# Desativar mecanicas orbitais
-#118# Colocar o planejador de trajetoria
+#117# Desativar mecânicas orbitais
+#118# Colocar o planejador de trajetória
 #119# Modo de Lançamento de Detritos
 #120# Aplicar
 #121# Descartar
 #122# Pressione qualquer tecla
 #123# Definir nova hotkey
-#124# Distancia
+#124# Distância
 #125# Velocidade relativa
 #126# Jogador
 #127# Ping
@@ -133,45 +133,45 @@
 #131# Energia
 #132# Variados
 #133# Armas
-#134# Turrets
+#134# Torretas
 #135# Propulsão
 #136# Informação de Membro da Tripulação
-#137# Saude
+#137# Saúde
 #138# Comida
 #139# Moral
 #140# COMEÇANDO O JOGO
-#141# Desde que o tutorial não esta pronto, nos aconselhamos a verificar esse guia de um membro da comunidade
+#141# Como o tutorial ainda não esta pronto, aconselhamos que você leia esse guia de um membro da comunidade
 #142# ABRIR GUIA
-#143# TRADING
+#143# NEGOCIAÇÃO
 #144# NOME
-#145# QUANTIDADe
+#145# QUANTIDADE
 #146# PREÇO
 #147# DEMANDA
 #148# SUPRIMENTO
 #149# NAVE ANTERIOR
-#150# PROXIMA NAVE
+#150# PRÓXIMA NAVE
 #151# MASSA TOTAL  
-#152# MOMENTO DE INERCIA
-#153# MASSA DO MODULO
-#154# Não conectado a Suprimento de Energia
-#155# Consumo Energetico
+#152# MOMENTO DE INÉRCIA
+#153# MASSA DO MÓDULO
+#154# Não conectado a um suprimento de energia
+#155# Consumo de energia
 #156# Desacoplar
 #157# Acoplar
 #158# Arraste para Transferir
-#159# Clique Direito: Vender
-#160# Comprar: Arraste e até um Armazenamento
-#161# Largue para transferir
+#159# Botão Direito: Vender
+#160# Comprar: Arraste até um Armazenamento
+#161# Solte para transferir
 #162# Segure SHIFT para especificar a quantidade
-#163# Largue para comprar
-#164# Tipo de armazenamento não confere (Líquido / Sólido)
+#163# Solte para comprar
+#164# O tipo de armazenamento não confere (Líquido / Sólido)
 #165# CTRL+Botão Direito - Desconstruir
-#166# Clique Direito - Reparar
-#167# Clique Direito - Construir
-#168# Clique Direito - mostrar conteudo
-#169# Clique Direito - Definir hotkey
+#166# Botão Direito - Reparar
+#167# Botão Direito - Construir
+#168# Botão Direito - mostrar conteudo
+#169# Botão Direito - Definir hotkey
 #170# Massa
 #171# ejetar
-#172# Clique Direito
+#172# Botão Direito
 #173# Resetar hotkey
-#174# CTRL + Clique Direito - Desconstruir
-#175# CTRL + Clique Direito - Desconstruir
+#174# CTRL + Botão Direito - Desconstruir
+#175# CTRL + Botão Direito - Desconstruir
