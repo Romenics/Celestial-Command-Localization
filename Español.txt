@@ -51,7 +51,7 @@
 #49# Tiempo de juego
 #50# Versión
 #51# Crear mundo
-#52# Confirma que deseas eliminar el mundo
+#52# Confirmar el borrado del mundo
 #53# Atrás
 #54# Borrar
 #55# Puerto
@@ -79,7 +79,7 @@
 #77# Unirse
 #78# Seleccionar servidor
 #79# Añadir a favoritos
-#80# Confirma que deseas eliminar el servidor
+#80# Confirmar el borrado del servidor
 #81# Atrás
 #82# Nombre
 #83# IP
@@ -91,8 +91,8 @@
 #89# Editar
 #90# Idioma
 #91# Pausado
-#92# Lock Rot.
-#93# Reset Pan
+#92# Bloquear rotación
+#93# Restablecer cámara
 #94# Velocidad local
 #95# Rejilla
 #96# Comercio
@@ -102,23 +102,23 @@
 #100# Añadir recursos
 #101# Oxígeno
 #102# Hidrógeno
-#103# Xenon
+#103# Xenón
 #104# Cohetes
 #105# Energía
 #106# Comida
 #107# Tripulación
-#108# AI
+#108# IA
 #109# Duplicar la nave seleccionada
 #110# Marcar facción como amistosa
 #111# Marcar facción como enemiga
 #112# Crear nave enemiga
-#113# Añadir AI a la nave
+#113# Añadir IA a la nave
 #114# Piloto automático
 #115# Físicas
 #116# Eliminar nave seleccionada
 #117# Desactivar mecánicas orbitales
 #118# Colocar planificador de trayectoria
-#119# Debris throw mode
+#119# Modo de eliminación de escombros
 #120# Aplicar
 #121# Descartar
 #122# Pulsa cualquier tecla
@@ -170,7 +170,7 @@
 #168# Click derecho - Mostrar contenido
 #169# Click derecho - Asignar tecla rápida
 #170# Masa
-#171# Ejectar
+#171# Eyectar
 #172# Click derecho
 #173# Resetear tecla rápida
 #174# Ctrl + Click derecho - Demoler
