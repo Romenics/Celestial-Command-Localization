@@ -173,7 +173,5 @@
 #171# Uitwerpen
 #172# Rechtermuis
 #173# Reset sneltoets
-
 #174# Ctrl + Rechtermuis - Afbreken
-
 #175# Ctrl + Rechtermuis - Afbreken
