@@ -173,7 +173,5 @@
 #171# eject
 #172# Right Click
 #173# Reset hotkey
-
 #174# Ctrl + Right click - Deconstruct
-
 #175# Ctrl + Right click - Deconstruct
