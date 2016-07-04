@@ -33,7 +33,7 @@
 #31# Mostrar ayuda
 #32# Show time In chat
 #33# Modo Sanbox
-#34# Swap mouse buttons
+#34# Intercambiar botones del ratón
 #35# Intervalo de autoguardado
 #36# Gráficos
 #37# Pantalla completa
@@ -91,9 +91,9 @@
 #89# Editar
 #90# Idioma
 #91# Pausado
-#92# Bloquear rotación
-#93# Restablecer cámara
-#94# Velocidad local
+#92# Bloq. rotación
+#93# Rest. cámara
+#94# Vel. local
 #95# Rejilla
 #96# Comercio
 #97# Construir
@@ -140,7 +140,7 @@
 #138# Comida
 #139# Moral
 #140# Comenzando
-#141# Puesto que el tutorial aún no está listo, recomendamos mirar está guía inicial de un miembro de la comunidad
+#141# El tutorial aún no está listo, recomendamos mirar esta guía inicial de un miembro de la comunidad
 #142# Abrir guía
 #143# Comercio
 #144# Nombre
