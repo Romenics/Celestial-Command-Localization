@@ -19,10 +19,10 @@
 #17# Sind sie sicher?
 #18# Verlassen
 #19# Zurück
-#20# Direkte verbindung
+#20# Direkte Verbindung
 #21# Steam Verbindung (kommt bald)
 #22# Entwickler
-#23# Das Spiel wird von drei Freunden mit Spitznamen: Armani, Riya und Romenics entwickelt. Besuchen Sie unseren Entwickler Blog im Steam-Community-Hub für weitere Informationen.
+#23# Das Spiel wird von drei Freunden mit Spitznamen: Artaani, Riya und Romenics entwickelt. Besuchen Sie unseren Entwickler Blog im Steam-Community-Hub für weitere Informationen.
 #24# Speichern
 #25# Standard
 #26# Anwenden
@@ -108,7 +108,7 @@
 #106# Essen
 #107# Besatzung
 #108# KI
-#109# Ausgewählte Schiff verdoppeln
+#109# Ausgewähltes Schiff verdoppeln
 #110# Fraktion auf freundlich setzen
 #111# Fraktion auf feindlich setzen
 #112# Erstelle feindliches Schiff
@@ -116,7 +116,7 @@
 #114# Autopilot
 #115# Physik
 #116# Entferne ausgewähltes Schiff
-#117# Orbital Mechanik deaktivieren
+#117# Orbital-Mechanik deaktivieren
 #118# Setze eine Flugbahnplanung
 #119# Modus zum Trümmer wegstoßen
 #120# Anwenden
