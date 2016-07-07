@@ -9,9 +9,9 @@
 #7# Optionen
 #8# Speichern
 #9# Verlassen
-#10# Erneut starten
+#10# Neustart
 #11# EARLY ACCESS
-#12# Das Spiel ist noch nicht fertig, aber es ist in sehr aktiver Entwicklung. Besuchen Sie den Entwickler Blog im Steam Community Hub, um mehr Informationen zu erhalten.
+#12# Das Spiel ist noch nicht fertig, aber es ist befindet sich in sehr aktiver Entwicklung. Besuchen Sie den Entwickler Blog im Steam Community Hub, um mehr Informationen zu erhalten.
 #13# Neuigkeiten
 #14# Diskussionen
 #15# Anleitungen
@@ -31,10 +31,10 @@
 #29# Musik
 #30# Spiel
 #31# Hilfe anzeigen
-#32# Zeige die Zeit im Chat
+#32# Zeit im Chat anzeigen
 #33# Sandbox Modus
 #34# Maustasten vertauschen
-#35# Interval für automatisches Speichern
+#35# Intervall für automatisches Speichern
 #36# Grafik
 #37# Vollbild
 #38# Textur Qualität
@@ -47,16 +47,16 @@
 #45# Tastenkürzel
 #46# Wähle die Welt
 #47# Name
-#48# Speicher Datum
+#48# Speicherdatum
 #49# Spielzeit
 #50# Version
-#51# Starte eine Welt
-#52# Bestätige das löschen der Welt
+#51# Erstelle eine Welt
+#52# Bestätige das Löschen der Welt
 #53# Zurück
 #54# Löschen
 #55# Port
 #56# Passwort
-#57# Maximale Spieleranzahl
+#57# Max. Spieleranzahl
 #58# Löschen
 #59# Lade
 #60# Laden
@@ -64,19 +64,19 @@
 #62# Name der Welt
 #63# Port
 #64# Passwort
-#65# Maximale Spieleranzahl
+#65# Max. Spieleranzahl
 #66# Sandbox Modus
 #67# Anzahl der Stationen
-#68# Anzahl der Feinde
-#69# Anzahl der Asteroiden
+#68# Feindesanzahl
+#69# Asteroidenanzahl
 #70# Neue Welt
 #71# Zurück
 #72# Starte ein Spiel
-#73# Betrete Mehrspieler
+#73# Mehrspielerspiel beitreten
 #74# IP
 #75# Port
 #76# Passwort
-#77# Betrete
+#77# Beitreten
 #78# Wähle einen Server
 #79# Zu Favoriten hinzufügen
 #80# Bestätige das Löschen des Servers
@@ -90,8 +90,8 @@
 #88# Speichern
 #89# Bearbeiten
 #90# Sprache
-#91# Angehalten
-#92# Sperren der Rotation
+#91# Pausiert
+#92# Rotation sperren
 #93# Schwenken zurücksetzen
 #94# Lokale Geschwindigkeit
 #95# Raster
@@ -133,11 +133,11 @@
 #131# Energie
 #132# Sonstiges
 #133# Waffen
-#134# Waffentürme
+#134# Geschütztürme
 #135# Antrieb
-#136# Info über Mannschaftsmitglieder
+#136# Mannschaftsinfo
 #137# Gesundheit
-#138# Essen
+#138# Nahrung
 #139# Moral
 #140# Anfangen
 #141# Da das Tutorial noch nicht fertig ist, empfehlen wir einen Blick in die Leitfäden erstellt von Community-Mitgliedern
@@ -159,11 +159,11 @@
 #157# Anhängen
 #158# Für Transfer ziehen
 #159# Rechter Mausklick: Verkaufen
-#160# Kaufen: Ziehen und fallen lassen auf eigenem Kontainer
+#160# Kaufen: Ziehen und auf eigenem Kontainer fallen lassen
 #161# Für Transfer fallen lassen
 #162# Shift-Taste gedrückt halten um Menge festzulegen
 #163# Fallen lassen um zu kaufen
-#164# Lager Inkompatibilität (für Flüssiges / für Festes)
+#164# falscher Lagertyp (für Flüssiges / für Festes)
 #165# Strg+RMT - Abbauen
 #166# Rechte Maustaste - Reparieren
 #167# Rechte Maustaste - Bauen
