@@ -66,8 +66,8 @@
 #64# Passwort
 #65# Max. Spieleranzahl
 #66# Sandbox Modus
-#67# Anzahl der Stationen
-#68# Feindesanzahl
+#67# Anzahl Stationen
+#68# Anzahl Feinde
 #69# Asteroidenanzahl
 #70# Neue Welt
 #71# Zurück
@@ -94,7 +94,7 @@
 #92# Rotation sperren
 #93# Schwenken zurücksetzen
 #94# Lokale Geschwindigkeit
-#95# Raster
+#95# Raster anzeigen
 #96# Handel
 #97# Bauen
 #98# Abbauen
