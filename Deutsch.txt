@@ -4,25 +4,25 @@
 #2# Optionen
 #3# Entwickler
 #4# Verlassen
-#5# Fortführen
+#5# Fortsetzen
 #6# Pause
 #7# Optionen
 #8# Speichern
 #9# Verlassen
 #10# Neustart
 #11# EARLY ACCESS
-#12# Das Spiel ist noch nicht fertig, aber es ist befindet sich in sehr aktiver Entwicklung. Besuchen Sie den Entwickler Blog im Steam Community Hub, um mehr Informationen zu erhalten.
+#12# Das Spiel ist noch nicht fertig, aber es ist befindet sich in sehr aktiver Entwicklung. Besuchen Sie den Entwicklerblog im Steam Community Hub, um mehr Informationen zu erhalten.
 #13# Neuigkeiten
 #14# Diskussionen
 #15# Anleitungen
 #16# To-Do Liste
-#17# Sind sie sicher?
+#17# Sind Sie sicher?
 #18# Verlassen
 #19# Zurück
 #20# Direkte Verbindung
 #21# Steam Verbindung (kommt bald)
 #22# Entwickler
-#23# Das Spiel wird von drei Freunden mit Spitznamen: Artaani, Riya und Romenics entwickelt. Besuchen Sie unseren Entwickler Blog im Steam-Community-Hub für weitere Informationen.
+#23# Das Spiel wird von drei Freunden mit Spitznamen: Artaani, Riya und Romenics entwickelt. Besuchen Sie unseren Entwicklerblog im Steam-Community-Hub für weitere Informationen.
 #24# Speichern
 #25# Standard
 #26# Anwenden
@@ -99,13 +99,13 @@
 #97# Bauen
 #98# Abbauen
 #99# Sandbox Werkzeuge
-#100# Resourcen hinzufügen
+#100# Ressourcen hinzufügen
 #101# Sauerstoff
 #102# Wasserstoff
 #103# Xenon
 #104# Raketentriebwerk
 #105# Energie
-#106# Essen
+#106# Nahrung
 #107# Besatzung
 #108# KI
 #109# Ausgewähltes Schiff verdoppeln
@@ -139,8 +139,8 @@
 #137# Gesundheit
 #138# Nahrung
 #139# Moral
-#140# Anfangen
-#141# Da das Tutorial noch nicht fertig ist, empfehlen wir einen Blick in die Leitfäden erstellt von Community-Mitgliedern
+#140# Erste Schritte
+#141# Da das Tutorial noch nicht fertig ist, empfehlen wir einen Blick in diesen Leitfaden, erstellt von Community-Mitgliedern
 #142# Öffne Leitfaden
 #143# Handeln
 #144# Name
