@@ -22,7 +22,7 @@
 #20# Connessione Diretta
 #21# Connettiti con Steam (in arrivo)
 #22# Sviluppatori
-#23# Il gioco e' sviluppato da tre amici i cui nickname sono Artaani, Riya and Romenics. Visita il blog sullo sviluppo nella Comunita' di Steam per avere maggiori informazioni
+#23# Il gioco e' sviluppato da tre amici i cui nickname sono Artaani, Riya e Romenics. Visita il blog sullo sviluppo nella Comunita' di Steam per avere maggiori informazioni
 #24# Salva
 #25# Predefinito
 #26# Applica
@@ -135,7 +135,7 @@
 #133# Armi
 #134# Torrette
 #135# Propulsione
-#136# Ifnormazioni equipaggio
+#136# Informazioni equipaggio
 #137# Salute
 #138# Cibo
 #139# Morale
@@ -175,55 +175,55 @@
 #173# Reimposta tasto rapido
 #174# Ctrl + Clic Destro - Smonta
 #175# Ctrl + Clic Destro - Smonta
-#176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
+#176# Carbonio
+#177# Alluminio
+#178# Silicio
+#179# Argento
+#180# Titanio
+#181# Ferro
+#182# Cobalto
 #183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
+#184# Rame
+#185# Niobio
+#186# Ossigeno
+#187# Idrogeno
+#188# Xeno
+#189# Ghiaccio
 #190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
-#219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
+#191# Deuterio
+#192# Uranio
+#193# Razzo
+#194# Energia
+#195# Cibo
+#196# Non ci sono risorse con nel nome 
+#197# Non puoi aprire il menu' costruisci
+#198# L'astronave selezionata non ha una stiva per ingegneri
+#199# Cibo easurito
+#200# non c'e' cibo sull'astronave!
+#201# Morte per fame
+#202# e' morto per fame!
+#203# Attenzione
+#204# L'ultimo modulo di comando non puo' essere smantellato
+#205# Movimento automatico fermato da comando manuale
+#206# Il motore a curvatura non e' ancora pronto
+#207# Impossibile sparare
+#208# Il lanciarazi non e' collegato allo stoccaggio munizioni
+#209# Impossibile sparare
+#210# Niente munizioni nella stiva collegata
+#211# Pilota automatico - attivato
+#212# Pilota automatico - disattivato
+#213# Seleziona un'astronave
+#214# Nessun oggetto selezionato
+#215# Seleziona un'astronave
+#216# Seleziona un oggetto
+#217# Tasti rapidi:
+#218# Nomi tasti rapidi:
+#219# Rimanenti:
+#220# Solo il server puo' fare questo
+#221# Partita salvata
+#222# ERRORE NEL SALVATAGGIO
+#223# Il salvataggio non e' stato completato a causa di un errore interno
+#224# Crediti insufficienti
 #225# Ships should be docked together
 #226# Storage is empty
 #227# This trader does not demand
