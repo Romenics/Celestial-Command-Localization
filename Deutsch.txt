@@ -11,7 +11,7 @@
 #9# Verlassen
 #10# Neustart
 #11# EARLY ACCESS
-#12# Das Spiel ist noch nicht fertig, aber es ist befindet sich in sehr aktiver Entwicklung. Besuchen Sie den Entwicklerblog im Steam Community Hub, um mehr Informationen zu erhalten.
+#12# Das Spiel ist noch nicht fertig, aber es befindet sich in sehr aktiver Entwicklung. Besuchen Sie den Entwicklerblog im Steam Community Hub, um mehr Informationen zu erhalten.
 #13# Neuigkeiten
 #14# Diskussionen
 #15# Anleitungen
