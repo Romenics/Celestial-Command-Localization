@@ -221,7 +221,7 @@
 #219# Links:
 #220# Nur der Server kann dies tun
 #221# Spiel gespeichert
-#222# Fehler beim Speichern
+#222# Speicherfehler
 #223# Speichern nicht möglich durch einen internen Fehler.
 #224# Unzureichende Credits
 #225# Schiffe sollten zusammen angedockt sein
