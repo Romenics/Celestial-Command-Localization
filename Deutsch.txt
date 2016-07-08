@@ -175,63 +175,63 @@
 #173# Tastenkürzel zurücksetzen
 #174# Strg + Rechte Maustaste - Abbauen
 #175# Strg + Rechte Maustaste - Abbauen
-#176# Carbon
+#176# Kohlenstoff
 #177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
+#178# Silizium
+#179# Silber
+#180# Titan
+#181# Eisen
+#182# Kobalt
 #183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
+#184# Kupfer
+#185# Niob
+#186# Sauerstoff
+#187# Wasserstoff
 #188# Xenon
-#189# Ice
-#190# Fullerite
+#189# Eis
+#190# Fullerit
 #191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
-#219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
+#192# Uran
+#193# Raketen
+#194# Energie
+#195# Nahrung
+#196# Es gibt keine Ressource mit dem Namen
+#197# Kann Baumenü nicht öffnen
+#198# Das aktuelle Schiff hat kein Ingenieurmodul
+#199# Nahrungsmittel erschöpft
+#200# Keine Nahrung auf dem Schiff auffindbar!
+#201# zu Tode gehungert
+#202# ist verhungert
+#203# Warnung
+#204# Letztes Kommandomodul kann nicht entfernt werden
+#205# Automatische Bewegung durch manuelle Steuerung unterbrochen
+#206# Warp Antrieb ist noch nicht aufgeladen
+#207# Feuern nicht möglich
+#208# Raketenwerfer ist nicht mit Munitionslager verbunden
+#209# Feuern nicht möglich
+#210# Keine Munition im verbundenen Lager
+#211# Autopilot - aktiviert
+#212# Autopilot - deaktiviert
+#213# Wähle ein Schiff
+#214# Kein Objekt gewählt
+#215# Wähle ein Schiff
+#216# Wähle ein Objekt
+#217# Tastenkürzel:
+#218# Tastenkürzel Namen:
+#219# Links:
+#220# Nur der Server kann dies tun
+#221# Spiel gespeichert
+#222# Fehler beim speichern
+#223# Speichern nicht möglich durch einen internen Fehler.
+#224# Unzureichende Credits
+#225# Schiffe sollten zusammen angedockt sein
+#226# Lager ist leer
+#227# Dieser Händler benötigt diese Ware nicht
+#228# Kann Ware nicht verkaufen, Lager sind voll
+#229# Einheiten von
+#230# wurde verkauft für
+#231# Einheiten von
+#232# wurde gekauft für
+#233# Nicht genügend Credits:
+#234# geborgen
+#235# Ungenügender Lagerraum für Bergung
