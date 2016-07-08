@@ -224,14 +224,14 @@
 #222# ERRORE NEL SALVATAGGIO
 #223# Il salvataggio non e' stato completato a causa di un errore interno
 #224# Crediti insufficienti
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
+#225# Le astronavi devono essere collegate tra di loro
+#226# La stiva e' vuota
+#227# Questo commerciante non richiede
+#228# Non puoi venderolo. La stiva e' piena
+#229# unita' di
+#230# e' stato venduto per
+#231# unita' di
+#232# e' stato acquistato per
+#233# Crediti insufficienti:
+#234# recuperato
+#235# Spazio insufficiente per il recupero
