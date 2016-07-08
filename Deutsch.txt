@@ -209,7 +209,7 @@
 #207# Feuern nicht möglich
 #208# Raketenwerfer ist nicht mit Munitionslager verbunden
 #209# Feuern nicht möglich
-#210# Keine Munition im verbundenen Lager
+#210# Keine Munition im verbundenem Lager
 #211# Autopilot - aktiviert
 #212# Autopilot - deaktiviert
 #213# Wähle ein Schiff
@@ -221,7 +221,7 @@
 #219# Links:
 #220# Nur der Server kann dies tun
 #221# Spiel gespeichert
-#222# Fehler beim speichern
+#222# Fehler beim Speichern
 #223# Speichern nicht möglich durch einen internen Fehler.
 #224# Unzureichende Credits
 #225# Schiffe sollten zusammen angedockt sein
