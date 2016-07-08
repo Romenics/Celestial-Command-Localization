@@ -175,3 +175,63 @@
 #173# Reimposta tasto rapido
 #174# Ctrl + Clic Destro - Smonta
 #175# Ctrl + Clic Destro - Smonta
+#176# Carbon
+#177# Aluminium
+#178# Silicon
+#179# Silver
+#180# Titanium
+#181# Iron
+#182# Cobalt
+#183# Nickel
+#184# Copper
+#185# Niobium
+#186# Oxygen
+#187# Hydrogen
+#188# Xenon
+#189# Ice
+#190# Fullerite
+#191# Deuterium
+#192# Uranium
+#193# Rocket
+#194# Power
+#195# Food
+#196# There is no resource with name
+#197# Can't open build menu
+#198# The current ship doesn't have an engineering bay
+#199# Out of food
+#200# can't find any food on the ship!
+#201# Starved death
+#202# has starved to death!
+#203# Warning
+#204# Last command module cannot be deconstructed
+#205# Automatic movement stopped due manual control
+#206# Warp drive is not ready yet
+#207# Cannot fire
+#208# Rocket launcher is not connected to ammo storage
+#209# Cannot fire
+#210# No ammo in connected storage
+#211# Auto pilot - enabled
+#212# Auto pilot - disabled
+#213# Select a ship
+#214# No object selected
+#215# Select a ship
+#216# Select an object
+#217# Hotkeys:
+#218# HotkeysNames:
+#219# Left:
+#220# Only server can do this
+#221# Game saved
+#222# SAVE ERROR
+#223# Saving was not completed due internal error.
+#224# Insufficient credits
+#225# Ships should be docked together
+#226# Storage is empty
+#227# This trader does not demand
+#228# Can't sell it. Storages is full
+#229# units of
+#230# was sold for
+#231# units of
+#232# was bought for
+#233# Insufficient credits:
+#234# salvaged
+#235# Not enough space to salvage
