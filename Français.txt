@@ -30,28 +30,28 @@
 #28# Total
 #29# Musique
 #30# Jeu
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
+#31# Ouvrir l'aide
+#32# Montrer l'heure dans le tchat
+#33# Mode bac à sable
 #34# Swap mouse buttons
-#35# Auto save interval
+#35# Sauvegarde automatique
 #36# Graphisme
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
+#37# Plein écran
+#38# Qualité des textures
+#39# Anti-crénelage
 #40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
+#41# Résolution
+#42# Pressez une touche à définir ou Echap. pour quitter
+#43# Enregistrer
+#44# Défault
 #45# Rac. clavier
-#46# SELECT THE WORLD
+#46# Sélectionnez le monde
 #47# Nom
 #48# Date
 #49# Heure
 #50# Version
 #51# Nouveau
-#52# Veuillez confirmer suppression
+#52# Veuillez confirmer la suppression
 #53# Retour
 #54# Effacer
 #55# Port n°
@@ -74,40 +74,40 @@
 #72# Jouer
 #73# Join Multiplayer
 #74# IP
-#75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#75# Port n°
+#76# Mot de passe
+#77# Joindre
+#78# Sélection du serveur
+#79# Ajouter aux favoris
+#80# Confirmation suppression
+#81# Retour
+#82# Nom
 #83# IP
-#84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
+#84# Port n°
+#85# Mot de passe
+#86# Effacer
+#87# Joindre
+#88# Enregistrer
+#89# Editer
 #90# Langue
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
+#91# Pause
+#92# Annul. rot.
+#93# RAZ vue
 #94# Local Vel.
-#95# Grid
+#95# Grille
 #96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
+#97# Construire
+#98# Déconstruire
+#99# Outils bac à sable
+#100# Nouvelle ressource
+#101# Oxygène
+#102# Hydrogène
+#103# Xénon
 #104# Rocket
-#105# Power
-#106# Food
-#107# Crew
-#108# AI
+#105# Electricité
+#106# Nourritures
+#107# Membres
+#108# IA
 #109# Duplicate selected ship
 #110# Set faction to friendly
 #111# Set faction to enemy
@@ -119,25 +119,25 @@
 #117# Disable orbital mechanics
 #118# Place trajectory planner
 #119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
+#120# Appliquer
+#121# Annuler
+#122# Pressez une touche
+#123# Définir une touche
 #124# Distance
 #125# Relative velocity
-#126# Player
+#126# Joueur
 #127# Ping
-#128# Available modules
-#129# Storages
+#128# Modules disponible
+#129# Stockage
 #130# Production
 #131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
+#132# Divers
+#133# Armes
+#134# Tourelles
 #135# Propulsion
 #136# Crew Member Info
 #137# Health
-#138# Food
+#138# Nourriture
 #139# Morale
 #140# GETTING STARTED
 #141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
