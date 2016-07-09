@@ -1,24 +1,24 @@
 ﻿
 #0# Nouveau serveur
-#1# Join multiplayer
+#1# Partie multijoueurs
 #2# Options
-#3# Developers
-#4# Exit
-#5# Continue
+#3# L'équipe de dév.
+#4# Quitter
+#5# Continuer
 #6# Pause
 #7# Options
-#8# Save
-#9# Exit
-#10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
+#8# Enregistrer
+#9# Quitter
+#10# Revivre
+#11# ! ACCES ANTICIPE !
+#12# Ce jeu est en cours de développement, veuillez consulter le blog de la communauté Steam pour plus d'informations
+#13# Nouvelles
 #14# Discussions
 #15# Guides
-#16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
+#16# ! A FAIRE ! 
+#17# Etes-vous sûr ?
+#18# Quitter
+#19# Retour
 #20# Direct Connect
 #21# Steam Connect (coming soon)
 #22# Developers
