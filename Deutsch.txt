@@ -224,7 +224,7 @@
 #222# Fehler beim Speichern
 #223# Speichern nicht möglich durch einen internen Fehler.
 #224# Unzureichende Credits
-#225# Schiffe sollten zusammen angedockt sein
+#225# Schiffe sollten aneinander angedockt sein
 #226# Lager ist leer
 #227# Dieser Händler benötigt diese Ware nicht
 #228# Kann Ware nicht verkaufen, Lager sind voll
