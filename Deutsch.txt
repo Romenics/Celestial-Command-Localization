@@ -103,7 +103,7 @@
 #101# Sauerstoff
 #102# Wasserstoff
 #103# Xenon
-#104# Raketentriebwerk
+#104# Raketen
 #105# Energie
 #106# Nahrung
 #107# Besatzung
