@@ -22,19 +22,19 @@
 #20# Directe verbinding maken
 #21# Steam verbinding maken (komt binnenkort)
 #22# Ontwikkelaars
-#23# Het spel wordt ontwikkeld door drie vrienden met de gebruikersnamen Artaani, Riya en Romenics. Bekijk ons ontwikkelblog op de Steam Community Hub voor meer informatie. 
+#23# Dit spel wordt ontwikkeld door drie vrienden met de gebruikersnamen Artaani, Riya en Romenics. Bekijk ons ontwikkelblog op de Steam Community Hub voor meer informatie. 
 #24# Opslaan
 #25# Standaard
 #26# Toepassen
 #27# AUDIO
-#28# Totaal
+#28# Totaal Volume
 #29# Muziek
 #30# SPEL
-#31# toon tips
+#31# Toon tips
 #32# Geef tijd weer in chat
 #33# Zandbakmodus
 #34# Verwissel muisknoppen
-#35# Interval voor automatisch opslaan
+#35# Interval voor auto-opslag
 #36# GRAFISCH
 #37# Volledig scherm
 #38# Kwaliteit Texturen
@@ -45,12 +45,12 @@
 #43# Opslaan
 #44# Standaard
 #45# SNELTOETSEN
-#46# SELECTEER DE WERELD
+#46# SELECTEER EEN WERELD
 #47# NAAM
 #48# OPSLAGDATUM
 #49# SPEELTIJD
 #50# VERSIE
-#51# GENEREER WERELD
+#51# NIEUWE WERELD
 #52# Bevestig het verwijderen van de wereld
 #53# Terug
 #54# Verwijder
