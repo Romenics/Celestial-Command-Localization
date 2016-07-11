@@ -175,63 +175,63 @@
 #173# Reset sneltoets
 #174# Ctrl + Rechtermuis - Afbreken
 #175# Ctrl + Rechtermuis - Afbreken
-#176# Carbon
+#176# Koolstof
 #177# Aluminium
-#178# Silicon
-#179# Silver
+#178# Silicium
+#179# Zilver
 #180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
+#181# IJzer
+#182# Kobalt
+#183# Nikkel
+#184# Koper
 #185# Niobium
-#186# Oxygen
-#187# Hydrogen
+#186# Zuurstof
+#187# Waterstof
 #188# Xenon
-#189# Ice
-#190# Fullerite
+#189# IJs
+#190# Fullereen
 #191# Deuterium
 #192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
+#193# Raket
+#194# Vermogen
+#195# Voedsel
+#196# Er is geen grondstof met naam
+#197# Kan het bouwmenu niet openen
+#198# Dit schip heeft geen bouwmodule
+#199# Geen voedsel
+#200# kan geen voedsel in het schip vinden!
+#201# Verhongerd
+#202# is verhongerd!
+#203# Waarschuwing
+#204# De laatste commandomodule kan niet worden afgebroken
+#205# Automatisch navigeren gestopt vanwege handmatige controle
+#206# Warp-module is nog niet klaar
+#207# Kan niet vuren
+#208# Raketwerper is niet aangesloten op een munitiecontainer
+#209# Kan niet vuren
+#210# Geen munitie in de aangesloten container
+#211# Automatische piloot - ingeschakeld
+#212# Automatische piloot - uitgeschakeld
+#213# Selecteer een schip
+#214# Geen object geselecteerd
+#215# Selecteer een schip
+#216# Selecteer een object
+#217# Sneltoetsen:
 #218# HotkeysNames:
 #219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
+#220# Alleen de server kan dit doen
+#221# Spel opgeslagen
+#222# OPSLAGERROR
+#223# Het opslaan is niet voltooid vanwege een interne fout.
+#224# Onvoldoende krediet
+#225# Schepen moeten aan elkaar gekoppeld zijn
+#226# Container is leeg
+#227# Deze handelaar heeft nergens vraag naar
+#228# Kan het niet verkopen, de containers zitten vol
+#229# eenheden van
+#230# is verkocht voor
+#231# eenheden van
+#232# is gekocht voor
+#233# Onvoldoende krediet:
+#234# geborgen
+#235# Niet genoeg ruimte om te bergen
