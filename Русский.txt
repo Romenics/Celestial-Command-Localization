@@ -93,7 +93,7 @@
 #91# Пауза
 #92# Стабилизация
 #93# Сбросить вид
-#94# Скорость объекта
+#94# Скор.объекта
 #95# Сетка
 #96# Торговля
 #97# Построить
@@ -136,8 +136,8 @@
 #134# Платформы
 #135# Двигатели
 #136# Инфо об экипаже
-#137# Жизнь
-#138# Пища
+#137# Здоровье
+#138# Еда
 #139# Мораль
 #140# Обучение
 #141# Режим обучения еще не завершен, по этому рекомендуем обратиться к руководству от сообщества
@@ -171,67 +171,67 @@
 #169# Правый клик - Назначить кнопку
 #170# Масса груза
 #171# Выбросить
-#172# Right Click
-#173# Reset hotkey
+#172# Правый клик
+#173# Сбросить hotkey
 #174# Ctrl + Правый клик - Разобрать
 #175# Ctrl + Правый клик - Разобрать
-#176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
-#190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
+#176# Карбон
+#177# Алюминий
+#178# Силикон
+#179# Серебро
+#180# Титан
+#181# Железо
+#182# Кобальт
+#183# Никель
+#184# Медь
+#185# Ниобий
+#186# Кислород
+#187# Водород
+#188# Ксенон
+#189# Лед
+#190# Фуллерен
+#191# Дейтерий
+#192# Уран
+#193# Ракеты
+#194# Электричество
+#195# Еда
 #196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
+#197# Нельзя построить
+#198# Корабль не имеет инжинерного модуля
+#199# Отсутствует еда
+#200# не может найти еду на корабле!
+#201# Голодная смерть
+#202# Умер от голода!
+#203# Тревога!
+#204# Единственный ком. модуль нельзя демонтировать
+#205# Автопилот остановлен из-за ручного управления
+#206# Варп двигатель еще не готов
+#207# Не может стрелять
+#208# Ракетная установка не подкл. к боеприпасам
+#209# Не может стрелять
+#210# Нету боеприпасов в контейнере
+#211# Автопилот - вкл
+#212# Автопилот - выкл
+#213# Выберите корабль
+#214# Объект не выбран
+#215# Выберите корабль
+#216# Выберите объект
+#217# Кнопки:
 #218# HotkeysNames:
 #219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
+#220# Только сервер может делать
+#221# Игра сохранена
+#222# Ошибка сохранения
+#223# Не сохранилось из за внутренней ошибки.
+#224# Нет денег
+#225# Корабли должны быть состыкованы
+#226# Контейнер пуст
+#227# Торговец не принимает данный товар
+#228# Нельзя продать-контейнеры полны
+#229# единиц
+#230# было продано за
+#231# единиц
+#232# было куплено за
+#233# Нет денег:
+#234# трофей
+#235# Нет места для трофеев
