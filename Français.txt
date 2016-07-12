@@ -1,113 +1,113 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
+#0# Nouvelle partie
+#1# Partie multijoueurs
 #2# Options
-#3# Developers
-#4# Exit
-#5# Continue
+#3# L'équipe de dév.
+#4# Quitter
+#5# Continuer
 #6# Pause
 #7# Options
-#8# Save
-#9# Exit
-#10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
+#8# Enregistrer
+#9# Quitter
+#10# Revivre
+#11# ACCES ANTICIPE
+#12# Ce jeu est en cours de développement ! Veuillez consulter les actualités du jeu sur Steam pour plus d'informations.
+#13# Actualités
 #14# Discussions
 #15# Guides
-#16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
-#27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
+#16# A FAIRE
+#17# Etes-vous sûr ?
+#18# Quitter
+#19# Retour
+#20# Connection direct
+#21# Via Steam (à venir)
+#22# L'équipe de développeurs
+#23# Ce jeu a été créé par trois amis Artaani, Riya et Romenics. Veuillez consulter les actualités du jeu sur Steam pour les aider et avoir plus d'informations.
+#24# Enregistrer
+#25# Défaut
+#26# Appliquer
+#27# Son
+#28# Global
+#29# Musique
+#30# Jeu
+#31# Afficher l'aide
+#32# Montrer l'heure dans le tchat
+#33# Mode 'bac à sable'
+#34# Inverser bout. de la souris
+#35# Sauvegarde automatique
+#36# Graphisme
+#37# Plein écran
+#38# Qualité des textures
+#39# Anti-crénelage
 #40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
-#55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
-#63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
+#41# Résolution
+#42# Pressez une touche à définir ou Echap. pour quitter
+#43# Enregistrer
+#44# Défaut
+#45# Raccourcis clavier
+#46# Sélectionnez partie enregistrée
+#47# Nom
+#48# Date
+#49# Tps de jeu
+#50# Version
+#51# Nouvelle
+#52# Veuillez confirmer la suppression
+#53# Retour
+#54# Effacer
+#55# Port n°
+#56# Mot de passe
+#57# Nb joueurs
+#58# Effacer
+#59# Ouvrir
+#60# Chargement...
+#61# Connection...
+#62# Nom partie
+#63# Port n°
+#64# Mot de passe
+#65# Nb joueurs
+#66# Mode bac à sable
 #67# STATIONS AMOUNT
 #68# ENEMIES AMOUNT
 #69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
+#70# Démarrer
+#71# Retour
+#72# Jouer
 #73# Join Multiplayer
 #74# IP
-#75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#75# Port n°
+#76# Mot de passe
+#77# Joindre
+#78# Sélection du serveur
+#79# Ajouter aux favoris
+#80# Confirmer suppression
+#81# Retour
+#82# Nom
 #83# IP
-#84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
+#84# Port n°
+#85# Mot de passe
+#86# Effacer
+#87# Joindre
+#88# Enregistrer
+#89# Editer
+#90# Langue
+#91# Pause
+#92# Annul. rot.
+#93# RAZ vue
 #94# Local Vel.
-#95# Grid
+#95# Grille
 #96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
+#97# Construire
+#98# Déconstruire
+#99# Outils bac à sable
+#100# Nouvelle ressource
+#101# Oxygène
+#102# Hydrogène
+#103# Xénon
 #104# Rocket
-#105# Power
-#106# Food
-#107# Crew
-#108# AI
+#105# Electricité
+#106# Nourritures
+#107# Membres
+#108# IA
 #109# Duplicate selected ship
 #110# Set faction to friendly
 #111# Set faction to enemy
@@ -119,40 +119,40 @@
 #117# Disable orbital mechanics
 #118# Place trajectory planner
 #119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
+#120# Appliquer
+#121# Annuler
+#122# Pressez une touche
+#123# Définir une touche
 #124# Distance
 #125# Relative velocity
-#126# Player
+#126# Joueur
 #127# Ping
-#128# Available modules
-#129# Storages
+#128# Modules disponible
+#129# Stockage
 #130# Production
 #131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
+#132# Divers
+#133# Armes
+#134# Tourelles
 #135# Propulsion
 #136# Crew Member Info
 #137# Health
-#138# Food
+#138# Nourriture
 #139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
+#140# Démarrage
+#141# Le tutoriel de prise en main n'est pas encore disponible, il est préférable de consulter la version en ligne créé par la communauté sur Steam.
+#142# Ouvrir le guide
 #143# TRADING
 #144# NAME
 #145# AMOUNT
 #146# PRICE
 #147# DEMAND
 #148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
+#149# Préc. vaisseau
+#150# Proch. vaisseau
+#151# Masse total
+#152# Moment d'inertie
+#153# Masse du module
 #154# Not connected to Power Storage
 #155# Power consumption
 #156# Detach
@@ -169,7 +169,7 @@
 #167# Right click - Construct
 #168# Right Click - show content
 #169# Right Click - Assign hotkey
-#170# Mass
+#170# Masse
 #171# eject
 #172# Right Click
 #173# Reset hotkey
