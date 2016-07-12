@@ -233,5 +233,5 @@
 #231# unidades de
 #232# foram compradas por
 #233# Créditos insuficientes:
-#234# reaproveitado
-#235# Sem espaço suficiente para reaproveitamento
+#234# sucateado
+#235# Sem espaço suficiente para sucata
