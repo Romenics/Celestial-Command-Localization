@@ -44,7 +44,7 @@
 #42# Aperte qualquer tecla para definir ou ESC para sair
 #43# Salvar
 #44# Padrão
-#45# HOTKEYS
+#45# ATALHOS
 #46# SELECIONE O MUNDO
 #47# Nome
 #48# DATA DO SAVE
@@ -105,7 +105,7 @@
 #103# Xenônio
 #104# Míssil
 #105# Energia
-#106# Comida
+#106# Alimento
 #107# Tripulação
 #108# IA
 #109# Duplicar nave selecionada
@@ -137,7 +137,7 @@
 #135# Propulsão
 #136# Informação de Membro da Tripulação
 #137# Saúde
-#138# Comida
+#138# Alimento
 #139# Moral
 #140# COMEÇANDO O JOGO
 #141# Como o tutorial ainda não esta pronto, aconselhamos que você leia esse guia de um membro da comunidade
@@ -195,43 +195,43 @@
 #193# Rocket
 #194# Power
 #195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
+#196# Não há recurso com o nome
+#197# Não é possivel abrir o menu de construção
+#198# A nave atual não tem a baía de engenharia
+#199# Sem alimentos
+#200# não se pode encontrar nenhuma comida na nave!
+#201# Morte por fome
+#202# morreu de fome!
+#203# Atenção
+#204# O último modulo de comando não pode ser descontruido
+#205# Movimentação automatica desligada devido a controle manual
+#206# Warp drive ainda não esta pronto
+#207# Não pode disparar
+#208# Rocket launcher não esta conectado ao compartimento de munição
+#209# Não pode disparar
+#210# Sem munição no compartimento conectado
+#211# Piloto Automatico - Ativado
+#212# Piloto Automatico - Desativado
+#213# Selecione uma nave
+#214# Nenhum objeto selecionado
+#215# Selecione uma nave
+#216# Selecione um objeto
+#217# Atalhos:
+#218# AtalhosNome:
 #219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
+#220# Apenas o servidor pode fazer isso
+#221# Jogo salvo
+#222# ERRO AO SALVAR
+#223# Save não foi completado devido a um erro interno.
+#224# Créditos insuficientes
+#225# Naves devem estar acopladas
+#226# Armazenamento esta fazio
 #227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
+#228# Não se pode vender. Armazenamento esta cheio
+#229# unidades de
+#230# foram vendidas por
+#231# unidades de
+#232# foram compradas por
+#233# Créditos insuficientes:
+#234# sucateado
+#235# Sem espaço suficiente para sucata
