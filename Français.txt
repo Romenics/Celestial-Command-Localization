@@ -19,14 +19,14 @@
 #17# Etes-vous sûr ?
 #18# Quitter
 #19# Retour
-#20# Connection direct
+#20# Connection directe
 #21# Via Steam (à venir)
 #22# L'équipe de développeurs
 #23# Ce jeu a été créé par trois amis Artaani, Riya et Romenics. Veuillez consulter les actualités du jeu sur Steam pour les aider et avoir plus d'informations.
 #24# Enregistrer
 #25# Défaut
 #26# Appliquer
-#27# Son
+#27# Audio
 #28# Global
 #29# Musique
 #30# Jeu
@@ -48,7 +48,7 @@
 #46# Sélectionnez partie enregistrée
 #47# Nom
 #48# Date
-#49# Tps de jeu
+#49# Tps jeu
 #50# Version
 #51# Nouvelle
 #52# Veuillez confirmer la suppression
@@ -91,9 +91,9 @@
 #89# Editer
 #90# Langue
 #91# Pause
-#92# Annul. rot.
-#93# RAZ vue
-#94# Local Vel.
+#92# Rotat.
+#93# Vue
+#94# Véloc.
 #95# Grille
 #96# Trade
 #97# Construire
@@ -113,7 +113,7 @@
 #111# Set faction to enemy
 #112# Create enemy ship
 #113# Add AI to the ship
-#114# Auto pilot
+#114# Pilote Auto.
 #115# PHYSICS
 #116# Remove selected ship
 #117# Disable orbital mechanics
@@ -136,7 +136,7 @@
 #134# Tourelles
 #135# Propulsion
 #136# Crew Member Info
-#137# Health
+#137# Santé
 #138# Nourriture
 #139# Morale
 #140# Démarrage
@@ -148,9 +148,9 @@
 #146# PRICE
 #147# DEMAND
 #148# SUPPLY
-#149# Préc. vaisseau
-#150# Proch. vaisseau
-#151# Masse total
+#149# Préc. vaiss.
+#150# Proch. vaiss.
+#151# Masse totale
 #152# Moment d'inertie
 #153# Masse du module
 #154# Not connected to Power Storage
