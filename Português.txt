@@ -94,7 +94,7 @@
 #92# Travar Rotação
 #93# Resetar Pan
 #94# Velocidade Local
-#95# Grid
+#95# Grade
 #96# Negociar
 #97# CONSTRUIR
 #98# DESCONSTRUIR
@@ -122,11 +122,11 @@
 #120# Aplicar
 #121# Descartar
 #122# Pressione qualquer tecla
-#123# Definir nova hotkey
+#123# Definir novo atalho
 #124# Distância
 #125# Velocidade relativa
 #126# Jogador
-#127# Ping
+#127# Latência
 #128# Modulos Avaliados
 #129# Armazenamentos
 #130# Produção
@@ -175,26 +175,26 @@
 #173# Resetar hotkey
 #174# CTRL + Botão Direito - Desconstruir
 #175# CTRL + Botão Direito - Desconstruir
-#176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
+#176# Carbono
+#177# Alumínio
+#178# Silicone
+#179# Prata
+#180# Titânio
+#181# Ferro
+#182# Cobalto
 #183# Nickel
-#184# Copper
+#184# Cobre
 #185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
+#186# Oxigênio
+#187# Hidrogênio
+#188# Xenônio
+#189# Gelo
 #190# Fullerite
 #191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
+#192# Uranio
+#193# Míssil
+#194# Energia
+#195# Alimento
 #196# Não há recurso com o nome
 #197# Não é possivel abrir o menu de construção
 #198# A nave atual não tem a baía de engenharia
@@ -207,7 +207,7 @@
 #205# Movimentação automatica desligada devido a controle manual
 #206# Warp drive ainda não esta pronto
 #207# Não pode disparar
-#208# Rocket launcher não esta conectado ao compartimento de munição
+#208# Lançador de Misseis não esta conectado ao compartimento de munição
 #209# Não pode disparar
 #210# Sem munição no compartimento conectado
 #211# Piloto Automatico - Ativado
@@ -217,8 +217,8 @@
 #215# Selecione uma nave
 #216# Selecione um objeto
 #217# Atalhos:
-#218# AtalhosNome:
-#219# Left:
+#218# Nomes de Atalhos:
+#219# Esquerda:
 #220# Apenas o servidor pode fazer isso
 #221# Jogo salvo
 #222# ERRO AO SALVAR
