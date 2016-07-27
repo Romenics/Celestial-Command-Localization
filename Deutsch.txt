@@ -234,4 +234,4 @@
 #232# wurde gekauft für
 #233# Nicht genügend Credits:
 #234# geborgen
-#235# Ungenügender Lagerraum für Bergung
+#235# Nicht ausreichender Lagerraum für Bergung
