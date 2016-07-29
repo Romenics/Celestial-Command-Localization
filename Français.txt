@@ -2,7 +2,7 @@
 #0# Nouvelle partie
 #1# Partie multijoueurs
 #2# Options
-#3# L'équipe de dév.
+#3# L'équipe de dévelop.
 #4# Quitter
 #5# Continuer
 #6# Pause
@@ -10,14 +10,14 @@
 #8# Enregistrer
 #9# Quitter
 #10# Revivre
-#11# ACCES ANTICIPE
+#11# ! ACCES ANTICIPÉ !
 #12# Ce jeu est en cours de développement ! Veuillez consulter les actualités du jeu sur Steam pour plus d'informations.
-#13# Actualités
-#14# Discussions
-#15# Guides
-#16# A FAIRE
-#17# Etes-vous sûr ?
-#18# Quitter
+#13# Actualités (→)
+#14# Discussions (→)
+#15# Guides (→)
+#16# A faire (Trello)
+#17# Etes-vous sûr de quitter?
+#18# Oui
 #19# Retour
 #20# Connection directe
 #21# Via Steam (à venir)
@@ -31,7 +31,7 @@
 #29# Musique
 #30# Jeu
 #31# Afficher l'aide
-#32# Montrer l'heure dans le tchat
+#32# Afficher l'heure dans le tchat
 #33# Mode 'bac à sable'
 #34# Inverser bout. de la souris
 #35# Sauvegarde automatique
