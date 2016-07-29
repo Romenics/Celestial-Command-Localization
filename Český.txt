@@ -1,237 +1,237 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
-#4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
-#9# Exit
-#10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
+#0# Spustit server
+#1# Připojit se
+#2# Nastavení
+#3# Vývojáři
+#4# Odejít
+#5# Pokračovat
+#6# Pauza
+#7# Nastavení
+#8# Uložit
+#9# Odejít
+#10# Znovuzrodenie
+#11# PREDBEŽNÝ PŘŔISTUP
+#12# Hra ješte není připravena, ale je vo velmi aktivným vývoji. Navštivte vývojársky blog na komunite Steam pro více informacii
+#13# Novinky
+#14# Diskusia
+#15# Príručky
+#16# Zoznam úloh
+#17# Ste si jistý
+#18# Odejít
+#19# Zpět
+#20# Přimé připojení
+#21# Steam připojení (už čoskoro)
+#22# Vývojáři
+#23# Hra je vyvíjena třemi příteli se jmeny Artaani, Riya a Romenics. Navštivte vývojársky blog na comunite Steam pro více informacii
+#24# Uložit
+#25# výchozí
+#26# Použit
 #27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
+#28# Celkovo
+#29# Hudba
+#30# HRA
+#31# Ukázat pomoc
+#32# Ukázat čas v chate
+#33# Sandbox Mód
+#34# Přehodit tlačidla myši
+#35# Interval automatického ukládání
+#36# GRAFIKA
+#37# Celá obrazovka
+#38# Kvalita textúr
 #39# Anti-Aliasing
-#40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
+#40# Vertikálna synchronizace
+#41# Rozlíšení
+#42# Stiskni ľibovolné tlačidlo pro přirazení anebo stikni ESC pro ukončení
+#43# Uložit
+#44# výchozí
+#45# KLÁVESOVÉ ZKRATKY
+#46# VYBRAT SVĚT
+#47# MENO
+#48# ULOŽIT DÁTUM
+#49# HERNÝ ČAS
+#50# VERZE
+#51# VYTVOŘIT SVĚT
+#52# Potvrď vymazání světa
+#53# Zpět
+#54# Zmazat
 #55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
+#56# Heslo
+#57# MAXIMUM HRÁČÚ
+#58# ZMAZAT
+#59# NAČÍTAT
+#60# NAČÍTÁNÍ
+#61# Připojovaní...
+#62# JMÉNO SVĚTA
 #63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+#64# HESLO
+#65# MAXIMUM HRÁČU
+#66# SANDBOX MÓD
+#67# POČET STANIC
+#68# POČET NEPŘÍTEL
+#69# POČET ASTEROIDU
+#70# Nový svět
+#71# ZPĚT
+#72# SPUSTIT HRU
+#73# Připojit se
 #74# IP
 #75# Port
 #76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#77# Připojit
+#78# Vybrat serveru
+#79# Přidat k oblíbeným
+#80# Potvrdit smazání serveru
+#81# Zpět
+#82# Jméno
 #83# IP
 #84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
+#85# Heslo
+#86# Zmazat
+#87# Připojit
+#88# Uložit
+#89# Editovat
+#90# Jazyk
+#91# Pauza
 #92# Lock Rot.
 #93# Reset Pan
 #94# Local Vel.
-#95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
-#108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
+#95# Mrížka
+#96# Obchod
+#97# POSTAVIT
+#98# ROZMONTOVAT
+#99# SANDBOXOVĚ NÁSTROJE
+#100# PŘIDAT ZDROJ
+#101# Kyslík
+#102# Vodík
+#103# Xenón
+#104# Raketa
+#105# Napětí
+#106# Jídlo
+#107# Posádka
+#108# Umělá inteligence
+#109# Duplikovat vybranou loď
+#110# Nastavit na přítelskou stranu
+#111# Nastavit na nepřítelskou stranu
+#112# Vytvořit nepřítelskou loď
+#113# Přidat AI lodi
 #114# Auto pilot
-#115# PHYSICS
-#116# Remove selected ship
-#117# Disable orbital mechanics
-#118# Place trajectory planner
-#119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
-#124# Distance
-#125# Relative velocity
-#126# Player
+#115# FYZIKA
+#116# Smazat vybranou loď
+#117# Vypnout orbitální mechaniku
+#118# Položit plánovač trajektorie
+#119# Mód házení trosek
+#120# Použít
+#121# zrušit
+#122# Stiskni libovolný kláves
+#123# Nastaviť novou klavesovou skratku
+#124# Vzdálenost
+#125# Relatívna rýchlost
+#126# Hráč
 #127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
-#139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
-#155# Power consumption
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
-#172# Right Click
-#173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-#175# Ctrl + Right click - Deconstruct
-#176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
+#128# Dostupné moduly
+#129# Úložisko
+#130# Produkce
+#131# Napětí
+#132# Rúzné
+#133# Zbrane
+#134# Věže
+#135# Pohon
+#136# Informace o členu posádky
+#137# Život
+#138# Jídlo
+#139# Morálka
+#140# ZAČÍNAME
+#141# Vzhledem k tomu, že výukový program zatím není připraven, doporučujeme, aby ste si prošli příručku od člena komunity
+#142# OTEVŘIT PŘÍRUČKU
+#143# OBCHOD
+#144# JMÉNO
+#145# MNOŽSTVÍ
+#146# CENA
+#147# DOPYT
+#148# ZÁSOBA
+#149# PŘEDEŠLÁ LOĎ
+#150# DALŠÍ LOĎ
+#151# CELKOVÁ VÁHA 
+#152# MOMENT SETRVAČNOSTI
+#153# HMOTNOST MODULU
+#154# Není připojen ku zdroji napětí
+#155# Spotreba energie
+#156# Odpoj
+#157# Připoj
+#158# Táhni pro přesun
+#159# Prodaj pravým kliknutím
+#160# Kup Přetáhni a pusti to vlastního skladu
+#161# Pusti pro přesun
+#162# Drž Shift pro přesné množství
+#163# Pusti pro kúpu
+#164# Nesprávny typ skladu (pro tekutiny  pro tuhé)
+#165# Ctrl+RMB - Rozmontovat
+#166# Kliknou pravým - Opravit
+#167# Kliknou pravým - Postavit
+#168# Kliknou pravým - Ukázat obsah
+#169# Kliknou pravým - Přiradit klávesovou zkratku
+#170# Hmotnost
+#171# vyhodit
+#172# Kliknout pravým
+#173# Resetovat klávesovou zkratku
+#174# Ctrl + RMB - Rozmontovat
+#175# Ctrl + RMB - Rozmontovat
+#176# Uhlík
+#177# Hliník
+#178# Silikon
+#179# stříbro
+#180# Titan
+#181# Železo
+#182# Kobalt
+#183# Nikel
+#184# Měď
 #185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
-#190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
-#219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
+#186# Kyslík
+#187# Vodík
+#188# Xenón
+#189# Led
+#190# Fulerit
+#191# Deutérium
+#192# Urán
+#193# Raketa
+#194# Napětí
+#195# Jídlo
+#196# Tady není žádny zdroj s tímhle jménem
+#197# Nemožno otevřít stavitelské menu
+#198# Aktuálny loď nemá strojířsky oddíl
+#199# Nedostatek jídla
+#200# nemúže najít jídlo na lodi!
+#201# Smrt hlady
+#202# umřel hlady!
+#203# Upozorňení
+#204# Poslední veliteľský modul nemúže být rozmontován
+#205# Automatický pohyb byl zastavěn kvuli manuálnimu řizení
+#206# Warp ješte není připraven
+#207# Nemožno vystřelit
+#208# Raketomet není připojen k skladu s municí
+#209# Nemožno vystřelit
+#210# Žádna munice v připojeném skladu
+#211# Auto pilot - Zapnut
+#212# Auto pilot - Vypnut
+#213# Zvol loď
+#214# Žádný objekt nevybrán
+#215# Vyber loď
+#216# Vyber objekt
+#217# Klávesové zkratky
+#218# Jména klavésových zkratek
+#219# Odešel
+#220# Jedine server to muže udelat
+#221# Hra uložena
+#222# CHYBA UKLÁDÁNÍ
+#223# Ukládání nebylo dokončeno kvuli interní chybě.
+#224# Nedostatek kreditu
+#225# Lode by měli být zadokovány k sobě
+#226# Sklad je prázdný
+#227# Tento obchodník nemá zájem
+#228# Nemožno prodat. Sklad je plný
+#229# jednotek
+#230# prodané za
+#231# jednotek
+#232# kupené za
+#233# Nedostatek kreditu
+#234# uschované
+#235# Nedostatek místa pro uschování
