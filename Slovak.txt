@@ -159,16 +159,16 @@
 #157# Pripojiť
 #158# Ťahaj pre presun
 #159# Klikni pravým: Predaj
-#160# BKúpiť: Ťahaj a pusti do vlastného skladu
+#160# Kúpiť: Ťahaj a pusti do vlastného skladu
 #161# Pusti pre presun
 #162# Drž SHIFT pre presné množstvo
 #163# Pusti pre kúpu
 #164# Nesprávny typ skladu (pre tekutiny / pre tuhé)
 #165# Ctrl+RMB - Rozobrať
-#166# Klikni pravým - Repair\nCtrl + Right click - Rozobrať
-#167# Klikni pravým - Construct\nCtrl + Right click - Rozobrať
-#168# Klikni pravým - show content
-#169# Klikni pravým - Assign hotkey
+#166# Klikni pravým - Opraviť\nCtrl + Klikni pravým - Rozobrať
+#167# Klikni pravým - Postaviť\nCtrl + Klikni pravým - Rozobrať
+#168# Klikni pravým - ukázať obsah
+#169# Klikni pravým - Priradiť kláv.skratku
 #170# Hmotnosť
 #171# Vyhodiť
 #172# Klikni pravým
