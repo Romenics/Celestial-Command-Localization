@@ -1,0 +1,237 @@
+
+#0# Spustiť server
+#1# Pripojiť sa
+#2# Nastavenia
+#3# Vývojári
+#4# Odísť
+#5# Pokračovať
+#6# Pauza
+#7# Nastavenia
+#8# Uložiť
+#9# Odísť
+#10# Znovuzrodenie
+#11# Predbežný prístup
+#12# Hra nie je dokončená ale je vo veľmi aktívnom vývoji Navštívte vývojársky blog v Steam Komunite pre viac informacií
+#13# Novinky
+#14# Diskusie
+#15# Príručky
+#16# Zoznam úloh
+#17# Ste si isty?
+#18# Odísť
+#19# Späť
+#20# Priame pripojenie
+#21# Steam pripojenie (už čoskoro)
+#22# Vývojári
+#23# Hra je vyvíjaná tromi priateľmi s prezývkami Artaani, Riya a Romenics  Navštívte vývojársky blog v Steam Komunite pre viac informacií
+#24# Uložiť
+#25# Predvolené
+#26# Použiť
+#27# AUDIO
+#28# Celkovo
+#29# Hudba
+#30# HRA
+#31# Ukázať pomoc
+#32# Ukázať čas v chate
+#33# Sandbox Mód
+#34# prehodiť tlačidlá myši
+#35# Interval automatického ukladania 
+#36# GRAFIKA
+#37# Celá obrazovka
+#38# Kvalita Textúr
+#39# Anti-Aliasing
+#40# V-synchron.
+#41# Rozlíšenie
+#42# Stlačte ľubovoľné tlačidlo pre priradenie alebo ESC pre ukončenie
+#43# Uložiť
+#44# Predvolené
+#45# Kláv. skratky
+#46# Vybrať svet
+#47# Meno
+#48# Uložiť dátum
+#49# Čas hry
+#50# Verzia
+#51# Vytvoriť svet
+#52# Potvrďte zmazanie sveta
+#53# Späť
+#54# Zmazať
+#55# PORT
+#56# Heslo
+#57# MAX Hráčov
+#58# Zmazať
+#59# Načítať
+#60# Načítavanie
+#61# Pripájanie...
+#62# Meno sveta
+#63# PORT
+#64# HESLO
+#65# MAX Hráčov
+#66# SANDBOX MÓD
+#67# Množstvo staníc
+#68# Množstvo nepriateľov
+#69# Množstvo asteroidov
+#70# Nový svet
+#71# Späť
+#72# ZAČAŤ HRU
+#73# Pripojiť sa
+#74# IP
+#75# Port
+#76# Pass
+#77# Pripojiť
+#78# Vybrať server
+#79# Pridať k obľubeným
+#80# Potvrďte zmazanie serveru
+#81# Späť
+#82# Meno
+#83# IP
+#84# Port
+#85# Heslo
+#86# Zmazať
+#87# Pripojiť
+#88# Uložiť
+#89# Editovať
+#90# SLOVAK
+#91# Pauza
+#92# Zamknúť rot.
+#93# Reset pan
+#94# Lokálna rých.
+#95# Mriežka
+#96# Obchod
+#97# Postaviť
+#98# Rozobrať
+#99# Nástroje sandboxu
+#100# Pridať zdroje
+#101# Kyslík
+#102# Vodík
+#103# Xenón
+#104# Strela
+#105# Napätie
+#106# Jedlo
+#107# Posádka
+#108# Umelá inteligencia
+#109# Duplikovať vybranú loď
+#110# Nastaviť ako priateľa
+#111# Nastaviť ako nepriateľa
+#112# Vytvoriť nepriateľskú loď
+#113# Pridať umelú inteligenciu lodi
+#114# Auto pilot
+#115# FYZIKA
+#116# Odstrániť vybranú loď
+#117# Vypnúť orbitálnu mechaniku
+#118# Položit plánovač trajektorie
+#119# Mód hádzania trosiek
+#120# Použiť
+#121# Zrušiť
+#122# Stlač ľubovoný kláves
+#123# Nastaviť novú kláv. skratku
+#124# Vzdialenosť
+#125# Relatívna rýchlosť
+#126# Hráč
+#127# Odozva
+#128# Dostupné moduly
+#129# Úložisko
+#130# Produkcia
+#131# Energia
+#132# Rôzne
+#133# Zbrane
+#134# Veže
+#135# Pohon
+#136# Info o členovi posádky
+#137# Zdravie
+#138# Jedlo
+#139# Morálka
+#140# ZAČÍNÁME
+#141# Vzhľadom k tomu, že náučný program zatiaľ nie je pripravený, doporučujeme, aby ste si prešli príručku od člena komunity
+#142# Otvoriť príručku
+#143# OBCHOD
+#144# MENO
+#145# MNOŽSTVO
+#146# CENA
+#147# DOPYT
+#148# PONUKA
+#149# PREDOŠLÁ LOĎ
+#150# DALŠIA LOĎ
+#151# CELKOVÁ VÁHA 
+#152# ZOTRVAČNOSŤ
+#153# HMOTNOSŤ MODULU
+#154# Nepripojené k zdroju napätia
+#155# Spotreba energie
+#156# Odpojiť
+#157# Pripojiť
+#158# Ťahaj pre presun
+#159# Klikni pravým: Predaj
+#160# BKúpiť: Ťahaj a pusti do vlastného skladu
+#161# Pusti pre presun
+#162# Drž SHIFT pre presné množstvo
+#163# Pusti pre kúpu
+#164# Nesprávny typ skladu (pre tekutiny / pre tuhé)
+#165# Ctrl+RMB - Rozobrať
+#166# Klikni pravým - Repair\nCtrl + Right click - Rozobrať
+#167# Klikni pravým - Construct\nCtrl + Right click - Rozobrať
+#168# Klikni pravým - show content
+#169# Klikni pravým - Assign hotkey
+#170# Hmotnosť
+#171# Vyhodiť
+#172# Klikni pravým
+#173# Resetovať kláv. skratku
+#174# Ctrl + Klikni pravým - Rozobrať
+#175# Ctrl + Klikni pravým - Rozobrať
+#176# Uhlík
+#177# Hliník
+#178# Kremík
+#179# Stiebro
+#180# Titan
+#181# Železo
+#182# Kobalt
+#183# Nikel
+#184# Meď
+#185# Niobium
+#186# Kyslík
+#187# Vodík
+#188# Xenón
+#189# Ľad
+#190# Fulerit
+#191# Deutérium
+#192# Urán
+#193# Raketa
+#194# Napätie
+#195# Jedlo
+#196# Tu nie je žiadny zdroj s tímto menom
+#197# Nemožno otvoriť staviteľské menu
+#198# Aktuálna loď nemá strojársky oddiel
+#199# Nedostatok jedla
+#200# nemôže nájsť jedlo na lodi!
+#201# Smrť hladom
+#202# umrel hladom!
+#203# Upozornenie
+#204# Posledný veliteľský modul nemôže byť rozobraný
+#205# Automatický pohyb bol zastavený manuálnou kontrolou
+#206# Skok ešte nie je pripravený
+#207# Nemožno vystreliť
+#208# Raketomet nie je pripojený ku skladu z muníciou
+#209# Nemožno vystreliť
+#210# Žiadna munícia v pripojenom sklade
+#211# Auto pilot - zapnutý
+#212# Auto pilot - vypnutý
+#213# Vyber loď
+#214# Žiadny objekt nevybraný
+#215# Vyber loď
+#216# Vyber objekt
+#217# Kláv.skratky:
+#218# Mena Kláv.skratiek:
+#219# Odišiel:
+#220# Iba server to môže urobiť
+#221# Hra uložená
+#222# Chyba ukladania
+#223# Ukladanie nebolo dokončené kvôli vnútornej chybe.
+#224# Nedostatok peňazí
+#225# Lode by mali byť spojené dokopy
+#226# Sklad prázdny
+#227# Tento obchodník to nechce
+#228# Nedá sa predať. Sklad je plný
+#229# jednotiek
+#230# redané za
+#231# jednotiek
+#232# kupené za
+#233# Nedostatok peňazí:
+#234# Uložené
+#235# Nedostatok miesta pre uloženie
