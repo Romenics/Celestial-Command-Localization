@@ -130,24 +130,24 @@
 #128# Modules disponible
 #129# Stockage
 #130# Production
-#131# Power
+#131# Energ.
 #132# Divers
 #133# Armes
 #134# Tourelles
 #135# Propulsion
-#136# Info. membres
+#136# Membre d'équipage
 #137# Santé
-#138# Nourriture
+#138# Nourrit.
 #139# Morale
 #140# Démarrage
 #141# Le tutoriel de prise en main n'est pas encore disponible, il est préférable de consulter la version en ligne créé par la communauté sur Steam (rubrique 'Guides...')
 #142# Ouvrir le guide
-#143# Commerc.
+#143# Commerce
 #144# Nom
 #145# Quantité
 #146# Prix
-#147# DEMAND
-#148# SUPPLY
+#147# Achat
+#148# Vente
 #149# Préc. vaiss.
 #150# Proch. vaiss.
 #151# Masse totale
@@ -164,17 +164,17 @@
 #162# Hold shift to specify amount
 #163# Drop to buy
 #164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Clic droit: Repair
-#167# Clic droit: Construct
+#165# Ctrl + Clic droit: Déconstruire
+#166# Clic droit: Réparer
+#167# Clic droit: Construire
 #168# Clic droit: show content
 #169# Clic droit: Assign hotkey
 #170# Masse
 #171# Ejecter
 #172# Clic droit
 #173# Reset hotkey
-#174# Ctrl + Clic droit: Deconstruct
-#175# Ctrl + Clic droit: Deconstruct
+#174# Ctrl + Clic droit: Déconstruire
+#175# Ctrl + Clic droit: Déconstruire
 #176# Carbone
 #177# Aluminium
 #178# Silicon
