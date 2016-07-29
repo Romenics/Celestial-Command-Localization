@@ -72,13 +72,13 @@
 #70# Démarrer
 #71# Retour
 #72# Jouer
-#73# Joindre multijoueurs
+#73# Joindre partie multij.
 #74# IP
 #75# Port n°
 #76# Mot de passe
 #77# Joindre
 #78# Sélection du serveur
-#79# Ajouter aux favoris
+#79# Ajout. aux favoris
 #80# Confirmer suppression
 #81# Retour
 #82# Nom
@@ -103,12 +103,12 @@
 #101# Oxygène
 #102# Hydrogène
 #103# Xénon
-#104# Rocket
+#104# Missile
 #105# Energie
-#106# Nourritures
-#107# Membres
-#108# IA
-#109# Duplicate selected ship
+#106# Nourriture
+#107# Membre
+#108# Int. Artif. (IA)
+#109# Dupliquer vaisseau
 #110# Set faction to friendly
 #111# Set faction to enemy
 #112# Create enemy ship
@@ -170,12 +170,12 @@
 #168# Right Click - show content
 #169# Right Click - Assign hotkey
 #170# Masse
-#171# Eject
+#171# Ejecter
 #172# Right Click
 #173# Reset hotkey
 #174# Ctrl + Right click - Deconstruct
 #175# Ctrl + Right click - Deconstruct
-#176# Carbon
+#176# Carbone
 #177# Aluminium
 #178# Silicon
 #179# Silver
@@ -193,8 +193,8 @@
 #191# Deuterium
 #192# Uranium
 #193# Rocket
-#194# Power
-#195# Food
+#194# Energie
+#195# Nourriture
 #196# There is no resource with name
 #197# Can't open build menu
 #198# The current ship doesn't have an engineering bay
@@ -209,18 +209,18 @@
 #207# Impossible de tirer
 #208# Rocket launcher is not connected to ammo storage
 #209# Impossible de tirer
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
+#210# Pas de munition disponible
+#211# Pilote autom. activé
+#212# Pilote autom. désactivé
+#213# Sélect. un vaisseau
+#214# Pas d'objet sélect.
+#215# Sélect. un vaisseau
+#216# Sélect. un objet
+#217# Raccourcis:
+#218# Nom racc.:
 #219# Left:
 #220# Only server can do this
-#221# Game saved
+#221# Partie enregistrée
 #222# SAVE ERROR
 #223# Saving was not completed due internal error.
 #224# Insufficient credits
