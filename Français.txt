@@ -20,18 +20,18 @@
 #18# Oui
 #19# Retour
 #20# Connection directe
-#21# Via Steam (à venir)
+#21# Via Steam (A venir)
 #22# L'équipe de développeurs
 #23# Ce jeu a été créé par trois amis Artaani, Riya et Romenics. Veuillez consulter les actualités du jeu sur Steam pour les aider et avoir plus d'informations.
 #24# Enregistrer
 #25# Défaut
 #26# Appliquer
-#27# Audio
+#27# Volume sonore
 #28# Global
 #29# Musique
 #30# Jeu
 #31# Afficher l'aide
-#32# Afficher l'heure dans le tchat
+#32# Aff. l'heure dans le tchat
 #33# Mode 'bac à sable'
 #34# Inverser bout. de la souris
 #35# Sauvegarde automatique
@@ -65,14 +65,14 @@
 #63# Port n°
 #64# Mot de passe
 #65# Nb joueurs
-#66# Mode bac à sable
+#66# Mode 'bac à sable'
 #67# STATIONS AMOUNT
 #68# ENEMIES AMOUNT
 #69# ASTEROIDS AMOUNT
 #70# Démarrer
 #71# Retour
 #72# Jouer
-#73# Join Multiplayer
+#73# Joindre multijoueurs
 #74# IP
 #75# Port n°
 #76# Mot de passe
@@ -95,7 +95,7 @@
 #93# Vue
 #94# Véloc.
 #95# Grille
-#96# Trade
+#96# Commerc.
 #97# Construire
 #98# Déconstruire
 #99# Outils bac à sable
@@ -104,7 +104,7 @@
 #102# Hydrogène
 #103# Xénon
 #104# Rocket
-#105# Electricité
+#105# Energie
 #106# Nourritures
 #107# Membres
 #108# IA
@@ -135,17 +135,17 @@
 #133# Armes
 #134# Tourelles
 #135# Propulsion
-#136# Crew Member Info
+#136# Info. membres
 #137# Santé
 #138# Nourriture
 #139# Morale
 #140# Démarrage
-#141# Le tutoriel de prise en main n'est pas encore disponible, il est préférable de consulter la version en ligne créé par la communauté sur Steam.
+#141# Le tutoriel de prise en main n'est pas encore disponible, il est préférable de consulter la version en ligne créé par la communauté sur Steam (rubrique 'Guides...')
 #142# Ouvrir le guide
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
+#143# Commerc.
+#144# Nom
+#145# Quantité
+#146# Prix
 #147# DEMAND
 #148# SUPPLY
 #149# Préc. vaiss.
@@ -153,8 +153,8 @@
 #151# Masse totale
 #152# Moment d'inertie
 #153# Masse du module
-#154# Not connected to Power Storage
-#155# Power consumption
+#154# Pas d'énergie
+#155# Consom. énergie
 #156# Detach
 #157# Attach
 #158# Drag for transfer
@@ -170,7 +170,7 @@
 #168# Right Click - show content
 #169# Right Click - Assign hotkey
 #170# Masse
-#171# eject
+#171# Eject
 #172# Right Click
 #173# Reset hotkey
 #174# Ctrl + Right click - Deconstruct
@@ -185,8 +185,8 @@
 #183# Nickel
 #184# Copper
 #185# Niobium
-#186# Oxygen
-#187# Hydrogen
+#186# Oxygène
+#187# Hydrogène
 #188# Xenon
 #189# Ice
 #190# Fullerite
@@ -202,13 +202,13 @@
 #200# can't find any food on the ship!
 #201# Starved death
 #202# has starved to death!
-#203# Warning
+#203# Avertissement
 #204# Last command module cannot be deconstructed
 #205# Automatic movement stopped due manual control
 #206# Warp drive is not ready yet
-#207# Cannot fire
+#207# Impossible de tirer
 #208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
+#209# Impossible de tirer
 #210# No ammo in connected storage
 #211# Auto pilot - enabled
 #212# Auto pilot - disabled
