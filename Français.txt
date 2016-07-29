@@ -66,9 +66,9 @@
 #64# Mot de passe
 #65# Nb joueurs
 #66# Mode 'bac à sable'
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
+#67# Nombre de station
+#68# Nombre d'enemi
+#69# Nombre d'astéroide
 #70# Démarrer
 #71# Retour
 #72# Jouer
@@ -107,15 +107,15 @@
 #105# Energie
 #106# Nourriture
 #107# Membre
-#108# Int. Artif. (IA)
+#108# Intel. Artif. (IA)
 #109# Dupliquer vaisseau
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
+#110# Définir allier
+#111# Définir enemi
+#112# Créer vaiss. enemi
+#113# Ajouter IA au vaiss.
 #114# Pilote Auto.
-#115# PHYSICS
-#116# Remove selected ship
+#115# Physique
+#116# Effacer vaisseau
 #117# Disable orbital mechanics
 #118# Place trajectory planner
 #119# Debris throw mode
@@ -155,26 +155,26 @@
 #153# Masse du module
 #154# Pas d'énergie
 #155# Consom. énergie
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
+#156# Attacher
+#157# Détacher
+#158# Glisser pour transférer
+#159# Clic droit: vendre
+#160# Glisser, déposer : acheter
 #161# Drop to transfer
 #162# Hold shift to specify amount
 #163# Drop to buy
 #164# Storage type mismatch (for liquid / for solid)
 #165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
+#166# Clic droit: Repair
+#167# Clic droit: Construct
+#168# Clic droit: show content
+#169# Clic droit: Assign hotkey
 #170# Masse
 #171# Ejecter
-#172# Right Click
+#172# Clic droit
 #173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-#175# Ctrl + Right click - Deconstruct
+#174# Ctrl + Clic droit: Deconstruct
+#175# Ctrl + Clic droit: Deconstruct
 #176# Carbone
 #177# Aluminium
 #178# Silicon
@@ -192,17 +192,17 @@
 #190# Fullerite
 #191# Deuterium
 #192# Uranium
-#193# Rocket
+#193# Missile
 #194# Energie
 #195# Nourriture
 #196# There is no resource with name
 #197# Can't open build menu
 #198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
+#199# Plus de nourriture !
+#200# Pas de nourriture à bord de ce vaisseau !
 #201# Starved death
 #202# has starved to death!
-#203# Avertissement
+#203# Avertissement !
 #204# Last command module cannot be deconstructed
 #205# Automatic movement stopped due manual control
 #206# Warp drive is not ready yet
