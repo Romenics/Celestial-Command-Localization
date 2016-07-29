@@ -2,14 +2,14 @@
 #0# Nouvelle partie
 #1# Partie multijoueurs
 #2# Options
-#3# L'équipe de dévelop.
+#3# L'équipe de développement
 #4# Quitter
 #5# Continuer
 #6# Pause
 #7# Options
 #8# Enregistrer
 #9# Quitter
-#10# Revivre
+#10# Ressusciter
 #11# ! ACCES ANTICIPÉ !
 #12# Ce jeu est en cours de développement ! Veuillez consulter les actualités du jeu sur Steam pour plus d'informations.
 #13# Actualités (→)
@@ -177,26 +177,26 @@
 #175# Ctrl + Clic droit: Déconstruire
 #176# Carbone
 #177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
+#178# Silicium
+#179# Argent
+#180# Titane
+#181# Fer
 #182# Cobalt
 #183# Nickel
-#184# Copper
+#184# Cuivre
 #185# Niobium
 #186# Oxygène
 #187# Hydrogène
-#188# Xenon
-#189# Ice
+#188# Xénon
+#189# Glase
 #190# Fullerite
-#191# Deuterium
+#191# Deutérium
 #192# Uranium
 #193# Missile
 #194# Energie
 #195# Nourriture
 #196# There is no resource with name
-#197# Can't open build menu
+#197# Impossible d'ouvrir le menu Construire
 #198# The current ship doesn't have an engineering bay
 #199# Plus de nourriture !
 #200# Pas de nourriture à bord de ce vaisseau !
