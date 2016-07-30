@@ -11,7 +11,7 @@
 #9# Sair
 #10# Respawn
 #11# Acesso Antecipado
-#12# O jogo não esta pronto ainda mas esta com o desenvolvimento muito ativo. Visite o blog de desenvolvimento no Steam Community Hub para ter mais informações
+#12# O jogo não esta pronto ainda mas esta com o desenvolvimento muito ativo. Visite o blog de desenvolvimento na Central da Comunidade Steam para ter mais informações
 #13# Notícias
 #14# Discussões
 #15# Guias
@@ -235,18 +235,18 @@
 #233# Créditos insuficientes:
 #234# sucateado
 #235# Sem espaço suficiente para sucata
-#236# Factors
-#237# Star Mass
-#238# Planet Mass
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
+#236# Fatores
+#237# Massa da Estrela
+#238# Massa do Planeta
+#239# Impulso do Motor
+#240# Consumo de Combustível
+#241# Torque da Roda de Reação
+#242# PARÂMETROS ORBITAIS
+#243# Trajetória
+#244# Posição
 #245# Apoapsis
 #246# Periapsis
-#247# Eccentricity
-#248# Orbital period
-#249# Tang. velocity
-#250# Ang. velocity
+#247# Excentricidade
+#248# Período Orbital
+#249# Velocidade Tang.
+#250# Velocidade Ang.
