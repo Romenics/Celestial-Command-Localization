@@ -1,4 +1,4 @@
-
+﻿
 #0# Spustiť server
 #1# Pripojiť sa
 #2# Nastavenia
@@ -235,3 +235,18 @@
 #233# Nedostatok peňazí:
 #234# Uložené
 #235# Nedostatok miesta pre uloženie
+#236# Factors
+#237# Star Mass
+#238# Planet Mass
+#239# Engine Thrust
+#240# Fuel Consumption
+#241# Reaction Wheel Torque
+#242# ORBITAL PARAMETERS
+#243# Trajectory
+#244# Position
+#245# Apoapsis
+#246# Periapsis
+#247# Eccentricity
+#248# Orbital period
+#249# Tang. velocity
+#250# Ang. velocity
