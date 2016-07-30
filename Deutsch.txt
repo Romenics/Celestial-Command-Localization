@@ -235,18 +235,18 @@
 #233# Nicht genügend Credits:
 #234# geborgen
 #235# Ungenügender Lagerraum für Bergung
-#236# Factors
-#237# Star Mass
-#238# Planet Mass
+#236# faktoren
+#237# Sternenmasse
+#238# Planeten Masse
 #239# Engine Thrust
-#240# Fuel Consumption
+#240# Treibstoffverbrauch
 #241# Reaction Wheel Torque
 #242# ORBITAL PARAMETERS
-#243# Trajectory
+#243# Flugbahn
 #244# Position
 #245# Apoapsis
 #246# Periapsis
 #247# Eccentricity
-#248# Orbital period
+#248# Umlaufzeit
 #249# Tang. velocity
 #250# Ang. velocity
