@@ -235,18 +235,18 @@
 #233# Créditos insuficientes:
 #234# rescatado
 #235# No hay espacio suficiente para rescatar
-#236# Factors
-#237# Star Mass
-#238# Planet Mass
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
-#245# Apoapsis
-#246# Periapsis
-#247# Eccentricity
-#248# Orbital period
-#249# Tang. velocity
-#250# Ang. velocity
+#236# Factores
+#237# Masa Estelar
+#238# Masa Planetaria
+#239# Empuje del motor
+#240# Consumo de combustible
+#241# Torque de la rueda de reacción
+#242# PARÁMETROS ORBITALES
+#243# Trayectoria
+#244# Posición
+#245# Apoápside
+#246# Periápside
+#247# Excentricidad
+#248# Periodo orbital
+#249# Velocidad tang.
+#250# Velocidad ang.
