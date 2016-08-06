@@ -1,0 +1,177 @@
+ 
+#0# Starta server 
+#1# Anslut till multiplayer 
+#2# Inställningar 
+#3# Utvecklare
+#4# Exit 
+#5# fortsätt 
+#6# Paus
+#7# Inställningar 
+#8# Spara 
+#9# Exit 
+#10# Återuppstå
+#11# EARLY ACCESS 
+#12# Spelet är inte klart ännu men jobbas aktivt med att utvecklas. Besök vår utvecklings blogg i Steams Gemenskaps Hub för mer information
+#13# Nyheter 
+#14# Diskussion 
+#15# Guider 
+#16# Att göra lista
+#17# Är du säker? 
+#18# Exit 
+#19# Tillbaka 
+#20# Direktkoppling
+#21# Steam koppling (Kommer snart) 
+#22# Utvecklare
+#23# Detta spelet är utvecklat av tre kompisar med smeknamnen Artaani, Riya och Romenics  Besök vår Utvecklar blogg på Steams gemenskaps Hub för mera information  
+#24# Spara 
+#25# Standard 
+#26# Tillämpa 
+#27# LJUD 
+#28# Totalt 
+#29# Musik 
+#30# Spel 
+#31# Visa hjälp 
+#32# Visa tiden i Chatten 
+#33# Sandbox läge
+#34# Byta musknapparna 
+#35# Auto sparnings intervall
+#36# GRAFIK
+#37# Fullskärm 
+#38# texturkvalitet 
+#39# Kantutjämning 
+#40# V-sync 
+#41# Upplösning
+#42# Tryck valfri knapp för att välja knappen eller tryck ESC för att avsluta
+#43# Spara 
+#44# Standard
+#45# SNABBKOMMANDO 
+#46# VÄLJ VÄRLDEN 
+#47# NAMN 
+#48# SPARNINGSDATUM 
+#49# SPEL TID 
+#50# VERSION 
+#51# SKAPA VÄRLD
+#52# Bekräfta radering av världen 
+#53# Tillbaka 
+#54# Radera 
+#55# PORT 
+#56# Lösenord 
+#57# MAX SPELARE 
+#58# RADERA 
+#59# LADDA 
+#60# LADDAR 
+#61# Ansluter... 
+#62# Värld namn 
+#63# PORT 
+#64# LÖSENORD 
+#65# MAX SPELARE 
+#66# SANDBOX MODE 
+#67# STATIONS AMOUNT 
+#68# FIENDES MÄNGD 
+#69# ASTEROID MÄNGD
+#70# Ny värld 
+#71# Tillbaka 
+#72# Starta spelet 
+#73# Anslut till Multiplayer 
+#74# IP 
+#75# Port 
+#76# Pass 
+#77# Anslut 
+#78# Välj server 
+#79# Adda till Favoriter 
+#80# Bekräfta radering av servern
+#81# Tillbaka 
+#82# Namn 
+#83# IP 
+#84# Port 
+#85# Lösenord
+#86# Radera 
+#87# Anslut 
+#88# Spara 
+#89# Redigera
+#90# Språk
+#91# Pausat 
+#92# Lås rotation
+#93# Återställ Panoreringen
+#94# Lokal hastighet
+#95# Kraftfält
+#96# Byteshandla
+#97# BYGG 
+#98# DEKONSTRUERA
+#99# SANDBOX VERKTYG 
+#100# ADDA RESURSER 
+#101# Syre 
+#102# Väte 
+#103# Xenon 
+#104# Raket
+#105# Kraft 
+#106# Mat 
+#107# Besättning
+#108# AI 
+#109# Duplicera valt skepp
+#110# Sätt falang till vän
+#111# Sätt falang till fiende
+#112# Skapa fiende skepp
+#113# Lägg till AI till skeppet
+#114# Auto pilot 
+#115# Fysiskt 
+#116# Ta bort valt skepp 
+#117# Inaktivera omloppsbanans mekanik
+#118# Placera projektilbanan
+#119# Skräp kastar läge  
+#120# Tillämpa
+#121# Kasta
+#122# Tryck valfri knapp 
+#123# Fastställ snabbkommando
+#124# Avstånd
+#125# Relativ Hastighet
+#126# Spelare 
+#127# Ping 
+#128# Tillgängliga moduler 
+#129# Förvaring 
+#130# Produktion
+#131# Kraft 
+#132# Diverse
+#133# Vapen 
+#134# Turrets 
+#135# Drift
+#136# Besättnings medlems Info 
+#137# Hälsa 
+#138# mat 
+#139# Moral
+#140# KOMMA IGÅNG 
+#141# Eftersom denna handledningen inte är redo ännu, så rekommenderar vi den här start guiden från Gemenskaps medlemen 
+#142# ÖPPNA GUIDE 
+#143# BYTESHANDLA
+#144# NAMN 
+#145# MÄNGD 
+#146# PRIS 
+#147# KRAV
+#148# FÖRRÅD
+#149# FÖREGÅENDE SKEPP
+#150# NÄSTA SKEPP
+#151# TOTAL MASSA  
+#152# EN STUND AV TRÖGHET
+#153# MODUL MASSA 
+#154# Kraft lagringen är inte kopplad
+#155# Kraft förbrukning
+#156# Lösgöra
+#157# Fästa
+#158# Dra för att överföra
+#159# Höger klicka: Sälj 
+#160# Köp: dra och släpp i egen container 
+#161# Släpp för att överföra 
+#162# håll shift för att ange mängd
+#163# Släpp för att köpa
+#164# lagrings typ missmatchning (för flytande/ för fast)
+#165# Ctrl+RMB - Dekonstruera 
+#166# Höger klicka - laga 
+#167# Höger klicka - Konstruera 
+#168# Höger Klicka - Visa innehåll
+#169# Höger klicka - ange Snabbkommando 
+#170# Massa 
+#171# Slunga ut 
+#172# höger klicka 
+#173# återställ snabbkommando
+#174# Ctrl + Höger klicka - Dekonstruera
+#175# Ctrl + Höger klicka - Dekonstruera
