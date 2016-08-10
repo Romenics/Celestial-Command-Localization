@@ -1,20 +1,20 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
+#0# 서버 시작
+#1# 멀티플레이 접속
+#2# 옵션
 #3# Developers
-#4# Exit
+#4# 종료
 #5# Continue
 #6# Pause
 #7# Options
-#8# Save
+#8# 저장
 #9# Exit
 #10# Respawn
-#11# EARLY ACCESS
+#11# 앞서 해보기
 #12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
 #13# News
 #14# Discussions
-#15# Guides
+#15# 가이드
 #16# To-Do List
 #17# Are you sure?
 #18# Exit
@@ -23,36 +23,36 @@
 #21# Steam Connect (coming soon)
 #22# Developers
 #23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
+#24# 저장
+#25# 기본값
 #26# Apply
-#27# AUDIO
+#27# 오디오
 #28# Total
-#29# Music
+#29# 음악
 #30# GAME
 #31# Show help
 #32# Show time In chat
 #33# Sandbox Mode
 #34# Swap mouse buttons
-#35# Auto save interval
+#35# 자동저장 간격
 #36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
-#40# V-sync
-#41# Resolution
+#37# 전체화면
+#38# 텍스쳐 품질
+#39# 안티앨리어싱
+#40# 수직동기화
+#41# 해상도
 #42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
+#43# 저장
+#44# 기본값
 #45# HOTKEYS
 #46# SELECT THE WORLD
 #47# NAME
-#48# SAVE DATE
+#48# 저장 일시
 #49# GAME TIME
 #50# VERSION
 #51# CREATE WORLD
 #52# Confirm deletion of world
-#53# Back
+#53# 뒤로
 #54# Delete
 #55# PORT
 #56# Password
@@ -60,7 +60,7 @@
 #58# DELETE
 #59# LOAD
 #60# LOADING
-#61# Connecting...
+#61# 접속중...
 #62# WORLD NAME
 #63# PORT
 #64# PASSWORD
@@ -84,12 +84,12 @@
 #82# Name
 #83# IP
 #84# Port
-#85# Password
+#85# 암호
 #86# Delete
 #87# Join
 #88# Save
 #89# Edit
-#90# Language
+#90# 언어
 #91# Paused
 #92# Lock Rot.
 #93# Reset Pan
@@ -100,10 +100,10 @@
 #98# DECONSTRUCT
 #99# SANDBOX TOOLS
 #100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
+#101# 산소
+#102# 수소
 #103# Xenon
-#104# Rocket
+#104# 로켓
 #105# Power
 #106# Food
 #107# Crew
@@ -185,8 +185,8 @@
 #183# Nickel
 #184# Copper
 #185# Niobium
-#186# Oxygen
-#187# Hydrogen
+#186# 산소
+#187# 수소
 #188# Xenon
 #189# Ice
 #190# Fullerite
