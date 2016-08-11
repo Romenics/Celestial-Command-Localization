@@ -1,162 +1,162 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
+#0# 서버 시작
+#1# 멀티플레이 접속
+#2# 옵션
 #3# Developers
-#4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
-#9# Exit
-#10# Respawn
-#11# EARLY ACCESS
+#4# 종료
+#5# 계속
+#6# 잠시 정지
+#7# 옵션
+#8# 저장
+#9# 나가기
+#10# 리스폰
+#11# 앞서 해보기
 #12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
+#13# 뉴스
 #14# Discussions
-#15# Guides
+#15# 가이드
 #16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
+#17# 확실합니까?
+#18# 나가기
+#19# 뒤로
+#20# 직접 접속
+#21# 스팀으로 접속 (구현 중)
 #22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
-#27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
-#40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
+#23# 이 게임은Artaani와 Riya, Romenics라는 닉네임을 사용하는 세 명의 친구들에 의해 만들어지고 있습니다.  앞으로 개발될 내용은 스팀 커뮤티니 허브의 개발일지를 통해 볼 수 있습니다.
+#24# 저장
+#25# 기본값
+#26# 적용
+#27# 오디오
+#28# 총 음량
+#29# 배경음악
+#30# 게임
+#31# 도움말 보기
+#32# 채팅창 표시시간
+#33# 샌드박스 모드
+#34# 마우스 버튼 바꾸기
+#35# 자동저장 간격
+#36# 그래픽
+#37# 전체화면
+#38# 텍스쳐 품질
+#39# 안티앨리어싱
+#40# 수직동기화
+#41# 해상도
+#42# 적용하려면 아무키나 누르세요. 취소하려면 ESC를 누르세요.
+#43# 저장
+#44# 기본값
+#45# 단축키
+#46# 월드 선택
+#47# 이름
+#48# 저장 일시
+#49# 플레이 시간
+#50# 버전
+#51# 월드 만들기
 #52# Confirm deletion of world
-#53# Back
-#54# Delete
+#53# 뒤로
+#54# 삭제
 #55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
+#56# 암호
+#57# 최대 플레이어
+#58# 삭제
+#59# 불러오기
+#60# 불러오는 중
+#61# 접속중...
+#62# 월드명
 #63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
+#64# 암호
+#65# 최대 플레이어
 #66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+#67# 정거장 개수
+#68# 적의 수
+#69# 소행성 개수
+#70# 새로운 월드
+#71# 뒤로
+#72# 게임 시작
+#73# 멀티플레이 참가
 #74# IP
 #75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
+#76# 통과
+#77# 참여
+#78# 서버 선택
+#79# 즐겨찾기에 추가
 #80# Confirm deletion of server
-#81# Back
-#82# Name
+#81# 뒤로
+#82# 이름
 #83# IP
 #84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
+#85# 암호
+#86# 삭제
+#87# 참여
+#88# 저장
 #89# Edit
-#90# Language
+#90# 언어
 #91# Paused
 #92# Lock Rot.
 #93# Reset Pan
 #94# Local Vel.
 #95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
+#96# 거래
+#97# 건설
+#98# 해체
+#99# 샌드박스 도구
+#100# 자원 추가
+#101# 산소
+#102# 수소
+#103# 제논
+#104# 로켓
+#105# 전력
+#106# 식량
+#107# 승무원
 #108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
+#109# 선택한 함선을 복제
+#110# 선택한 팩션을 우호적으로
+#111# 선택한 팩션을 적대적으로
+#112# 적대적 함선 생성
 #113# Add AI to the ship
 #114# Auto pilot
 #115# PHYSICS
-#116# Remove selected ship
+#116# 선택한 함선 삭제
 #117# Disable orbital mechanics
 #118# Place trajectory planner
 #119# Debris throw mode
-#120# Apply
+#120# 적용
 #121# Discard
-#122# Press Any Key
-#123# Set new hotkey
-#124# Distance
-#125# Relative velocity
+#122# 아무키나 누르세요
+#123# 새로운 단축키 지정
+#124# 거리
+#125# 상대 속도
 #126# Player
 #127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
-#139# Morale
+#128# 가능한 모듈
+#129# 저장 모듈
+#130# 생산 모듈
+#131# 전력 모듈
+#132# 기타 모듈
+#133# 무기 모듈
+#134# 포탑 모듈
+#135# 추력 모듈
+#136# 승무원 상태
+#137# 건강
+#138# 허기
+#139# 사기
 #140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
+#141# 아직 튜토리얼이 완성되지 않았습니다. 커뮤니티 멤버를 통해 가이드를 볼 수 있습니다.
+#142# 가이드 열기
+#143# 거래
+#144# 품명
+#145# 수량
+#146# 가격
+#147# 수요
+#148# 공급
+#149# 이전 함선
+#150# 다음 함선
+#151# 총 질량 
+#152# 관성 모멘트
+#153# 모듈 질량
+#154# 전력 저장 모듈과 연결되지 않음
 #155# Power consumption
-#156# Detach
-#157# Attach
+#156# 분리
+#157# 결합
 #158# Drag for transfer
 #159# Right Click: Sell
 #160# Buy: Drag and drop to own container
@@ -165,63 +165,63 @@
 #163# Drop to buy
 #164# Storage type mismatch (for liquid / for solid)
 #165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
+#166# Right click - 수리
+#167# Right click - 건설
 #168# Right Click - show content
 #169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
+#170# 질량
+#171# 사출
 #172# Right Click
 #173# Reset hotkey
 #174# Ctrl + Right click - Deconstruct
 #175# Ctrl + Right click - Deconstruct
-#176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
+#176# 탄소
+#177# 알루미늄
+#178# 실리콘
+#179# 은
+#180# 티타늄
+#181# 철
+#182# 코발트
+#183# 니켈
+#184# 구리
+#185# 니오븀
+#186# 산소
+#187# 수소
+#188# 제논
+#189# 얼음
 #190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
+#191# 듀테륨
+#192# 우라늄
+#193# 로켓
+#194# 전력
+#195# 식량
 #196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
+#197# 건설 메뉴를 열 수 없음
+#198# 이 함선에는 공학 연구소가 없음
+#199# 식량 고갈
+#200# 함선에서 식량을 찾을 수 없습니다!
+#201# 굶어 죽음!
+#202# 은(는) 굶어 죽었음
+#203# 경고
+#204# 마지막 조종 모듈은 해체할 수 없음
+#205# 수동 조작으로 인해 자동 이동이 취소됨
+#206# 워프 드라이브가 아직 준비되지 않음
+#207# 사격 불가
+#208# 로켓 발사기가 탄약 저장소와 연결되지 않음
+#209# 사격 불가
+#210# 연결된 탄약 저장소에 탄약이 없음
+#211# 자동 항행 - 가능
+#212# 자동 항행 - 불가능
+#213# 함선을 선택하세요
+#214# 아무런 대상도 선택되지 않음
+#215# 함선을 선택하세요
+#216# 대상을 선택하세요
 #217# Hotkeys:
 #218# HotkeysNames:
 #219# Left:
 #220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
+#221# 저장됨
+#222# 저장 실패
 #223# Saving was not completed due internal error.
 #224# Insufficient credits
 #225# Ships should be docked together
@@ -236,17 +236,17 @@
 #234# salvaged
 #235# Not enough space to salvage
 #236# Factors
-#237# Star Mass
-#238# Planet Mass
+#237# 항성 질량
+#238# 행성 질량
 #239# Engine Thrust
-#240# Fuel Consumption
+#240# 연료 소비량
 #241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
-#245# Apoapsis
-#246# Periapsis
-#247# Eccentricity
-#248# Orbital period
+#242# 궤도 정보
+#243# 궤도
+#244# 위치
+#245# 궤도 최원점
+#246# 궤도 최근점
+#247# 궤도 이심률
+#248# 공전 주기
 #249# Tang. velocity
 #250# Ang. velocity
