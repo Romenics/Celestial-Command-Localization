@@ -2,7 +2,7 @@
 #0# 서버 시작
 #1# 멀티플레이 접속
 #2# 옵션
-#3# Developers
+#3# 개발자
 #4# 종료
 #5# 계속
 #6# 잠시 정지
@@ -11,18 +11,18 @@
 #9# 나가기
 #10# 리스폰
 #11# 앞서 해보기
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#12# 아직 게임은 완성되지않았습니다만, 매우 의욕적으로 개발중입니다. 스팀 커뮤니티 허브의 개발일지에 오시면 많은 정보를 얻을 수 있습니다.
 #13# 뉴스
-#14# Discussions
+#14# 논의
 #15# 가이드
-#16# To-Do List
+#16# 건의사항
 #17# 확실합니까?
 #18# 나가기
 #19# 뒤로
 #20# 직접 접속
 #21# 스팀으로 접속 (구현 중)
-#22# Developers
-#23# 이 게임은Artaani와 Riya, Romenics라는 닉네임을 사용하는 세 명의 친구들에 의해 만들어지고 있습니다.  앞으로 개발될 내용은 스팀 커뮤티니 허브의 개발일지를 통해 볼 수 있습니다.
+#22# 개발자
+#23# 이 게임은 Artaani와 Riya, Romenics라는 닉네임을 사용하는 세 명의 친구들에 의해 만들어지고 있습니다.  앞으로 개발될 내용은 스팀 커뮤티니 허브의 개발일지를 통해 볼 수 있습니다.
 #24# 저장
 #25# 기본값
 #26# 적용
@@ -51,10 +51,10 @@
 #49# 플레이 시간
 #50# 버전
 #51# 월드 만들기
-#52# Confirm deletion of world
+#52# 월드 삭제 확인
 #53# 뒤로
 #54# 삭제
-#55# PORT
+#55# 포트
 #56# 암호
 #57# 최대 플레이어
 #58# 삭제
@@ -62,10 +62,10 @@
 #60# 불러오는 중
 #61# 접속중...
 #62# 월드명
-#63# PORT
+#63# 포트
 #64# 암호
 #65# 최대 플레이어
-#66# SANDBOX MODE
+#66# 샌드박스 모드
 #67# 정거장 개수
 #68# 적의 수
 #69# 소행성 개수
@@ -74,27 +74,27 @@
 #72# 게임 시작
 #73# 멀티플레이 참가
 #74# IP
-#75# Port
+#75# 포트
 #76# 통과
 #77# 참여
 #78# 서버 선택
 #79# 즐겨찾기에 추가
-#80# Confirm deletion of server
+#80# 서버 삭제 확인
 #81# 뒤로
 #82# 이름
 #83# IP
-#84# Port
+#84# 포트
 #85# 암호
 #86# 삭제
 #87# 참여
 #88# 저장
-#89# Edit
+#89# 수정
 #90# 언어
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
-#94# Local Vel.
-#95# Grid
+#91# 일시정지
+#92# 회전 제어
+#93# 시점 초기화
+#94# 국부 속도
+#95# 격자
 #96# 거래
 #97# 건설
 #98# 해체
@@ -112,15 +112,15 @@
 #110# 선택한 팩션을 우호적으로
 #111# 선택한 팩션을 적대적으로
 #112# 적대적 함선 생성
-#113# Add AI to the ship
-#114# Auto pilot
+#113# 이 함선을 AI가 통제
+#114# 자동 항해
 #115# PHYSICS
-#116# 선택한 함선 삭제
+#116# 선택한 대상 삭제
 #117# Disable orbital mechanics
 #118# Place trajectory planner
-#119# Debris throw mode
+#119# 데브리 투척 모드
 #120# 적용
-#121# Discard
+#121# 철회
 #122# 아무키나 누르세요
 #123# 새로운 단축키 지정
 #124# 거리
@@ -139,7 +139,7 @@
 #137# 건강
 #138# 허기
 #139# 사기
-#140# GETTING STARTED
+#140# 시작
 #141# 아직 튜토리얼이 완성되지 않았습니다. 커뮤니티 멤버를 통해 가이드를 볼 수 있습니다.
 #142# 가이드 열기
 #143# 거래
@@ -154,27 +154,27 @@
 #152# 관성 모멘트
 #153# 모듈 질량
 #154# 전력 저장 모듈과 연결되지 않음
-#155# Power consumption
+#155# 전력 소모
 #156# 분리
 #157# 결합
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - 수리
-#167# Right click - 건설
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
+#158# 이동하려면 드래그
+#159# 우 클릭 : 판매
+#160# 구매 : 소유한 컨테이너로 드래그
+#161# 이동하려면 드래그
+#162# 특정량을 구매하려면 Shift키를 누르세요
+#163# 구매하려면 드래그
+#164# 저장 타입 불일치(액체용 / 고체용)
+#165# Ctrl+RMB - 해체
+#166# 우 클릭 - 수리
+#167# 우 클릭 - 건설
+#168# 우 클릭 - show content
+#169# 우 클릭 - Assign hotkey
 #170# 질량
 #171# 사출
-#172# Right Click
-#173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-#175# Ctrl + Right click - Deconstruct
+#172# 우 클릭
+#173# 단축키 초기화
+#174# Ctrl +우 클릭 - 해체
+#175# Ctrl + 우 클릭 - 해체
 #176# 탄소
 #177# 알루미늄
 #178# 실리콘
@@ -189,13 +189,13 @@
 #187# 수소
 #188# 제논
 #189# 얼음
-#190# Fullerite
+#190# 풀러라이트
 #191# 듀테륨
 #192# 우라늄
 #193# 로켓
 #194# 전력
 #195# 식량
-#196# There is no resource with name
+#196# 해당하는 자원이 없음
 #197# 건설 메뉴를 열 수 없음
 #198# 이 함선에는 공학 연구소가 없음
 #199# 식량 고갈
@@ -216,31 +216,31 @@
 #214# 아무런 대상도 선택되지 않음
 #215# 함선을 선택하세요
 #216# 대상을 선택하세요
-#217# Hotkeys:
+#217# 단축키 :
 #218# HotkeysNames:
 #219# Left:
-#220# Only server can do this
+#220# 서버에서만 할 수 있습니다.
 #221# 저장됨
 #222# 저장 실패
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
-#236# Factors
+#223# 내부 오류로 인한 저장 실패
+#224# 크레딧 부족
+#225# 함선들은 도킹 될 것 입니다.
+#226# 재고 부족
+#227# 거래자가 필요로 하지 않습니다.
+#228# 저장공간이 가득차 팔 수 없습니다.
+#229# 개의
+#230# 을(를) 판매
+#231# 개의
+#232# 을(를) 구매
+#233# 크레딧 부족 :
+#234# 인양됨
+#235# 인양할 공간이 부족
+#236# 변수(인수)
 #237# 항성 질량
 #238# 행성 질량
-#239# Engine Thrust
+#239# 엔진 추력
 #240# 연료 소비량
-#241# Reaction Wheel Torque
+#241# 반작용 휠 토크
 #242# 궤도 정보
 #243# 궤도
 #244# 위치
@@ -248,5 +248,5 @@
 #246# 궤도 최근점
 #247# 궤도 이심률
 #248# 공전 주기
-#249# Tang. velocity
-#250# Ang. velocity
+#249# Tang. 속도
+#250# Ang. 속도
