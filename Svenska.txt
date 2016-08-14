@@ -185,16 +185,16 @@
 #183# Nickel
 #184# Koppar
 #185# Niob
-#186# Oxygen
-#187# Hydrogen
+#186# Syre
+#187# Väte
 #188# Xenon
 #189# Is
 #190# Fullerite
 #191# Deuterium
 #192# Uran
 #193# Raket
-#194# Energi
-#195# Livsmedel
+#194# Kraft
+#195# Mat
 #196# There is no resource with name
 #197# Can't open build menu
 #198# The current ship doesn't have an engineering bay
