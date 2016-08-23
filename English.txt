@@ -158,7 +158,7 @@
 #156# Detach
 #157# Attach
 #158# Drag to transfer
-#159# Right click: cell
+#159# Right click: Sell
 #160# Buy: drag and drop to own container
 #161# Drop to transfer
 #162# Hold shift to specify amount
