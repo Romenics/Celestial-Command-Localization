@@ -226,7 +226,7 @@
 #224# Nedostatek kreditů.
 #225# Lodě musí být zadokovány do sebe
 #226# Nákladový prostor je prázný
-#227# Tento obchodní nemá v poptávce
+#227# Tento obchodník nemá v poptávce
 #228# Nelze prodat. Nákladový prostor je plný
 #229# jednotek
 #230# bylo prodáno za
