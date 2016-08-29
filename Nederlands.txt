@@ -236,17 +236,17 @@
 #234# geborgen
 #235# Niet genoeg ruimte om te bergen
 #236# Factors
-#237# Star Mass
-#238# Planet Mass
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
+#237# Massa Ster
+#238# Massa Planeten
+#239# Stuwkracht Motoren
+#240# Brandstofverbruik
+#241# Koppelmoment Reactiewiel
+#242# ORBITALE PARAMETERS
+#243# Traject
+#244# Positie
 #245# Apoapsis
 #246# Periapsis
-#247# Eccentricity
-#248# Orbital period
-#249# Tang. velocity
-#250# Ang. velocity
+#247# Eccentriciteit
+#248# Orbitale periode
+#249# Tang. snelheid
+#250# Ang. snelheid
