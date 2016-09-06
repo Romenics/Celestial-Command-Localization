@@ -1,0 +1,252 @@
+
+#0# Start-server
+#1# Bli med multiplayer
+#2# Instillinger
+#3# Utviklere
+#4# Avslutt
+#5# Fortsett
+#6# Pause
+#7# Instillinger
+#8# Lagre
+#9# Avslutt
+#10# Respawn
+#11# tidlig tilgang
+#12# Spillet er ikke ferdig ennå, men blir aktivt utviklet. Besøk bloggen i steam community hub for mer informasjon
+#13# Nyheter
+#14# Diskusjoner
+#15# Guider
+#16# To-Do List
+#17# Er du Sikker?
+#18# Avslutt
+#19# Tilbake
+#20# Direct Connect
+#21# Steam Connect (kommer snart)
+#22# Utviklere
+#23# Dette spillet blir utviklet av tre venner som heter Artaani, Riya og Romenics. Besøk bloggen i steam community hub for mer informasjon
+#24# Lagre
+#25# Standard
+#26# Apply
+#27# AUDIO
+#28# Totalt
+#29# Music
+#30# GAME
+#31# Vis Hjelp
+#32# Vis tid i chat
+#33# Sandbox-modus
+#34# Swap museknappene
+#35# Auto lagre intervall
+#36# GRAFISK
+#37# Full skjerm
+#38# Tekstur kvalitet
+#39# Anti-aliasing
+#40# V-sync
+#41# Oppløsning
+#42# Trykk en tast for å Binde Eller ESC for Å avbryte
+#43# Lagre
+#44# Standard
+#45# HURTIGTASTER
+#46# VELG VERDEN
+#47# NAVN
+#48# SAVE DATO
+#49# GAME TIME
+#50# VERSION
+#51# CREATE VERDEN
+#52# Bekreft sletting av verden
+#53# Tilbake
+#54# Slett
+#55# PORT
+#56# passord
+#57# MAX SPILLERE
+#58# SLETT
+#59# LOAD
+#60# LASTER
+#61# Kobler til ...
+#62# Navn på verden
+#63# PORT
+#64# PASSORD
+#65# MAX SPILLERE
+#66# sandkassemodus
+#67# STASJONER BELØP
+#68# FIENDER BELØP
+#69# asteroider BELØP
+#70# Ny verden
+#71# TILBAKE
+#72# START GAME
+#73# Bli med multiplayer
+#74# IP
+#75# Port
+#76# Pass
+#77# Bli med
+#78# Velg serveren
+#79# Legg til i favoritter
+#80# Bekreft sletting av serveren
+#81# Tilbake
+#82# Navn
+#83# IP
+#84# Port
+#85# passord
+#86# Slett
+#87# Bli med
+#88# Lagre
+#89# Edit
+#90# Språk
+#91# Pause
+#92# Lock rot.
+#93# Reset pan
+#94# Local VEL.
+#95# Grid
+#96# Trade
+#97# BUILD
+#98# dekonstruere
+#99# sandkasse TOOLS
+#100# LEGG RESSURSER
+#101# Oxygen
+#102# Hydrogen
+#103# Xenon
+#104# Missile
+#105# Strøm
+#106# Food
+#107# Crew
+#108# AI
+#109# Duplicate valgt skip
+#110# Set faction til venn
+#111# Set faction til fienden
+#112# Lag et fiendtlig skip
+#113# Legg AI til skipet
+#114# Auto pilot
+#115# FYSIKK
+#116# Fjern valgte skip
+#117# Deaktiver orbital mekanikk
+#118# Place bane planlegger
+#119# Debris kaste modus
+#120# Apply
+#121# Forkast
+#122# trykke på en tast
+#123# Sett ny hurtigtast
+#124# Avstand
+#125# Relativ hastighet
+#126# Spiller
+#127# Ping
+#128# Tilgjengelige moduler
+#129# Storage
+#130# Produksjon
+#131# Strøm
+#132# Diverse
+#133# Våpen
+#134# Turrets
+#135# Propulsion
+#136# Crew Medlemsinformasjon
+#137# Health
+#138# Food
+#139# Moral
+#140# KOMME I GANG
+#141# Siden opplæringen ikke er klar ennå, anbefaler vi å sjekke ut denne guiden fra et community medlem
+#142# ÅPEN GUIDE
+#143# TRADING
+#144# NAVN
+#145# BELØP
+#146# PRIS
+#147# ETTERSPØRSEL
+#148# SUPPLY
+#149# PREV SHIP
+#150# NESTE SHIP
+#151# Total MASS
+#152# treghetsmoment
+#153# MODULE MASS
+#154# Ikke koblet til strøm lagring
+#155# Strømforbruk
+#156# Løsne
+#157# Fest
+#158# Dra for å overføre
+#159# Høyreklikk: Selg
+#160# Kjøp: dra og slipp til egen container
+#161# Drop å overføre
+#162# Hold shift å angi mengde
+#163# Drop til å kjøpe
+#164# Storage -type (for væske / for solid)
+#165# Ctrl + RMB - dekonstruere
+#166# Høyreklikk - Reparasjon
+#167# Høyreklikk - Konstruer
+#168# Høyreklikk - Vis innhold
+#169# Høyreklikk - Tilordne hurtigtast
+#170# Mass
+#171# eject
+#172# Høyreklikk
+#173# Reset hurtigtast
+#174# Ctrl + Høyreklikk - dekonstruere
+#175# Ctrl + Høyreklikk - dekonstruere
+#176# Carbon
+#177# Aluminium
+#178# Silicon
+#179# Silver
+#180# Titanium
+#181# Iron
+#182# Cobalt
+#183# Nickel
+#184# Kobber
+#185# Niobium
+#186# Oxygen
+#187# Hydrogen
+#188# Xenon
+#189# Ice
+#190# fullerite
+#191# Deuterium
+#192# Uran
+#193# Rocket
+#194# Strøm
+#195# Food
+#196# There is no resource with name
+#197# Can't open build menu
+#198# The current ship doesn't have an engineering bay
+#199# Ut av mat
+#200# kan ikke finne noe mat på skipet!
+#201# Starved død
+#202# har sultet i hjel!
+#203# Warning
+#204# Last command module cannot be deconstructed
+#205# Automatic movement stopped due manual control
+#206# Warp drive is not ready yet
+#207# Cannot fire
+#208# Rocket launcher is not connected to ammo storage
+#209# Cannot fire
+#210# No ammo in connected storage
+#211# Auto pilot - aktivert
+#212# Auto pilot - deaktivert
+#213# Velg et skip
+#214# Ingen objekt valgt
+#215# Velg et skip
+#216# Velg et objekt
+#217# Hurtigtaster:
+#218# HotkeysNames:
+#219# Venstre:
+#220# Kun server kan gjøre dette
+#221# Spill lagret
+#222# LAGRE FEIL
+#223# Saving ble ikke fullført på grunn av intern feil.
+#224# Utilstrekkelige studiepoeng
+#225# Ships bør være forankret sammen
+#226# Storage er tom
+#227# Dette trader ikke krever
+#228# Kan ikke selge den. Lagringen er full
+#229# enheter
+#230# ble solgt for
+#231# enheter
+#232# ble kjøpt for
+#233# Utilstrekkelige studiepoeng:
+#234# berget
+#235# Ikke nok plass til å berge
+#236# Factors
+#237# stjerne Mass
+#238# Planet Mass
+#239# Engine Thrust
+#240# drivstofforbruk
+#241# Reaction Wheel Torque
+#242# baneparametre
+#243# Mønster
+#244# Beliggenhet
+#245# Apoapsis
+#246# Periapsis
+#247# eksentrisitet
+#248# Orbital periode
+#249# Tang. hastighet
+#250# Ang. hastighet
