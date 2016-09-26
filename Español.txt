@@ -250,3 +250,132 @@
 #248# Periodo orbital
 #249# Velocidad tang.
 #250# Velocidad ang.
+#251# Open build menu
+#252# Deconstruct selected module
+#253# Switch control to the previous available ship
+#254# Switch control to the next available ship
+#255# Reset time scale
+#256# Decrease time scale
+#257# Increase time scale
+#258# Show Storages
+#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
+#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
+#261# Show Connectors
+#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
+#263# Mounting Points
+#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
+#265# Display center of mass for the current ship
+#266# Lock RCS
+#267# Stabilize rotation of the ship by using its engines
+#268# If activated - select your ship and click right mouse button to send a movement order
+#269# Show HP bars
+#270# Temporarily show the integrity of the ship
+#271# Rotate locker
+#272# Align view rotation with observed object
+#273# Focus view
+#274# Focus view at selected object
+#275# Reset pan
+#276# Reset view position after it was changed by dragging with right mouse button
+#277# Show velocity
+#278# Display relative velocity (orange) and direction (white) to selected object
+#279# Toggle grid
+#280# Display rectangular grid relative to the star
+#281# Current power
+#282# Maximum power capacity
+#283# Power input
+#284# Power output
+#285# Sum of power input and output
+#286# Total amount of hydrogen
+#287# Total amount of oxygen
+#288# Show orbital parameters for selected object
+#289# Faction
+#290# Rename the ship
+#291# Mass of the entire structure
+#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
+#293# Including the mass of content in case if this is a cargo bay or container
+#294# Structural integrity
+#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
+#296# Fill selected storage with Oxygen
+#297# Fill selected storage with Hydrogen
+#298# Fill selected storage with Xenon
+#299# Fill selected storage with rockets
+#300# Fill selected storage with ammo
+#301# Fully charge selected Power Storage
+#302# Fill selected storage with food
+#303# Add crew member to selected module
+#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
+#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
+#306# The ship will automatically fly to selected object. Second click will disable autopilot.
+#307# Remove entire ship or asteroid
+#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
+#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
+#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
+#311# Trader ready to BUY these goods
+#312# Trader ready to SELL these goods
+#313# Change name
+#314# Change rank
+#315# Unfinished attribute
+#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
+#317# Unfinished attribute
+#318# Fill selected storage with Hydrogen
+#319# Add crew member to selected module
+#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
+#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
+#322# Status of the trajectory
+#323# Position relative to the planet or star
+#324# Distance from the center of planet to the farthest point on the orbit
+#325# Distance from the center of planet to the closest point on the orbit
+#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
+#327# The orbital period is the time during which the body makes one rotation around its orbit
+#328# Angular velocity (in degree per second)
+#329# ORBITAL PARAMETERS
+#330# Cargo Container 2
+#331# Cargo Container 1
+#332# Chemical Engine
+#333# Liquid Container 1
+#334# Nuclear Reactor
+#335# Power Storage
+#336# Engineering Bay
+#337# Radar
+#338# Solar Panels
+#339# Turret Platform 1
+#340# Turret Platform 2
+#341# Energy Cannon
+#342# Ballistic Cannon 1
+#343# Corridor 4 Junction
+#344# Laser 1
+#345# Miner
+#346# Liquid Container 2
+#347# Cargo Container 3
+#348# Docking Port
+#349# Grabber
+#350# Laser 2
+#351# Fuel Generator
+#352# Ballistic Cannon 2
+#353# Corridor
+#354# Corridor 3 Junction
+#355# Command Module
+#356# Corridor Corner
+#357# Reaction Wheel
+#358# Warp Drive
+#359# Frame 2x1 Adapter
+#360# RCS Engine
+#361# Liquid Container 3
+#362# Mining Laser
+#363# Liquid Container 4
+#364# Command Module 2
+#365# Shield Generator
+#366# Cargo Gate
+#367# Tractor Beam
+#368# Ion Engine
+#369# Structure beam
+#370# Rocket Launcher
+#371# 2x1 Adapter
+#372# Shipyard
+#373# Hydroponics
+#374# Shipyard
+#375# Docking
+#376# Trade
+#377# Missions
+#378# Show available missions
+#379# Request docking
