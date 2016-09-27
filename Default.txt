@@ -275,7 +275,7 @@
 #273# Focus view
 #274# Focus view at selected object
 #275# Reset pan
-#276# Reset view position after it was changed by dragging with right mouse button
+#276# Reset camera view to focus on the selected object
 #277# Show velocity
 #278# Display relative velocity (orange) and direction (white) to selected object
 #279# Toggle grid
