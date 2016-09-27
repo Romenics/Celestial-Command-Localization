@@ -275,7 +275,7 @@
 #273# Focus camera
 #274# Focus camera op het geselecteerde object
 #275# Reset pan
-#276# Reset camerapositie (nadat deze was veranderd door met de rechtermuisknop te slepen)
+#276# Reset camerapositie en focus op het geselecteerde object
 #277# Toon snelheid
 #278# Toon relatieve snelheid (oranje) en richting (wit) tot het geselecteerde object
 #279# Toon / verberg rooster
