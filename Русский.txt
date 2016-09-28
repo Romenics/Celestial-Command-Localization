@@ -250,140 +250,140 @@
 #248# Орб. период
 #249# Танг. скорость
 #250# Угловая скорость
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
-#337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
-#344# Laser 1
-#345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
-#350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
+#251# Открыть меню постройки
+#252# Разобрать выбранный модуль
+#253# переключить управление на предыдущий достуный корабль
+#254# переключить управление на следующий достуный корабль
+#255# Сброс шкалы времени
+#256# Уменьшить шкалы времени
+#257# Увеличить шкалы времени
+#258# показать хранилище
+#259# показать содержимое всех контейнеров данного корабля. Содержимое не может быть перемещено между конейнерами перестаскиванием с помощью левой кнопки мыши
+#260# Показать команду данного корабля. Члены экипажа могут быть перемещены с помощью перетаскивания
+#261# Показать все связи
+#262# Отображение ресурсов текущего корабля. Если модуль требует конкретных ресурсов, он должен быть подключен с помощью этого режима. Соединители могут быть присоединены к модулям перетаскиванием.
+#263# Точки крепления
+#264# Отобразить точки крепления для текущего корабля. Точки крепления могут быть соединены или разъединены левой кнопкой мыши.
+#265# Отобразить центр масс для данного корабля
+#266# Заблокировать RCS
+#267# Стабилизация вращеня корабля с помощью двигателя
+#268# Если активно - выбрать корабль и кликнуть правой кнопкой мыши чтобы послать приказ на движение
+#269# Отобразить полоску HP
+#270# Временно показать целостность судна
+#271# Привязать вращение камеры к кораблю
+#272# Выровнять вращение камеры относительно наблюдаемого объекта
+#273# Сфокусировать камеру
+#274# Сфокусировать камеру на выбранном объекте
+#275# Сброс камеры
+#276# Сбросить камеру, чтобы зафиксироваться на выбранном объекте
+#277# Показать скорость
+#278# Отобразить относительную скорость (оранжевая) и направление (белое) к выбранному объекту
+#279# Переключить сетку
+#280# Отобразить прямоугольную сетку относительно звезды
+#281# Текущий запас энергии
+#282# Максимальная мощность
+#283# Вырабатывается энергии 
+#284# Потребляется энергии 
+#285# Суммарная выработка и потребление энергии
+#286# Общее количество водорода
+#287# Общее количество кислорода
+#288# Показать орбитальные параметры для выбранного объекта
+#289# фракция
+#290# Переименовать корабль
+#291# Масса всей конструкции
+#292# этот параметр определяеь сколько силы вам необходимо чтобы вращать корабль. Чтобы уменьшить этот показатель, самые тяжелые модули должны быть расположены ближе к центру.
+#293# Включая массу содержимого в случае если это грузовой отсек или контейнер
+#294# Cтруктурная целостность
+#295# включить/отключить ручное управление выбранной оружейной группы. Нажмите удерживая Left Shift для переключения в автоматический режим.
+#296# Заполнить выбранное хранилище кислородом 
+#297# Заполнить выбранное хранилище водород 
+#298# Заполнить выбранное хранилище ксенон 
+#299# Заполнить выбранное хранилище ракетами 
+#300# Заполнить выбранное хранилище боеприпасами 
+#301# Полностью зарядить выбранное хранилище энергии
+#302# Заполнить выранное хранилище едой
+#303# Добавить члена команды к выбранному модулю
+#304# Создать вражеский корабль в произвольной точке возле начальной планеты, который автоматически будет атаковать корабль игрока.
+#305# Добавить искуственный интелект выбранному короблю. он будет присоеденнён к дружественной фракции. Корабль будет следовать за кораблем игрока.
+#306# Корабль автоматически полетит к выбранному объекту. Второй клик отключит автопилот.
+#307# Удалить весь корабль или астероид
+#308# ВНИМАНИЕ - это действие не может быть отменено для данного мира. Отключает гравитацию и останавливает все объекты (только для тестирования)
+#309# (Неоконченная функция) Нажмите кнопку и кликните где либо чтобы создать орбитальный планировщик. Положение и скоростные узлы могут быть перещены левой кнопкой мыши. Щелкните правой кнопкой мыши - удалить узел.
+#310# Если активно, щелчок левой кнопкой мыши где либо создаст мусор. Shift+клик разбросает мусор с произвольной скоростью.
+#311# Торговец готов покупить эти товары
+#312# Торговец готов продать эти товары
+#313# Изменить имя
+#314# Изменить ранк
+#315# незаконченный атрибут
+#316# Члены экипажа будут автоматически потреблять пищу из любого грузового отсека, когда это значение опустится ниже 75% (этот показатель снижается на 25% за 2 минут)
+#317# незаконченный атрибут
+#318# заполнить выбранное хранилище водородом
+#319# добавить члена команды к выбранному модулю
+#320# Открыть торговый интерфейс. (Примечание: Для торговли со станцией, торговый интерфейс должен быть открыт, ваш корабль должен быть состыкован со станцией и оба стыковочных порта должны быть активны. Для того, чтобы купить что-то со станции, открытого грузовой интерфейс, а затем перетащите желаемый товар со станции к хранилищу. Для того, чтобы продать что-то - щелкните правой кнопкой мыши на товары в хранилище)
+#321# Открыть меню постройки предоставленное выбранно верфью. До тех пор пока ваш корабль находится внутри верфи вы можете покупать и продавать модули за кредиты.
+#322# Состояние траектории
+#323# Позиция относительно планеты или звезды
+#324# дистанция от центра планеты до дальнейшей точки на орите
+#325# дистанция от центра планеты до ближайшей точки на орите
+#326# Эксцентриситет определяет форму орбиты (е = 0) круг (0 <е <1) Эллипс (е = 1) парабола (е> 1) гипербола
+#327# рбитальный период это время в течении которого тело совершает один оборот вокруг своей орбиты
+#328# Угловая скорость (в градусах в секунду)
+#329# ОРБИТАЛЬНЫЕ ПАРАМЕТРЫ
+#330# Грузовой контейнер 2
+#331# Грузовой контейнер 1
+#332# Химический Двигатель
+#333# Контейнер для жидкости 1
+#334# Ядерный реактор
+#335# Хранилище энергии
+#336# Инженерный отсек
+#337# Радар
+#338# Солнечные панели
+#339# Орудийная платформа 1
+#340# Орудийная платформа 2
+#341# Энергетическая пушка
+#342# Балистическая пушка 1
+#343# Коридор 4 стык
+#344# Лазер 1
+#345# Шахтерский лазер
+#346# Контейнер для жидкости 2
+#347# Грузовой контейнер 3
+#348# Стыковочный порт
+#349# Захват
+#350# Лазер 2
+#351# Генератор топлива
+#352# Балистическая пушка 2
+#353# Коридор
+#354# Коридор 3 стык 
+#355# Командный модуль
+#356# Угол коридора 
+#357# Маховик
+#358# Варп двигатель
+#359# Рамка 2x1 адаптер
+#360# RCS двигатель
+#361# Контейнер для жидкости 3
+#362# Добывающий лазер
+#363# Контейнер для жидкости 4
+#364# командный модуль 2
+#365# Генератор щита
+#366# Грузовые ворота
+#367# Транспортный луч
+#368# Ионовый двигатель
+#369# Строительный луч
+#370# Пусковая установка
+#371# 2x1 адаптер
+#372# Верфь
+#373# Гидропоника
+#374# Верфь
+#375# Стыковка
+#376# Торговать
+#377# Миссии
+#378# Показать доступные миссии
+#379# Запрос стыковки
+#380# Обломки
+#381# ЗАДАТЬ НОВУЮ ФРАКЦИЮ ДЛЯ КОПИИ КОРАБЛЯ
+#382# союзник
+#383# враг
+#384# не изменять фракцию  
+#385# Следующая копия корабля будет в той же фракции что и оригинальный корабль
+#386# Следующая копия корабля будет в союзнической фракции
+#387# Следующая копия корабля будет во вражеской фракции
