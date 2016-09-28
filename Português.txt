@@ -380,3 +380,10 @@
 #378# Exibir missões disponíveis
 #379# Solicitar docagem
 #380# Detrito
+#381# SET NEW FACTION FOR DUPLICATED SHIP
+#382# Ally
+#383# Enemy
+#384# Do not change the faction
+#385# Next duplicated ship will have the same faction as original ship
+#386# Next duplicated ship will have ally faction
+#387# Next duplicated ship will have enemy faction
