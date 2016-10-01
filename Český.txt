@@ -325,7 +325,7 @@
 #323# Pozice relativní k planetě nebo hvězdě
 #324# Vzdálenost od centra planety k nejvzdálenějšímu bodu orbity
 #325# Vzdálenost od centra planety k nejbližšímu bodu orbity
-#326# Ekcentričnost definuje tvar orbity (e=0)kruh (0<e<1)elipsa (e=1)parabola (e>1)hyperbola
+#326# Excentricita definuje tvar orbity (e=0)kruh (0<e<1)elipsa (e=1)parabola (e>1)hyperbola
 #327# Orbitální perioda je čas během kterého těleso dokončí jednu rotaci kolem její orbity
 #328# Úhlová rychlost (ve stupňích za sekundu)
 #329# ORBITÁLNÍ PARAMETRY
@@ -369,7 +369,7 @@
 #367# Tažný paprsek
 #368# Iontový Pohon
 #369# Strukturální nosník
-#370# Rocket Launcher
+#370# Raketomet
 #371# 2x1 Adapter
 #372# Loděnice
 #373# Hydroponická zahrada
@@ -380,7 +380,7 @@
 #378# Zobrazit dostupné mise
 #379# Požadovat povolení k zadokování
 #380# Trosky
-#381# NASTAVIT NOVOU FRAKCI PRO DUPLOVANOU LOĎ
+#381# NASTAVIT NOVOU FRAKCI PRO DUPLIKOVANOU LOĎ
 #382# Spojenec
 #383# Nepřítel
 #384# Neměnit frakci
