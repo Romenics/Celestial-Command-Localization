@@ -380,11 +380,11 @@
 #378# Toon beschikbare missies
 #379# Verzoek koppeling
 #380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
+#381# VERANDER FACTIE VOOR GEKOPIËERD SCHIP
+#382# Geallieerd
+#383# Vijandelijk
+#384# Verander de factie niet
+#385# Volgend gekopiëerd schip krijgt dezelfde factie als het origineel
+#386# Volgend gekopiëerd schip wordt van de geallieerde factie
+#387# Volgend gekopiëerd schip wordt van de vijandelijke factie
+#388# Asteroïde
