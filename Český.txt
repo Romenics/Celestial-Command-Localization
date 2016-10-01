@@ -116,7 +116,7 @@
 #114# Auto-pilot
 #115# FYZIKA
 #116# Odstranit vybranou loď
-#117# vypnout orbitání mechaniky
+#117# Vypnout orbitání mechaniky
 #118# Umístit plánovač trajektorie
 #119# Mód házení trosek
 #120# Aplikovat
@@ -197,13 +197,13 @@
 #195# Jídlo
 #196# Není zde žádna surovina s názvem
 #197# Nelze otevřít stavební menu
-#198# Tato loď nemá Inženýrský modul.
+#198# Tato loď nemá Strojírenský modul.
 #199# Došlo jídlo
 #200# nemůže na lodi nalézt žádné jídlo!
 #201# Vyhladověl k smrti
 #202# vyhladověl k smrti!
 #203# Varování
-#204# Nemůžeš rozebrat poslední Řídicí modul.
+#204# Nemůžeš rozebrat poslední Velitelský modul.
 #205# Automatický pohyb ustal kvůli manuálnímu řízení.
 #206# Warp drive ještě není připraven
 #207# Nemůže střílet
@@ -251,140 +251,140 @@
 #249# Tang. rychlost
 #250# Úhl. rychlost
 #251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
+#252# Rozebrat vybraný modul
+#253# Přepnout kontrolu na předchozí dostupnou loď
+#254# Přepnout kontrolu na další dostupnou loď
+#255# Resetovat časové měřítko
+#256# Snížit časové měřítko
+#257# Zvýšit časové měřítko
+#258# Zobrazit náklad
+#259# Zobrazit obsah všech nákladních kontejnerů na této lodi. Obsah lodi může být přesunut mezi kontejnery pomocí držení a upustění levého tlačítka myši. Při držení spolu s Levým Shiftem můžete přesunuout specifické množství surovin.
+#260# Zobrazit posádku této lodě. Posádka může být přesunuta pomocí držení a upustění tlačítka myši.
+#261# Zobrazit konektory
+#262# Zobraz konektory surovin na této lodi. Pokud modul vyžaduje specifické suroviny, měl by k nim být připojen pomocí tohoto módu. Konektory mohou být připojeny k modulům pomocí držení a upustění tlačítka myši.
+#263# Upevňovací body
+#264# Zobrazit upevňovací body této lodě. Upevňovací body mohou být připojeny a odpojeny pomocí Levého tlačítka myši.
+#265# Zobrazit těžiště této lodě.
+#266# Zamknout RCS
+#267# Stabilizovat rotaci lodě pomocí jejích motorů.
+#268# Pokud aktivován - vybyr svoji loď a Pravým klknutím myši zadejte pokyn k pohybu.
+#269# Zobrazit HP bary
+#270# Dočasně zobraz integritu lodi.
+#271# Zámek rotace
+#272# Vyrovnat rotaci pohledu s pozorovaným objektem
+#273# Zaměřit pohled
+#274# Zaměřit pohled na vybraný objekt
+#275# Resetovat nahnutí kamery
+#276# Resetovat pohled kamery a zaměřit na vybraný objekt
+#277# Zobrazit rychlost
+#278# Zobrazit relativní rychlost (oranžová) a směr k vybranému objektu.
+#279# Zapnout/Vypnout mřížku
+#280# Zobraz Display obdélníkovou mřížku vzhledem ke hvězdě
+#281# Současná urověň energie
+#282# Maximální kapacita energie
+#283# Vstup Energie
+#284# Výstup Energie
+#285# Součet vstupu a výstupu Energie
+#286# Celkévé množství vodíku
+#287# Celkévé množství kyslíku
+#288# Zobrazit orbitální parametry vybraného objektu
+#289# Frakce
+#290# Přejmenovat loď
+#291# Hmotnost celé struktury
+#292# Tento parametr určuje kolik síly potřebujete pro rotaci lodě. Ke snížení této hodnoty byste měli umístit nejtěžší moduly vaší lodi co nejblíže k jějímu těžišti.
+#293# Zahrnovat hmotnost obsahu v případě, že je toto nákladový prostor nebo kontejner
+#294# Strukturální integrita
+#295# Zapnout/Vypnout manuální ovládání vybrané skupiny zbraní. Stiskněte Levý shift pro přepnutí na Automatický mód.
+#296# Zaplnit vybraný nákladový prostor Kyslíkem
+#297# Zaplnit vybraný nákladový prostor Vodíkem
+#298# Zaplnit vybraný nákladový prostor Xenonem
+#299# Zaplnit vybraný nákladový prostor Raketami
+#300# Zaplnit vybraný nákladový prostor Municí
+#301# Plně nabít vybrané Úložiště Energie
+#302# Zaplnit vybraný nákladový prostor Jídlem
+#303# Přidat posádku do vybraného modulu
+#304# Vytvořit nepřátelskou loď, která automaticky napadne hráčskou loď, na náhodné pozici kolem startovní planety.
+#305# Přidat Umělou Inteligenci do vybrané lodě. Tato loď bude následně přiřazena ke spřátelené frakci a bude následovat loď hráče.
+#306# Loď automaticky poletí k vybranému objektu. Druhé kliknutí vypne autopilota.
+#307# Odebrat celou loď nebo asteroid.
+#308# POZOR - Tato akce nemůže být později změněna pro tento svět. Vypne gravitaci a zastaví všechny objekty (tato funkce je pouze pro testovací účely)
+#309# (Nedokončená funkce) Zmáčkněte tlačítko a kamkoliv klikněte pro orbitální plánování. Body Pozice a Rychlosti mohou být posunuty Levým tlačitkem myši. Právé tlačítko - smazání plánovacího bodu.
 #310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
+#311# Obchodník je připraven KOUPIT pouze tohle zboží
+#312# Obchodník je připraven PRODAT pouze tohle zboží
+#313# Změnit jméno
+#314# Změnit hodnost
+#315# Nedokončená vlastnost
+#316# Členové posádky budou automaticky konzumovat jídlo z jakéhokoliv nákladového prostoru pokud je tato hodnota pod 75%. (Tato hodnota bude snížena o 25% po 2 minuty)
+#317# Nedokončená vlastnost
+#318# Zaplnit vybraný nákladový prostor Vodíkem
+#319# Přidat člena posádky do vybraného modulu
+#320# Otevřený obchodní interface. (Poznámka: K tomu, abyste mohli obchodovat se stanicí, by měl být obchodní interface otevřený, vaše loď zadokována ve stanici a oba dva dokovací porty aktivní. K prodeji čehokoliv z vaší lodě klikněte na váš nákladní kontejner Pravým tlačítkem.
+#321# Otevřít konstrukční menu poskytováno Loděnicí. Když je vaše loď uvnitř Loděnice, můžete prodávat a kupovat lodní moduly za kredity.
+#322# Stav trajektorie
+#323# Pozice relativní k planetě nebo hvězdě
+#324# Vzdálenost od centra planety k nejvzdálenějšímu bodu orbity
+#325# Vzdálenost od centra planety k nejbližšímu bodu orbity
+#326# Ekcentričnost definuje tvar orbity (e=0)kruh (0<e<1)elipsa (e=1)parabola (e>1)hyperbola
+#327# Orbitální perioda je čas během kterého těleso dokončí jednu rotaci kolem její orbity
+#328# Úhlová rychlost (ve stupňích za sekundu)
+#329# ORBITÁLNÍ PARAMETRY
+#330# Nákladní Kontejner 2
+#331# Nákladní Kontejner 1
+#332# Chemický Pohon
+#333# Nádrž 1
+#334# Jaderný Reaktor
+#335# Úložiště energie
+#336# Strojírenský modul
 #337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
+#338# Solární Panely
+#339# Věžová Platforma 1
+#340# Věžová Platforma 2
+#341# Energetické Dělo
+#342# Balistické Dělo 1
+#343# Chodba 4 Křižovatka
 #344# Laser 1
 #345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
+#346# Nádrž 2
+#347# Nákladní Kontejner 3
+#348# Dokovací Port
+#349# Drapák
 #350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
+#351# Generátor Paliva
+#352# Balistické Dělo 2
+#353# Chodba
+#354# Chodba 3 Křižovatka
+#355# Velitelský Modul
+#356# Rohová Chodba
+#357# Gyroskop
+#358# Warpový Pohon
+#359# Kostra 2x1 Adaptéru
+#360# RCS Pohon
+#361# Nádrž 3
+#362# Těžební Laser
+#363# Nádrž 4
+#364# Velitelský Modul 2
+#365# Generátor Štítu
 #366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
+#367# Tažný paprsek
+#368# Iontový Pohon
+#369# Strukturální nosník
 #370# Rocket Launcher
 #371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
+#372# Loděnice
+#373# Hydroponická zahrada
+#374# Loděnice
+#375# Dokování
+#376# Obchod
+#377# Mise
+#378# Zobrazit dostupné mise
+#379# Požadovat povolení k zadokování
+#380# Trosky
+#381# NASTAVIT NOVOU FRAKCI PRO DUPLOVANOU LOĎ
+#382# Spojenec
+#383# Nepřítel
+#384# Neměnit frakci
+#385# Další duplikovaná loď bude mít stejnou frakci jako originál
+#386# Další duplikovaná loď bude zařazena do spojenecké frakce
+#387# Další duplikovaná loď bude zařazena do nepřátelské frakce
 #388# Asteroid
