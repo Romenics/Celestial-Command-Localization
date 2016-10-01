@@ -250,30 +250,30 @@
 #248# Periodo orbital
 #249# Velocidad tang.
 #250# Velocidad ang.
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
+#251# Abrir menú de construcción
+#252# Demoler el módulo seleccionado
+#253# Cambiar control a la anterior nave disponible
+#254# Cambiar control a la siguiente nave disponible
+#255# Resetear escala temporal
+#256# Disminuir escala temporal
+#257# Aumentar escala temporal
+#258# Monstrar almacenamiento
+#259# Muestra el contenido de todos los contenedores de la nave actual. El contenido puede moverse entre contenedores arrastrando y soltando con el botón izq. del ratón. Manteniendo Left-Shift es posible transferir una cantidad específica de recursos.
+#260# Mostrar la tripulación de la nave actual. Los miembros de la tripulación pueden moverse arrastrando y soltando.
+#261# Mostrar conexiones.
+#262# Muestra las conexiones de la nave actual. Si el módulo requiere recursos específicos, debe conectarse usando este módulo. Las conexiones puedes unirse a los módulos arrastrando y soltando.
 #263# Mounting Points
 #264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
+#265# Mostrar el centro de masa de la nave actual
+#266# Fijar RCS
+#267# estabiliza la rotación de la nave usando sus motores
+#268# Si está activo - selecciona la nave y haz click derecho para enviar una orden de movimiento.
+#269# Mostrar las barras de salud
+#270# Muestra temporalmente la integridad de la nave
 #271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
+#272# Alinear la rotación de la vista con el objeto observado
+#273# Enfocar vista
+#274# enfocar en el objeto seleccionado
 #275# Reset pan
 #276# Reset camera view to focus on the selected object
 #277# Show velocity
