@@ -310,8 +310,8 @@
 #308# POZOR - Tato akce nemůže být později změněna pro tento svět. Vypne gravitaci a zastaví všechny objekty (tato funkce je pouze pro testovací účely)
 #309# (Nedokončená funkce) Zmáčkněte tlačítko a kamkoliv klikněte pro orbitální plánování. Body Pozice a Rychlosti mohou být posunuty Levým tlačitkem myši. Právé tlačítko - smazání plánovacího bodu.
 #310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Obchodník je připraven KOUPIT pouze tohle zboží
-#312# Obchodník je připraven PRODAT pouze tohle zboží
+#311# Obchodník je připraven KOUPIT tohle zboží
+#312# Obchodník je připraven PRODAT tohle zboží
 #313# Změnit jméno
 #314# Změnit hodnost
 #315# Nedokončená vlastnost
