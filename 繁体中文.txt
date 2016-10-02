@@ -1,0 +1,390 @@
+﻿
+#0# Start server
+#1# Join multiplayer
+#2# Options
+#3# Developers
+#4# Exit
+#5# Continue
+#6# Pause
+#7# Options
+#8# Save
+#9# Exit
+#10# Respawn
+#11# EARLY ACCESS
+#12# The game is not yet complete but it is in very active development  Visit the development blog in Steam Community Hub for more information
+#13# News
+#14# Discussions
+#15# Guides
+#16# To-Do List
+#17# Are you sure?
+#18# Exit
+#19# Back
+#20# Direct Connect
+#21# Steam Connect (coming soon)
+#22# Developers
+#23# The game is being developed by three friends under the nicknames Artaani, Riya and Romenics. Visit our development blog on Steam Community Hub for further information
+#24# Save
+#25# Default
+#26# Apply
+#27# AUDIO
+#28# Total
+#29# Music
+#30# GAME
+#31# Show help
+#32# Show time in chat
+#33# Sandbox mode
+#34# Swap mouse buttons
+#35# Auto save interval
+#36# GRAPHIC
+#37# Full screen
+#38# Textures quality
+#39# Anti-aliasing
+#40# V-sync
+#41# Resolution
+#42# Press any key to bind it or ESC to cancel
+#43# Save
+#44# Default
+#45# HOTKEYS
+#46# SELECT THE WORLD
+#47# NAME
+#48# SAVE DATE
+#49# GAME TIME
+#50# VERSION
+#51# CREATE WORLD
+#52# Confirm deletion of world
+#53# Back
+#54# Delete
+#55# PORT
+#56# Password
+#57# MAX PLAYERS
+#58# DELETE
+#59# LOAD
+#60# LOADING
+#61# Connecting...
+#62# WORLD NAME
+#63# PORT
+#64# PASSWORD
+#65# MAX PLAYERS
+#66# SANDBOX MODE
+#67# STATIONS AMOUNT
+#68# ENEMIES AMOUNT
+#69# ASTEROIDS AMOUNT
+#70# New world
+#71# BACK
+#72# START GAME
+#73# Join multiplayer
+#74# IP
+#75# Port
+#76# Pass
+#77# Join
+#78# Select the server
+#79# Add to favorites
+#80# Confirm deletion of server
+#81# Back
+#82# Name
+#83# IP
+#84# Port
+#85# Password
+#86# Delete
+#87# Join
+#88# Save
+#89# Edit
+#90# Language
+#91# Paused
+#92# Lock rot.
+#93# Reset pan
+#94# Local vel.
+#95# Grid
+#96# Trade
+#97# BUILD
+#98# DECONSTRUCT
+#99# SANDBOX TOOLS
+#100# ADD RESOURCES
+#101# Oxygen
+#102# Hydrogen
+#103# Xenon
+#104# Missile
+#105# Power
+#106# Food
+#107# Crew
+#108# AI
+#109# Duplicate selected ship
+#110# Set faction to friend
+#111# Set faction to enemy
+#112# Create an enemy ship
+#113# Add AI to the ship
+#114# Auto pilot
+#115# PHYSICS
+#116# Remove selected ship
+#117# Disable orbital mechanics
+#118# Place trajectory planner
+#119# Debris throw mode
+#120# Apply
+#121# Discard
+#122# Press Any Key
+#123# Set new hotkey
+#124# Distance
+#125# Relative velocity
+#126# Player
+#127# Ping
+#128# Available modules
+#129# Storage
+#130# Production
+#131# Power
+#132# Miscellaneous
+#133# Weapons
+#134# Turrets
+#135# Propulsion
+#136# Crew Member Info
+#137# Health
+#138# Food
+#139# Morale
+#140# GETTING STARTED
+#141# Since the tutorial is not ready yet, we recommend checking out this starting guide from a community member
+#142# OPEN GUIDE
+#143# TRADING
+#144# NAME
+#145# AMOUNT
+#146# PRICE
+#147# DEMAND
+#148# SUPPLY
+#149# PREV SHIP
+#150# NEXT SHIP
+#151# TOTAL MASS
+#152# MOMENT OF INERTIA
+#153# MODULE MASS
+#154# Not connected to power storage
+#155# Power consumption
+#156# Detach
+#157# Attach
+#158# Drag to transfer
+#159# Right click: Sell
+#160# Buy: drag and drop to own container
+#161# Drop to transfer
+#162# Hold shift to specify amount
+#163# Drop to buy
+#164# Storage type mismatch (for liquid/for solid)
+#165# Ctrl+RMB - Deconstruct
+#166# Right click - Repair
+#167# Right click - Construct
+#168# Right click - Show content
+#169# Right click - Assign hotkey
+#170# Mass
+#171# eject
+#172# Right click
+#173# Reset hotkey
+#174# Ctrl + Right click - Deconstruct
+#175# Ctrl + Right click - Deconstruct
+#176# Carbon
+#177# Aluminium
+#178# Silicon
+#179# Silver
+#180# Titanium
+#181# Iron
+#182# Cobalt
+#183# Nickel
+#184# Copper
+#185# Niobium
+#186# Oxygen
+#187# Hydrogen
+#188# Xenon
+#189# Ice
+#190# Fullerite
+#191# Deuterium
+#192# Uranium
+#193# Rocket
+#194# Power
+#195# Food
+#196# There is no resource with name
+#197# Can't open build menu
+#198# The current ship doesn't have an engineering bay
+#199# Out of food
+#200# can't find any food on the ship!
+#201# Starved death
+#202# has starved to death!
+#203# Warning
+#204# Last command module cannot be deconstructed
+#205# Automatic movement stopped due manual control
+#206# Warp drive is not ready yet
+#207# Cannot fire
+#208# Rocket launcher is not connected to rocket storage
+#209# Cannot fire
+#210# No ammo in connected storage
+#211# Auto pilot - enabled
+#212# Auto pilot - disabled
+#213# Select a ship
+#214# No object selected
+#215# Select a ship
+#216# Select an object
+#217# Hotkeys:
+#218# HotkeysNames:
+#219# Left:
+#220# Only server can do this
+#221# Game saved
+#222# SAVE ERROR
+#223# Saving was not completed due internal error.
+#224# Insufficient credits
+#225# Ships should be docked together
+#226# Storage is empty
+#227# This trader does not demand
+#228# Can't sell it. Storage is full
+#229# units of
+#230# was sold for
+#231# units of
+#232# was bought for
+#233# Insufficient credits:
+#234# salvaged
+#235# Not enough storage space to salvage
+#236# Factors
+#237# Star Mass
+#238# Planet Mass
+#239# Engine Thrust
+#240# Fuel Consumption
+#241# Reaction Wheel Torque
+#242# ORBITAL PARAMETERS
+#243# Trajectory
+#244# Position
+#245# Apoapsis
+#246# Periapsis
+#247# Eccentricity
+#248# Orbital period
+#249# Tang. velocity
+#250# Ang. velocity
+#251# Open build menu
+#252# Deconstruct selected module
+#253# Switch control to the previous available ship
+#254# Switch control to the next available ship
+#255# Reset time scale
+#256# Decrease time scale
+#257# Increase time scale
+#258# Show Storage
+#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with the left mouse button. With holding Left-Shift you can transfer a specific amount of resources.
+#260# Display the crew of the current ship. Crew members can be moved using drag and drop.
+#261# Show Connectors
+#262# Display resource connectors for the current ship. If the module requires specific resources, they should be connected to the module by using this mode. Connectors can be attached to modules by using drag and drop.
+#263# Mounting Points
+#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
+#265# Display center of mass for the current ship
+#266# Lock RCS
+#267# Stabilize rotation of the ship by using its engines
+#268# If activated - select your ship and right click to send a movement order
+#269# Show HP bars
+#270# Temporarily show the integrity of the ship
+#271# Rotation locker
+#272# Align view rotation with observed object
+#273# Focus view
+#274# Focus view at selected object
+#275# Reset pan
+#276# Reset camera view to focus on the selected object
+#277# Show velocity
+#278# Display relative velocity (orange) and direction (white) to selected object
+#279# Toggle grid
+#280# Display rectangular grid relative to the star
+#281# Current power
+#282# Maximum power capacity
+#283# Power input
+#284# Power output
+#285# Sum of power input and output
+#286# Total amount of hydrogen
+#287# Total amount of oxygen
+#288# Show orbital parameters for selected object
+#289# Faction
+#290# Rename the ship
+#291# Mass of the entire structure
+#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to the center of mass.
+#293# Including the mass of content in case this is a cargo bay or container
+#294# Structural integrity
+#295# Enable \ disable manual control for the selected weapon group. Press with holding Left Shift to switch to auto mode.
+#296# Fill selected storage with Oxygen
+#297# Fill selected storage with Hydrogen
+#298# Fill selected storage with Xenon
+#299# Fill selected storage with rockets
+#300# Fill selected storage with ammo
+#301# Fully charge selected Power Storage
+#302# Fill selected storage with food
+#303# Add crew member to selected module
+#304# Create enemy ship at a random point around starting planet. It will automatically attack the player's ship.
+#305# Add Artificial Intelligence to the selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
+#306# The ship will automatically fly to the selected object. Second click will disable autopilot.
+#307# Remove entire ship or asteroid
+#308# ATTENTION - This action cannot be undone for the current world. Disables gravity and stops all objects (for testing purposes only)
+#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
+#310# If active, left mouse click somewhere in space will spawn debris. Shift+Click will throw the debris with random velocity.
+#311# Trader ready to BUY these goods
+#312# Trader ready to SELL these goods
+#313# Change name
+#314# Change rank
+#315# Unfinished attribute
+#316# Crew members will automatically consume food from any storage container when its value drops below 75% (the value is reduced by 25% every 2 minutes)
+#317# Unfinished attribute
+#318# Fill selected storage with Hydrogen
+#319# Add crew member to selected module
+#320# Open trading interface. (NOTE: In order to trade with a station, the trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
+#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
+#322# Status of the trajectory
+#323# Position relative to the planet or star
+#324# Distance from the center of planet to the farthest point on the orbit
+#325# Distance from the center of planet to the closest point on the orbit
+#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1) ellipse (e=1) parabola (e>1) hyperbola
+#327# The orbital period is the time in which the body makes one rotation around its orbit
+#328# Angular velocity (in degree per second)
+#329# ORBITAL PARAMETERS
+#330# Cargo Container 2
+#331# Cargo Container 1
+#332# Chemical Engine
+#333# Liquid Container 1
+#334# Nuclear Reactor
+#335# Power Storage
+#336# Engineering Bay
+#337# Radar
+#338# Solar Panels
+#339# Turret Platform 1
+#340# Turret Platform 2
+#341# Energy Cannon
+#342# Ballistic Cannon 1
+#343# Corridor 4 Junction
+#344# Laser 1
+#345# Miner
+#346# Liquid Container 2
+#347# Cargo Container 3
+#348# Docking Port
+#349# Grabber
+#350# Laser 2
+#351# Fuel Generator
+#352# Ballistic Cannon 2
+#353# Corridor
+#354# Corridor 3 Junction
+#355# Command Module
+#356# Corridor Corner
+#357# Reaction Wheel
+#358# Warp Drive
+#359# Frame 2x1 Adapter
+#360# RCS Engine
+#361# Liquid Container 3
+#362# Mining Laser
+#363# Liquid Container 4
+#364# Command Module 2
+#365# Shield Generator
+#366# Cargo Gate
+#367# Tractor Beam
+#368# Ion Engine
+#369# Structure beam
+#370# Rocket Launcher
+#371# 2x1 Adapter
+#372# Shipyard
+#373# Hydroponics
+#374# Shipyard
+#375# Docking
+#376# Trade
+#377# Missions
+#378# Show available missions
+#379# Request docking
+#380# Debris
+#381# SET NEW FACTION FOR DUPLICATED SHIP
+#382# Ally
+#383# Enemy
+#384# Do not change the faction
+#385# Next duplicated ship will have the same faction as original ship
+#386# Next duplicated ship will have ally faction
+#387# Next duplicated ship will have enemy faction
+#388# Asteroid
