@@ -1,390 +1,390 @@
-﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
-#4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
-#9# Exit
-#10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
-#27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
-#40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
-#55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
-#63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+
+#0# 开始游戏
+#1# 加入多人游戏
+#2# 选项
+#3# 开发者
+#4# 退出
+#5# 继续
+#6# 暂停
+#7# 选项
+#8# 保存
+#9# 退出
+#10# 重启
+#11# EA阶段
+#12# 本游戏的开发还没有完成，但更新很快，可到社区中心交流
+#13# 新闻
+#14# 讨论
+#15# 指南
+#16# 待办事项列表
+#17# 你确定吗？
+#18# 退出
+#19# 返回
+#20# 直连
+#21# STEAM连接（即将推出）
+#22# 开发人员
+#23# 这个游戏是由三个开发者（昵称Artaani, Riya 和Romenics）开发的，具体情况请到steam社区中心了解
+#24# 保存
+#25# 默认
+#26# 应用
+#27# 音乐
+#28# 总
+#29# 音乐
+#30# 游戏
+#31# 显示帮助
+#32# 显示聊天时间
+#33# 沙盒模式
+#34# 切换鼠标按钮
+#35# 自动保存时间间隔
+#36# 画面设置
+#37# 全屏
+#38# 纹理质量
+#39# 反锯齿
+#40# V-同步
+#41# 分辨率
+#42# 按任意键绑定或按Esc取消
+#43# 保存
+#44# 默认
+#45# 热键
+#46# 选择世界
+#47# 名称
+#48# 保存日期
+#49# 游戏时间
+#50# 版本
+#51# 创造世界
+#52# 确认选择世界
+#53# 返回
+#54# 删除
+#55# 接口
+#56# 密码
+#57# 最大人数
+#58# 删除
+#59# 加载
+#60# 加载中
+#61# 连接中...
+#62# 世界名称
+#63# 接口
+#64# 密码
+#65# 最大人数
+#66# 沙盒模式
+#67# 站点数量
+#68# 敌人数量
+#69# 行星数量
+#70# 新世界
+#71# 返回
+#72# GAME 开始游戏
+#73# 加入多人游戏
 #74# IP
-#75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#75# 港口
+#76# 通行证
+#77# 加入
+#78# 选择服务器
+#79# 加入到收藏夹
+#80# 确认选择服务器
+#81# 返回
+#82# 名称
 #83# IP
-#84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
-#94# Local Vel.
-#95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
+#84# 港口
+#85# 密码
+#86# 删除
+#87# 加入
+#88# 保存
+#89# 编辑
+#90# 语言
+#91# 暂停
+#92# 锁定 rot.
+#93# 重置镜头
+#94# 本地 vel.
+#95# 网格
+#96# 贸易
+#97# 建造
+#98# 拆除
+#99# 沙盒工具
+#100# 添加资源
+#101# 氧气
+#102# 氢
+#103# 氙
+#104# 导弹
+#105# 电
+#106# 食品
+#107# 机组
 #108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
-#114# Auto pilot
-#115# PHYSICS
-#116# Remove selected ship
-#117# Disable orbital mechanics
-#118# Place trajectory planner
-#119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
-#124# Distance
-#125# Relative velocity
-#126# Player
-#127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
-#139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
-#155# Power consumption
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
-#172# Right Click
-#173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-#175# Ctrl + Right click - Deconstruct
-#176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
-#190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
-#219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
-#236# Factors
-#237# Star Mass
-#238# Planet Mass
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
-#245# Apoapsis
-#246# Periapsis
-#247# Eccentricity
-#248# Orbital period
-#249# Tang. velocity
-#250# Ang. velocity
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
-#337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
-#344# Laser 1
-#345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
-#350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
+#109# 复制选中舰船
+#110# 设置友方派系
+#111# 设置敌方派系
+#112# 创建敌舰
+#113# 给舰船加入AI
+#114# 自动驾驶
+#115# 物理参数
+#116# 删除选定舰船
+#117# 禁用轨道力学
+#118# 放置轨迹规划
+#119# 碎片扔掷模式
+#120# 应用
+#121# 放弃
+#122# 按任意键
+#123# 设置新的快捷键
+#124# 距离
+#125# 相对速度
+#126# 玩家
+#127# ping
+#128# 可用模块
+#129# 存储
+#130# 生产
+#131# 能量
+#132# 杂项
+#133# 武器
+#134# 炮塔
+#135# 推进
+#136# 船员信息
+#137# 健康
+#138# 食品
+#139# 士气
+#140# 入门
+#141# 教程还没写好，先看看这个指南
+#142# 开启指南
+#143# 贸易
+#144# 名称
+#145# 金额
+#146# 价格
+#147# 需求
+#148# 供应
+#149# 上艘船
+#150# 下艘船
+#151# 总质量
+#152# 转动惯量
+#153# 模块质量
+#154# 没有连接到蓄能仓
+#155# 功耗
+#156# 分离
+#157# 安装
+#158# 拖动转移
+#159# 右键 - 销售
+#160# 购买 - 拖至我方货仓
+#161# 放置转移
+#162# 按住Shift指定数量
+#163# 放置并购买
+#164# 存储类型不匹配（液体/固体）
+#165# Ctrl+RMB - 解体
+#166# 右键 - 修复
+#167# 右键 - 建造
+#168# 右键 - 显示内容
+#169# 右键 - 设置快捷键
+#170# 质量（？）
+#171# 退出
+#172# 右键
+#173# 重置快捷键
+#174# Ctrl+右键 - 解体
+#175# Ctrl+右键 - 解体
+#176# 碳
+#177# 铝
+#178# 硅
+#179# 银
+#180# 钛
+#181# 铁
+#182# 钴
+#183# 镍
+#184# 铜
+#185# 铌
+#186# 氧
+#187# 氢
+#188# 氙
+#189# 冰
+#190# 富勒烯（C60）
+#191# 氘
+#192# 铀
+#193# 火箭
+#194# 能量
+#195# 食品
+#196# 没有相应资源
+#197# 无法打开建造菜单
+#198# 船上无工程湾
+#199# 食物不足
+#200# 船上找不到任何食物！
+#201# 饿死
+#202# 饿死了！
+#203# 警告
+#204# 上一指定模块不能被拆除
+#205# 由于手动控制，自动移动停止
+#206# 跃迁引擎还未准备好
+#207# 不能点火（？)
+#208# 火箭发射器未连接到火箭弹仓
+#209# 不能点火（？)
+#210# 连接弹仓中无弹药
+#211# 自动驾驶 - 启用
+#212# 自动驾驶 - 禁用
+#213# 选择舰船
+#214# 选择对象不存在
+#215# 选择舰船
+#216# 选择一个对象
+#217# 快捷键：
+#218# 快捷键名称：
+#219# 左：
+#220# 只有服务器才可以这么做
+#221# 保存游戏
+#222# 保存出错
+#223# 由于内部错误，保存未完成。
+#224# 信用点不足
+#225# 舰船应停靠在一起
+#226# 货仓是空的
+#227# 本次交易未达成
+#228# 货仓已满，不能出售
+#229# 组
+#230# 的售价为
+#231# 组
+#232# 的买价为
+#233# 信用点不足：
+#234# 营救
+#235# 没有足够的货仓空间来营救
+#236# 影响因素
+#237# 星质量
+#238# 星球质量
+#239# 发动机推力
+#240# 燃油消耗
+#241# 反作用轮扭矩
+#242# 轨道参数
+#243# 轨迹
+#244# 位置
+#245# 远拱点
+#246# 拱点
+#247# 偏心
+#248# 轨道周期
+#249# 线速度
+#250# 角速度
+#251# 打开建造菜单
+#252# 拆除选择的模块
+#253# 切换控制到上一可用舰船
+#254# 切换控制到下一可用舰船
+#255# 重设时间流速
+#256# 减慢时间流速
+#257# 加快时间流速
+#258# 显示货仓
+#259# 显示当前舰船的所有货仓的内容。物品可以容器间通过拖放用鼠标左键移动。按住鼠标左键可以确定传输资源的具体数额。
+#260# 显示当前舰船的船员。船员可以通过拖放移动。
+#261# 显示连接器当前船
+#262# 显示资源连接器。如果模块需要特定资源时，应通过利用该模块被连接到模块。连接器可以通过拖放的方式来连接到模块。
+#263# 安装点
+#264# 为当前的舰船显示安装点。左键点击安装点可以连接或断开。
+#265# 展示当前舰船的重心
+#266# 锁定RCS
+#267# 通过发动机使舰船的转动稳定
+#268# 激活后，可以选择你的船，右键单击发送移动命令
+#269# 显示血量/HP值
+#270# HP条显示该船舶的完整性
+#271# 自转锁定（？）
+#272# 对准观察对象旋转视角
+#273# 焦点视图
+#274# 在选中对象处的焦点视图
+#275# 重置镜头
+#276# 重置摄像机视图聚焦于选中对象
+#277# 显示速度
+#278# 显示相对速度（橙色）和方向（白色）到选中对象
+#279# 切换网格
+#280# 在星域显示矩形网格
+#281# 当前能量
+#282# 最大能量容量
+#283# 输入能量
+#284# 输出能量
+#285# 能量输入和输出的总和
+#286# 氢气总量
+#287# 氧气总量
+#288# 显示所选对象的轨道参数
+#289# 阵营
+#290# 重命名舰船
+#291# 整个结构的质量
+#292# 这个参数决定你需要多少力来旋转的船。为了减少这个值，质量大的组件应靠近重心。
+#293# 包括内容的情况下，一个货舱或模块的质量
+#294# 结构完整性
+#295# 启用所选武器组\禁用手动控制。同时按住左Shift键切换到自动模式。
+#296# 用氧气填充选定货仓
+#297# 用氢气填充选定货仓
+#298# 用氙气填充选定货仓
+#299# 用火箭填充选定货仓
+#300# 用弹药填充选定货仓
+#301# 将选定蓄能仓充满能量
+#302# 用食品填充选定货仓
+#303# 添加机组成员选择的模块
+#304# 左右开始的地球上任意一点创建敌舰。它会自动攻击玩家的船。
+#305# 加入人工智能到选定的船。它会被分配到结盟阵营。该船将按照玩家的船。
+#306# 船将会自动飞向选定的对象。第二次点击将禁用自动驾驶仪。
+#307# 删除整船或小行星
+#308# 注意 - 这个动作不能撤消当前世界。禁用重力和停止所有对象（仅用于测试目的）
+#309# （未完成的功能）按下按钮，并在空间某处点击创建轨道规划师。位置和速度的节点可以通过鼠标左键拖动。右键点击 - 删除节点。
+#310# 如果激活，鼠标左键点击某处空间将产生碎片。按住Shift并单击将引发随机速度碎片。
+#311# 准备购买这些商品
+#312# 准备出售这些商品
+#313# 更改名称
+#314# 更改排名
+#315# 未完属性
+#316# 当该值低于75％时，船员会自动食用来自任何储存容器食物（该值每2分钟减少25％）
+#317# 未完成属性
+#318# 用氢填充选定货仓
+#319# 将船员加至选中模块
+#320# 打开交易接口（注意：与空间站交易时，交易界面应该打开，船应在空间站停靠，两者对接的端口应该被激活。若购买，则开货运接口，从空间站拖动所需货物到你的货仓；若贩卖，则右键点击你货仓中的商品）选定船厂提供
+#321# 开放式建造菜单由选定的造船厂提供。当你的船在船厂中时，你可以用信用点购买和出售模块。
+#322# 轨迹的状态
+#323# 行星或恒星的相对位置
+#324# 从星球中心到轨道最远点上的距离
+#325# 从星球中心到轨道最近点上的距离
+#326# 偏心率定义了轨道的形状（E = 0：圆，0 <E <1：椭圆，E = 1：抛物线，E> 1：双曲线）
+#327# 轨道周期是指星体围绕其轨道一圈的时间
+#328# 角速度（每秒/度）
+#329# 轨道参数
+#330# 货运集装箱2
+#331# 货运集装箱1
+#332# 化学引擎
+#333# 液体容器1
+#334# 核反应堆
+#335# 储能器
+#336# 工程架/湾
+#337# 雷达
+#338# 太阳能电池板
+#339# 炮塔平台1
+#340# 炮塔平台2
+#341# 能量炮
+#342# 弹道炮1
+#343# 四口走廊连接点
+#344# 激光1
+#345# 矿工
+#346# 液体容器2
+#347# 货运集装箱3
+#348# 对接端口
+#349# 采集器
+#350# 激光2
+#351# 燃油发电机
+#352# 弹道炮2
+#353# 走廊
+#354# 三口走廊连接点
+#355# 命令模块
+#356# 三角走廊
+#357# 反作用引擎（?)
+#358# 曲速引擎
+#359# 2*1适配器框架
+#360# RCS引擎
+#361# 液体容器3
+#362# 采矿激光器
+#363# 液体容器4
+#364# 命令模块2
+#365# 护盾发生器
+#366# 货运门
+#367# 牵引光束
+#368# 离子发动机
+#369# 梁结构
+#370# 火箭发射器
+#371# 2*1适配器
+#372# 船厂
+#373# 水培农场
+#374# 船厂
+#375# 对接
+#376# 贸易
+#377# 任务
+#378# 显示可用任务
+#379# 请求对接
+#380# 碎片
+#381# 为复制舰船选择阵营
+#382# 盟友
+#383# 敌军
+#384# 不改变阵营
+#385# 下一艘复制舰船将与初始船有相同的阵营
+#386# 下一艘复制舰船将是初始船的盟友阵营
+#387# 下一艘复制舰船将是初始船的敌方阵营
+#388# 小行星
