@@ -117,8 +117,8 @@
 #115# 물리법칙
 #116# 선택한 대상 삭제
 #117# 궤도운동 비활성화
-#118# Place trajectory planner
-#119# 데브리 투척 모드
+#118# '궤도 편집기' 열기
+#119# 잔해 투척 모드
 #120# 적용
 #121# 철회
 #122# 아무키나 누르세요
@@ -153,7 +153,7 @@
 #151# 총 질량 
 #152# 관성 모멘트
 #153# 모듈 질량
-#154# 전력 저장 모듈과 연결되지 않음
+#154# 축전 모듈과 연결되지 않음
 #155# 전력 소모
 #156# 분리
 #157# 결합
@@ -164,17 +164,17 @@
 #162# 특정량을 구매하려면 Shift키를 누르세요
 #163# 구매하려면 드래그
 #164# 저장 타입 불일치(액체용 / 고체용)
-#165# Ctrl+RMB - 해체
-#166# 우 클릭 - 수리
-#167# 우 클릭 - 건설
-#168# 우 클릭 - 내용 보기
-#169# 우 클릭 - 단축키 지정
+#165# Ctrl+우클릭 - 해체
+#166# 우클릭 - 수리
+#167# 우클릭 - 건설
+#168# 우클릭 - 내용 보기
+#169# 우클릭 - 단축키 지정
 #170# 질량
 #171# 사출
 #172# 우 클릭
 #173# 단축키 초기화
-#174# Ctrl +우 클릭 - 해체
-#175# Ctrl + 우 클릭 - 해체
+#174# Ctrl +우클릭 - 해체
+#175# Ctrl + 우클릭 - 해체
 #176# 탄소
 #177# 알루미늄
 #178# 실리콘
@@ -203,7 +203,7 @@
 #201# 굶어 죽음!
 #202# 은(는) 굶어 죽었음
 #203# 경고
-#204# 마지막 조종 모듈은 해체할 수 없음
+#204# 마지막 지휘 모듈은 해체할 수 없음
 #205# 수동 조작으로 인해 자동 이동이 취소됨
 #206# 워프 드라이브가 아직 준비되지 않음
 #207# 사격 불가
@@ -250,141 +250,141 @@
 #248# 공전 주기
 #249# 접선 속도
 #250# 각 속도
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
-#337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
-#344# Laser 1
-#345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
-#350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
+#251# 건설 메뉴 열기
+#252# 선택한 모듈 해체
+#253# 조종 가능한 이전 함선으로 변경
+#254# 조종 가능한 다음 함선으로 변경
+#255# 시간 배속 초기화
+#256# 시간 배속 감소
+#257# 시간 배속 증가
+#258# 저장품 보기
+#259# 모든 저장고의 내용물을 보인다. 내용물들은 드래그를 통해 다른 저장고로 옮겨질 수 있으며 왼쪽 Shift키를 통해 일부만 옮길 수도 있다.
+#260# 현재 함선의 승무원 보기. 승무원들은 드래그로 다른 곳으로 옮겨질 수 있다.
+#261# 자원연결 보기
+#262# 현재 함선의 자원연결을 보인다. 만약 모듈이 특정 자원을 요구하면, 이 모드를 통해 연결할 수 있다. 연결은 드래그를 통해 모듈에 연결할 수 있다.
+#263# 결합
+#264# 현재 함선의 결합 부위를 보여준다. 결합 부위는 왼쪽 클릭을 통해 결합하거나 해제할 수 있다.
+#265# 현재 함선의 질량중심점 보기
+#266# RCS 잠금
+#267# 엔진을 이용한 회전제어
+#268# 활성화시 - 당신의 함선을 선택하고 우클릭하여 이동 명령을 내릴 수 있다.
+#269# 체력 바 보기
+#270# 함선의 안정성을 잠시 보여준다
+#271# 회전 잠금
+#272# 관찰 중인 대상으로 시점 전환
+#273# 대상 보기
+#274# 선택한 대상을 봄
+#275# 카메라시점 초기화
+#276# 선택한 대상의 카메라시점 초기화
+#277# 속도 보기
+#278# 선택한 대상과의 상대속도(황색)와 방향(흰색)을 보여준다.
+#279# 격자 보기
+#280# 항성과의 직각 격자 보기
+#281# 현재 축전량
+#282# 최대 축전량
+#283# 전력 입력
+#284# 전원 출력
+#285# 전원 입출력의 합
+#286# 수소의 총량
+#287# 산소의 총량
+#288# 선택한 대상의 궤도 정보 보기
+#289# 세력
+#290# 함선명 변경
+#291# 전체 구조물의 질량
+#292# 이 값은 함선을 회전하기 위해 얼마나 많은 힘을 주어야 하는지 나타내는 값으로, 값을 줄이려면 가장 무거운 모듈들은 질량중심점 근처에 위치하는 것이 좋다.
+#293# 화물 컨테이너와 화물의 질량을 포함한다.
+#294# 구조 안정성
+#295# 활성화 / 비활성화를 통해 선택한 무장을 수동조작 할 수 있다. 왼쪽 Shift를 누름으로 자동모드로 변경할 수 있다.
+#296# 선택한 저장고를 산소로 채움
+#297# 선택한 저장고를 수소로 채움
+#298# 선택한 저장고를 제논으로 채움
+#299# 선택한 저장고를 로켓으로 채움
+#300# 선택한 저장고를 탄약으로 채움
+#301# 선택한 축전지를 채움
+#302# 선택한 저장고를 식량으로 채움
+#303# 선택한 모듈에 승무원을 추가
+#304# 플레이어 함선을 자동적으로 공격하는 적대 함선을 시작행성 근처에 무작위로 생성
+#305# 선택한 함선에 AI를 부여하고 동맹세력으로 만듬. 해당 함선을 플레이어를 따라옴.
+#306# 함선은 선택한 물체까지 자동으로 비행하며, 두번 클릭하면 자동비행을 중단함.
+#307# 모든 함선 및 소행성 제거
+#308# 주의 - 이것은 되돌릴 수 없습니다. 중력이 제거되고 모든 물체가 멈춥니다.(테스트 전용)
+#309# (구현 중) 버튼을 누르고 우주공간을 누르면 '궤도 편집기'를 열 수 있습니다. 위치와 속도 노드는 왼클릭으로 드래그 할 수 있다. 우클릭으로는 노드를 삭제할 수 있다.
+#310# 작동시, 왼클릭하는 지점에 잔해를 생성하며, Shift+클릭시에는 무작위한 속도로 잔해를 투척함.
+#311# 상인은 이 물품들을 살 준비가 되었습니다.
+#312# 상인은 이 물품들을 팔 준비가 되었습니다.
+#313# 이름 변경
+#314# 등급 변경
+#315# (구현 중)
+#316# 승무원은 이 값이 75% 이하로 떨어지면 자동적으로 저장고의 식량을 소모합니다.(2분에 25%씩 감소)
+#317# (구현 중)
+#318# 선택한 저장고를 수소로 채움
+#319# 선택한 모듈에 승무원 추가
+#320# 거래창 열기. (설명: 스테이션과 거래하려면, 거래창이 열려있어야하며, 플레이어의 함선의 도킹 포트와 스테이션의 도킹포트가 연결되고 활성화 되어야 한다. 구매하려면, 화물창을 열고 구매하려는 물품을 스테이션에서 컨테이너로 드래그하고 판매하려면 팔 물건이 있는 컨테이너를 우클릭하면 된다.)
+#321# 선택한 조선소가 제공하는 건설메뉴 열기. 만약 당신의 함선이 조선소의 내부에 있으면 크레딧으로 모듈을 사거나 팔 수 있습니다.
+#322# 궤도 정보
+#323# 항성이나 행성과의 상대적 위치
+#324# 공전하는 천체와 가장 먼 궤도상의 지점과의 거리
+#325# 공전하는 천체와 가장 가까운 궤도상의 지점과의 거리
+#326# 이심률은 궤도의 모양을 결정함. (e=0이면 원 궤도, 0<e<1이면 타원궤도, e=1이면 포물선 궤도, e>1이면 쌍곡선 궤도)
+#327# 궤도를 한 번 도는데 걸리는 시간
+#328# 각속도(초당 º)
+#329# 궤도 정보
+#330# 화물 컨테이너 2
+#331# 화물 컨테이너 1
+#332# 화학연료 엔진
+#333# 액체 컨테이너 1
+#334# 핵 반응기
+#335# 축전 모듈
+#336# 공학 연구실
+#337# 레이더
+#338# 태양 패널
+#339# 포탑 플랫폼 1
+#340# 포탑 플랫폼 2
+#341# 에너지 포
+#342# 탄도 포 1
+#343# 4방향 복도
+#344# 레이저 1
+#345# 채굴기
+#346# 액체 컨테이너 2
+#347# 화물 컨테이너 3
+#348# 도킹 포트
+#349# 집게
+#350# 레이저 2
+#351# 연료 생성기
+#352# 탄도 포 2
+#353# 복도
+#354# 3방향 복도
+#355# 지휘 모듈
+#356# 꺾인 복도
+#357# 반작용 휠
+#358# 워프 드라이브
+#359# 2x1 어댑터 프레임
+#360# RCS 엔진
+#361# 액체 컨테이너 3
+#362# 채굴 레이저
+#363# 액체 컨테이너 4
+#364# 지휘 모듈 2
+#365# 보호막 생성기
+#366# 화물 게이트
+#367# 견인 빔
+#368# 이온 엔진
+#369# 빔 구조물
+#370# 로켓 발사기
+#371# 2x1 어댑터
+#372# 조선소
+#373# 수경재배
+#374# 조선소
+#375# 도킹
+#376# 거래
+#377# 임무
+#378# 가능한 임무 보기
+#379# 도킹 요청
+#380# 잔해
+#381# 복제될 함선을 위해 새로운 세력 만들기
+#382# 동맹
+#383# 적
+#384# 세력을 변경하지 마세요
+#385# 다음 복제될 함선은 원본과 같은 세력에 속함
+#386# 다음 복제될 함선은 동맹 세력에 속함
+#387# 다음 복제될 함선은 적대 세력에 속함
+#388# 소행성
