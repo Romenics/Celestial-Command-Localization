@@ -388,6 +388,6 @@
 #386# Next duplicated ship will have ally faction
 #387# Next duplicated ship will have enemy faction
 #388# Asteroid
-#389# Paint Tool
+#389# PAINT TOOL
 #390# Select module to paint
 #391# Left Click - Paint
