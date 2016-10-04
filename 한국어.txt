@@ -268,7 +268,7 @@
 #266# Lock RCS
 #267# Stabilize rotation of the ship by using its engines
 #268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
+#269# HP 바 보이기
 #270# Temporarily show the integrity of the ship
 #271# Rotate locker
 #272# Align view rotation with observed object
@@ -280,13 +280,13 @@
 #278# Display relative velocity (orange) and direction (white) to selected object
 #279# Toggle grid
 #280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
+#281# 현재 전력량
+#282# 최대 전력량
+#283# 전기 생산량
+#284# 전기 소모량
+#285# 전기 샌산/소모량 합계
+#286# 수소 잔량
+#287# 산소 잔량
 #288# Show orbital parameters for selected object
 #289# Faction
 #290# Rename the ship
