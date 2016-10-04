@@ -388,3 +388,6 @@
 #386# Volgend gekopiëerd schip wordt van de geallieerde factie
 #387# Volgend gekopiëerd schip wordt van de vijandelijke factie
 #388# Asteroïde
+#389# PAINT TOOL
+#390# Select module to paint
+#391# Left Click - Paint

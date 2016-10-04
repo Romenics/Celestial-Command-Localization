@@ -388,3 +388,6 @@
 #386# Další duplikovaná loď bude zařazena do spojenecké frakce
 #387# Další duplikovaná loď bude zařazena do nepřátelské frakce
 #388# Asteroid
+#389# PAINT TOOL
+#390# Select module to paint
+#391# Left Click - Paint
