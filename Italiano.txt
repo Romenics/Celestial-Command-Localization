@@ -227,7 +227,7 @@
 #225# Le astronavi devono essere collegate tra di loro
 #226# La stiva e' vuota
 #227# Questo commerciante non richiede
-#228# Non puoi venderolo. La stiva e' piena
+#228# Non puoi venderlo. La stiva e' piena
 #229# unita' di
 #230# e' stato venduto per
 #231# unita' di
@@ -291,42 +291,42 @@
 #289# FAzione
 #290# Rinomina la nave
 #291# Massa dell'intera struttura
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
+#292# Questo parametro determina di quanta forza hai bisogno per ruotare a nave. Per ridurre questo valore, i moduli piu' massicci devono essere collocati vicino al centro di massa.
+#293# Includendo la massa del contenuto qualora questo sia una stiva di carico o un container.
+#294# Integrita' strutturale
+#295# Attiva \ disattiva il controllo manuale per il gruppo di armi selezionate. Premi tenendo premuto MAIUSC sinistro per passare alla modalita' automatica.
+#296# Riempi la stiva selezionata con ossigeno
+#297# Riempi la stiva selezionata con idrogeno
+#298# Riempi la stiva selezionata con xeno
+#299# Riempi la stiva selezionata con razzi
 #300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
+#301# Ricarica completamente lo stoccaggio energia selezionato
+#302# Riempi la stiva selezionata con cibo
+#303# Aggiungi membro dell'equipaggio al modulo selezionato
+#304# Crea una nave nemica in un punto casuale attorno al pianeta di partenza che attacchera' automaticamante al nave del giocatore.
+#305# Aggiungi intelligenza artificiale alla nave selezioanta. Sara' assegnata alla fazione alleata. La nave seguira' la nave del giocatore.
+#306# La nave si dirigera' automaticamente verso l'oggetto selezionato. Un secondo clic disabilitera' il pilota automatico.
+#307# Rimuovi l'intera nave o asteroide
+#308# ATTENZIONE - Qusta azione non puo' essere annullata per il mondo corrente. Disativa la gravita' e ferma tutti gli oggetti. (Solamente per funzionalita' di test)
 #309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
 #310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
+#311# Commerciante pronto a COMPRARE queste merci
+#312# Commerciante pronto a VENDERE queste merci
+#313# Cambia nome
+#314# Cambia grado
+#315# Attributo non finito
+#316# I membri dell'equipaggio cosumeranno automaticamente cibo da qualsiasi stiva quando il valore sara' al di sotto del 75% (il valore si riduce del 25% ogni 2 minuti)
+#317# Attributo non finito
+#318# Riempi la stiva selezionata con idrogeno
+#319# Aggiungi membro dell'equipaggio al modulo selezionato
 #320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
 #321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
+#322# Stato della traiettoria
+#323# Posizione relativa al pianeta o alla stella
+#324# Distanza dal centro del pianeta al punto piu' lontano dell'orbita
+#325# Distanza dal centro del pianeta al punto piu' vicino dell'orbita
+#326# L'eccentricita' definisce la forma dell'orbita (e=0) circolare (0<e<1) ellittica (e=1) parabolica (e>1) iperbolica
+#327# Il periodo orbitale e' il tempo durante il quale un corpo celeste fa una rotazione attorno alla sua orbita
 #328# Velocita' angolare (in gradi per secondo)
 #329# PARAMETRI ORBITALI
 #330# Container Cargo2
