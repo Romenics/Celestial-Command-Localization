@@ -125,8 +125,8 @@
 #123# 새로운 단축키 지정
 #124# 거리
 #125# 상대 속도
-#126# Player
-#127# Ping
+#126# 플레이어
+#127# 핑
 #128# 가능한 모듈
 #129# 저장 모듈
 #130# 생산 모듈
@@ -250,13 +250,13 @@
 #248# 공전 주기
 #249# 접선 속도
 #250# 각 속도
-#251# Open build menu
+#251# 건설 메뉴 열기
 #252# Deconstruct selected module
 #253# Switch control to the previous available ship
 #254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
+#255# 시간 가속 초기화
+#256# 시간 감속
+#257# 시간 가속
 #258# Show Storages
 #259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
 #260# Display a crew of the current ship. The crew member can be moved by drag and drop.
@@ -264,11 +264,11 @@
 #262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
 #263# Mounting Points
 #264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
+#265# 현재 함선의 질량중심을 표시합니다.
 #266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
+#267# 엔진을 이용해 함선의 회전을 안정화합니다.
+#268# 활성화 시 - 마우스 우클릭으로 선택된 함선에 이동 명령을 내릴 수 있습니다.
+#269# HP 바 보기
 #270# Temporarily show the integrity of the ship
 #271# Rotate locker
 #272# Align view rotation with observed object
@@ -276,21 +276,21 @@
 #274# Focus view at selected object
 #275# Reset pan
 #276# Reset camera view to focus on the selected object
-#277# Show velocity
+#277# 속도 시각화
 #278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
+#279# 격자 보이기/숨기기
 #280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
+#281# 현재 전력량
+#282# 최대 전력 저장량
+#283# 전기 생산량
+#284# 전기 소모량
+#285# 전력 생산/소묘량 합계
+#286# 수소 잔량
+#287# 산소 잔량
 #288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
+#289# 진영
+#290# 함선 이름 변경
+#291# 전체 구조물의 질량 중심
 #292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
 #293# Including the mass of content in case if this is a cargo bay or container
 #294# Structural integrity
@@ -312,7 +312,7 @@
 #310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
 #311# Trader ready to BUY these goods
 #312# Trader ready to SELL these goods
-#313# Change name
+#313# 이름 변경
 #314# Change rank
 #315# Unfinished attribute
 #316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
@@ -328,63 +328,63 @@
 #326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
 #327# The orbital period is the time during which the body makes one rotation around its orbit
 #328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
-#337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
+#329# 궤도 정보
+#330# 화물 저장고 2
+#331# 화물 저장고 1
+#332# 화학 엔진
+#333# 액체 저장고 1
+#334# 핵 반응로
+#335# 전력 저장고
+#336# 기술실
+#337# 레이더
+#338# 태양광 발전기
+#339# 터렛 마운트 1
+#340# 터렛 마운트 2
+#341# 에너지 캐논
 #342# Ballistic Cannon 1
 #343# Corridor 4 Junction
-#344# Laser 1
+#344# 레이저 1
 #345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
+#346# 액체 저장고 2
+#347# 화물 저장고 3
+#348# 도킹 포트
 #349# Grabber
-#350# Laser 2
-#351# Fuel Generator
+#350# 레이저 2
+#351# 연료 생산기
 #352# Ballistic Cannon 2
 #353# Corridor
 #354# Corridor 3 Junction
-#355# Command Module
+#355# 사령 모듈
 #356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
+#357# 반작용 휠
+#358# 워프 엔진
 #359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
+#360# 자세 제어 분사기
+#361# 액체 저장고 3
+#362# 채광 레이저
+#363# 액체 저장고 4
+#364# 사령 모듈 2
+#365# 방어막 발생기
 #366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
+#367# 견인 광선
+#368# 이온 엔진
 #369# Structure beam
-#370# Rocket Launcher
+#370# 로켓 발사기
 #371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
+#372# 조선소
+#373# 수경재배실
+#374# 조선소
+#375# 도킹
+#376# 거래
+#377# 의뢰
+#378# 수락 가능한 의뢰 보기
+#379# 도킹 요청
+#380# 데브리
 #381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
+#382# 아군
+#383# 적
+#384# 진영을 바꾸지 마십시오
 #385# Next duplicated ship will have the same faction as original ship
 #386# Next duplicated ship will have ally faction
 #387# Next duplicated ship will have enemy faction
-#388# Asteroid
+#388# 소행성
