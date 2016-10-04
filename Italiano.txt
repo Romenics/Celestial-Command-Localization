@@ -327,67 +327,67 @@
 #325# Distance from the center of planet to the closest point on the orbit
 #326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
 #327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
+#328# Velocita' angolare (in gradi per secondo)
+#329# PARAMETRI ORBITALI
+#330# Container Cargo2
+#331# Container Cargo 1
+#332# Motore chimico
+#333# Container per liquidi 1
+#334# Reaettore nucleare
+#335# Stoccaggio energia
+#336# Stiva attrezzi
 #337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
+#338# Pannelli solari
+#339# Piattaforma per torrette 1
+#340# Piattaforma per torrette 2
+#341# Cannone ad energia
+#342# Cannone balistico 1
+#343# Giunzione corridoio 4
 #344# Laser 1
-#345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
+#345# Punta da miniera
+#346# Container per liquidi 2
+#347# Container cargo 3
+#348# Portello attracco
+#349# Artiglio
 #350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
+#351# Generatore carburante
+#352# Cannone balistico 2
+#353# Corridoio
+#354# Guinzione corridoio 3
+#355# Modulo di comando
+#356# Angolo corridoio
+#357# Ruota di reazione
+#358# Motore Warp
+#359# Adattatore telaio 2x1 
+#360# Motore RCS 
+#361# Container per liquidi 3
+#362# Laser da miniera
+#363# Container per liquidi 4
+#364# Modulo comando 2
+#365# Generatore scudo
+#366# Portello cargo
+#367# Raggio traente
+#368# Motore ionico
+#369# Trave strutturale
+#370# Lanciarazzi
+#371# Adattatore 2x1 
+#372# Cantiere navale
+#373# Idroponico
+#374# Cantiere navale
+#375# Attracco
+#376# Commercia
+#377# Missioni
+#378# Mostra missioni disponibili
+#379# Richiedi attracco
+#380# Rottami
+#381# IMPOSTA LA NUOVA FAZIONE PER LA NAVE DUPLICATA
+#382# Alleato
+#383# Nemico
+#384# Non cambiare la fazione
+#385# la prossima nave duplicata sara' assegnata alla stessa fazione della nave originale
+#386# La prossima nave duplicata sara' assegnata alla fazione alleata
+#387# La prossima nave duplicata sara' assegnata alla fazione nemica
+#388# Asteroide
+#389# STRUMENTO COLORE
+#390# Seleziona il modulo da colorare
+#391# Click sx - Colora
