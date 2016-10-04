@@ -258,39 +258,39 @@
 #256# Diminuisci velocita' tempo
 #257# Aumenta velocita' tempo
 #258# Mostra stive
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
+#259# Mostra il contenuto di tutti i container di stoccaggio della nave corrente. I contenuti possono essere spostati tra i vari container trascinandoli e rilasciandoli con il tasto sinistro del mouse. Tenendo premuto MAIUSC sinistro si possono trasferire quantita' specifiche di risorse.
+#260# Mostra l'equipaggio della nave corrente. I membri dell'equipaggio possono essere spostati trascinandoli e rilasciandoli.
+#261# Mostra connettori
+#262# Mostra i connettori delle risorse della nave corrente. Se un modulo richiede specifiche risorse, dovra' essere colelgato ad esse in questa modalita'. I connettori possono essere agganciati ai moduli trascinandoli e rilasciandoli.
+#263# Punti di montaggio
+#264# Mostra i punti di montaggio della nave corrente. I punti di montaggio possono essere collegati e scollegati con il clic sinistro del mouse.
+#265# Mostra il centro di massa della nave corrente
+#266# Attiva RCS
+#267# Stabilizza la rotazione della nave usando i suoi motori
+#268# Se attivato - seleziona la tua nave e fai clic col tasto destro per inviare un ordine di movimento
+#269# Mostra barra salute
+#270# Mostra temporaneamente l'integrita' della nave
+#271# Blocco rotazione
+#272# Allinea la rotazione della visuale con l'oggetto selezionato
+#273# Centra la visuale
+#274# Centra la visuale sull'oggetto selezionato
 #275# Reset pan
 #276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
+#277# Mostra veloctia'
+#278# Mostra la velocita' reativa (arancione) e la direzione (bianco) dell'oggetto selezionato
+#279# Attiva griglia
+#280# Mostra una griglia rettangolare relativa alla stella
+#281# Energia corrente
+#282# Capacita' massima energia
+#283# Energia in ingresso
+#284# Energia in uscita
+#285# Somma dell'energia in ingresso ed in uscita
+#286# Quantita' totale di idrogeno
+#287# Quantita' totale di ossigeno
+#288# Mostra paramentri orbitali dell'oggetto selezionato
+#289# FAzione
+#290# Rinomina la nave
+#291# Massa dell'intera struttura
 #292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
 #293# Including the mass of content in case if this is a cargo bay or container
 #294# Structural integrity
