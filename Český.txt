@@ -267,7 +267,7 @@
 #265# Zobrazit těžiště této lodě.
 #266# Zamknout RCS
 #267# Stabilizovat rotaci lodě pomocí jejích motorů.
-#268# Pokud aktivován - vybyr svoji loď a Pravým klknutím myši zadejte pokyn k pohybu.
+#268# Pokud aktivován - vyberte svoji loď a Pravým klknutím myši zadejte pokyn k pohybu.
 #269# Zobrazit HP bary
 #270# Dočasně zobraz integritu lodi.
 #271# Zámek rotace
@@ -277,7 +277,7 @@
 #275# Resetovat nahnutí kamery
 #276# Resetovat pohled kamery a zaměřit na vybraný objekt
 #277# Zobrazit rychlost
-#278# Zobrazit relativní rychlost (oranžová) a směr k vybranému objektu.
+#278# Zobrazit relativní rychlost (oranžová) a směr k vybranému objektu (bílá).
 #279# Zapnout/Vypnout mřížku
 #280# Zobraz Display obdélníkovou mřížku vzhledem ke hvězdě
 #281# Současná urověň energie
@@ -388,6 +388,6 @@
 #386# Další duplikovaná loď bude zařazena do spojenecké frakce
 #387# Další duplikovaná loď bude zařazena do nepřátelské frakce
 #388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
+#389# BARVÍCÍ MÓD
+#390# Vyberte modul pro barvení
+#391# Levé kliknutí - Barvení
