@@ -184,7 +184,7 @@
 #182# Kobalt
 #183# Nickel
 #184# Kupfer
-#185# Niob
+#185# Niobium
 #186# Sauerstoff
 #187# Wasserstoff
 #188# Xenon
@@ -250,7 +250,7 @@
 #248# Umlaufzeit
 #249# Tangentialgeschw.
 #250# Winkelgeschw.
-#251# Baumenue öffnen
+#251# Baumenü öffnen
 #252# ausgewähltes Modul entfernen
 #253# Kontrolle zum vorherigen Schiff umschalten
 #254# Kontrolle zum nächsten Schiff umschalten
@@ -272,12 +272,12 @@
 #270# Temporäre Anzeige für Schiffszustand.
 #271# Schließfach drehen
 #272# Sichtachse zum beobachteten Objekt drehen.
-#273# Blick Fokussieren
+#273# Blick fokussieren
 #274# Blick auf ausgewähltes Objekt fokussieren
 #275# Kameraschwenk zurücksetzen
 #276# Kameraausrichtung zurücksetzen um ausgewähltes Objekt zu fokussieren.
 #277# Geschwindigkeit anzeigen
-#278# Zeige relative Geschwindigkeit (orange) und Richtung (weiss) zum ausgewähltem Objekt.
+#278# Zeige relative Geschwindigkeit (orange) und Richtung (weiss) zum ausgewählten Objekt.
 #279# Rasteransicht umschalten
 #280# Rechteckiges Raster relativ zum Stern anzeigen.
 #281# Aktuelle Energiemenge
@@ -310,8 +310,8 @@
 #308# Achtung: Diese Aktion kann für die aktuelle Welt nicht rückgängig gemacht werden. Das ausschalten der Gravitation (Schwerkraft) wird alle Objekte an ihre aktuelle Position binden (keine Bewegung). Nur zu Testzwecken empfohlen.
 #309# (Unfertige Fähigkeit) Drücke die Taste und Klicke mit der Maus in den Weltraum um einen orbitalen Flugbahnplan zu erstellen. Positions- und Geschwindigkeitspunkte können mit der linken Maustaste verschoben werden. Mit der rechten Maustaste werden diese Punkte gelöscht.
 #310# Wenn aktiviert kann mit der linken Maustaste Trümmerteile gesetzt werden. Shift+L-Maustaste schleudern das Trümmerstück mit zufälliger Geschwindigkeit hinfort.
-#311# Händler ist bereit diese Waren zu kaufen
-#312# Händler ist bereit diese Waren zu verkaufen
+#311# Händler ist bereit diese Ware(n) zu kaufen
+#312# Händler ist bereit diese Ware(n) zu verkaufen
 #313# Namen ändern
 #314# Rank ändern
 #315# Unfertiges Attribut
@@ -319,8 +319,8 @@
 #317# Unfertiges Attribut
 #318# Ausgewählten Lagerraum mit Wasserstoff füllen
 #319# Dem ausgewählten Modul ein Crewmitglied zuweisen.
-#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln muss das Handes-Interface geöffnet sein, dein Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen öffne das Fracht-Interface und ziehe die gewünschte Ware mit der Maus von der Station auf deinen Kontainer. Um etwas zu verkaufen - setze einen Rechts-Klick auf die Ware in deinem Kontainer.
-#321# Öffne das Konstruktions Menue der Schiffswerft. Während sich dein Schiff innerhalb der Schiffswerft befindet kannst du Teile/Module für Kredits kaufen und verkaufen. 
+#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln muss das Handelsinterface geöffnet sein, dein Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen öffne das Frachtinterface und ziehe die gewünschte Ware mit der Maus von der Station auf deinen Kontainer. Um etwas zu verkaufen - setze einen Rechts-Klick auf die Ware in deinem Kontainer.
+#321# Öffne das Konstruktionsmenü der Schiffswerft. Während sich dein Schiff innerhalb der Schiffswerft befindet kannst du Teile/Module für Kredits kaufen und verkaufen. 
 #322# Flugbahnstatus
 #323# Position relativ zum Planeten oder Stern
 #324# Entfernung vom Zentrum des Planeten bis zum äußersten Punkt auf der Umlaufbahn
@@ -389,5 +389,5 @@
 #387# Das nächste geklonte Schiff wird der feindlichen Fraktion angehören.
 #388# Asteroid
 #389# Malwerkzeug
-#390# Modul zum bemahlen auswählen
-#391# Links-Klick zum mahlen
+#390# Modul zum bemalen auswählen
+#391# Links-Klick zum malen
