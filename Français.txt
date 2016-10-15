@@ -391,3 +391,8 @@
 #389# Outil peindre
 #390# Sélectionner le module à peindre
 #391# Clic gauche: Peindre
+#392# SAVED SHIPS
+#393# Save Ship
+#394# No ship selected
+#395# Ship saved
+#396# Click to place a ship

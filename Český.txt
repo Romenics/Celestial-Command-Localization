@@ -391,3 +391,8 @@
 #389# BARVÍCÍ MÓD
 #390# Vyberte modul pro barvení
 #391# Levé kliknutí - Barvení
+#392# SAVED SHIPS
+#393# Save Ship
+#394# No ship selected
+#395# Ship saved
+#396# Click to place a ship
