@@ -11,18 +11,18 @@
 #9# Quitter
 #10# Ressusciter
 #11# ! ACCES ANTICIPÉ !
-#12# Ce jeu est en cours de développement ! Veuillez consulter les actualités du jeu sur Steam pour plus d'informations.
+#12# Ce jeu est en cours de développement ! Veuillez consulter les actualités du jeu sur Steam et sur http://celestialcommand.com pour plus d'informations.
 #13# Actualités (→)
 #14# Discussions (→)
 #15# Guides (→)
 #16# A faire (Trello)
-#17# Etes-vous sûr de quitter?
+#17# Etes-vous sûr de vouloir quitter?
 #18# Oui
 #19# Retour
 #20# Connection directe
 #21# Via Steam (A venir)
 #22# L'équipe de développeurs
-#23# Ce jeu a été créé par trois amis Artaani, Riya et Romenics. Veuillez consulter les actualités du jeu sur Steam pour les aider et avoir plus d'informations.
+#23# Ce jeu a été créé par trois amis Artaani, Riya et Romenics. Veuillez consulter les actualités du jeu sur Steam et sur http://celestialcommand.com pour les aider et obtenir plus d'informations.
 #24# Enregistrer
 #25# Défaut
 #26# Appliquer
@@ -39,19 +39,19 @@
 #37# Plein écran
 #38# Qualité des textures
 #39# Anti-crénelage
-#40# V-sync
+#40# V-Sync
 #41# Résolution
 #42# Pressez une touche à définir ou Echap. pour quitter
 #43# Enregistrer
 #44# Défaut
 #45# Raccourcis clavier
-#46# Sélectionnez partie enregistrée
+#46# Sélectionnez une partie enregistrée
 #47# Nom
 #48# Date
-#49# Tps jeu
+#49# Tps de jeu
 #50# Version
 #51# Nouvelle
-#52# Veuillez confirmer la suppression
+#52# Veuillez confirmer la suppression de la partie
 #53# Retour
 #54# Effacer
 #55# Port n°
@@ -67,26 +67,26 @@
 #65# Nb joueurs
 #66# Mode 'bac à sable'
 #67# Nombre de station
-#68# Nombre d'enemi
+#68# Nombre d'ennemi
 #69# Nombre d'astéroide
 #70# Démarrer
 #71# Retour
 #72# Jouer
-#73# Joindre partie multij.
+#73# Joindre partie multijoueurs
 #74# IP
 #75# Port n°
 #76# Mot de passe
 #77# Joindre
 #78# Sélection du serveur
 #79# Ajout. aux favoris
-#80# Confirmer suppression
+#80# Confirmer la suppression
 #81# Retour
 #82# Nom
 #83# IP
 #84# Port n°
 #85# Mot de passe
 #86# Effacer
-#87# Joindre
+#87# Rejoindre
 #88# Enregistrer
 #89# Editer
 #90# Langue
@@ -110,8 +110,8 @@
 #108# Intel. Artif. (IA)
 #109# Dupliquer vaisseau
 #110# Définir allier
-#111# Définir enemi
-#112# Créer vaiss. enemi
+#111# Définir ennemi
+#112# Créer vaiss. ennemi
 #113# Ajouter IA au vaiss.
 #114# Pilote Auto.
 #115# Physique
@@ -130,7 +130,7 @@
 #128# Modules disponible
 #129# Stockage
 #130# Production
-#131# Energ.
+#131# Energie
 #132# Divers
 #133# Armes
 #134# Tourelles
@@ -158,8 +158,8 @@
 #156# Attacher
 #157# Détacher
 #158# Glisser pour transférer
-#159# Clic droit: vendre
-#160# Glisser, déposer : acheter
+#159# Clic droit: Vendre
+#160# Glisser, déposer: Acheter
 #161# Drop to transfer
 #162# Hold shift to specify amount
 #163# Drop to buy
@@ -167,12 +167,12 @@
 #165# Ctrl + Clic droit: Déconstruire
 #166# Clic droit: Réparer
 #167# Clic droit: Construire
-#168# Clic droit: show content
-#169# Clic droit: Assign hotkey
+#168# Clic droit: Afficher contenu
+#169# Clic droit: Définir raccourci clavier
 #170# Masse
 #171# Ejecter
 #172# Clic droit
-#173# Reset hotkey
+#173# Effacer raccourci clavier
 #174# Ctrl + Clic droit: Déconstruire
 #175# Ctrl + Clic droit: Déconstruire
 #176# Carbone
@@ -218,10 +218,10 @@
 #216# Sélect. un objet
 #217# Raccourcis:
 #218# Nom racc.:
-#219# Left:
+#219# Gauche:
 #220# Only server can do this
 #221# Partie enregistrée
-#222# SAVE ERROR
+#222# ERREUR ENREGISTREMENT !
 #223# Saving was not completed due internal error.
 #224# Insufficient credits
 #225# Ships should be docked together
@@ -371,23 +371,23 @@
 #369# Structure beam
 #370# Rocket Launcher
 #371# 2x1 Adapter
-#372# Shipyard
+#372# Chantier spatial
 #373# Hydroponics
-#374# Shipyard
+#374# Chantier spatial
 #375# Docking
-#376# Trade
+#376# Commerce
 #377# Missions
 #378# Show available missions
 #379# Request docking
-#380# Debris
+#380# Débris
 #381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
+#382# Allié
+#383# Ennemi
 #384# Do not change the faction
 #385# Next duplicated ship will have the same faction as original ship
 #386# Next duplicated ship will have ally faction
 #387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
+#388# Astéroide
+#389# Outil peindre
+#390# Sélectionner le module à peindre
+#391# Clic gauche: Peindre
