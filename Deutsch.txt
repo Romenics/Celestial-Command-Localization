@@ -391,8 +391,8 @@
 #389# Malwerkzeug
 #390# Modul zum bemalen auswählen
 #391# Links-Klick zum malen
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
+#392# Gespeicherte Schiffe
+#393# Schiff Speichern
+#394# Kein Schiff ausgewählt
+#395# Schiff gespeichert
 #396# Click to place a ship
