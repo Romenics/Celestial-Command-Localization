@@ -396,3 +396,29 @@
 #394# Není vybrána žádná loď
 #395# Loď uložena
 #396# Klikněte pro umístění lodě
+#397# Ctrl + Left Click - Pick color
+#398# Presets
+#399# File name
+#400# already exist
+#401# Rename
+#402# Overwrite
+#403# Enter file name
+#404# The ship can't be found
+#405# Paint after construction
+#406# Pick color
+#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
+#408# Show accepted missions
+#409# Discord chat
+#410# Warp field has been collapsed due dense obstacle
+#411# Show crew
+#412# Show center of mass
+#413# Control by cursor
+#414# Lock view angle
+#415# Accepted missions
+#416# Show orbital parameters
+#417# Paint tool
+#418# Load ship
+#419# Pin trajectory
+#420# Build menu
+#421# Deconstruct
+#422# Compensate rotation
