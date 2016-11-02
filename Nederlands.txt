@@ -388,37 +388,37 @@
 #386# Volgend gekopiëerd schip wordt van de geallieerde factie
 #387# Volgend gekopiëerd schip wordt van de vijandelijke factie
 #388# Asteroïde
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
+#389# VERFGEREEDSCHAP
+#390# Selecteer module om te kleuren
+#391# Linker muisknop - Verf
+#392# OPGESLAGEN SCHEPEN
+#393# Sla schip op
+#394# Geen schip geselecteerd
+#395# Schip opgeslagen
+#396# Klik om een schip te plaatsen
+#397# Ctrl + Linker Muisknop - Kies kleur
+#398# Palet
+#399# Bestandsnaam
+#400# bestaat al
+#401# Hernoem
+#402# Overschrijf
+#403# Geef bestandsnaam op
+#404# Het schip kan niet worden gevonden
+#405# Geef nieuwe modules kleur
+#406# Kies kleur
+#407# Pin traject. Het traject zal zichtbaar blijven nadat dit scherm gesloten wordt.
+#408# Toon geaccepteerde missies
 #409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#410# Het warpveld is ingestord door een obstakel met hoge dichtheid
+#411# Toon bemanning
+#412# Toon zwaartepunt
+#413# Muisbesturing
+#414# Vergrendel kijkhoek
+#415# Geaccepteerde missies
+#416# Toon orbitale paramters
+#417# Verfgereedschap
+#418# Laad schip
+#419# Pin traject
+#420# Bouwmenu
+#421# Breek af
+#422# Compenseer rotatie
