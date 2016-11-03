@@ -396,29 +396,29 @@
 #394# 未选择舰船
 #395# 舰船已保存
 #396# 单击以放置舰船
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#397# Ctrl + 左键 - 选择颜色
+#398# 预置
+#399# 文件名称
+#400# 已经存在
+#401# 重命名
+#402# 覆盖
+#403# 输入文件名
+#404# 无法找到该舰船
+#405# 建设后进行喷涂
+#406# 选择颜色
+#407# Pin轨迹。即使关闭该窗口，轨迹依然会显示。
+#408# 显示已接受任务
+#409# Discord聊天
+#410# Warp field has been collapsed due dense obstacle（由于密度障碍的缘故，曲率区域已被崩溃？）
+#411# 显示船员
+#412# 显示质点
+#413# 通过光标控制
+#414# 锁定视角
+#415# 已接受任务
+#416# 显示轨道参数
+#417# 喷涂工具
+#418# 加载舰船
+#419# Pin轨迹
+#420# 建造菜单
+#421# 拆除
+#422# 自转补偿
