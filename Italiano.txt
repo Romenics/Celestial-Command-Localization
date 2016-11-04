@@ -396,29 +396,29 @@
 #394# Nessuna nave selezionata
 #395# Nave salvata
 #396# Clicca per posizionare una nave
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#397# Ctrl + Clic sx - Seleziona colore
+#398# Modelli
+#399# Nome file
+#400# gia' esistente
+#401# Rinomina
+#402# Sovrascrivi
+#403# Inserisci nome file
+#404# La nave non puo' essere trovata
+#405# Colora dopo la costruzione
+#406# Seleziona colore
+#407# Evidenzia traiettoria. La traiettoria sara' mostrata anche dopo la chiusura di questa finestra.
+#408# Mostra missioni accettate
+#409# Chat Discord 
+#410# Il campo Warp e' collassato a causa di fitti ostacolile
+#411# Mostra equipaggio
+#412# Mostra centro di massa
+#413# Controllo tramite cursore
+#414# Blocca angolo visuale
+#415# Missioni accettate
+#416# Mostra parametri orbitali
+#417# Strumento vernice
+#418# Carica nave
+#419# Evidenzia traiettoria
+#420# Menu' costruzione
+#421# Smonta
+#422# Compensa rotazione
