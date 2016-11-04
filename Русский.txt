@@ -396,29 +396,29 @@
 #394# Корабль не выделен
 #395# Корабль сохранен
 #396# Кликните, чтобы разместить корабль
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#397# Ctrl + ЛКМ - Выбрать цвет
+#398# Шаблоны
+#399# Название файла
+#400# уже существует
+#401# Переименовать
+#402# Перезапись
+#403# Введите имя файла
+#404# Корабль не найден
+#405# Перекрашивать после постройки
+#406# Выбрать цвет
+#407# Закрепить траекторию. Траектория будет показываться, даже если закрыть это окно.
+#408# Показать принятые задания
+#409# Discord чат
+#410# Варп поле было нарушено посторонним объектом
+#411# Показать экипаж
+#412# Показать центр масс
+#413# Управление курсором
+#414# Зафиксировать поворот камеры
+#415# Принятые задания
+#416# Показать орбитальные параметры
+#417# Перекраска модулей
+#418# Загрузить корабль
+#419# Закрепить траекторию
+#420# Строительство
+#421# Демонтаж
+#422# Компенсировать вращение
