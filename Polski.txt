@@ -1,168 +1,168 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
-#4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
-#9# Exit
+#0# Gra jednoosobowa
+#1# Gra wieloosobowa
+#2# Opcje
+#3# Twórcy
+#4# Wyjście
+#5# Kontynuuj
+#6# Pauza
+#7# Opcje
+#8# Zapisz
+#9# Wyjście
 #10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
-#27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
+#11# WCZESNY DOSTĘP 
+#12# Gra nie jest jeszcze gotowa, ale jest w bardzo aktywnie rozwijana odwiedź blog rozwoju w centrum społeczności Steam, aby uzyskać więcej informacji 
+#13# Aktualności
+#14# Dyskusje
+#15# Przewodniki
+#16# Do zrobienia
+#17# Jesteś pewien?
+#18# Wyjście
+#19# Powrót
+#20# Bezpośrednie połączenie
+#21# Połoczenie Steam (Wkrótce)
+#22# Twórcy
+#23# Gra nie jest jeszcze gotowa, ale jest w bardzo aktywnie rozwijana odwiedź blog rozwoju w centrum społeczności Steam, aby uzyskać więcej informacji 
+#24# Zapisz
+#25# Odrzóć
+#26# Zastosój
+#27# DZWIĘK
+#28# Całkowicie
+#29# Muzyka
+#30# GRA
+#31# Pokaż pomoc
+#32# Pokaż czasz na chacie
+#33# Sandbox
+#34# Zamień przyciski myszy
+#35# Automatyczne zachowywanie odstępu
+#36# GRAFIKA
+#37# Pełny ekran
+#38# Jakość textur
+#39# Wygładzanie krawędzi
 #40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
+#41# Rozkład
+#42# Wćiśnij dowolny przycisk aby go ustawić, lub Esc by cofnąć
+#43# Zapisz
+#44# Odrzóć
+#45# Skróty klawiszowe
+#46# WYBIERZ ŚWIAT
+#47# NAZWA
+#48# Zapisz plik
+#49# CZAS GRY
+#50# WERSJA
+#51# STWÓŻ ŚWIAT
+#52# Potwierdź usunięcie świata
+#53# Cofnij
+#54# Usuń
 #55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
+#56# Hasło
+#57# MAKSYMALNA ILOŚĆ GRACZY
+#58# USUŃ
+#59# Wczytaj
+#60# Wczytywanie
+#61# Łączenie...
+#62# NAZWA ŚWIATA
 #63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+#64# HASŁO
+#65# MAKSYMALNA ILOŚĆ GRACZY
+#66# SANDBOX
+#67# ILOŚĆ STACJI
+#68# ILOŚĆ WROGÓW
+#69# ILOŚĆ ASTEROID
+#70# Nowy Swiat
+#71# POWRÓT
+#72# ZACZNIJ GRĘ
+#73# Dołączy do gry wielosobowej
 #74# IP
 #75# Port
 #76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#77# Dołącz
+#78# Wybierz serwer
+#79# Dodaj do ulubionych
+#80# Potwierdź usunięcie serwera
+#81# Powrót
+#82# Nazwa
 #83# IP
 #84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
+#85# Hasło
+#86# Usuń
+#87# Dołącz
+#88# Zapisz
+#89# Edytuj
+#90# Język
+#91# Zatrzymano
 #92# Lock Rot.
 #93# Reset Pan
 #94# Local Vel.
-#95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
+#95# Krata
+#96# Wymiana
+#97# BUDUJ
+#98# DEKONSTRUUJ
 #99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
+#100# DODAJ ZASOBY
+#101# Tlen
+#102# Wodór
+#103# Ksenon
+#104# Rakieta
+#105# Moc
+#106# Jedzenie
+#107# Załoga
 #108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
+#109# Zkopiuj wybrany statek
+#110# Ustaw przyjazne frakcje
+#111# Ustaw wrogie frakcje
+#112# Ustaw wrogi statek
+#113# Dodaj AI do statku
 #114# Auto pilot
-#115# PHYSICS
-#116# Remove selected ship
-#117# Disable orbital mechanics
-#118# Place trajectory planner
+#115# FIZYKA
+#116# Usuń wybrany statek
+#117# Wyłącz astrodynamikę
+#118# Umieść trajektorię planera
 #119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
-#124# Distance
-#125# Relative velocity
-#126# Player
+#120# Zastosuj
+#121# Odrzuć
+#122# Wciśnij dowolny przycisk
+#123# Ustaw nowy skrót klawiszowy
+#124# Dystans
+#125# Prędkość względna
+#126# Gracz
 #127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
+#128# Dostępne moduły
+#129# Magazyny
+#130# Produkcja
+#131# Moc
+#132# Różne
+#133# Bronie
+#134# Wieżyczki
+#135# Napęd
+#136# Informacje o członku załogi
+#137# Zdrowie
+#138# Jedzenie
 #139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
-#155# Power consumption
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
+#140# PRZYGOTOWANIA
+#141# Ponieważ kurs nie jest jeszcze gotowy, zalecamy, aby sprawdzić ten początkowe instrukcje od członka społeczności
+#142# Otwórz przewodnik
+#143# WYMIANA
+#144# NAZWA
+#145# ILOŚĆ
+#146# CENA
+#147# ŻĄDANIE
+#148# DOSTAWA
+#149# POPRZEDNI STATEK
+#150# NASTĘPNY STATEK
+#151# MASA CAŁKOWITA 
+#152# MOMENT BEZWŁADNOŚCI
+#153# MASA MODUŁU
+#154# Nie jest podłączony do zasilania awaryjnego
+#155# Pobór energii
+#156# Odłączyć
+#157# Podłączyć
+#158# Przeciągnij do transferu
+#159# Kliknij prawym: Sprzedaj
+#160# Kup: Przeciągnij i upuść do swojego pojemnika
+#161# Drop do przeniesienia
+#162# Przytrzymaj klawisz Shift, aby określić ilość
+#163# Drop by kupić
 #164# Storage type mismatch (for liquid / for solid)
 #165# Ctrl+RMB - Deconstruct
 #166# Right click - Repair
