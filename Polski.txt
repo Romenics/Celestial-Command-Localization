@@ -163,7 +163,7 @@
 #161# Drop do przeniesienia
 #162# Przytrzymaj klawisz Shift, aby określić ilość
 #163# Drop by kupić
-#164# Storage type mismatch (for liquid / for solid)
+#164# Niedopasowanie typu przechowywania (dla cieczy / dla ciała stałego)
 #165# Ctrl+RMB - Deconstruct
 #166# Right click - Repair
 #167# Right click - Construct
