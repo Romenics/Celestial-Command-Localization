@@ -395,30 +395,30 @@
 #393# Schiff Speichern
 #394# Kein Schiff ausgewählt
 #395# Schiff gespeichert
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
+#396# Klicken um ein Schiff zu platzieren
+#397# Strg + Linksklick - Farbe wählen
 #398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
+#399# Dateiname
+#400# existiert bereits
+#401# Umbennenen
+#402# Überschreiben
+#403# Dateiname eingeben
+#404# Schiff kann nicht gefunden werden
+#405# Nach erstellen bemalen
+#406# Farbe wählen
+#407# Flugbahn festlegen. Flugbahn wird angezeigt auch nachdem das Fenster geschlossen wurde
+#408# Akzeptierte Missionen anzeigen
 #409# Discord chat
 #410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#411# Besatzung anzeigen
+#412# Masseschwerpunkt anzeigen
+#413# Mit Maus steuern
+#414# Ansichtswinkel sperren
+#415# Akzeptierte Missionen
+#416# Orbitale Parameter anzeigen
+#417# Malwerkzeug
+#418# Schiff laden
+#419# Flugbahn festlegen
+#420# Baumenü
+#421# Dekonstruieren
+#422# Rotation ausgleichen
