@@ -1,393 +1,425 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
+
+#0# サーバを起動する
+#1# マルチプレーヤーに参加する
+#2# オプション
+#3# デベロッパー
 #4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
+#5# 続行
+#6# 一時停止
+#7# オプション
+#8# 保存
 #9# Exit
 #10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
-#17# Are you sure?
+#11# 早期アクセス
+#12# ゲームはまだ完成していませんが、開発は非常に活発です。詳細はSteam Community Hubの開発ブログをご覧ください
+#13# ニュース
+#14# ディスカッション
+#15# ガイド
+#16# To-Doリスト
+#17# あなたは本当ですか？
 #18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
-#27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
+#19# 戻る
+#20# ダイレクトコネクト
+#21# スチームコネクト（近日公開予定）
+#22# デベロッパー
+#23# このゲームは3人の友人と
+#24# 保存
+#25# デフォルト
+#26# 適用
+#27# オーディオ
+#28# 合計
+#29# 音楽
+#30# ゲーム
+#31# ヘルプを表示
+#32# チャットで時間を表示する
+#33# サンドボックスモード
+#34# マウスボタンを交換する
+#35# 自動保存間隔
+#36# グラフィック
+#37# 全画面表示
+#38# テクスチャの品質
+#39# アンチエイリアス
 #40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
+#41# 解像度
+#42# バインドするには任意のキーを押し、キャンセルするにはESCを押します
+#43# 保存
+#44# デフォルト
+#45# ホットキー
+#46# 世界を選ぶ
 #47# NAME
-#48# SAVE DATE
-#49# GAME TIME
+#48# 保存日
+#49# ゲーム時間
 #50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
+#51# ワールド作成
+#52# 世界の削除を確認する
+#53# 戻る
+#54# 削除
 #55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
+#56# パスワード
+#57# 最大人数
+#58# 削除
+#59# ロード
+#60# ロード中
+#61# 接続中...
+#62# ワールドネーム
 #63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+#64# パスワード
+#65# 最大のプレイヤー
+#66# サンドボックスモード
+#67# ステーション数
+#68# 敵の数
+#69# アステロイドの数
+#70# ニューワールド
+#71# 戻る
+#72# ゲーム開始
+#73# マルチプレイヤーに参加
 #74# IP
-#75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#75# ポート
+#76# パスワード
+#77# 参加
+#78# サーバーを選択
+#79# お気に入りに追加
+#80# サーバーの削除を確認
+#81# 戻る
+#82# 名前
 #83# IP
-#84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
-#94# Local Vel.
-#95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
+#84# ポート
+#85# パスワード
+#86# 削除
+#87# 参加
+#88# 保存
+#89# 編集
+#90# 言語
+#91# ポーズ
+#92# Lock Rot
+#93# リセットパン
+#94# ローカル。
+#95# グリッド
+#96# トレード
+#97# 建設
+#98# 解体
 #99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
+#100# リソースを追加する
+#101# 酸素
+#102# 水素
+#103# キセノン
+#104# ミサイル
+#105# パワー
+#106# 食料
+#107# クルー
 #108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
-#114# Auto pilot
-#115# PHYSICS
-#116# Remove selected ship
-#117# Disable orbital mechanics
-#118# Place trajectory planner
-#119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
-#124# Distance
-#125# Relative velocity
-#126# Player
+#109# 選択された船を複製
+#110# フェクション・フレンド
+#111# フェクション・エネミー
+#112# 敵船を作る
+#113# AIを船に追加
+#114# オートパイロット
+#115# 物理学
+#116# 選択した船を削除
+#117# 無効軌道力学
+#118# 軌道計画立案者
+#119# 残骸放置
+#120# 適用
+#121# 却下
+#122# 任意のキーを押してください
+#123# 新しいホットキーを設定する
+#124# 距離
+#125# 相対速度
+#126# プレーヤー
 #127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
-#139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
-#155# Power consumption
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
-#172# Right Click
-#173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-#175# Ctrl + Right click - Deconstruct
+#128# 利用可能なモジュール
+#129# ストレージ
+#130# プロダクション
+#131# パワー
+#132# その他
+#133# 武器
+#134# タレット
+#135# 推進
+#136# クルー情報
+#137# ヘルス
+#138# 食料
+#139# モラル
+#140# 開始する
+#141# このチュートリアルはまだ準備ができていないので、コミュニティメンバーからこのスタートガイドをチェックすることをおすすめします
+#142# オープンガイド
+#143# 交易
+#144# 名前
+#145# 金額
+#146# 価格
+#147# 需要
+#148# 供給
+#149# 前の船
+#150# 次の船
+#151# 最大質量
+#152# 慣性モーメント
+#153# モジュール質量
+#154# 電源に接続されていない
+#155# 消費電力
+#156# 分離
+#157# 接続
+#158# ドラッグして転送
+#159# 右クリック：売る
+#160# 購入：コンテナにドラッグアンドドロップする
+#161# 転送する
+#162# 金額を指定するシフトをホールド
+#163# 購入
+#164# ストレージタイプの不一致（液体の場合/固体の場合）
+#165# Ctrl + RMB - 解体する
+#166# 右クリック - 修復
+#167# 右クリック - 構築
+#168# 右クリック - コンテンツを表示
+#169# 右クリック - ホットキーの割り当て
+#170# 質量
+#171# 射出
+#172# 右クリック
+#173# ホットキーをリセット
+#174# Ctrl +右クリック - 解体
+#175# Ctrl +右クリック - 解体
 #176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
-#190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
-#219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
-#236# Factors
-#237# Star Mass
-#238# Planet Mass
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
-#245# Apoapsis
-#246# Periapsis
-#247# Eccentricity
-#248# Orbital period
-#249# Tang. velocity
-#250# Ang. velocity
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
-#337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
-#344# Laser 1
-#345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
-#350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
+#177# アルミニウム
+#178# シリコン
+#179# シルバー
+#180# チタン
+#181# 鉄
+#182# コバルト
+#183# ニッケル
+#184# 銅
+#185# ニオブ
+#186# 酸素
+#187# 水素
+#188# キセノン
+#189# アイス
+#190# フルライト
+#191# 重水素
+#192# ウラン
+#193# ロケット
+#194# パワー
+#195# 食品
+#196# リソース名がありません
+#197# ビルドメニューを開くことができません。
+#198# 現在の船にエンジニアリングベイはありません
+#199# 食料の不足
+#200# 船に食べ物が見つからない！
+#201# 餓死
+#202# は餓死しました！
+#203# 警告
+#204# 最後のモジュールは解体できません
+#205# 自動制御による手動操作の停止
+#206# ワープドライブがまだ準備されていません
+#207# は射撃できません
+#208# ロケットランチャーが弾薬庫に接続されていません
+#209# 発砲できません
+#210# 接続された弾薬庫には弾薬がありません
+#211# 自動パイロット - 有効
+#212# 自動パイロット - 無効
+#213# 船を選択
+#214# オブジェクトが選択されていません
+#215# 船を選択
+#216# オブジェクトを選択する
+#217# ホットキー：
+#218# ホットキーネーム：
+#219# 左：
+#220# サーバだけがこれを行うことができます
+#221# ゲームを保存しました
+#222# セーブエラー
+#223# 内部エラーのため保存が完了しませんでした。
+#224# クレジットが不足です
+#225# 船を一緒にドッキングする必要があります
+#226# ストレージが空です
+#227# このトレーダーは要求しません
+#228# ストレージがいっぱいで売買できません。
+#229# 単位
+#230# が販売されました
+#231# 単位
+#232# を買収した
+#233# クレジットが不足しています：
+#234# 回収
+#235# 空いているストレージスペースが無いため回収できません
+#236# 要因
+#237# スターマス
+#238# 惑星質量
+#239# エンジン推力
+#240# 燃料消費
+#241# 反応ホイールトルク
+#242# 軌道パラメータ
+#243# 軌道
+#244# 位置
+#245# 軌道遠点
+#246# 惑星距離
+#247# 偏心率
+#248# 軌道周期
+#249# 前進速度
+#250# 旋回速度
+#251# ビルドメニューを開く
+#252# 選択したモジュールを分解する
+#253# 前の利用可能な船に切り替える
+#254# 次の利用可能な船に切り替える
+#255# リセット時間スケール
+#256# 時間スケールを小さくする
+#257# 時間スケールを大きくする
+#258# ストレージを表示
+#259# 現在の船のすべての貯蔵容器の内容を表示します。コンテンツは、マウスの左ボタンでドラッグアンドドロップすることでコンテナ間を移動できます。 Left-Shiftを押しながら特定の量のリソースを転送できます。
+#260# 現在の船の乗組員を表示します。乗組員はドラッグアンドドロップで移動できます。
+#261# コネクタを表示する
+#262# 現在の船舶のリソースコネクタを表示します。モジュールに特定のリソースが必要な場合は、このモードを使用してモジュールに接続する必要があります。コネクタは、ドラッグアンドドロップを使用してモジュールに接続できます。
+#263# 取り付けポイント
+#264# 現在の船のマウントポイントを表示します。取り付けポイントは、左クリックで接続または切断できます。
+#265# 現在の船の重心を表示する
+#266# RCSをロック
+#267# エンジンを使って船の回転を安定させる
+#268# 有効になっている場合 - あなたの船を選択し、右クリックして移動命令を送る
+#269# HPバーを表示する
+#270# 船の完全性を一時的に表示する
+#271# 回転ロッカー
+#272# ビューの回転を観測オブジェクトに揃える
+#273# フォーカスビュー
+#274# 選択したオブジェクトにフォーカスを当てる
+#275# リセットパン
+#276# カメラビューをリセットして、選択したオブジェクトに焦点を当てる
+#277# 速度表示
+#278# 選択したオブジェクトに相対速度（オレンジ）と方向（白）を表示
+#279# グリッドの切り替え
+#280# 星を基準に長方形のグリッドを表示する
+#281# 現在の電力
+#282# 最大電力容量
+#283# 電源入力
+#284# パワー出力
+#285# 電源入力と出力の合計
+#286# 総水素量
+#287# 総酸素量
+#288# 選択したオブジェクトの軌道パラメータを表示
+#289# 派閥
+#290# 船の名前を変更
+#291# 構造全体の質量
+#292# このパラメータは、船を回転させるために必要な力を決定します。この値を小さくするには、最も巨大なモジュールを質量中心近くに配置する必要があります。
+#293# これが貨物室またはコンテナである場合のコンテンツの量を含める
+#294# 構造の完全性
+#295# 選択した武器グループの手動制御を有効/無効にします。左シフトを押しながら押すと、自動モードに切り替わります。
+#296# 選択したストレージを酸素で満たす
+#297# 選択したストレージを水素で満たす
+#298# 選択したストレージをキセノンで満たす
+#299# ロケットで選択したストレージを埋める
+#300# 選択したストレージを弾薬で満たす
+#301# 選択した電源を完全に充電する
+#302# 食物で選択したストレージを埋める
+#303# 選択したモジュールに乗組員を追加する
+#304# 出発惑星の周りの無作為な地点で敵船を作ります。自動的にプレイヤーの船を攻撃します。
+#305# 選択した船に人工知能を追加します。それは同盟派に割り当てられます。船は船の船に従います。
+#306# 船は自動的に選択された対象物に飛びます。 2回目のクリックでオートパイロットが無効になります。
+#307# 船や小惑星全体を取り除く
+#308# 注意 - このアクションは現在の世界では元に戻すことができません。重力を無効にしてすべてのオブジェクトを停止します（テスト目的のみ）
+#309# （完成していない機能）ボタンを押して宇宙のどこかをクリックして、軌道計画を作成します。位置および速度ノードは、マウスの左ボタンでドラッグできます。右クリック - ノードを削除します。
+#310# アクティブな場合は、スペースのどこかを左クリックすると破片が生成されます。 Shift +クリックはランダムな速度の破片を投げます。
+#311# これらの商品を購入するトレーダー
+#312# これらの商品を販売するトレーダー
+#313# 名前を変更
+#314# 順位変更
+#315# 未完成の属性
+#316# 乗組員は、値が75％を下回ると自動的に倉庫から食糧を消費します（2分ごとに値が25％減ります）
+#317# 未完成の属性
+#318# 選択したストレージを水素で満たす
+#319# 選択したモジュールに乗組員を追加する
+#320# 公開取引インタフェース。 （注：ステーションと取引するには、取引インターフェースを開いて、船をステーションにドッキングして、両方のドッキングポートを有効にする必要があります。ステーションから何かを購入するには、ステーションからあなたのコンテナに希望の商品をドロップする。何かを販売するには - あなたのコンテナ内の商品を右クリックする）
+#321# 選択した造船所が提供するオープンな建設メニュー。あなたの船が造船所の中にある間、あなたはクレジットのためのモジュールを売買するかもしれません。
+#322# 軌道の状態
+#323# 惑星や星に相対的な位置
+#324# 惑星の中心から軌道上の最も遠い点までの距離
+#325# 惑星の中心から軌道上の最も近い点までの距離
+#326# 偏心率は、軌道（e = 0）円（0 <e <1）楕円（e = 1）放物線（e> 1）双曲線の形状を定義します
+#327# 軌道周期は、体が軌道周りに1回転する時間です
+#328# 角速度（度/秒）
+#329# 軌道パラメータ
+#330# 貨物コンテナ2
+#331# 貨物コンテナ1
+#332# 化学エンジン
+#333# リキッドコンテナ1
+#334# 原子炉
+#335# 電源
+#336# エンジニアリングベイ
+#337# レーダー
+#338# ソーラーパネル
+#339# タレットプラットフォーム1
+#340# タレットプラットフォーム2
+#341# エネルギーキャノン
+#342# 弾道砲1
+#343# 回廊4ジャンクション
+#344# レーザー1
+#345# 鉱夫
+#346# 液体コンテナ2
+#347# 貨物コンテナ3
+#348# ドッキングポート
+#349# グラバー
+#350# レーザー2
+#351# 燃料ジェネレータ
+#352# 弾道キャノン2
+#353# 回廊
+#354# 回廊3ジャンクション
+#355# コマンドモジュール
+#356# コリドーコーナー
+#357# 反応ホイール
+#358# ワープドライブ
+#359# フレーム2x1アダプタ
+#360# RCSエンジン
+#361# 液体コンテナ3
+#362# 鉱山レーザー
+#363# 液体コンテナ4
+#364# コマンドモジュール2
+#365# シールドジェネレータ
+#366# カーゴゲート
+#367# トラクタビーム
+#368# イオンエンジン
+#369# 構造ビーム
+#370# ロケットランチャー
+#371# 2x1アダプタ
+#372# 造船所
+#373# 水栽培
+#374# 造船所
+#375# ドッキング
+#376# トレード
+#377# ミッション
+#378# 利用可能なミッションを表示する
+#379# ドッキングリクエスト
+#380# デブリス
+#381# 新しい船に新しいフェクションを設定する
+#382# 同盟
+#383# 敵
+#384# 派閥を変更しない
+#385# 次の新しい船は元の船と同じ派閥を持つ
+#386# 次の新しい船は同盟派を持つ
+#387# 次の新しい船に敵の派閥がある
+#388# 小惑星
+#389# ペイントツール
+#390# ペイントするモジュールを選択
+#391# 左クリック - ペイント
+#392# SAVED SHIPS
+#393# 船を保存する
+#394# 船が選択されていません
+#395# Ship saved
+#396# 船を置くにはクリックしてください
+#397# Ctrl +左クリック - 色を選択
+#398# プリセット
+#399# ファイル名
+#400# は既に存在します
+#401# 名前の変更
+#402# 上書き
+#403# ファイル名を入力してください
+#404# 船が見つかりません
+#405# 建設後のペイント
+#406# 色を選択
+#407# ピンの軌跡。このウィンドウを閉じても軌跡が表示されます。
+#408# 受け入れたミッションを表示する
+#409# ディスコチャット
+#410# 密な障害物のためにワープフィールドが崩壊しました
+#411# 乗組員を表示
+#412# 重心表示
+#413# カーソルで制御
+#414# 視野をロックする
+#415# 受け入れられた任務
+#416# 軌道パラメータを表示する
+#417# ペイントツール
+#418# 船を積みます
+#419# ピンの軌跡
+#420# ビルドメニュー
+#421# 解体する
+#422# ローテーションを補正する
