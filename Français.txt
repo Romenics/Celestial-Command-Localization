@@ -15,10 +15,10 @@
 #13# Actualités (→)
 #14# Discussions (→)
 #15# Guides (→)
-#16# A faire (Trello)
+#16# A faire (→Trello)
 #17# Etes-vous sûr de vouloir quitter?
 #18# Oui
-#19# Retour
+#19# Annuler
 #20# Connection directe
 #21# Via Steam (A venir)
 #22# L'équipe de développeurs
@@ -127,7 +127,7 @@
 #125# Relative velocity
 #126# Joueur
 #127# Ping
-#128# Modules disponible
+#128# Modules disponibles
 #129# Stockage
 #130# Production
 #131# Energie
@@ -137,7 +137,7 @@
 #135# Propulsion
 #136# Membre d'équipage
 #137# Santé
-#138# Nourrit.
+#138# Nourriture
 #139# Morale
 #140# Démarrage
 #141# Le tutoriel de prise en main n'est pas encore disponible, il est préférable de consulter la version en ligne créé par la communauté sur Steam (rubrique 'Guides...')
@@ -160,10 +160,10 @@
 #158# Glisser pour transférer
 #159# Clic droit: Vendre
 #160# Glisser, déposer: Acheter
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
+#161# Déposer pour transférer
+#162# Maintenir Shift pour définir une quantité
+#163# Déposer pour acheter
+#164# Type de stockage incompatible (liquide/solide)
 #165# Ctrl + Clic droit: Déconstruire
 #166# Clic droit: Réparer
 #167# Clic droit: Construire
@@ -188,7 +188,7 @@
 #186# Oxygène
 #187# Hydrogène
 #188# Xénon
-#189# Glase
+#189# Glace
 #190# Fullerite
 #191# Deutérium
 #192# Uranium
@@ -197,11 +197,11 @@
 #195# Nourriture
 #196# There is no resource with name
 #197# Impossible d'ouvrir le menu Construire
-#198# The current ship doesn't have an engineering bay
+#198# Le vaisseau actuel ne possède pas de module de construction
 #199# Plus de nourriture !
 #200# Pas de nourriture à bord de ce vaisseau !
-#201# Starved death
-#202# has starved to death!
+#201# Mort affamée
+#202# est mort de faim !
 #203# Avertissement !
 #204# Last command module cannot be deconstructed
 #205# Automatic movement stopped due manual control
