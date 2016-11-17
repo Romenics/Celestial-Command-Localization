@@ -203,12 +203,12 @@
 #201# Mort affamée
 #202# est mort de faim !
 #203# Avertissement !
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Impossible de tirer
-#208# Rocket launcher is not connected to ammo storage
-#209# Impossible de tirer
+#204# Le dernier vaisseau de commande ne peut pas être déconstruit !
+#205# Pilote automatique désactiver par l'action manuelle du joueur
+#206# Le 'Warp drive' n'est pas encore prêt
+#207# Impossible de tirer ! 
+#208# Le lanceur de missile n'est pas connecté à un stockage de munitions
+#209# Impossible de tirer !
 #210# Pas de munition disponible
 #211# Pilote autom. activé
 #212# Pilote autom. désactivé
@@ -219,9 +219,9 @@
 #217# Raccourcis:
 #218# Nom racc.:
 #219# Gauche:
-#220# Only server can do this
+#220# Seul le serveur peut ceci
 #221# Partie enregistrée
-#222# ERREUR ENREGISTREMENT !
+#222# ! ERREUR ENREGISTREMENT !
 #223# Saving was not completed due internal error.
 #224# Insufficient credits
 #225# Ships should be docked together
@@ -329,18 +329,18 @@
 #327# The orbital period is the time during which the body makes one rotation around its orbit
 #328# Angular velocity (in degree per second)
 #329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
+#330# Cargo type 2
+#331# Cargo type 1
 #332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
+#333# Réservoir pour liquide type 1
+#334# Réacteur nucléaire
+#335# Stockage énergie
+#336# Baie de construction
 #337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
+#338# Panneaux solaires
+#339# Tourelle type 1
+#340# Tourelle type 2
+#341# Canon à énergie
 #342# Ballistic Cannon 1
 #343# Corridor 4 Junction
 #344# Laser 1
@@ -391,34 +391,34 @@
 #389# Outil peindre
 #390# Sélectionner le module à peindre
 #391# Clic gauche: Peindre
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
+#392# VAISS. ENREGIST.
+#393# Enregistrer le vaisseau
+#394# Aucun vaisseau sélectionné
+#395# Vaisseau enregistré
+#396# Clic gauche pour placer un vaisseau
+#397# Ctrl + Clic gauche: sélectionner une couleur
 #398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
+#399# Nom de fichier
+#400# existe déjà ! 
+#401# Renommer
+#402# Ecraser
+#403# Entrez un nom de fichier
+#404# Ce vaisseau ne peut être trouver !
+#405# Peindre après construction
+#406# Sélectionnez une couleur
 #407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
+#408# Afficher les missions acceptées
+#409# Discussion Discord
 #410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
+#411# Afficher l'équipage
+#412# Afficher le centre des masses
 #413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#414# Bloquer l'angle de vue
+#415# Missions acceptées
+#416# Afficher les paramètres orbitaux
+#417# Outil peinture
+#418# Charger un vaisseau
+#419# Navigation automatique
+#420# Menu construction
+#421# Déconstruire
+#422# Compenser la rotation
