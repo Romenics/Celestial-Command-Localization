@@ -262,44 +262,44 @@
 #260# Mostrar la tripulación de la nave actual. Los miembros de la tripulación pueden moverse arrastrando y soltando.
 #261# Mostrar conexiones.
 #262# Muestra las conexiones de la nave actual. Si el módulo requiere recursos específicos, debe conectarse usando este módulo. Las conexiones puedes unirse a los módulos arrastrando y soltando.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
+#263# Puntos de anclaje
+#264# Muestra los puntos de anclaje para la nave actual. Los puntos de anclaje pueden conectarse y desconectarse con click izquierdo.
 #265# Mostrar el centro de masa de la nave actual
 #266# Fijar RCS
 #267# estabiliza la rotación de la nave usando sus motores
 #268# Si está activo - selecciona la nave y haz click derecho para enviar una orden de movimiento.
 #269# Mostrar las barras de salud
 #270# Muestra temporalmente la integridad de la nave
-#271# Rotate locker
+#271# Bloqueo de rotación
 #272# Alinear la rotación de la vista con el objeto observado
 #273# Enfocar vista
 #274# enfocar en el objeto seleccionado
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
+#275# Rest. cámara
+#276# Restablece la vista para enfocar el objeto seleccionado
+#277# Mostrar velocidad
+#278# Mostrar vel. relativa (naranja) y dirección (blanco) del objeto seleccionado
+#279# Mostrar cuadrícula
+#280# Muestra una cuadrícula rectangular relativa a la estrella.
+#281# Energía actual
+#282# Máxima capacidad energética
+#283# Potencia generada
+#284# Potencia consumida
+#285# Diferencia entre la potencia generada y consumida
+#286# Cantidad total de hidrógeno
+#287# Cantidad total de oxígeno
+#288# Muestra los parámetros orbitales del objeto seleccionado
+#289# Faccción
+#290# Renombrar la nave
+#291# Masa de la estructura entera
+#292# Este parámetro determina cuánta fuerza se necesita para rotar la nave. Para reducirlo, los módulos más masivos deben colocarse cerca del centro de masas.
+#293# Incluyendo la masa del contenido en caso de que sea una bahía de carga o contenedor
+#294# Integridad estructural
+#295# Activar \ desactivar control manual para el grupo de armas seleccionado. Presiona manteniendo Shift izquierdo para pasar a modo automático.
+#296# Rellenar el almacen seleccionado con Oxígeno
+#297# Rellenar el almacen seleccionado con Hidrógeno
+#298# Rellenar el almacen seleccionado con Xenón
+#299# Rellenar el almacen seleccionado con cohetes
+#300# Rellenar el almacen seleccionado con munición
 #301# Fully charge selected Power Storage
 #302# Fill selected storage with food
 #303# Add crew member to selected module
