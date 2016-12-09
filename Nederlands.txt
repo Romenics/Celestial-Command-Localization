@@ -423,7 +423,7 @@
 #421# Breek af
 #422# Compenseer rotatie
 #423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
+#424# Onderdeel Rotor
+#425# Zuiger
+#426# Onderdeel Zuiger
+#427# Niet meer tonen
