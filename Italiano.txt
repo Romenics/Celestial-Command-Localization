@@ -422,3 +422,8 @@
 #420# Menu' costruzione
 #421# Smonta
 #422# Compensa rotazione
+#423# Rotor
+#424# Rotor Part
+#425# Piston
+#426# Piston Part
+#427# Don't show again

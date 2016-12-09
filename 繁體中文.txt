@@ -422,3 +422,8 @@
 #420# 建造選單
 #421# 拆除
 #422# 自轉補償
+#423# Rotor
+#424# Rotor Part
+#425# Piston
+#426# Piston Part
+#427# Don't show again

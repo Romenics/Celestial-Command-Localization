@@ -422,3 +422,8 @@
 #420# Baumenü
 #421# Dekonstruieren
 #422# Rotation ausgleichen
+#423# Rotor
+#424# Rotor Part
+#425# Piston
+#426# Piston Part
+#427# Don't show again

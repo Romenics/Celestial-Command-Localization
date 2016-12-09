@@ -422,3 +422,8 @@
 #420# Build menu
 #421# Deconstruct
 #422# Compensate rotation
+#423# Rotor
+#424# Rotor Part
+#425# Piston
+#426# Piston Part
+#427# Don't show again

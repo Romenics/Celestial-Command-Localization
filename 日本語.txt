@@ -423,3 +423,8 @@
 #420# ビルドメニュー
 #421# 解体する
 #422# ローテーションを補正する
+#423# Rotor
+#424# Rotor Part
+#425# Piston
+#426# Piston Part
+#427# Don't show again

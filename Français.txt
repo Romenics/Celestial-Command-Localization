@@ -422,3 +422,8 @@
 #420# Menu construction
 #421# Déconstruire
 #422# Compenser la rotation
+#423# Rotor
+#424# Rotor Part
+#425# Piston
+#426# Piston Part
+#427# Don't show again

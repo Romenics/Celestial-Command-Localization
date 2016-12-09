@@ -422,3 +422,8 @@
 #420# 建造菜单
 #421# 拆除
 #422# 补偿旋转
+#423# Rotor
+#424# Rotor Part
+#425# Piston
+#426# Piston Part
+#427# Don't show again
