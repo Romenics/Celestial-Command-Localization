@@ -430,5 +430,4 @@
 #428# Unable to save
 #429# Please select a ship
 #430# Please selected a command module of the ship
-
 #431# SELECT A SHIP
