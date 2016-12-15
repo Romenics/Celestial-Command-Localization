@@ -422,3 +422,8 @@
 #420# Build menu
 #421# Deconstruct
 #422# Compensate rotation
+#428# Unable to save
+#429# Please select a ship
+#430# Please selected a command module of the ship
+
+#431# SELECT A SHIP
