@@ -422,12 +422,12 @@
 #420# 建造菜单
 #421# 拆除
 #422# 补偿旋转
-#423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+#423# 转子
+#424# 转子部件
+#425# 活塞
+#426# 活塞部件
+#427# 不再显示
+#428# 无法保存
+#429# 请选择舰船
+#430# 请选择舰船上的命令模块
+#431# 选择一艘舰船
