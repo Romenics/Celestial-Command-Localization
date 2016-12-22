@@ -9,7 +9,7 @@
 #7# Opções
 #8# Salvar
 #9# Sair
-#10# Respawn
+#10# Renascer
 #11# Acesso Antecipado
 #12# O jogo não está pronto ainda mas esta com o desenvolvimento muito ativo. Visite o blog de desenvolvimento na Central da Comunidade Steam para ter mais informações
 #13# Notícias
@@ -26,7 +26,7 @@
 #24# Salvar
 #25# Padrão
 #26# Aplicar
-#27# AUDIO
+#27# ÁUDIO
 #28# Total
 #29# Música
 #30# JOGO
@@ -34,7 +34,7 @@
 #32# Mostrar hora no chat
 #33# Modo Sandbox
 #34# Inverter botões do mouse
-#35# Intevalo entre Auto Save
+#35# Intervalo para salvamento automático 
 #36# GRÁFICO
 #37# Tela Cheia
 #38# Qualidade das Texturas
@@ -47,7 +47,7 @@
 #45# ATALHOS
 #46# SELECIONE O MUNDO
 #47# Nome
-#48# DATA DO SAVE
+#48# JOGOS SALVOS
 #49# HORA DO JOGO
 #50# VERSÃO
 #51# CRIAR MUNDO
@@ -68,7 +68,7 @@
 #66# MODO SANDBOX
 #67# QUANTIDADE DE ESTAÇÕES
 #68# QUANTIDADE DE INIMIGOS
-#69# QUANTIDADE DE ASTERÓIDES
+#69# QUANTIDADE DE ASTEROIDES
 #70# NOVO MUNDO
 #71# VOLTAR
 #72# INICIAR JOGO
@@ -113,7 +113,7 @@
 #111# Definir facção para inimigo
 #112# Criar nave inimiga
 #113# Adicionar IA para a nave
-#114# Piloto Automatico
+#114# Piloto Automático
 #115# FÍSICA
 #116# Remover nave selecionada
 #117# Desativar mecânicas orbitais
@@ -127,7 +127,7 @@
 #125# Velocidade relativa
 #126# Jogador
 #127# Latência
-#128# Modulos Avaliados
+#128# Módulos Avaliados
 #129# Armazenamentos
 #130# Produção
 #131# Energia
@@ -167,7 +167,7 @@
 #165# CTRL+Botão Direito - Desconstruir
 #166# Botão Direito - Reparar
 #167# Botão Direito - Construir
-#168# Botão Direito - mostrar conteudo
+#168# Botão Direito - mostrar conteúdo
 #169# Botão Direito - Definir hotkey
 #170# Massa
 #171# ejetar
@@ -191,12 +191,12 @@
 #189# Gelo
 #190# Fullerite
 #191# Deuterium
-#192# Uranio
+#192# Urânio
 #193# Míssil
 #194# Energia
 #195# Alimento
 #196# Não há recurso com o nome
-#197# Não é possivel abrir o menu de construção
+#197# Não é possível abrir o menu de construção
 #198# A nave atual não tem a baía de engenharia
 #199# Sem alimentos
 #200# não se pode encontrar nenhuma comida na nave!
@@ -204,14 +204,14 @@
 #202# morreu de fome!
 #203# Atenção
 #204# O último modulo de comando não pode ser descontruido
-#205# Movimentação automatica desligada devido a controle manual
+#205# Movimentação automática desligada devido a controle manual
 #206# Warp drive ainda não esta pronto
 #207# Não pode disparar
 #208# Lançador de Misseis não esta conectado ao compartimento de munição
 #209# Não pode disparar
 #210# Sem munição no compartimento conectado
-#211# Piloto Automatico - Ativado
-#212# Piloto Automatico - Desativado
+#211# Piloto Automático - Ativado
+#212# Piloto Automático - Desativado
 #213# Selecione uma nave
 #214# Nenhum objeto selecionado
 #215# Selecione uma nave
@@ -222,7 +222,7 @@
 #220# Apenas o servidor pode fazer isso
 #221# Jogo salvo
 #222# ERRO AO SALVAR
-#223# Save não foi completado devido a um erro interno.
+#223# Não foi possível salvar devido a um erro interno.
 #224# Créditos insuficientes
 #225# Naves devem estar acopladas
 #226# Armazenamento esta fazio
@@ -306,10 +306,10 @@
 #304# Cria uma nave inimiga em um ponto aleatório ao redor do planeta inicial que atacará a nave do jogador automaticamente.
 #305# Adiciona uma Inteligência Artificial à nave selecionada com a facção aliada. A nave seguirá a nave do jogador.
 #306# A nave voará automaticamente ao objeto selecionado. Um segundo clique desliga o piloto automático.
-#307# Remove completamente a nave ou asteroide
-#308# ATENÇÃO - Esta alão não pode ser desfeita para o mundo atual. Desabilita a gravidade e para todos os objetos (somente para fins de teste)
+#307# Remover completamente a nave ou asteroide
+#308# ATENÇÃO - Esta ação não pode ser desfeita se ativada para o mundo atual. Desabilitará a gravidade para todos os objetos (somente para fins de teste).
 #309# (Funcionalidade incompleta) Aperte o botão e clique em algum lugar no espaço para criar um planejador orbital. Nódulos de posição e velocidade podem ser arrastados com botão esquerdo. O botão direito remove o nódulo.
-#310# Se ativo, um clique esquerdo em algum lugar do espaço criará um detrito. Shift+Clique lançará o detrito com uma velocidade aleatória.
+#310# Se ativo, ao clicar com o botão esquerdo do mouse em algum lugar do espaço criará um detrito. Shift+Clique lançará o detrito com uma velocidade aleatória.
 #311# Comerciante disposto a COMPRAR estes bens
 #312# Comerciante disposto a VENDER estes bens
 #313# Mudar nome
@@ -323,9 +323,9 @@
 #321# Abre o menu de construção fornecido pelo estaleiro selecionado. Enquanto sua nave estiver dentro do estaleiro, você pode comprar e vender módulos por créditos.
 #322# Estado da trajetória
 #323# Posição relativa ao planeta ou estrela
-#324# Distãncia do centro do planeta ao ponto mais distante na órbita
+#324# Distância do centro do planeta ao ponto mais distante na órbita
 #325# Distância do centro do planeta ao ponto mais próximo na órbita
-#326# A eccentricidade define o formato da órbita. (e=0) círculo) (0<e<1) elipse (e=1) parábola (e>1) hipérbole
+#326# A excentricidade define o formato da órbita. (e=0) círculo) (0<e<1) elipse (e=1) parábola (e>1) hipérbole
 #327# O período orbital é o tempo durante o qual um objeto faz uma volta ao redor de sua órbita
 #328# Velocidade angular (em graus por segundo)
 #329# PARÂMETROS ORBITAIS
@@ -380,54 +380,54 @@
 #378# Exibir missões disponíveis
 #379# Solicitar docagem
 #380# Detrito
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
+#381# ATIVE UMA FACÇÃO PARA A NAVE DUPLICADA
+#382# Aliado
+#383# Inimigo
+#384# Não mude a facção
+#385# A próxima nave duplicada terá a mesma facção do nave original
+#386# Próxima nave duplicada terá facção aliada
+#387# Próxima nave duplicada terá facção inimiga
+#388# Asteroide
+#389# FERRAMENTA DE PINTURA
+#390# Selecionar módulo para pintar
+#391# Clique esquerdo - Pintura
+#392# NAVES SALVAS
+#393# Salvar nave
+#394# Nenhuma nave selecionada
+#395# Nave salva
+#396# Clique para colocar uma nave
+#397# Ctrl + clique esquerdo - escolha a cor
+#398# Predefinições
+#399# Nome do arquivo
+#400# já existe
+#401# Renomear
+#402# Substituir
+#403# Insira o nome do arquivo
+#404# O nave não pode ser encontrado
+#405# Pintura após a construção
+#406# Escolha a cor
 #407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
+#408# Mostrar missões aceitas
 #409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
+#410# O campo Warp foi colapsado devido a um obstáculo denso
+#411# Mostrar equipe
+#412# Mostrar centro de massa
+#413# Controle pelo cursor
+#414# Bloquear ângulo de visão
+#415# Missões aceitas
+#416# Mostrar parâmetros orbitais
+#417# Ferramenta de pintura
+#418# Carregar nave
 #419# Pin trajectory
 #420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#421# Desconstruir
+#422# Compensar rotação
 #423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+#424# Parte do rotor
+#425# Pistão
+#426# Peça de pistão
+#427# Não mostrar novamente
+#428# Não é possível salvar
+#429# Selecione uma nave
+#430# Por favor, selecione um módulo de comando do nave.
+#431# SELECIONE UMA NAVE
