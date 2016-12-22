@@ -429,5 +429,5 @@
 #427# Não mostrar novamente
 #428# Não é possível salvar
 #429# Selecione uma nave
-#430# Por favor, selecione um módulo de comando do nave.
+#430# Por favor, selecione um módulo de comando da nave.
 #431# SELECIONE UMA NAVE
