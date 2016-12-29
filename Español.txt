@@ -257,7 +257,7 @@
 #255# Resetear escala temporal
 #256# Disminuir escala temporal
 #257# Aumentar escala temporal
-#258# Monstrar almacenamiento
+#258# Mostrar almacenamiento
 #259# Muestra el contenido de todos los contenedores de la nave actual. El contenido puede moverse entre contenedores arrastrando y soltando con el botón izq. del ratón. Manteniendo Left-Shift es posible transferir una cantidad específica de recursos.
 #260# Mostrar la tripulación de la nave actual. Los miembros de la tripulación pueden moverse arrastrando y soltando.
 #261# Mostrar conexiones.
@@ -300,134 +300,134 @@
 #298# Rellenar el almacen seleccionado con Xenón
 #299# Rellenar el almacen seleccionado con cohetes
 #300# Rellenar el almacen seleccionado con munición
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
+#301# Cargar completamente la batería seleccionada
+#302# Rellenar el almacen seleccionado con comida
+#303# Añadir un tripulante al módulo seleccionado
+#304# Crea una nave enemiga en un punto aleatorio alrededor del planeta inicial que atacará automáticamente la nave del jugador.
+#305# Añade IA a la nave seleccionada. Se asiganará a una facción aliada. La nave seguirá a la nave del jugador.
+#306# La nave volará automáticamente al objeto seleccionado. Un segundo clic desactivará el piloto automático.
+#307# Quita la nave entera o el asteroide
+#308# ATENCIÓN - Esta acción no puede deshacerse para el mundo actual. Deshabilita la gravedad y detiene todos los objetos (sólo para pruebas)
+#309# (Función incompleta) Presiona el botón y haz clic en algún lugar del espacio para crear un planificador orbital. Los nodos de Velocidad y Posición pueden arrastrarse con el botón izquierdo. Clic derecho - borrar el nodo.
+#310# Si activo, clic izquierdo en un lugar del espacio para crear escombros. Shift+Clic lanzará los escombros con una velocidad aleatoria.
+#311# Comerciante listo para COMPRAR estos bienes
+#312# Comerciante listo para VENDER estos bienes
+#313# Cambiar nombre
+#314# Cambiar rango
+#315# Atributo inacabado
+#316# La tripulación consumirá automáticamente comida de cualquier almacén cuando su valor baje del 75% (el valor es reducido un 25% durante 2 min)
+#317# Atributo inacabado
+#318# Rellenar el almacen seleccionado con Hidrógeno
+#319# Añadir un tripulante al módulo seleccionado
+#320# Abrir interfaz de comercio. (NOTA: Para comerciar con una estación, la interfaz de comercio debe estar abierta, tu nave debe estar atracada en la estación y ambos puertos de atraque deben estar activos. Para comprar algo de una estación, abre la interfaz de mercancía, arrastra y suelta los bienes deseados desde la estación a tu contenedor. Para vender algo - clic derecho en los bienes en tu contenedor)
+#321# Abre el menú de construcción del astillero seleccionado. Mientras tu nave esté en el astillero, tu puedes comprar y vender módulos por créditos.
+#322# Estado de la trayectoria
+#323# Posición relativa al planeta o estrella
+#324# Distancia desde el centro del planeta al punto más alejado de la órbita
+#325# Distancia desde el centro del planeta al punto más cercano de la órbita
+#326# La excentricidad define la forma de la órbita (e=0) círculo (0<e<1) elipse (e=1) parábola (e>1) hipérbola
+#327# El periodo orbital es el tiempo que tarda el cuerpo en completar una revolución en su órbita
+#328# Velocidad angular (en grados por segundo)
+#329# PARÁMETROS ORBITALES
+#330# Contenedor de carga 2
+#331# Contenedor de carga 1
+#332# Motor químico
+#333# Contenedor de líquido 1
+#334# Reactor nuclear
+#335# Almacén de energía
+#336# Bahía de Ingeniería
 #337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
-#344# Laser 1
-#345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
-#350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#338# Paneles solares
+#339# Plataforma para torreta 1
+#340# Plataforma para torreta 2
+#341# Cañón de energía
+#342# Cañón Balístico 1
+#343# Pasillo 4 Unión
+#344# Láser 1
+#345# Minero
+#346# Contenedor de líquido 2
+#347# Contenedor de carga 3
+#348# Puerto de atraque
+#349# Ancla
+#350# Láser 2
+#351# Generador de combustible
+#352# Cañón Balístico 2
+#353# Pasillo
+#354# Pasillo 3 Unión
+#355# Módulo de comando
+#356# Esquina de pasillo
+#357# Volante de reacción
+#358# Motor de salto
+#359# Estructura 2x1 Adaptador
+#360# Motor RCS
+#361# Contenedor de líquido 3
+#362# Láser minero
+#363# Contenedor de líquido 4
+#364# Módulo de comando 2
+#365# Generador de escudo
+#366# Escotilla de carga
+#367# Rayo tractor
+#368# Motor iónico
+#369# Rayo estructural
+#370# lanzamisiles
+#371# 2x1 Adaptador
+#372# Astillero
+#373# Hidropónicos
+#374# Astillero
+#375# Atraque
+#376# Comercio
+#377# Misiones
+#378# Mostrar las misiones disponibles
+#379# Solicitar atraque
+#380# Escombros
+#381# CONFIGURAR NUEVA FACCIÓN PARA LA NAVE DUPLICADA
+#382# Aliada
+#383# Enemiga
+#384# No cambiar la facción
+#385# La siguiente nave duplicada tendrá la misma facción que la original
+#386# La siguiente nave duplicada tendrá una facción aliada
+#387# La siguiente nave duplicada tendrá una facción enemiga
+#388# Asteroide
+#389# HERRAMIENTA DE PINTURA
+#390# Selecciona un módulo para pintarlo
+#391# Clic izquierdo - Pintar
+#392# NAVES GUARDADAS
+#393# Guardar nave
+#394# Ninguna nave seleccionada
+#395# Nave guardada
+#396# Clic para colocar la nave
+#397# Ctrl + Clic izq. - Escoger color
+#398# Prestablecidos
+#399# Nombre del archivo
+#400# ya existe
+#401# Renombrar
+#402# Sobrescribir
+#403# Introduce el nombre del archivo
+#404# La nave no puede encontrarse
+#405# Pintar tras la construcción
+#406# Escoge color
+#407# Anclar trayectoria. La trayectoria se mostrará incluso cuando esta ventana sea cerrada.
+#408# Mostrar misiones aceptadas
+#409# Chat Discord
+#410# El campo de salto se ha plegado debido a una gran densidad de obstáculos
+#411# Mostrar tripulación
+#412# Mostrar centro de masas
+#413# Controlar con el cursor
+#414# Fijar ángulo de visión
+#415# Misiones aceptadas
+#416# Mostrar parámetros orbitales
+#417# Herramienta de pintura
+#418# Cargar nave
+#419# Anclar trayectoria
+#420# Menú de construcción
+#421# Demoler
+#422# Compensar la rotación
 #423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+#424# Parte del rotor
+#425# Pistón
+#426# Parte del pistón
+#427# No mostrar de nuevo
+#428# No es posible guardar
+#429# Por favor selecciona una nave
+#430# Por favor selecciona un módulo de comando de la nave
+#431# SELECCIONA UNA NAVE
