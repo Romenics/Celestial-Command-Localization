@@ -116,15 +116,15 @@
 #114# Pilote Auto.
 #115# Physique
 #116# Effacer vaisseau
-#117# Disable orbital mechanics
-#118# Place trajectory planner
-#119# Debris throw mode
+#117# Désactiver mouvements orbitaux
+#118# Définir trajectoire de vol
+#119# Mode lancer de débris
 #120# Appliquer
 #121# Annuler
 #122# Pressez une touche
 #123# Définir une touche
 #124# Distance
-#125# Relative velocity
+#125# Vélocité relative
 #126# Joueur
 #127# Ping
 #128# Modules disponibles
@@ -195,7 +195,7 @@
 #193# Missile
 #194# Energie
 #195# Nourriture
-#196# There is no resource with name
+#196# Pas de ressource sans nom
 #197# Impossible d'ouvrir le menu Construire
 #198# Le vaisseau actuel ne possède pas de module de construction
 #199# Plus de nourriture !
@@ -204,7 +204,7 @@
 #202# est mort de faim !
 #203# Avertissement !
 #204# Le dernier vaisseau de commande ne peut pas être déconstruit !
-#205# Pilote automatique désactiver par l'action manuelle du joueur
+#205# Pilote automatique désactiver par l'action du joueur
 #206# Le 'Warp drive' n'est pas encore prêt
 #207# Impossible de tirer ! 
 #208# Le lanceur de missile n'est pas connecté à un stockage de munitions
@@ -222,17 +222,17 @@
 #220# Seul le serveur peut ceci
 #221# Partie enregistrée
 #222# ! ERREUR ENREGISTREMENT !
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
+#223# Enregistrement impossible suite à une erreur interne
+#224# Crédit insuffisant
+#225# Les vaisseaux ne peuvent être reliés ensemble
+#226# Stockage plein
+#227# Le vendeur ne demande pas cette ressource
+#228# Impossible de vendre, le stockage est plein
+#229# unités de
+#230# ont été vendu pour
+#231# unités de
+#232# ont été acheté pour
+#233# Crédit insuffisant:
 #234# salvaged
 #235# Not enough space to salvage
 #236# Factors
