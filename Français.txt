@@ -50,7 +50,7 @@
 #48# Date
 #49# Tps de jeu
 #50# Version
-#51# Nouvelle
+#51# Nouvelle partie
 #52# Veuillez confirmer la suppression de la partie
 #53# Retour
 #54# Effacer
@@ -71,7 +71,7 @@
 #69# Nombre d'astéroide
 #70# Démarrer
 #71# Retour
-#72# Jouer
+#72# Démarrer
 #73# Joindre partie multijoueurs
 #74# IP
 #75# Port n°
@@ -224,7 +224,7 @@
 #222# ! ERREUR ENREGISTREMENT !
 #223# Enregistrement impossible suite à une erreur interne
 #224# Crédit insuffisant
-#225# Les vaisseaux ne peuvent être reliés ensemble
+#225# Les vaisseaux ne peuvent être amarrés ensemble
 #226# Stockage plein
 #227# Le vendeur ne demande pas cette ressource
 #228# Impossible de vendre, le stockage est plein
@@ -236,13 +236,13 @@
 #234# salvaged
 #235# Not enough space to salvage
 #236# Factors
-#237# Star Mass
-#238# Planet Mass
+#237# Masse des étoiles
+#238# Masse des planètes
 #239# Engine Thrust
 #240# Fuel Consumption
 #241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
+#242# Paramètres orbitaux
+#243# Trajectoire
 #244# Position
 #245# Apoapsis
 #246# Periapsis
@@ -257,29 +257,29 @@
 #255# Reset time scale
 #256# Decrease time scale
 #257# Increase time scale
-#258# Show Storages
+#258# Afficher les stockages
 #259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
 #260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
+#261# Afficher les connecteurs
 #262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
+#263# Afficher les points de montage
 #264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
 #265# Display center of mass for the current ship
 #266# Lock RCS
 #267# Stabilize rotation of the ship by using its engines
 #268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
+#269# Afficher les dégats
 #270# Temporarily show the integrity of the ship
 #271# Rotate locker
 #272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
+#273# Centrer la vue
+#274# Focaliser la vue sur le vaisseau sélectionné
+#275# Réinitialiser la vue panoramique
+#276# Vue par défaut sur le vaisseau sélectionné
+#277# Afficher la vélocité
 #278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
+#279# Afficher les repères
+#280# Les lignes de quadrillages utiles à la navigation dans le système solaire
 #281# Current power
 #282# Maximum power capacity
 #283# Power input
@@ -289,7 +289,7 @@
 #287# Total amount of oxygen
 #288# Show orbital parameters for selected object
 #289# Faction
-#290# Rename the ship
+#290# Renommer le vaisseau
 #291# Mass of the entire structure
 #292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
 #293# Including the mass of content in case if this is a cargo bay or container
@@ -328,10 +328,10 @@
 #326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
 #327# The orbital period is the time during which the body makes one rotation around its orbit
 #328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
+#329# Paramètres orbitaux
 #330# Cargo type 2
 #331# Cargo type 1
-#332# Chemical Engine
+#332# Moteur chimique
 #333# Réservoir pour liquide type 1
 #334# Réacteur nucléaire
 #335# Stockage énergie
@@ -340,31 +340,31 @@
 #338# Panneaux solaires
 #339# Tourelle type 1
 #340# Tourelle type 2
-#341# Canon à énergie
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
-#344# Laser 1
-#345# Miner
-#346# Liquid Container 2
-#347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
-#350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
+#341# Canon type 1
+#342# Canon type 2
+#343# Corridor jonction type 4
+#344# Laser type 1
+#345# Laser Minier
+#346# Réservoir pour liquide type 2
+#347# Stockage type 3
+#348# Sas d'amarrage
+#349# Grappin
+#350# Laser type 2
+#351# Générateur de combustible
+#352# Canon type 3
 #353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
+#354# Corridor jonction type 3
+#355# Module de commande
+#356# Corridor angle
 #357# Reaction Wheel
 #358# Warp Drive
 #359# Frame 2x1 Adapter
 #360# RCS Engine
-#361# Liquid Container 3
+#361# Réservoir pour liquide type 3
 #362# Mining Laser
-#363# Liquid Container 4
+#363# Réservoir pour liquide type 4
 #364# Command Module 2
-#365# Shield Generator
+#365# Générateur de bouclier
 #366# Cargo Gate
 #367# Tractor Beam
 #368# Ion Engine
@@ -372,13 +372,13 @@
 #370# Rocket Launcher
 #371# 2x1 Adapter
 #372# Chantier spatial
-#373# Hydroponics
+#373# Hydroculture
 #374# Chantier spatial
-#375# Docking
+#375# Amarrage
 #376# Commerce
 #377# Missions
-#378# Show available missions
-#379# Request docking
+#378# Missions disponibles
+#379# Demander l'amarrage
 #380# Débris
 #381# SET NEW FACTION FOR DUPLICATED SHIP
 #382# Allié
@@ -408,12 +408,12 @@
 #406# Sélectionnez une couleur
 #407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
 #408# Afficher les missions acceptées
-#409# Discussion Discord
+#409# Discord (→)
 #410# Warp field has been collapsed due dense obstacle
 #411# Afficher l'équipage
 #412# Afficher le centre des masses
-#413# Control by cursor
-#414# Bloquer l'angle de vue
+#413# Planification de trajectoire
+#414# Fixer l'angle de vue
 #415# Missions acceptées
 #416# Afficher les paramètres orbitaux
 #417# Outil peinture
@@ -426,8 +426,8 @@
 #424# Rotor Part
 #425# Piston
 #426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+#427# Ne plus afficher
+#428# Impossible d'enregistrer
+#429# Sélectionnez un vaisseau
+#430# Sélectionnez un module de commande pour ce vaisseau
+#431# Types de vaisseau disponible
