@@ -274,8 +274,8 @@
 #272# Allinea la rotazione della visuale con l'oggetto selezionato
 #273# Centra la visuale
 #274# Centra la visuale sull'oggetto selezionato
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
+#275# Reset panoramica
+#276# Reset visuale telecamera per focalizzare l'oggetto selezionato object
 #277# Mostra veloctia'
 #278# Mostra la velocita' reativa (arancione) e la direzione (bianco) dell'oggetto selezionato
 #279# Attiva griglia
@@ -409,7 +409,7 @@
 #407# Evidenzia traiettoria. La traiettoria sara' mostrata anche dopo la chiusura di questa finestra.
 #408# Mostra missioni accettate
 #409# Chat Discord 
-#410# Il campo Warp e' collassato a causa di fitti ostacolile
+#410# Il campo Warp e' collassato a causa di fitti ostacoli
 #411# Mostra equipaggio
 #412# Mostra centro di massa
 #413# Controllo tramite cursore
@@ -422,12 +422,12 @@
 #420# Menu' costruzione
 #421# Smonta
 #422# Compensa rotazione
-#423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+#423# Rotore
+#424# Parte di Rotore
+#425# Pistone
+#426# Parte di pistone
+#427# Non mostrare di nuovo
+#428# Impossibile salvare
+#429# Prego, selezionare una nave
+#430# Prego, selezionare un modulo di comando della nave
+#431# SELEZIONA UNA NAVE
