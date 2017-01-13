@@ -31,7 +31,7 @@
 #29# Muzyka
 #30# GRA
 #31# Pokaż pomoc
-#32# Pokaż czasz na chacie
+#32# Pokaż czas w czacie
 #33# Sandbox
 #34# Zamień przyciski myszy
 #35# Automatyczne zachowywanie odstępu
@@ -94,8 +94,8 @@
 #92# Lock Rot.
 #93# Reset Pan
 #94# Local Vel.
-#95# Krata
-#96# Wymiana
+#95# Siatka
+#96# Handel
 #97# BUDUJ
 #98# DEKONSTRUUJ
 #99# SANDBOX TOOLS
@@ -107,18 +107,18 @@
 #105# Moc
 #106# Jedzenie
 #107# Załoga
-#108# AI
-#109# Zkopiuj wybrany statek
-#110# Ustaw przyjazne frakcje
+#108# SI
+#109# Skopiuj wybrany statek
+#110# Ustaw sojusznicze frakcje
 #111# Ustaw wrogie frakcje
 #112# Ustaw wrogi statek
-#113# Dodaj AI do statku
-#114# Auto pilot
+#113# Dodaj SI do statku
+#114# Autopilot
 #115# FIZYKA
 #116# Usuń wybrany statek
 #117# Wyłącz astrodynamikę
 #118# Umieść trajektorię planera
-#119# Debris throw mode
+#119# Tryb wyrzucania śmieci
 #120# Zastosuj
 #121# Odrzuć
 #122# Wciśnij dowolny przycisk
@@ -158,277 +158,278 @@
 #156# Odłączyć
 #157# Podłączyć
 #158# Przeciągnij do transferu
-#159# Kliknij prawym: Sprzedaj
+#159# Prawy klik: Sprzedaj
 #160# Kup: Przeciągnij i upuść do swojego pojemnika
-#161# Drop do przeniesienia
+#161# Upuść aby przenieść
 #162# Przytrzymaj klawisz Shift, aby określić ilość
-#163# Drop by kupić
+#163# Upuść aby kupić
 #164# Niedopasowanie typu przechowywania (dla cieczy / dla ciała stałego)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
-#172# Right Click
-#173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-#175# Ctrl + Right click - Deconstruct
-#176# Carbon
+#165# Ctrl + Prawy klik - Dekonstruuj
+#166# Prawy klik - Napraw
+#167# Prawy klik - Konstruuj
+#168# Prawy klik - Pokaż zawartość
+#169# Prawy klik - Przypisz skrót klawiszowy
+#170# Masa
+#171# wyrzucić
+#172# Prawy klik
+#173# Resetuj skrót klawiszowy
+#174# Ctrl + Prawy klik - Dekonstruuj
+#175# Ctrl + Prawy klik - Dekonstruuj
+#176# Węgiel
 #177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
-#190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
-#218# HotkeysNames:
-#219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
-#236# Factors
-#237# Star Mass
-#238# Planet Mass
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
-#245# Apoapsis
-#246# Periapsis
-#247# Eccentricity
-#248# Orbital period
-#249# Tang. velocity
-#250# Ang. velocity
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
-#330# Cargo Container 2
-#331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
+#178# Silikon
+#179# Srebro
+#180# Tytan
+#181# Żelazo
+#182# Kobalt
+#183# Nikiel
+#184# Miedź
+#185# Niob
+#186# Tlen
+#187# Wodór
+#188# Ksenon
+#189# Lód
+#190# Fuleren
+#191# Deuter
+#192# Uran
+#193# Rakieta
+#194# Moc
+#195# Jedzenie
+#196# Nie ma zasobu
+#197# Nie mona otworzyć menu budowania
+#198# Aktywny statek nie posiada modułu inżynierii
+#199# Skończyło się jedzenie
+#200# nie można znaleźć jedzenia w statku!
+#201# Śmierć z głodu
+#202# umarł z głodu!
+#203# Ostrzeżenie
+#204# Ostatni moduł dowodzenia nie może zostać zdekonstruowany
+#205# Poruszanie automatyczne zatrzymane dla kontroli ręcznej
+#206# Napęd warp nie jest jeszcze gotowy
+#207# Nie można strzelać
+#208# Wyrzutnia rakiet nie jest podłączona do magazynu amunicji
+#209# Nie można strzelać
+#210# Brak amunicji w podłączonym magazynie
+#211# Autopilot - włączony
+#212# Autopilot - wyłączony
+#213# Wybierz statek
+#214# Nie wybrano obiektu
+#215# Wybierz statek
+#216# Wybierz obiekt
+#217# Skróty klawiszowe:
+#218# Skróty klawiszowe nazwy:
+#219# Pozostawiono:
+#220# Tylko serwer może to zrobić
+#221# Gra zapisana
+#222# BŁĄD ZAPISU
+#223# Zapisywanie nie zostało ukończone z powodu błędu.
+#224# Niewystarczające środki
+#225# Statki powinny być zadokowane razem
+#226# Magazyn jest pusty
+#227# Ten handlarz nie wymaga
+#228# Nie można tego sprzedać. Magazyn jest pełny
+#229# jednostek
+#230# sprzedany za
+#231# jednostek
+#232# kupiony za
+#233# Niewystarczające środki:
+#234# uratowany
+#235# Brakuje miejsca aby uratować
+#236# Czynniki
+#237# Masa gwiazdy
+#238# Masa planety
+#239# Ciąg silnika
+#240# Zużycie paliwa
+#241# Moment obrotowy
+#242# PARAMETRY ORBITALNE
+#243# Trajektoria
+#244# Pozycja
+#245# Apocentrum
+#246# Perycentrum
+#247# Ekscentryczność
+#248# Okres orbitalny
+#249# Prędkość styczna
+#250# Prędkość kątowa
+#251# Otwórz menu budowania
+#252# Dekonstruuj wybrany moduł
+#253# Przełącz sterowanie na poprzedni dostępny statek
+#254# Przełącz sterowanie na następny dostępny statek
+#255# Resetuj skalę czasu
+#256# Zmniejsz skalę czasu
+#257# Zwiększ skalę czasu
+#258# Pokaż magazyny
+#259# Wyświetl zawartość wszystkich magazynów aktualnego statku. Zawartość może być przemieszczana między kontenerami lewym przyciskiem myszy metodą przeciągnij i upuść. Trzymając Lewy Shift możesz przemieścić określoną ilość zasobów.
+#260# Wyświetl załogę aktualnego statku. Członkowie załogi mogą być przemieszczani metodą przeciągnij i upuść.
+#261# Pokaż łączniki
+#262# Wyświetl łączniki zasobów dla aktualnego statku. Jeśli moduł wymaga specyficznych zasobów, powinien być podłączony do nich przy użyciu tego trybu. Łaczniki mogą być dołączone do modułów metodą przeciągnij i upuść.
+#263# Punkty montowania
+#264# Wyświetl punkty montowania dla aktualnego statku. Punkty montowania mogą być połączone lub rozłączone lewym przyciskiem myszy.
+#265# Wyświetl środek masy aktualnego statku
+#266# Zablokuj System Sterowania Reakcyjnego
+#267# Stabilizacja rotacji statku przy użyciu silników
+#268# Jeśli aktywowany - wybierz twój statek i kliknij prawym aby wysłać rozkazy taktyczne
+#269# Pokaż paski HP
+#270# Tymczasowo pokazuj integralność statku
+#271# Blokada rotacji
+#272# Wyrównaj rotację widoku z obserwowanym obiektem
+#273# Skup widok
+#274# Skup widok na wybranym obiekcie
+#275# Resetuj obrót
+#276# Resetuj widok aby skupić na wybranym obiekcie
+#277# Pokaż prędkość
+#278# Wyświetl prędkość względną (pomarańczowy) i kierunek (biały) do wybranego obiektu
+#279# Przełącz siatkę
+#280# Wyświetl siatkę względem gwiazdy
+#281# Aktualna moc
+#282# Maksymalna moc znamionowa
+#283# Wejście zasilania
+#284# Wyjście zasilania
+#285# Suma wejścia iwyjścia zasilania
+#286# Całkowita ilość wodoru
+#287# Całkowita ilość tlenu
+#288# Pokaż parametry orbitalne wybranego obiektu
+#289# Frakcja
+#290# Zmiana nazwy statku
+#291# Masa całej struktury
+#292# Ten parametr decyduje o tym, ile mocy potrzebujesz do obrócenia statku. Aby zmniejszyć tę wartość, najcięższe moduły powinny być zlokalizowane blisko środka masy.
+#293# Włączając masę zawartości w przypadku, gdy jest to ładownia lub kontener
+#294# Integralność strukturalna
+#295# Włącz \ wyłącz ręczne sterowanie dla wybranej grupy broni. Wciśnij trzymając Lewy Shift aby włączyć tryb automatyczny.
+#296# Wypełnij wybrany magazyn tlenem
+#297# Wypełnij wybrany magazyn wodorem
+#298# Wypełnij wybrany magazyn ksenonem
+#299# Wypełnij wybrany magazyn rakietami
+#300# Wypełnij wybrany magazyn amunicją
+#301# Naładuj do pełna zasilanie awaryjne
+#302# Wypełnij wybrany magazyn jedzeniem
+#303# Dodaj członka załogi do wybranego modułu
+#304# Utwórz w losowym punkcie w pobliżu planety startowej wrogi statek, który automatycznie zaatakuje statek gracza.
+#305# Dodaj Sztuczną Inteligencję do wybranego statku. Zostanie przypisana do sojuszniczej frakcji. Statek będzie podążał za statkiem gracza.
+#306# Statek będzie automatycznie podążał do wybranego obiektu. Drugie kliknięcie wyłączy autopilota.
+#307# Usuń cały statek lub asteroidę
+#308# UWAGA - Ta akcja nie może zostać cofnięta. Wyłącza grawitację i zatrzymuje wszystkie obiekty (wyłącznie w celach testowych)
+#309# (Niedokończona funkcjonalność) Wciśnij przycisk i kliknij gdzieś w przestrzeni aby utworzyć planer. Węzły pozycji i prędkości mogą być przeciągane lewym przyciskiem myszy. Prawy przycisk - usunięcie węzła.
+#310# Gdy aktywny, kliknięcie lewym przyciskiem myszy gdzieś w przestrzeni utworzy śmieci. Kliknięcie z Shiftem wyrzuci śmieci z losową prędkością.
+#311# Handlarz gotowy KUPIĆ te towary
+#312# Handlarz gotowy SPRZEDAĆ te towary
+#313# Zmień nazwę
+#314# Zmień rangę
+#315# Niedokończony atrybut
+#316# Członkowie załogi będą automatycznie konsumować jedzenie z dowolnej ładowni gdy wartość będzie poniżej 75% (wartość zredukowana o 25% przez 2 minuty)
+#317# Niedokończony atrybut
+#318# Wypełnij wybrany magazyn wodorem
+#319# Dodaj członka załogi do wybranego modułu
+#320# Otwórz interfejs handlowania. (UWAGA: Aby handlować ze stacją, interfejs handlowania powinien być otwarty, twój statek zadokowany w stacjiioba porty dokowania powinny być aktywowane. W celu kupienia czegoś od stacji, otwórz interfejs ładunku i przeciągnij towary ze stacji do twojego kontenera. Aby coś sprzedać - kliknij prawym na towary w twoim kontenerze)
+#321# Otwórz menu konstrukcji dostarczone przez wybraną stocznię. Podczas gdy twój statek znajduje się w stoczni, możesz kupować i sprzedawać moduły.
+#322# Stan trajektorii
+#323# Pozycja w stosunku do planety lub gwiazdy
+#324# Odległość od środka planety do najdalszego punktu na orbicie
+#325# Odległość od środka planety do najbliższego punktu na orbicie
+#326# Ekscentryczność określa kształt orbity (e=0) okrąg (0<e<1) elipsa (e=1) parabola (e>1) hiperbola
+#327# Okres orbitalny to czas, potrzebny ciału na wykonanie obrotu wokół własnej orbity
+#328# Prędkość kątowa (w stopniach na sekundę)
+#329# PARAMETRY ORBITALNE
+#330# Kontener ładunku 2
+#331# Kontener ładunku 1
+#332# Silnik chemiczny
+#333# Kontener cieczy 1
+#334# Reaktor nuklearny
+#335# Zasilanie awaryjne
+#336# Moduł inżynierii
 #337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
+#338# Panele słoneczne
+#339# Platforma wieżyczki 1
+#340# Platforma wieżyczki 2
+#341# Działo energetyczne
+#342# Działo balistyczne 1
+#343# Korytarz 4 Połączenie
 #344# Laser 1
-#345# Miner
-#346# Liquid Container 2
+#345# Górnik
+#346# Kontener cieczy 2
 #347# Cargo Container 3
-#348# Docking Port
-#349# Grabber
+#348# Przystań dokowania
+#349# Chwytak
 #350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
-#358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
-#365# Shield Generator
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
-#423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#422# Compensate rotation
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+#351# Generator paliwa
+#352# Działo balistyczne 2
+#353# Korytarz
+#354# Korytarz 3 Połączenie
+#355# Moduł dowodzenia
+#356# Korytarz - róg
+#357# Koło reakcyjne
+#358# Napęd Warp
+#359# Rama adaptera 2x1
+#360# System Sterowania Reakcyjnego
+#361# Kontener cieczy 3
+#362# Laser wydobywczy
+#363# Kontener cieczy 4
+#364# Moduł dowodzenia 2
+#365# Generator tarczy
+#366# Wrota załadunku
+#367# Belka transportowa
+#368# Silnik jonowy
+#369# Belka konstrukcyjna
+#370# Wyrzutnia rakiet
+#371# Adapter 2x1
+#372# Stocznia
+#373# Hydroponika
+#374# Stocznia
+#375# Dokowanie
+#376# Handel
+#377# Misje
+#378# Pokaż dostępne misje
+#379# Żadanie dokowania
+#380# Śmieci
+#381# USTAW NOWĄ FRAKCJĘ DLA KOPIOWANEGO STATKU
+#382# Sojusznik
+#383# Wróg
+#384# Nie zmieniaj frakcji
+#385# Następny skopiowany statek będzie należeć do tej samej frakcji, co oryginał
+#386# Następny skopiowany statek będzie należeć do sojuszniczej frakcji
+#387# Następny skopiowany statek będzie należeć do wrogiej frakcji
+#388# Asteroida
+#389# NARZĘDZIA MALOWANIA
+#390# Wybierz moduł do malowania
+#391# Lewy klik - Maluj
+#392# ZAPISANE STATKI
+#393# Zapisz Statek
+#394# Nie wybrano statku
+#395# Statek zapisany
+#396# Kliknij aby umieścić statek
+#397# Ctrl + Lewy klik - Wybierz kolor
+#398# Ustawienia
+#399# Nazwa pliku
+#400# już istnieje
+#401# Zmień nazwę
+#402# Nadpisz
+#403# Podaj nazwę pliku
+#404# Statek nie został znaleziony
+#405# Pomaluj po skonstruowaniu
+#405# Pomaluj po skonstruowaniu
+#406# Wybierz kolor
+#407# Przypnij trajektorię. Trajektoria będzie wyświetlana nawet po zamknięciu okna.
+#408# Pokaż zatwierdzone misje
+#409# Czat Discord
+#410# Załamanie pola warp spowodowane gęstą przeszkodą
+#411# Pokaż załogę
+#412# Pokaż środek masy
+#413# Sterowanie kursorem
+#414# Zablokuj kąt widzenia
+#415# Zatwierdzone misje
+#416# Pokaż parametry orbitalne
+#417# Narzędzie malowania
+#418# Załaduj statek
+#419# Przypnij trajektorję
+#420# Menu budowania
+#421# Dekonstruuj
+#422# Wyrównaj rotatację
+#423# Wirnik
+#424# Część wirnika
+#425# Tłok
+#426# Część tłoka
+#427# Nie pokazuj ponownie
+#422# Wyrównaj rotatację
+#428# Nie można zapisać
+#429# Proszę wybrać statek
+#430# Proszę wybrać moduł dowodzenia statku
+#431# WYBIERZ STATEK
