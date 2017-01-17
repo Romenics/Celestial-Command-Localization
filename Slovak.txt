@@ -445,3 +445,7 @@
 #443# zoznam Serverov
 #444# Príkaz moduly
 #445# Štrukturálnych komponentov
+#446# Small Thruster 
+#447# Small Thruster 2
+#448# Small Cube
+#449# Cargo Container 4
