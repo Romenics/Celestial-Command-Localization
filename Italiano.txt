@@ -431,17 +431,17 @@
 #429# Prego, selezionare una nave
 #430# Prego, selezionare un modulo di comando della nave
 #431# SELEZIONA UNA NAVE
-#432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
+#432# server pubblico
+#433# Server
+#434# moltiplicatori
+#435# Impostazioni avanzate
+#436# Se abilitato, il server sarà visibile nella lista dei server globale
+#437# Giocatori
+#438# Nessun server trovato
+#439# Scoperto server
+#440# Direct IP Collegamento 
+#441# lista di aggiornamento dei server
 #442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#443# dei server
+#444# moduli di comando
+#445# componenti strutturali

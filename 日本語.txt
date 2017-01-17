@@ -423,26 +423,26 @@
 #420# ビルドメニュー
 #421# 解体する
 #422# ローテーションを補正する
-#423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
-#432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
-#442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#423# ローター
+#424# ローター部品
+#425# ピストン
+#426# ピストン部
+#427# られないも
+#428# き保存
+#429# を選択してください船
+#430# てください選択したコマンドモジュールの艦船
+#431# 選択船
+#432# 公共サーバー
+#433# サーバー名
+#434# 乗算器
+#435# 先端の設定
+#436# 有効にした場合、サーバのメンテナンスに見えるグローバルサーバー一覧
+#437# 選手
+#438# について サーバーか
+#439# 発見されたサーバー
+#440# 直IP接続
+#441# リフレッシュリストのサーバー
+#442#リフレッシュ
+#443#サーバー一覧
+#444#コマンドモジュール
+#445#構造部品

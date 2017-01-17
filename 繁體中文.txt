@@ -422,26 +422,26 @@
 #420# 建造選單
 #421# 拆除
 #422# 自轉補償
-#423# Rotor
-#424# Rotor Part
+#423# 轉子
+#424# 轉子零件
 #425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
-#432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
-#442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#426# 活塞零件
+#427# 不再顯示
+#428# 無法保存
+#429# 請選擇一艘船
+#430# 請選擇船的命令模塊
+#431# 選擇船
+#432# 公共服務器
+#433# 服務器名稱
+#434# 乘數
+#435# 高級設置
+#436# 如果啟用，服務器將在全局服務器列表中可見
+#437# 玩家
+#438# 未找到服務器
+#439# 發現的服務器
+#440# 直接IP連接
+#441# 刷新服務器列表
+#442# 刷新
+#443# 服務器列表
+#444# 命令模塊
+#445# 結構部件

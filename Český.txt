@@ -398,45 +398,45 @@
 #396# Klikněte pro umístění lodě
 #397# Ctrl + Left Click - Pick color
 #398# Presets
-#399# File name
-#400# already exist
+#399# Název souboru
+#400# již existují
 #401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
-#432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
+#402# Přepsat
+#403# Zadejte název souboru
+#404# Loď nelze nalézt
+#405# Paint po dokončení stavby
+#406# Vyberte si barvu
+#407# Pin trajektorie. Dráha se zobrazí, i když se uzavře toto okno.
+#408# Show přijal mise
+#409# Discord chatu
+#410# Warp pole bylo zhroutila kvůli husté překážky
+#411# Show posádka
+#412# Show těžiště
+#413# Ovládání kurzoru
+#414# úhel pohledu Lock
+#415# Přijata mise
+#416# Zobrazit orbitální parametry
+#417# Paint nástroj
+#418# Load loď
+#419# Pin trajektorie
+#420# menu Build
+#421# deconstruct
+#422# kompenzovat rotaci
+#428# Nelze uložit
+#429# Vyberte loď
+#430# Prosím vybrali velitelského modulu lodi
+#431# SELECT lodi
+#432# veřejného serveru
+#433# Název serveru
+#434# multiplikátory
+#435# Pokročilá nastavení
+#436# Pokud je zapnuto, server bude viditelný v globálním seznamu serverů
+#437# přehrávače nalezeno 
+#438# žádné servery
+#439# Zjistil servery
+#440# Direct IP připojení
+#441# Obnovit seznam serverů
 #442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#443# seznamu Servery
+#444# příkazů moduly
+#445# Konstrukční prvky

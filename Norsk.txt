@@ -250,102 +250,102 @@
 #248# Orbital periode
 #249# Tang. hastighet
 #250# Ang. hastighet
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
+#251# Åpne build-menyen
+#252# dekonstruere valgte modulen
+#253# Bytt kontroll til den forrige tilgjengelige skip
+#254# Bytt kontroll til neste tilgjengelige skip
+#255# Reset tidsskala
+#256# Reduser tidsskala
+#257# Økning tidsskala
+#258# Vis Garasje
+#259# Vis innholdet i alle lagercontainere av dagens skip. Innhold kan flyttes mellom containere ved hjelp av dra og slipp med venstre museknapp. Med holder Venstre-Shift kan du overføre bestemt mengde ressurser.
+#260# Vise et mannskap på dagens skip. Mannskapet medlem kan flyttes ved å dra og slipp.
+#261# Vis kontakter
+#262# Vis ressurs kontakter for dagens skip. Hvis modulen krever noen spesifikke ressurser, bør det være koblet til det ved hjelp av denne modusen. Kontakter kan festes til moduler ved hjelp av dra og slipp.
+#263# festepunkter
+#264# Vis monteringspunkter for dagens skip. Festepunktene kan kobles til eller fra med venstre klikk.
+#265# Vis tyngdepunkt for inneværende skip
 #266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
+#267# Stabil rotasjon av skipet ved hjelp av sine motorer
+#268# Hvis aktivert - velg ditt skip og klikk på høyre museknapp for å sende en bevegelse for
+#269# Vis HP barer
+#270# midlertidig viser integriteten av skipet
+#271# Roter skap
+#272# Align visning rotasjon med observerte objekt
+#273# Fokus utsikt
+#274# Fokus syn på valgt objekt
 #275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
+#276# Reset kamerabilde for å fokusere på det valgte objektet
+#277# Show hastighet
+#278# Visnings relativ hastighet (oransje) og retning (hvit) til markert objekt
 #279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
+#280# Vis rektangulært rutenett i forhold til stjernen
+#281# Nåværende makt
+#282# Maksimal effekt kapasitet
+#283# Strøminntak
+#284# Effekt
+#285# Summen av makt input og output
+#286# Total mengde hydrogen
+#287# Total mengde oksygen
+#288# Vis baneparametre for valgt objekt
 #289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
+#290# Endre navnet på skipet
+#291# Mass av hele strukturen
+#292# Denne parameteren bestemmer hvor mye kraft du trenger for å rotere skipet. For å redusere denne verdien, bør de mest massive moduler være lokalisert nær sentrum av masse.
+#293# Inkludert massen av innhold i tilfelle hvis dette er et lasterommet eller container
+#294# Konstruksjonssikkerhet
+#295# Aktiver \ deaktivere manuell styring for den valgte våpen gruppe. Trykk med å holde Venstre Shift for bryteren auto-modus.
+#296# Fyll valgte lagrings med Oxygen
+#297# Fyll valgte lagrings med Hydrogen
+#298# Fyll valgte lagrings med Xenon
+#299# Fyll valgte lagrings med raketter
+#300# Fyll valgte lagrings med ammunisjon
+#301# Lad valgt Kraftlager
+#302# Fyll valgte lagrings med mat
+#303# Legg besetningsmedlem til valgte modulen
+#304# Lag fiendtlig skip i tilfeldig punkt rundt starter planet som automatisk vil angripe spillerens skipet.
+#305# Legg kunstig intelligens til utvalgte skip. Det vil bli tildelt alliere fraksjon. Skipet vil følge spillerens skipet.
+#306# Skipet vil automatisk fly til valgte objektet. Second klikk vil deaktivere autopiloten.
+#307# Fjern hele skipet eller asteroide
+#308# OBS - Denne handlingen kan ikke omgjøres for dagens verden. Deaktiverer tyngdekraften og stopper alle objekter (for testformål)
+#309# (Unfinished funksjon) Trykk på knappen, og klikk et sted i verdensrommet for å skape orbital planleggeren. Posisjon og hastighet noder kan bli dratt med venstre museknapp. Høyreklikk - slette noden.
+#310# Hvis aktiv, venstre museklikk eller annet sted i rommet vil skape et rusk. Shift + klikk vil kaste rusk med tilfeldig hastighet.
+#311# Trader klar til å kjøpe disse varene
+#312# Trader klar til å selge disse varene
+#313# Bytt navn
+#314# Change rang
+#315# Unfinished attributt
+#316# Mannskapet vil automatisk spiser mat fra alle lasterom når det er verdi under 75% (verdien er redusert med 25% i 2 minutter)
+#317# Unfinished attributt
+#318# Fyll valgte lagrings med Hydrogen
+#319# Legg besetningsmedlem til valgte modulen
+#320# Åpne trading-grensesnitt. (MERK: For å kunne handle med en stasjon, trading grensesnittet skal åpnes, skal skipet være forankret med stasjonen og begge tilkoblingsportene skal aktiveres For å kjøpe noe fra stasjonen, åpne laste grensesnitt, og dra og slipp. ønskede varer fra stasjon til din container for å selge noe -. høyreklikk på varene i container)
+#321# Åpen konstruksjon menyen levert av valgt verftet. Mens skipet ligger inne på verftet, kan du kjøpe og selge moduler for studiepoeng.
+#322# Status av banen
+#323# posisjon i forhold til planet eller stjerne
+#324# Avstand fra sentrum av planeten til det ytterste punktet på bane
+#325# Avstand fra sentrum av planeten til nærmeste punkt på bane
+#326# Eksentrisiteten definerer formen av banen (e = 0) krets (0 <e <1) ellipse (e = 1) parabel (e> 1) hyperbelen
+#327# Den omløpstid er den tiden hvor kroppen gjør en rotasjon rundt sin bane
+#328# Vinkelhastighet (i grader per sekund)
+#329# baneparametre
 #330# Cargo Container 2
 #331# Cargo Container 1
 #332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
+#333# væskebeholder 1
+#334# atomreaktor
+#335# Kraftlager
 #336# Engineering Bay
 #337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
+#338# solpaneler
+#339# Turret plattform 1
 #340# Turret Platform 2
 #341# Energy Cannon
 #342# Ballistic Cannon 1
 #343# Corridor 4 Junction
 #344# Laser 1
 #345# Miner
-#346# Liquid Container 2
+#346# væskebeholder 2
 #347# Cargo Container 3
 #348# Docking Port
 #349# Grabber
@@ -354,21 +354,21 @@
 #352# Ballistic Cannon 2
 #353# Corridor
 #354# Corridor 3 Junction
-#355# Command Module
+#355# kommandomodulen
 #356# Corridor Corner
 #357# Reaction Wheel
 #358# Warp Drive
 #359# Frame 2x1 Adapter
 #360# RCS Engine
-#361# Liquid Container 3
+#361# væskebeholder 3
 #362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
+#363# væskebeholder 4
+#364# kommandomodulen 2
 #365# Shield Generator
 #366# Cargo Gate
 #367# Tractor Beam
 #368# Ion Engine
-#369# Structure beam
+#369# Structure bjelke
 #370# Rocket Launcher
 #371# 2x1 Adapter
 #372# Shipyard
@@ -376,71 +376,71 @@
 #374# Shipyard
 #375# Docking
 #376# Trade
-#377# Missions
-#378# Show available missions
+#377# Oppdrag
+#378# Vis tilgjengelige oppdrag
 #379# Request docking
 #380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
+#381# SET ny fraksjon FOR duplisert SHIP
 #382# Ally
 #383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
+#384# Ikke endre fraksjon
+#385# Neste dupliseres Skipet vil ha samme fraksjon som opprinnelige skipet
+#386# Neste dupliseres skipet vil ha alliert fraksjon
+#387# Neste dupliseres skipet vil ha fiende fraksjon
+#388# asteroide
+#389# teikneverktøyet
+#390# Velg modul for å male
+#391# Venstre klikk - Paint
+#392# lagrede SKIP
+#393# Lagre Ship
+#394# Ingen skip valgt
+#395# Ship lagret
+#396# Klikk for å plassere et skip
+#397# Ctrl + Venstre klikk - Velg farge
 #398# Presets
-#399# File name
-#400# already exist
+#399# Filnavn
+#400# allerede eksisterer
 #401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
+#402# overskriving
+#403# Tast inn filnavn
+#404# Skipet kan ikke finnes
+#405# Paint etter utbygging
+#406# Plukk farge
+#407# Pin bane. Banen vil bli vist selv når dette vinduet vil bli lukket.
+#408# Vis akseptert oppdrag
 #409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#410# Warp-feltet er kollapset på grunn av tett hinder
+#411# Show mannskap
+#412# Show sentrum av masse
+#413# Kontroll av markøren
+#414# Lock visningsvinkelen
+#415# Tillatt oppdrag
+#416# Vis baneparametre
+#417# Paint verktøy
+#418# Load skip
+#419# Pin bane
+#420# Build-menyen
+#421# dekonstruere
+#422# Kompenser rotasjon
 #423# Rotor
 #424# Rotor Part
 #425# Piston
 #426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+#427# Ikke vis igjen
+#428# Kan ikke lagre
+#429# Velg et skip
+#430# Vær valgt en kommando modulen av skipet
+#431# Velg en SHIP
 #432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
+#433# Server navn
+#434# multiplikatorer
+#435# Avanserte innstillinger
+#436# Hvis aktivert, vil serveren være synlig i globale serverliste
+#437# Spillere
+#438# Ingen servere funnet
+#439# Oppdaget servere
+#440# Direct IP-tilkobling
+#441# Refresh liste over servere
 #442# Refresh
 #443# Servers list
 #444# Command modules

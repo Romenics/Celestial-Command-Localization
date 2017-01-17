@@ -433,17 +433,17 @@
 #429# Proszę wybrać statek
 #430# Proszę wybrać moduł dowodzenia statku
 #431# WYBIERZ STATEK
-#432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
-#442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#432# Serwer Publiczny
+#433# Nazwa serwera
+#434# Mnożniki
+#435# Zaawansowane ustawienia
+#436# Jeśli opcja jest włączona, serwer będzie widoczna w globalnej liście serwerów
+#437# Gracze 
+#438# Brak serwerów Znaleziono 
+#439# Odkryta serwery
+#440# połączenia bezpośrednie IP
+#441# Odśwież listę serwerów
+#442# Odśwież
+#443# lista Serwery
+#444# moduły dowodzenia
+#445# elementy strukturalne

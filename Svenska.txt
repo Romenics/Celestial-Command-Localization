@@ -195,254 +195,253 @@
 #193# Raket
 #194# Kraft
 #195# Mat
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
-#204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
-#206# Warp drive is not ready yet
-#207# Cannot fire
-#208# Rocket launcher is not connected to ammo storage
-#209# Cannot fire
-#210# No ammo in connected storage
-#211# Auto pilot - enabled
-#212# Auto pilot - disabled
-#213# Select a ship
-#214# No object selected
-#215# Select a ship
-#216# Select an object
-#217# Hotkeys:
+#196# Det finns inga resurser med namn
+#197# Kan inte öppna den bygga-menyn
+#198# Den aktuella fartyget inte har en teknisk bay
+#199# av mat
+#200# kan inte hitta någon mat på fartyget!
+#201# Svalt ihjäl
+#202# har svalt ihjäl!
+#203# Varning
+#204# Sista kommandot-modulen kan inte dekonstrueras
+#205# Automatisk rörelse stoppas på grund av manuell kontroll
+#206# Warp drive är ännu inte klar
+#207# kan Inte skjuta
+#208# Rocket launcher är inte ansluten till ammunition lagring
+#209# kan Inte skjuta
+#210# Ingen ammunition i ansluten lagring
+#211# Auto pilot - aktiverad
+#212# Auto pilot - funktionshindrade
+#213# Välj ett fartyg
+#214# Inga objekt markerade
+#215# Välj ett fartyg
+#216# Välj ett objekt
+#217# Kommando:
 #218# HotkeysNames:
-#219# Left:
-#220# Only server can do this
-#221# Game saved
-#222# SAVE ERROR
-#223# Saving was not completed due internal error.
-#224# Insufficient credits
-#225# Ships should be docked together
-#226# Storage is empty
-#227# This trader does not demand
-#228# Can't sell it. Storages is full
-#229# units of
-#230# was sold for
-#231# units of
-#232# was bought for
-#233# Insufficient credits:
-#234# salvaged
-#235# Not enough space to salvage
-#236# Factors
-#237# Star Mass
-#238# Planet Mass
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
-#242# ORBITAL PARAMETERS
-#243# Trajectory
-#244# Position
-#245# Apoapsis
+#219# Vänster:
+#220# Endast server kan göra detta
+#221# sparade Spel
+#222# SPARA FEL
+#223# Spara var inte slutföras på grund av internt fel.
+#224# Otillräckliga poäng
+#225# Fartyg bör vara dockad ihop
+#226# Lagring är tom
+#227# det Här näringsidkaren inte efterfrågan
+#228# Kan inte sälja den. Förråd är fullt
+#229# enheter
+#230# såldes för
+#231# enheter
+#232# köptes för
+#233# Otillräckliga poäng:
+#234# bärgad
+#235# Inte tillräckligt med utrymme för att rädda
+#236# Faktorer
+#237# Stjärniga Massa
+#238# Planet Massa
+#239# Motorns Dragkraft
+#240# Bränsleförbrukning
+#241# Reaktion Hjulet Vridmoment
+#242# ORBITAL PARAMETRAR
+#243# Bana
+#244# Läge
+#245# Aphelium
 #246# Periapsis
-#247# Eccentricity
-#248# Orbital period
-#249# Tang. velocity
-#250# Ang. velocity
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
-#258# Show Storages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
-#261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
-#263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
+#247# Excentricitet
+#248# Omloppstid
+#249# Tang. hastighet
+#250# Ang. hastighet
+#251# Öppna bygga-menyn
+#252# Dekonstruera vald modul
+#253# Switch kontroll till föregående tillgängliga fartyg
+#254# Switch control till nästa tillgängliga fartyg
+#255# Återställ tid skala
+#256# Minska tiden skala
+#257# Öka tiden skala
+#258# Visa Lager
+#259# Visa innehållet i alla behållare för lagring av den aktuella fartyget. Innehåll kan flyttas mellan behållare med hjälp av dra och släpp med vänster musknapp. Med att hålla Vänster Shift du kan överföra en viss mängd resurser.
+#260# Visa en besättning på det aktuella fartyget. Besättningen kan flyttas genom att dra och släppa.
+#261# Visa Kontakter
+#262# Display resurs kontakter för det aktuella fartyget. Om modulen kräver särskilda resurser, det ska vara ansluten till det genom att använda detta läge. Kontakter kan knytas till moduler med hjälp av dra och släpp.
+#263# Fästpunkter
+#264# Visa fästpunkter för det aktuella fartyget. Fästpunkter kan anslutas eller kopplas från genom att vänsterklicka.
+#265# Visa masscentrum för den nuvarande fartyg
 #266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
-#269# Show HP bars
-#270# Temporarily show the integrity of the ship
-#271# Rotate locker
-#272# Align view rotation with observed object
-#273# Focus view
-#274# Focus view at selected object
-#275# Reset pan
-#276# Reset camera view to focus on the selected object
-#277# Show velocity
-#278# Display relative velocity (orange) and direction (white) to selected object
-#279# Toggle grid
-#280# Display rectangular grid relative to the star
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
-#289# Faction
-#290# Rename the ship
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
-#329# ORBITAL PARAMETERS
+#267# Stabilisera rotation av fartyget med hjälp av sina motorer
+#268# Om denna funktion har aktiverats, välj ditt skepp och klicka på höger musknapp för att skicka en rörelse för
+#269# Visa HP barer
+#270# Tillfälligt visa integritet, ship
+#271# Rotera skåp
+#272# Anpassa visa rotation med observerade objekt
+#273# Fokusera visa
+#274# Fokus syn på utvalda objekt
+#275# Återställ pan
+#276# Återställ kameran för att fokusera på det markerade objektet
+#277# Visa hastighet
+#278# Visa hastigheten (orange) och riktning (vita) till valt objekt
+#279# Växla nätet
+#280# Visa rektangulärt rutnät i förhållande till stjärnan
+#281# ström
+#282# Maximal effekt
+#283# ineffekt
+#284# uteffekt
+#285# Summan av power input och output
+#286# Totalt belopp av väte
+#287# Totala mängden syre
+#288# Visa orbital parametrar för markerat objekt
+#289# Fraktion
+#290# Byta namn på fartyget
+#291# Massan av hela strukturen
+#292# Denna parameter bestämmer hur mycket kraft du behöver för att rotera båten. För att minska detta värde, den mest massiva moduler som ska vara beläget nära centrum av massa.
+#293# Inklusive massan av innehållet i fallet om detta är ett lastutrymme eller behållare
+#294# Strukturella integritet
+#295# Aktivera \ inaktivera manuell kontroll för valda vapen gruppen. Tryck på med att hålla Vänster Skift för att växla auto-läge.
+#296# Fylla utvalda lagring med Syre
+#297# Fylla utvalda lagring med Väte
+#298# Fylla utvalda lagring med Xenon
+#299# Fylla utvalda lagring med raketer
+#300# Fylla utvalda lagring med ammo
+#301# ladda Fullt valda Makt Lagring
+#302# Fylla utvalda lagring med mat
+#303# Lägg besättningsmedlem till vald modul
+#304# Skapa fiendens fartyg i slumpmässig punkt runt börjar planet som kommer automatiskt att attackera spelarens skepp.
+#305# Lägg till Artificiell Intelligens för att utvalda fartyg. Det kommer att tilldelas en allierad fraktion. Fartyget kommer att följa spelarens skepp.
+#306# skepp kommer automatiskt att flyga till valda objekt. Andra klicket kommer att stänga av autopiloten.
+#307# ta Bort hela fartyget eller asteroid
+#308# UPPMÄRKSAMHET - Denna åtgärd kan inte ångras för dagens värld. Inaktiverar allvar och stoppar alla objekt (endast för testning)
+#309# (Oavslutade) Tryck på-knappen och klicka någonstans i rymden för att skapa omloppsbanor planner. Position och Hastighet noder kan dras med vänster musknapp. Högerklicka på - ta bort noden.
+#310# Om aktiv, klicka på vänster musknapp någonstans i rymden kommer att skapa ett skräp. Skift+Klicka för att kasta skräpet med slumpmässig hastighet.
+#311# Handlare redo att KÖPA dessa varor
+#312# Handlare redo att SÄLJA dessa varor
+#313# Ändra namn
+#314# Ändra rang
+#315# Oavslutade attribut
+#316# Besättning kommer automatiskt att konsumera livsmedel från ett lastutrymme när det är värdet som understiger 75% (värdet minskar med 25% till 2 minuter)
+#317# Oavslutade attribut
+#318# Fylla utvalda lagring med Väte
+#319# Lägg besättningsmedlem till vald modul
+#320# Öppna handel gränssnitt. (OBSERVERA: för att handla med en ipod, handel gränssnitt bör öppnas, ditt skepp ska vara dockade med stationen och både för hamnar bör vara aktiverat. För att köpa något från stationen, öppna last gränssnitt, och sedan dra och släpp önskade varor från station till din container. För att sälja något - högerklicka på varor i din behållare)
+#321# Öppna konstruktion meny som tillhandahålls av utvalda varvet. Medan ditt fartyg som ligger inne på varvet, du kan köpa och sälja moduler för krediter.
+#322# Status för banan
+#323# Läge i förhållande till planet eller stjärna
+#324# Avstånd från centrum av planeten till den yttersta punkten på banan
+#325# Avstånd från centrum av planeten till den närmaste punkt på banan
+#326# excentricitet definierar formen av orbit (e=0) circle (0<e<1)ellips (e=1) parabel (e>1) hyperbel
+#327# orbital är den tid under vilken kroppen gör en rotation runt sin bana
+#328# vinkelhastighet (i grader per sekund)
+#329# ORBITAL PARAMETRAR
 #330# Cargo Container 2
 #331# Cargo Container 1
-#332# Chemical Engine
-#333# Liquid Container 1
-#334# Nuclear Reactor
-#335# Power Storage
-#336# Engineering Bay
+#332# Kemiska Motor
+#333# Flytande Container 1
+#334# Kärnreaktor
+#335# Makt Lagring
+#336# Ingenjörskonst Bay
 #337# Radar
-#338# Solar Panels
-#339# Turret Platform 1
-#340# Turret Platform 2
-#341# Energy Cannon
-#342# Ballistic Cannon 1
-#343# Corridor 4 Junction
-#344# Laser 1
+#338# Solpaneler
+#339# Torn Plattform 1
+#340# Torn Plattform 2
+#341# Energi Kanon
+#342#, Skottsäkra Kanon 1
+#343# Korridoren 4 Junction
+#344# 1 Laser
 #345# Miner
-#346# Liquid Container 2
+#346# Flytande Container 2
 #347# Cargo Container 3
-#348# Docking Port
+#348# För Port
 #349# Grabber
 #350# Laser 2
-#351# Fuel Generator
-#352# Ballistic Cannon 2
-#353# Corridor
-#354# Corridor 3 Junction
-#355# Command Module
-#356# Corridor Corner
-#357# Reaction Wheel
+#351# Bränsle Generator
+#352# Ballistiska Cannon 2
+#353# Korridoren
+#354# Korridor 3 Junction
+#355# Manövermodulen
+#356# Korridoren Hörnet
+#357# Reaktion Hjul
 #358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
-#361# Liquid Container 3
-#362# Mining Laser
-#363# Liquid Container 4
-#364# Command Module 2
+#359# Ram 2x1-Adapter
+#360# RCS Motor
+#361# Flytande Container 3
+#362# Gruv-Laser
+#363# Flytande Container 4
+#364# Kommando Modul 2
 #365# Shield Generator
-#366# Cargo Gate
+#366# Gate-Last
 #367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
+#368# Jonmotor
+#369# Struktur balk
 #370# Rocket Launcher
-#371# 2x1 Adapter
-#372# Shipyard
-#373# Hydroponics
-#374# Shipyard
-#375# Docking
-#376# Trade
-#377# Missions
-#378# Show available missions
-#379# Request docking
-#380# Debris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
+#371# 2x1-Adapter
+#372# Varvet
+#373# Hydrokultur
+#374# Varvet
+#375# För
+#376# Handel
+#377# Uppdrag
+#378# Visa tillgängliga uppdrag
+#379# Begäran för
+#380# Skräp
+#381# STÄLL IN NY FRAKTION FÖR DUPLICERAS FARTYG
 #382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
+#383# Fiende
+#384# inte ändra den fraktion
+#385# Nästa dupliceras fartyget kommer att ha samma fraktion som ursprungliga skeppet
+#386# Nästa dupliceras fartyget kommer att ha allierade fraktion
+#387# Nästa dupliceras fartyget kommer att ha fienden fraktion
 #388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
+#389# MÅLA VERKTYG
+#390# Välj modul för att måla
+#391# Vänster Klickar Du På - Måla
+#392# SPARADE FARTYG
+#393# Spara Fartyg
+#394# Inget fartyg utvalda
+#395# Ship sparas
+#396# Klicka på att placera ett fartyg
+#397# Ctrl + Vänster Klicka på Plocka färg
+#398# Förinställningar
+#399# Fil
+#400# finns redan
+#401# Byta namn
+#402# skriv över
+#403# Ange filnamn
+#404# fartyget kan inte hittas
+#405# Måla efter konstruktion
+#406# Plocka färg
+#407# Pin-bana. Förloppet visas även när fönstret är stängt.
+#408# Visa accepteras uppdrag
+#409# Oenighet chatt
+#410# Warp området har kollapsat på grund av tät hinder
 #411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
+#412# Visa masscentrum
+#413# Kontroll av markören
+#414# Lock bildvinkeln
+#415# Accepterade uppdrag
+#416# Visa orbital parametrar
+#417# Måla verktyg
+#418# Last fartyget
+#419# Pin-bana
+#420# Bygga-menyn
+#421# Dekonstruerar
+#422# Kompensera rotation
 #423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-
-#431# SELECT A SHIP
+#424# Rotor Del
+#425# Kolv
+#426# Kolv Del
+#427# visa inte igen
+#428# det går Inte att spara
+#429# Vänligen välj ett fartyg
+#430# Vänligen valt ett kommando modul av fartyget
+#431# VÄLJ ETT FARTYG
 #432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
-#442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#433# Server namn
+#434# Multiplikatorer
+#435# Avancerade inställningar
+#436# Om aktiverad, kommer servern att vara synlig i global server lista
+#437# Spelare
+#438# Inga servrar som finns
+#439# Upptäckte servrar
+#440# Direkta IP-anslutning
+#441# Uppdatera listan över servrar
+#442# Uppdatera
+#443# Servrar lista
+#444# Kommando moduler
+#445# Strukturella komponenter

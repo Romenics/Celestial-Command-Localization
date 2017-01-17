@@ -431,17 +431,17 @@
 #429# 请选择舰船
 #430# 请选择舰船上的命令模块
 #431# 选择一艘舰船
-#432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
-#442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#432# 公共服务器
+#433# 服务器名称
+#434# 乘数
+#435# 先进的设置
+#436# 如果启用，服务器可见在全球列表服务器
+#437# 球员
+#438# 没有的服务器找到了
+#439# 发现服务器
+#440# 直接IP连接
+#441# 刷新列表服务器
+#442# 刷新
+#443# 列表服务器
+#444# 命令的模块
+#445# 结构部件

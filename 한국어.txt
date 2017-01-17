@@ -388,60 +388,22 @@
 #386# 다음 복제될 함선은 동맹 세력에 속함
 #387# 다음 복제될 함선은 적대 세력에 속함
 #388# 소행성
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
-#423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
-#432# Public server
-#433# Server name
-#434# Multipliers
-#435# Advanced settings
-#436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
-#440# Direct IP connection
-#441# Refresh list of servers
-#442# Refresh
-#443# Servers list
-#444# Command modules
-#445# Structural components
+#427# 표시되지 않은 다시
+#428# 저장할 수 없습니다
+#429# 를 선택하십시오 ship
+#430# 주시기 바랍 선택 명령이 모듈의 선박
+#431# 선택 선박
+#432# 공개 서버
+#433# 서버는 이름
+#434# 승
+#435# 고급 설정
+#436# 설정을 사용하면 서버에서 볼 수 있는 글로벌 서버 목록
+#437# 플레이어
+#438# 서버
+#439# 발견되는 서버
+#440# 직접 IP 연결
+#441# 새로 고침이 있는 서버 목록
+#442# 새로고침
+#443# 서버 목록
+#444# 명령 모듈
+#445# 구조적 구성요소
