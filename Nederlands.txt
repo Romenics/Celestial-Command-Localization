@@ -449,5 +449,5 @@
 #447# Kleine stuwmotor 2
 #448# Kleine cubus
 #449# Opslagcontainer 4
-#450# Connection to server lost
-#451# Main menu
+#450# Verbinding met de server verbroken
+#451# Hoofdmenu
