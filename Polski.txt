@@ -451,3 +451,5 @@
 #447# Small Thruster 2
 #448# Small Cube
 #449# Cargo Container 4
+#450# Connection to server lost
+#451# Main menu
