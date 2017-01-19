@@ -445,9 +445,9 @@
 #443# Lista de servidores
 #444# Módulos de comando
 #445# Componentes estructurales
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
-#449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
+#446# Motor pequeño 
+#447# Motor pequeño 2
+#448# Cubo pequeño
+#449# Contenedor de carga 4
+#450# Conexión perdida con el servidor
+#451# Menú principal
