@@ -423,22 +423,22 @@
 #421# Dekonstruieren
 #422# Rotation ausgleichen
 #423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
-#432# Public server
-#433# Server name
+#424# Rotor Kopf
+#425# Kolben
+#426# Kolben Kopf
+#427# Nicht nochmal Anzeigen
+#428# Sie können im moment nich Speichern
+#429# Bitte ein Schiff auswählen
+#430# Bitte ein Kommandostation auswählen
+#431# Schiff auswählen
+#432# Öffentlicher Server
+#433# Server Name
 #434# Multipliers
-#435# Advanced settings
+#435# Erweiterte Einstellungen
 #436# If enabled, the server will be visible in global server list
-#437# Players
-#438# No servers found
-#439# Discovered servers
+#437# Spieler
+#438# Keine Server gefunden
+#439# Server entdecken
 #440# Direct IP connection
 #441# Refresh list of servers
 #442# Refresh
