@@ -302,22 +302,22 @@
 #301# Charger complètement le stockage d'énergie sélectionné
 #302# Remplir le stockage sélectionné avec de la nourriture
 #303# Ajouter un membre d'équipage au module sélectionné
-#304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
-#305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
-#306# The ship will automatically fly to selected object. Second click will disable autopilot.
-#307# Remove entire ship or asteroid
-#308# ATTENTION - This action cannot be undone for current world. Disables gravity and stops all objects (for testing purposes only)
-#309# (Unfinished feature) Press the button and click somewhere in space to create orbital planner. Position and Velocity nodes can be dragged by left mouse button. Right click - delete the node.
-#310# If active, left mouse click somewhere in space will create a debris. Shift+Click will throw the debris with random velocity.
-#311# Trader ready to BUY these goods
-#312# Trader ready to SELL these goods
-#313# Change name
-#314# Change rank
-#315# Unfinished attribute
-#316# Crew members will automatically consume food from any cargo bay when it's value below 75% (the value is reduced by 25% for 2 minutes)
-#317# Unfinished attribute
-#318# Fill selected storage with Hydrogen
-#319# Add crew member to selected module
+#304# Créer un vaisseau ennemi au hasard autour de la planète de départ qui va automatiquement attaquer le vaisseau du joueur.
+#305# Ajouter une Intelligence Artificielle au vaisseau sélectionné. Il sera affecté à la faction alliée. Ce vaisseau suivra le vaisseau du joueur.
+#306# Le vaisseau se dirigera automatiquement vers l'objet sélectionné. Un second clic désactivera le pilote automatique.
+#307# Supprime entièrement le vaisseau ou l'astéroïde
+#308# ATTENTION - Cette action ne peut pas être annulée pour le monde actuel. Désactive la gravité et arrête tous les objets (à des fins de test uniquement)
+#309# (Fonction inachevée) Appuyez sur le bouton et cliquez quelque part dans l'espace pour créer une planification orbitale. Les nœuds de position et de vélocité peuvent être déplacés avec le bouton gauche de la souris. Cliquez avec le bouton droit de la souris pour supprimer le nœud.
+#310# Si activé, le clic gauche de la souris quelque part dans l'espace créera des débris. Shift + clic gauche lancera les débris avec une vitesse aléatoire.
+#311# Commerçant prêt à acheter ces biens
+#312# Commerçant prêt à vendre ces biens
+#313# Changer le nom
+#314# Changer le rang
+#315# Attributs non complétés
+#316# Les membres de l'équipage consommeront automatiquement de la nourriture à partir de n'importe quel compartiment de stockage quand sa valeur est inférieure à 75% (la valeur est réduite à 25% pendant 2 minutes)
+#317# Attributs non complétés
+#318# Remplir le stockage sélectionné avec de l'Hydrogène
+#319# Ajouter un membre d'équipage au module sélectionné
 #320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
 #321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
 #322# Status of the trajectory
