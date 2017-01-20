@@ -48,7 +48,7 @@
 #46# Sélectionnez une partie enregistrée
 #47# Nom
 #48# Date
-#49# Tps de jeu
+#49# Temps de jeu
 #50# Version
 #51# Nouvelle partie
 #52# Veuillez confirmer la suppression de la partie
@@ -130,7 +130,7 @@
 #128# Modules disponibles
 #129# Stockage
 #130# Production
-#131# Energie
+#131# Énergie
 #132# Divers
 #133# Armes
 #134# Tourelles
@@ -148,18 +148,18 @@
 #146# Prix
 #147# Achat
 #148# Vente
-#149# Préc. vaiss.
-#150# Proch. vaiss.
+#149# Vaisseau précédent
+#150# Prochain vaisseau
 #151# Masse totale
 #152# Moment d'inertie
 #153# Masse du module
-#154# Pas d'énergie
+#154# Non-connecté à une réserve d'énergie
 #155# Consom. énergie
 #156# Attacher
 #157# Détacher
 #158# Glisser pour transférer
 #159# Clic droit: Vendre
-#160# Glisser, déposer: Acheter
+#160# Acheter: Glisser-déposer dans conteneur
 #161# Déposer pour transférer
 #162# Maintenir Shift pour définir une quantité
 #163# Déposer pour acheter
@@ -200,11 +200,11 @@
 #198# Le vaisseau actuel ne possède pas de module de construction
 #199# Plus de nourriture !
 #200# Pas de nourriture à bord de ce vaisseau !
-#201# Mort affamée
+#201# Mort de faim
 #202# est mort de faim !
 #203# Avertissement !
-#204# Le dernier vaisseau de commande ne peut pas être déconstruit !
-#205# Pilote automatique désactiver par l'action du joueur
+#204# Le dernier module de commande ne peut être déconstruit !
+#205# Pilote automatique désactivé par l'action du joueur
 #206# Le 'Warp drive' n'est pas encore prêt
 #207# Impossible de tirer ! 
 #208# Le lanceur de missile n'est pas connecté à un stockage de munitions
@@ -219,7 +219,7 @@
 #217# Raccourcis:
 #218# Nom racc.:
 #219# Gauche:
-#220# Seul le serveur peut ceci
+#220# Autorisé par le serveur seulement
 #221# Partie enregistrée
 #222# ! ERREUR ENREGISTREMENT !
 #223# Enregistrement impossible suite à une erreur interne
@@ -229,80 +229,79 @@
 #227# Le vendeur ne demande pas cette ressource
 #228# Impossible de vendre, le stockage est plein
 #229# unités de
-#230# ont été vendu pour
+#230# ont été vendu(e)s pour
 #231# unités de
-#232# ont été acheté pour
-#233# Crédit insuffisant:
-#234# salvaged
-#235# Not enough space to salvage
-#236# Factors
+#232# ont été acheté(e)s pour
+#233# Crédits insuffisants:
+#234# récupéré
+#235# Pas assez d'espace pour récupérer
+#236# Facteurs
 #237# Masse des étoiles
 #238# Masse des planètes
-#239# Engine Thrust
-#240# Fuel Consumption
-#241# Reaction Wheel Torque
+#239# Poussée du moteur
+#240# Consommation de carburant
+#241# Couple du volant d'inertie
 #242# Paramètres orbitaux
 #243# Trajectoire
 #244# Position
-#245# Apoapsis
-#246# Periapsis
-#247# Eccentricity
-#248# Orbital period
+#245# Apoapside
+#246# Périapside
+#247# Excentricité
+#248# Période orbitale
 #249# Tang. velocity
 #250# Ang. velocity
-#251# Open build menu
-#252# Deconstruct selected module
-#253# Switch control to the previous available ship
-#254# Switch control to the next available ship
-#255# Reset time scale
-#256# Decrease time scale
-#257# Increase time scale
+#251# Ouvrir le menu de construction
+#252# Déconstruire le module sélectionné
+#253# Prendre contrôle du vaisseau disponible précédent
+#254# Prendre contrôle du prochain vaisseau disponible
+#255# Réinitialiser la durée
+#256# Réduire la durée
+#257# Augmenter la durée
 #258# Afficher les stockages
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with left mouse button. With holding Left-Shift you can transfer specific amount of resources.
-#260# Display a crew of the current ship. The crew member can be moved by drag and drop.
+#259# Afficher le contenu de tous les conteneurs de stockage du vaisseau actuel. Le contenu peut être déplacé entre les conteneurs en utilisant le glisser-déposer avec le bouton gauche de la souris. En maintenant le bouton Shift-Gauche vous pouvez transférer une quantité spécifique de ressources.
+#260# Afficher l'équipage du vaisseau actuel. Les membres de l'équipage peuvent être déplacés en utilisant le glisser-déposer.
 #261# Afficher les connecteurs
-#262# Display resource connectors for the current ship. If the module requires some specific resources, it should be connected to it by using this mode. Connectors can be attached to modules by using drag and drop.
+#262# Afficher les connecteurs de ressources pour le vaisseau actuel. Si le module nécessite des ressources spécifiques, il doit être connecté à ces dernières en utilisant ce mode. Les connecteurs peuvent être attachés aux modules en utilisant le glisser-déposer.
 #263# Afficher les points de montage
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
-#265# Display center of mass for the current ship
-#266# Lock RCS
-#267# Stabilize rotation of the ship by using its engines
-#268# If activated - select your ship and click right mouse button to send a movement order
+#264# Afficher les points de montage pour le vaisseau actuel. Les points de montage peuvent être connectés ou déconnectés par un clic gauche.
+#265# Afficher le centre de masse pour le vaisseau actuel.
+#266# Vérrouiller le SCR
+#267# Stabiliser la rotation du vaisseau en utilisant ses moteurs.
+#268# Si activé - sélectionnez votre navire et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
 #269# Afficher les dégats
-#270# Temporarily show the integrity of the ship
+#270# Afficher temporairement l'intégrité du vaisseau
 #271# Rotate locker
-#272# Align view rotation with observed object
+#272# Aligner la rotation de la vue avec l'objet observé
 #273# Centrer la vue
 #274# Focaliser la vue sur le vaisseau sélectionné
 #275# Réinitialiser la vue panoramique
 #276# Vue par défaut sur le vaisseau sélectionné
 #277# Afficher la vélocité
-#278# Display relative velocity (orange) and direction (white) to selected object
+#278# Afficher la vélocité relative (orange) et la direction (blanc) jusqu'à l'objet sélectionné
 #279# Afficher les repères
 #280# Les lignes de quadrillages utiles à la navigation dans le système solaire
-#281# Current power
-#282# Maximum power capacity
-#283# Power input
-#284# Power output
-#285# Sum of power input and output
-#286# Total amount of hydrogen
-#287# Total amount of oxygen
-#288# Show orbital parameters for selected object
+#281# Puissance actuelle
+#282# Capacité de puissance maximale
+#283# Puissance d'entrée
+#284# Puissance de sortie
+#285# Somme de la puissance d'entrée et de sortie
+#286# Quantité totale d'Hydrogène
+#287# Quantité totale d'Oxygène
+#288# Afficher les paramètres orbitaux pour l'objet sélectionné
 #289# Faction
 #290# Renommer le vaisseau
-#291# Mass of the entire structure
-#292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to center of mass.
-#293# Including the mass of content in case if this is a cargo bay or container
-#294# Structural integrity
-#295# Enable \ disable manual control for selected weapon group. Press with holding Left Shift for switch auto mode.
-#296# Fill selected storage with Oxygen
-#297# Fill selected storage with Hydrogen
-#298# Fill selected storage with Xenon
-#299# Fill selected storage with rockets
-#300# Fill selected storage with ammo
-#301# Fully charge selected Power Storage
-#302# Fill selected storage with food
-#303# Add crew member to selected module
+#291# Masse de l'ensemble de la structure
+#292# Ce paramètre détermine la force nécessaire pour faire pivoter le navire. Pour réduire cette valeur, les modules les plus massifs devraient être situés à proximité du centre de masse.
+#293# Intégrité structurelle
+#295# Active \ désactive le contrôle manuel du groupe d'armes sélectionné. Appuyez tout en maintenant la touche Shift-Gauche enfoncée pour activer le mode automatique.
+#296# Remplir le stockage sélectionné avec de l'Oxygène
+#297# Remplir le stockage sélectionné avec de l'Hydrogène
+#298# Remplir le stockage sélectionné avec du Xenon
+#299# Remplir le stockage sélectionné avec des missiles
+#300# Remplir le stockage sélectionné avec des munitions
+#301# Charger complètement le stockage d'énergie sélectionné
+#302# Remplir le stockage sélectionné avec de la nourriture
+#303# Ajouter un membre d'équipage au module sélectionné
 #304# Create enemy ship in random point around starting planet which will automatically attack the player's ship.
 #305# Add Artificial Intelligence to selected ship. It will be assigned to ally faction. The ship will follow the player's ship.
 #306# The ship will automatically fly to selected object. Second click will disable autopilot.
