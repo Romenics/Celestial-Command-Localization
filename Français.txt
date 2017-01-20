@@ -318,18 +318,18 @@
 #317# Attributs non complétés
 #318# Remplir le stockage sélectionné avec de l'Hydrogène
 #319# Ajouter un membre d'équipage au module sélectionné
-#320# Open trading interface. (NOTE: In order to trade with a station, trading interface should be opened, your ship should be docked with the station and both docking ports should be activated. In order to buy something from the station, open cargo interface, then drag and drop desired goods from station to your container. In order to sell something - right click on the goods in your container)
-#321# Open construction menu provided by selected shipyard. While your ship located inside the shipyard, you may buy and sell modules for credits.
-#322# Status of the trajectory
-#323# Position relative to the planet or star
-#324# Distance from the center of planet to the farthest point on the orbit
-#325# Distance from the center of planet to the closest point on the orbit
-#326# The eccentricity defines the shape of the orbit (e=0) circle  (0<e<1)ellipse  (e=1) parabola (e>1) hyperbola
-#327# The orbital period is the time during which the body makes one rotation around its orbit
-#328# Angular velocity (in degree per second)
+#320# Ouvrir l'interface commerciale. (NOTE: Afin d'échanger avec une station, l'interface commerciale doit être ouverte, votre vaisseau doit être amarré avec la station et les deux ports d'amarrage doivent être activés. Pour acheter quelque-chose de la station, ouvrir l'interface de stockage, puis glisser-déposer les marchandises désirées de la station à votre conteneur. Pour vendre quelque-chose, cliquez avec le bouton droit de la souris sur les marchandises dans votre conteneur)
+#321# Ouvre le menu de construction fourni par le chantier spatial sélectionné. Pendant que votre vaisseau est situé à l'intérieur du chantier spatial, vous pouvez acheter et vendre des modules pour des crédits.
+#322# Statut de la trajectoire
+#323# Position relativement à la planète ou l'étoile 
+#324# Distance du centre de la planète jusqu'au point le plus éloigné de l'orbite
+#325# Distance du centre de la planète jusqu'au point le plus proche de l'orbite
+#326# L'excentricité définit la forme de l'orbite (e = 0) cercle (0 <e <1) ellipse (e = 1) parabole (e> 1) hyperbole
+#327# La période orbitale est le temps que prend le corps pour faire une rotation autour de son orbite
+#328# Vélocité angulaire (en degré par seconde)
 #329# Paramètres orbitaux
-#330# Cargo type 2
-#331# Cargo type 1
+#330# Type de chargement 2
+#331# Type de chargement 1
 #332# Moteur chimique
 #333# Réservoir pour liquide type 1
 #334# Réacteur nucléaire
@@ -354,22 +354,22 @@
 #353# Corridor
 #354# Corridor jonction type 3
 #355# Module de commande
-#356# Corridor angle
-#357# Reaction Wheel
+#356# Angle de couloir
+#357# Volant d'inertie
 #358# Warp Drive
-#359# Frame 2x1 Adapter
-#360# RCS Engine
+#359# Adaptateur de cadre 2x1
+#360# Moteur SCR
 #361# Réservoir pour liquide type 3
-#362# Mining Laser
+#362# Laser minier
 #363# Réservoir pour liquide type 4
-#364# Command Module 2
+#364# Module de commande 2
 #365# Générateur de bouclier
-#366# Cargo Gate
-#367# Tractor Beam
-#368# Ion Engine
-#369# Structure beam
-#370# Rocket Launcher
-#371# 2x1 Adapter
+#366# Porte de chargement
+#367# Rayon tracteur
+#368# Moteur Ion
+#369# Poutre de structure
+#370# Lance-missile
+#371# Adaptateur 2x1
 #372# Chantier spatial
 #373# Hydroculture
 #374# Chantier spatial
@@ -379,14 +379,14 @@
 #378# Missions disponibles
 #379# Demander l'amarrage
 #380# Débris
-#381# SET NEW FACTION FOR DUPLICATED SHIP
+#381# Régler une nouvelle faction pour le vaisseau dupliqué
 #382# Allié
 #383# Ennemi
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Astéroide
+#384# Ne pas changer la faction
+#385# Le prochain vaisseau dupliqué aura la même faction que l'original
+#386# Le prochain vaisseau dupliqué sera dans la faction alliée
+#387# Le prochain vaisseau dupliqué sera dans la faction ennemie
+#388# Astéroïde
 #389# Outil peindre
 #390# Sélectionner le module à peindre
 #391# Clic gauche: Peindre
@@ -400,9 +400,9 @@
 #399# Nom de fichier
 #400# existe déjà ! 
 #401# Renommer
-#402# Ecraser
+#402# Écraser
 #403# Entrez un nom de fichier
-#404# Ce vaisseau ne peut être trouver !
+#404# Ce vaisseau ne peut être trouvé !
 #405# Peindre après construction
 #406# Sélectionnez une couleur
 #407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
