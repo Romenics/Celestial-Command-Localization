@@ -346,7 +346,7 @@
 #344# Laser 1
 #345# Górnik
 #346# Kontener cieczy 2
-#347# Cargo Container 3
+#347# Kontener ładunku 3
 #348# Przystań dokowania
 #349# Chwytak
 #350# Laser 2
@@ -433,23 +433,23 @@
 #429# Proszę wybrać statek
 #430# Proszę wybrać moduł dowodzenia statku
 #431# WYBIERZ STATEK
-#432# Serwer Publiczny
+#432# Serwer publiczny
 #433# Nazwa serwera
 #434# Mnożniki
-#435# Zaawansowane ustawienia
-#436# Jeśli opcja jest włączona, serwer będzie widoczna w globalnej liście serwerów
-#437# Gracze 
-#438# Brak serwerów Znaleziono 
-#439# Odkryta serwery
-#440# połączenia bezpośrednie IP
+#435# Ustawienia zaawansowane
+#436# Jeśli opcja jest włączona, serwer będzie widoczny na globalnej liście serwerów
+#437# Gracze
+#438# Nie znaleziono serwerów
+#439# Odkryte serwery
+#440# Bezpośrednie połączenie IP
 #441# Odśwież listę serwerów
 #442# Odśwież
-#443# lista Serwery
-#444# moduły dowodzenia
-#445# elementy strukturalne
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
-#449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
+#443# Lista serwerów
+#444# Moduły dowodzenia
+#445# Elementy strukturalne
+#446# Mały silnik 
+#447# Mały silnik 2
+#448# Mała kostka
+#449# Kontener ładunku 4
+#450# Utracono połączenie z serwerem
+#451# Menu główne
