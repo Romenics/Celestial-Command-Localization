@@ -451,3 +451,9 @@
 #449# Contenedor de carga 4
 #450# Conexión perdida con el servidor
 #451# Menú principal
+#452# Thrust
+#453# Auto mode
+#454# Limit max thrust
+#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
+#456# When enabled, this engine will be controlled automatically by WASDQE keys.
+#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
