@@ -453,9 +453,9 @@
 #449# Kontener ładunku 4
 #450# Utracono połączenie z serwerem
 #451# Menu główne
-#452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
+#452# Ciąg
+#453# Tryb automatyczny
+#454# Ograniczenie maksymalnego ciągu
+#455# Ręczna aktywacja silnika. Możesz przypisać do trzech skrótów klawiszowych dla tej operacji.
+#456# Gdy włączony, silnik będzie sterowany za pomocą klawiszy WASDQE.
+#457# Ciąg silnika nie przekroczy określonej wartości. Przydatne, gdy chcesz wyrównać swój "środek ciągu" ze "środkiem masy" w celu uniknięcia niechcianych odchyleń kursu w trakcie poruszania.
