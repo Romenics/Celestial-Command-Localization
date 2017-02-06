@@ -196,8 +196,8 @@
 #194# Vermogen
 #195# Voedsel
 #196# Er is geen grondstof met naam
-#197# Kan het bouwmenu niet openen
-#198# Dit schip heeft geen bouwmodule
+#197# Kan het constructiemenu niet openen
+#198# Dit schip heeft geen constructiemodule
 #199# Geen voedsel
 #200# kan geen voedsel in het schip vinden!
 #201# Verhongerd
@@ -409,13 +409,13 @@
 #407# Pin traject. Het traject zal zichtbaar blijven nadat dit scherm gesloten wordt.
 #408# Toon geaccepteerde missies
 #409# Discord chat
-#410# Het warpveld is ingestord door een obstakel met hoge dichtheid
+#410# Het warpveld is ingestort door een obstakel met hoge dichtheid
 #411# Toon bemanning
 #412# Toon zwaartepunt
 #413# Muisbesturing
 #414# Vergrendel kijkhoek
 #415# Geaccepteerde missies
-#416# Toon orbitale paramters
+#416# Toon orbitale parameters
 #417# Verfgereedschap
 #418# Laad schip
 #419# Pin traject
@@ -433,9 +433,9 @@
 #431# SELECTEER EEN SCHIP
 #432# Openbare server
 #433# Naam server
-#434# Multipliers
+#434# Factoren
 #435# Geavanceerde instellingen
-#436# Inschakelen maakt de server zichtbaar in de wereldwijde server lijst.
+#436# Inschakelen maakt de server zichtbaar in de wereldwijde serverlijst.
 #437# Spelers
 #438# Geen servers gevonden
 #439# Gevonden servers
@@ -451,9 +451,9 @@
 #449# Opslagcontainer 4
 #450# Verbinding met de server verbroken
 #451# Hoofdmenu
-#452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
+#452# Stuw
+#453# Auto modus
+#454# Begrens maximale stuwkracht
+#455# Activeer de motor handmatig. Hiervoor zijn tot 3 sneltoetsen in te stellen.
+#456# Wanneer geactiveerd, is deze motor automatisch te besturen met de WASDQE-toetsen.
+#457# De stuwkracht van deze motor zal de gestelde limiet niet overschrijden. Dit kan handig zijn om de stuwkracht van het schip gebalanceerd te houden met het zwaartepunt.
