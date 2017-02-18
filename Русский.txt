@@ -454,6 +454,6 @@
 #452# Тяга
 #453# Автоматический режим
 #454# Ограничение максимальной тяги
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
+#455# Ручная активация двигателей. Для этого действия можно назначить до 3 различных горячих клавиш.
+#456# Когда режим активен, этот двигатель будет управляться автоматически при помощи клавиш WASDQE.
+#457# Тяга двигателя не превысит указанной величины. Это полезно, если нужно скорректировать "центр тяги" с "центром масс" для избежания нежелательных отклонений курса во время двтижения.
