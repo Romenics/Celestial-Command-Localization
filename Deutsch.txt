@@ -260,7 +260,7 @@
 #258# Zeige Lagerbehälter
 #259# Inhalt aller Speicherbehälter des aktuellen Schiff anzeigen. Die Inhalte können per Drag-and-Drop mit der linken Maustaste zwischen Containern verschoben werden. Während Sie die Taste links SHIFT halten können Sie eine bestimmte Menge an Ressourcen zu übertragen.
 #260# Anzeigen der Crewmitglieder des aktuelles Schiffes. Ein Crewmitglied kann durch drag & drop verschoben werden.
-#261# Anteige Verbindungspunkte
+#261# Anzeige Verbindungspunkte
 #262# Zeigt Ressourcen-Anschlüsse für das aktuelle Schiff. Wenn das Modul einige spezifische Ressourcen erfordert, sollte es mit Hilfe dieses Modus angeschlossen werden. Anschlüsse können per Drag & Drop an Module angeschlossen werden.
 #263# Montagepunkte
 #264# Zeigt Montagepunkte für das aktuelle Schiff. Montagepunkte können mit einem Links-klick verbunden und gelöst werden.
@@ -284,7 +284,7 @@
 #282# Maximale Energie Kapazität
 #283# Energie - Eingang
 #284# Energie - Ausgang
-#285# Summer der Gesamtenergie (Eingang & Ausgang)
+#285# Summe der Gesamtenergie (Eingang & Ausgang)
 #286# Gesamtmenge an Wasserstoff
 #287# Gesamtmenge an Sauerstoff
 #288# Orbitalparameter des ausgewählten Objektes anzeigen
@@ -305,15 +305,15 @@
 #303# Dem ausgewählten Modul ein Crewmitglied zuweisen.
 #304# Erstellen Sie ein feindliche Schiff an einem zufälligem Punkt um den Planeten, das automatisch das Schiff des Spielers angreift.
 #305# Dem Schiff eine künstliche Intelligenz zuweisen. Es wird der alliierten Fraktion zugewiesen und dem Spieler folgen.
-#306# Das Schiff wird automatisch zum ausgewählten Objekt fliegen, ein zweiter Kaus-Klick schaltet den Autopiloten aus.
+#306# Das Schiff wird automatisch zum ausgewählten Objekt fliegen, ein zweiter Maus-Klick schaltet den Autopiloten aus.
 #307# Gesamtes Schiff oder Asteroiden entfernen
 #308# Achtung: Diese Aktion kann für die aktuelle Welt nicht rückgängig gemacht werden. Das ausschalten der Gravitation (Schwerkraft) wird alle Objekte an ihre aktuelle Position binden (keine Bewegung). Nur zu Testzwecken empfohlen.
-#309# (Unfertige Fähigkeit) Drücke die Taste und Klicke mit der Maus in den Weltraum um einen orbitalen Flugbahnplan zu erstellen. Positions- und Geschwindigkeitspunkte können mit der linken Maustaste verschoben werden. Mit der rechten Maustaste werden diese Punkte gelöscht.
+#309# (Unfertige Fähigkeit) Drücke die Taste und klicke mit der Maus in den Weltraum um einen orbitalen Flugbahnplan zu erstellen. Positions- und Geschwindigkeitspunkte können mit der linken Maustaste verschoben werden. Mit der rechten Maustaste werden diese Punkte gelöscht.
 #310# Wenn aktiviert kann mit der linken Maustaste Trümmerteile gesetzt werden. Shift+L-Maustaste schleudern das Trümmerstück mit zufälliger Geschwindigkeit hinfort.
 #311# Händler ist bereit diese Ware(n) zu kaufen
 #312# Händler ist bereit diese Ware(n) zu verkaufen
 #313# Namen ändern
-#314# Rank ändern
+#314# Rang ändern
 #315# Unfertiges Attribut
 #316# Crewmitglieder werden automatisch Nahrung aus jedem Lagerbehälter verbrauchen sobald Ihre Sättigung unter 75% fällt (dieser Wert ist um 25% vermindert für 2 Minuten).
 #317# Unfertiges Attribut
@@ -326,7 +326,7 @@
 #324# Entfernung vom Zentrum des Planeten bis zum äußersten Punkt auf der Umlaufbahn
 #325# Entfernung vom Zentrum des Planeten bis zum innersten Punkt auf der Umlaufbahn
 #326# Die Exzentrizität definiert die Form der Umlaufbahn (e=0) -> Kreis,  (0<e<1) -> Ellipse, (e=1) -> Parabel,  (e>1) -> Hyperbel
-#327# Die Umlaufzeit ist die Zeit, die ein Körper für eine vollstädige Drehung benötigt.
+#327# Die Umlaufzeit ist die Zeit, die ein Körper für eine vollständige Umrundung benötigt.
 #328# Winkelgeschwindigkeit (in Grad pro Sekunde)
 #329# orbitale Parameter
 #330# Frachtcontainer 2
@@ -427,33 +427,33 @@
 #425# Kolben
 #426# Kolben Kopf
 #427# Nicht nochmal Anzeigen
-#428# Sie können im Moment nich Speichern
+#428# Sie können im Moment nicht Speichern
 #429# Bitte ein Schiff auswählen
 #430# Bitte ein Kommandostation auswählen
 #431# Schiff auswählen
 #432# Öffentlicher Server
 #433# Server Name
-#434# Multipliers
+#434# Multiplikatoren
 #435# Erweiterte Einstellungen
 #436# Falls aktiviert wird der Server in der öffentlichen Serverliste angezeigt
 #437# Spieler
 #438# Keine Server gefunden
 #439# Server entdecken
-#440# Direct IP Verbindung
+#440# Direkte IP Verbindung
 #441# Serverliste aktualisieren
 #442# Aktualisieren
 #443# Serverliste
-#444# Command modules
-#445# Structural components
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
-#449# Cargo Container 4
+#444# Kommandomodule
+#445# Strukturelle Komponenten
+#446# Kleines Triebwerk 
+#447# Kleines Triebwerk 2
+#448# Kleiner Würfel
+#449# Frachtcontainer 4
 #450# Verbindung zum Server verloren
 #451# Hauptmenü
-#452# Thrust
+#452# Schub
 #453# Auto Modus
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
+#454# Maximalen Schub begrenzen
+#455# Aktiviert Triebwerk manuell. 3 verschiedene Hotkeys können zugewiesen werden.
+#456# Wenn aktiviert wird dieses Triebwerk automatisch von den Tasten WASDQE gesteuert.
 #457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
