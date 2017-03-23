@@ -520,109 +520,109 @@
 #518# Reputation
 #519# This is your ship
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+Hold right mouse button and drag the mouse to rotate the camera
+#520# You may pan the camera by click-dragging the middle mouse button
+#521# Use your mouse's scroll wheel to zoom
+#522# You may reset the camera by pressing the highlighted button
+#523# Now, regarding movement:
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+You may rotate your ship with the A and D keys. Try to gently rotate your ship clockwise and counter clockwise.
+#524# Note that your ship is located in a vacuum. In space, there is no air friction, so your ship will keep its liniar and angular velocity until you stop it manually.
+#525# Automatic stabilization is very useful if you want to stop your ship's rotation. Activate the stabilizator by pressing the highlighted button or its hotkey (R).
+#526# While the stabilizer is active, it will automatically use the ship's engines to stop any rotation of the ship.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+However, make note, that your fuel is limited. These basic maneuvering engines consume liquid hydrogen. Your current amount of liquid hydrogen is displayed on screen (as highligthed by the arrow).
+#527# While active, the rotation stabilizer will counteract all rotation, even when you don't really need it to do so. Because this uses the ship's engines, having the stabilizer on increases the consumption of fuel. So, it may be useful to disable stabilizer whenever you don't need it.
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+Disable the stabilizer by pressing its hotkey (R).
+#528# Now try to move your ship a little, using keys W S Q E to move it forward, backward, left and right.
+#529# Now zoom out and observe the nearest planet and its surroundings.
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+By now you've probably noticed that your ship doesn't stay in one place. The ship orbits the nearby planet.
+#530# Despite the orbital mechanics in this game, movement here is much simpler than in the real world.
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+Let's try to approach the nearby asteroid.
+Select the highlighted asteroid by clicking it.
+#531# Now display relative velocity.
+#532# With relative velocity active, and you have selected an object, you will see two arrows near your ship.
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+White arrow - direction to the selected object
+Orange arrow - velocity vector of your ship relative to the selected object
+#533# Now, in order to approach your target, begin to move your ship.
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+You need to align the orange arrow and the white arrow.
+#534# Good. Having the two arrows aligned means that your ship moves straight towards the target.
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+Keep an eye on the distance and relative speed to your target. Do not crash into it.
+Once you approach, decelerate your ship until the yellow arrow becomes very short. This means that your relative velocity is almost zero.
 
-Approach to selected target and stop your ship near it.
+Approach the selected target and stop your ship near it.
 #535# Good. Let's try again for another asteroid.
 #536# Move your ship to highlighter asteroid.
-#537# And one more time.
+#537# You're getting the hang of this! One more time!
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+Move your ship to the highlighted asteroid.
+#538# Perfect! Now you know how to approach nearby objects.
+#539# Now let's mine some resources in order to sell them and earn credits.
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+Your ship is already equipped with a mining laser. In order to activate it, select the mining laser and press the "Toggle" button in the appeared window.
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+Note that an active mining laser consumes energy which is displayed in right-top corner of the screen, so deactivate the laser when it is not directed towards an asteroid.
 
 Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+#540# During mining, you will see an indicator which shows the laser's current yield.
+Note, the closer the mining laser gets to the asteroid, the more effective it becomes.
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+Now open the cargo interface.
+#541# In this mode you may see the contents of any storage container on your ship.
+Here you see the ship's fuel, energy and gathered resources.
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+You may move resources from one container to another by drag and drop. Right now this is not neccesary, so just disable the cargo interface again.
+#542# A new space station just arrived in the star system.
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
+Let's dock with the station and refuel the ship.
+Select the highlighted space station.
+#543# Request permission for docking.
 #544# The station will reserve a free docking port for your ship.
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+Approach the designated docking port and accurately touch it with your own ship's docking port.
+#545# Now open the trading panel.
+#546# In this window, locate the line "Hydrogen" and press "Buy". After that, select the desired amount (for example 10) and confirm your order.
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+Also, here you can sell gathered resources. Try to sell your mined ores, and press next when this is completed.
+#547# Now let's test a weapon!
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+Your ship doesn't have a weapon, so you need to expand your ship.
+Later you will be able to construct modules yourself, but for now you can buy new modules at the space station.
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+Select the station and press the "Shipyard" button. A build menu will appear.
+#548# In the build menu, select a turret platform.
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+You will see some mounting points on your ship. Place one turret anywhere on your ship where you want.
+#549# Now select a cannon from the build menu and attach it on top of your turret.
+#550# Good. In order to use a cannon, you need ammo.
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+Buy ammo from the station using the "Trade" button.
+#551# After you bought some ammo, you should connect your cannon to the storage container holding your ammo.
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+Open the resource connection manager.
+#552# In this mode you will see lines which represent a flow of resources.
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+Many devices should be connected to storage containers in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
+Now connect your cannon to the container with ammo by dragging a line between your cannon and the ammo storage. Start at the grey dot on your cannon, then move it to the container.
 #553# Now you may undock from the station.
 
-In order to undock, select your docking port and press a button in its control panel.
+In order to undock, select your docking port and press the docking toggle in its control panel.
 #554# Turrets may be operated manually or you may activate automatic mode.
 
-Let's try a manual control.
+Let's try the manual control.
 Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
+Also you may press "Show range" in order to see your cannon's effective range.
 #555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+#556# Congratulations! You have completed the basic tutorial.
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+If you need additional information, be sure to check the community guide.
+#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from asteroids, and sell them on any nearby trading station.
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
+Modify your ship on the shipyard and complete missions in order to improve your reputation and get an access to new modules.
