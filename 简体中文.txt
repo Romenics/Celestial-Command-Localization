@@ -457,51 +457,51 @@
 #455# 手动激活引擎。你最多可以为这个操作绑定3个不同的热键。
 #456# 当启用时，引擎将由WASDQE键自动控制。
 #457# 引擎推力将不会超过指定值。如果你要对准推进中心和质心以防止运动过程中出现意外的航向偏差，那么选择这个选项会有帮助。
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
-#465# Tutorial
-#466# Single-player
-#467# Multi-player
-#468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
-#472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
-#475# Station Hub
-#476# Station Side Section
-#477# Station Engineering Bay
-#478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
-#485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
-#495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
+#458# 买入价格
+#459# 卖出价格
+#460# 需求比
+#461# 弧形连接器
+#462# 补偿 FPS
+#463# 反转X轴
+#464# 反转Y轴
+#465# 教程
+#466# 单人游戏
+#467# 多人游戏
+#468# 加载
+#469# 最大采矿率
+#470# 激活时间
+#471# 最大范围
+#472# 最大伤害
+#473# 能量消耗
+#474# 小型护盾发生器
+#475# 空间站核心
+#476# 空间站侧舷
+#477# 空间站工程湾
+#478# 空间站货仓
+#479# 空间站储油罐
+#480# 前往指定对接口
+#481# 等待空闲对接口
+#482# 队列中位置
+#483# 您的当前舰船需要停泊于造船厂
+#484# 已卖出模块
+#485# 模块
+#486# 卖出
+#487# 模块买入
+#488# 采矿激光已禁用
+#489# 可用存储空间不足
+#490# 选择一个物体并重试
+#491# 任务完成
+#492# 获得CR
+#493# 没有停泊于船上
+#494# 新任务可用
+#495# 空间站
+#496# CR不足
+#497# 价格
+#498# 任务失败
+#499# 信号弱
+#500# 驾驶舰船返回星系，否则信号将在60秒内消失
+#501# 信号消失
+#502# 舰船迷失在星系外的深空
 #503# Position of center of thrust relative to center of mass
 #504# Warp drive deactivated
 #505# Not enough power
