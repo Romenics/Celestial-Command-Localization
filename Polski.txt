@@ -459,67 +459,67 @@
 #455# Ręczna aktywacja silnika. Możesz przypisać do trzech skrótów klawiszowych dla tej operacji.
 #456# Gdy włączony, silnik będzie sterowany za pomocą klawiszy WASDQE.
 #457# Ciąg silnika nie przekroczy określonej wartości. Przydatne, gdy chcesz wyrównać swój "środek ciągu" ze "środkiem masy" w celu uniknięcia niechcianych odchyleń kursu w trakcie poruszania.
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
-#465# Tutorial
-#466# Single-player
-#467# Multi-player
-#468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
-#472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
-#475# Station Hub
-#476# Station Side Section
-#477# Station Engineering Bay
-#478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
-#485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
-#495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
-#506# Torpedo Launcher
-#507# Type
-#508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
+#458# Cena kupna
+#459# Cena sprzedaży
+#460# Popyt
+#461# Złącza łukowe
+#462# Wyrównaj ilość klatek na sekundę
+#463# Odwróć oś X
+#464# Odwróć oś Y
+#465# Kurs
+#466# Gra jednoosobowa
+#467# Gra wieloosobowa
+#468# Wczytaj
+#469# Maksymalne tempo wydobycia
+#470# Czas aktywacji
+#471# Maksymalny zasięg
+#472# Maksymalne obrażenia
+#473# Zużycie mocy
+#474# Mały generator tarczy
+#475# Centrum stacji
+#476# Sekcja boczna stacji
+#477# Moduł inżynierii stacji
+#478# Kontener ładunku stacji
+#479# Zbiornik stacji
+#480# Przejdź do wyznaczonego portu dokowania
+#481# Oczekiwanie na wolny port dokowania
+#482# Pozycja w kolejce
+#483# Twój aktywny statek powinien być zadokowany w stoczni
+#484# Moduł sprzedany
+#485# Moduł
+#486# sprzedany za
+#487# Moduł kupiony za
+#488# Laser wydobywczy wyłączony
+#489# Brak wolnego miejsca dla zasobu
+#490# Wybierz obiekt i spróbuj ponownie
+#491# Misja udana
+#492# Otrzymano CR
+#493# Nie zadokowano do statku
+#494# Dostępna nowa misja
+#495# Stacja
+#496# Za mało CR
+#497# Cena
+#498# Misja nieudana
+#499# Słaby sygnał
+#500# Zawróć statek do układu gwiezdnego albo sygnał zostatnie utracony za 60 sekund
+#501# Zgubiono sygnał
+#502# Statek zaginął w przestrzeni poza układem gwiezdnym
+#503# Pozycja środka ciągu względem środka masy
+#504# Napęd Warp deaktywowany
+#505# Za mało mocy
+#506# Wyrzutnia torped
+#507# Typ
+#508# Promień planety
+#509# Promień atmosfery
+#510# Promień sfery wpływów
+#511# Masa
+#512# Okres orbitalny
+#513# Faza orbitalna
+#514# Promień orbity
+#515# Naprawa
+#516# Moduł nie jest uszkodzony
+#517# Wybierz moduł do naprawy
+#518# Reputacja
 #519# This is your ship
 
 Hold right mouse button and drag the mouse to rotate a view
