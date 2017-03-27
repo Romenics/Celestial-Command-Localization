@@ -625,3 +625,17 @@ If you will need additional information, check the guide from community.
 #557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
 
 Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
+#558# Display damaged modules
+#559# Temporarily display hit points for damaged modules on the active ship
+#560# Right click
+#561# Cancel
+#562# Left click
+#563# Repair
+#564# Target objects delivered to destination point
+#565# Target objects is not grabbed with a grabber
+#566# Target objects have low relative velocity with the destination point
+#567# Target objects is not attached to any ship
+#568# Destroy the target
+#569# Stabilize orbit
+#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
+Manual control will deactivate this mode.
