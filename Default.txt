@@ -531,8 +531,8 @@ You may rotate your ship with the A and D keys. Try to gently rotate your ship c
 #525# Automatic stabilization is very useful if you want to stop your ship's rotation. Activate the stabilizator by pressing the highlighted button or its hotkey (R).
 #526# While the stabilizer is active, it will automatically use the ship's engines to stop any rotation of the ship.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consume liquid hydrogen. Your current amount of liquid hydrogen is displayed on screen (as highligthed by the arrow).
-#527# While active, the rotation stabilizer will counteract all rotation, even when you don't really need it to do so. Because this uses the ship's engines, having the stabilizer on increases the consumption of fuel. So, it may be useful to disable stabilizer whenever you don't need it.
+However, make note, that your fuel is limited. These basic maneuvering engines consume liquid hydrogen. Your current amount of liquid hydrogen is displayed on screen (as highlighted by the arrow).
+#527# While active, the rotation stabilizer will counteract all rotation, even when you don't really need to. Because this uses the ship's engines, having the stabilizer on increases the consumption of fuel. So, it may be useful to disable the stabilizer whenever you don't need it.
 
 Disable the stabilizer by pressing its hotkey (R).
 #528# Now try to move your ship a little, using keys W S Q E to move it forward, backward, left and right.
@@ -558,16 +558,16 @@ Once you approach, decelerate your ship until the yellow arrow becomes very shor
 
 Approach the selected target and stop your ship near it.
 #535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
+#536# Move your ship to highlighted asteroid.
 #537# You're getting the hang of this! One more time!
 
 Move your ship to the highlighted asteroid.
 #538# Perfect! Now you know how to approach nearby objects.
 #539# Now let's mine some resources in order to sell them and earn credits.
 
-Your ship is already equipped with a mining laser. In order to activate it, select the mining laser and press the "Toggle" button in the appeared window.
+Your ship is already equipped with a mining laser. In order to activate it, select the mining laser and press the "Toggle" button in the window.
 
-Note that an active mining laser consumes energy which is displayed in right-top corner of the screen, so deactivate the laser when it is not directed towards an asteroid.
+Note that an active mining laser consumes energy which is displayed in right-top corner of the screen, so deactivate the laser when it is not facing an asteroid.
 
 Now mine a nearby asteroid using the mining laser and gather some resources.
 #540# During mining, you will see an indicator which shows the laser's current yield.
@@ -575,10 +575,10 @@ Note, the closer the mining laser gets to the asteroid, the more effective it be
 
 Now open the cargo interface.
 #541# In this mode you may see the contents of any storage container on your ship.
-Here you see the ship's fuel, energy and gathered resources.
+Here you see the ship's fuel, energy, and gathered resources.
 
-You may move resources from one container to another by drag and drop. Right now this is not neccesary, so just disable the cargo interface again.
-#542# A new space station just arrived in the star system.
+You may move resources from one container to another by dragging and dropping. Right now this is not neccesary, so just disable the cargo interface again.
+#542# A new space station has just arrived in the star system.
 
 Let's dock with the station and refuel the ship.
 Select the highlighted space station.
@@ -625,7 +625,7 @@ Also you may press "Show range" in order to see your cannon's effective range.
 If you need additional information, be sure to check the community guide.
 #557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from asteroids, and sell them on any nearby trading station.
 
-Modify your ship on the shipyard and complete missions in order to improve your reputation and get an access to new modules.
+Modify your ship on the shipyard and complete missions in order to improve your reputation and get access to new modules.
 #558# Display damaged modules
 #559# Temporarily display hit points for damaged modules on the active ship
 #560# Right click
