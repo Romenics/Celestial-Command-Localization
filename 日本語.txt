@@ -446,9 +446,9 @@
 #443#サーバー一覧
 #444#コマンドモジュール
 #445#構造部品
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
+#446# ちさい Thruster 
+#447# ちさい Thruster 2
+#448# ちさい Cube
 #449# Cargo Container 4
 #450# Connection to server lost
 #451# Main menu
