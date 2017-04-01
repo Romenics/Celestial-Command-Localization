@@ -520,24 +520,24 @@
 #516# Moduł nie jest uszkodzony
 #517# Wybierz moduł do naprawy
 #518# Reputacja
-#519# This is your ship
+#519# To jest twój statek
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+Przytrzymaj prawy przycisk myszy i przeciągnij, aby obrócić widok
+#520# Możesz przesunąć widok trzymając wciśnięty środkowy przycisk myszy i przesuwając
+#521# Użyj rolki, aby przybliżyć lub oddalić
+#522# Możesz przywrócić domyślne ustawienia widoku wciskając podświetlony przycisk
+#523# Teraz trochę na temat poruszania
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+Możesz obrócić statek klawiszami A i D. Spróbuj obrócić swój statek trochę w lewo i w prawo.
+#524# Zauważ, że twój statek znajduje się w próżni, nie zachodzi tarcie, więc zachowa swoją prędkość liniową i kątową dopóki nie zostanie zatrzymany ręcznie.
+#525# Stabilizacja automatyczna jest bardzo pomocna, jeśli chcesz zatrzymać obracanie się swojego statku. Uaktywnij stabilizator wciskając podświetlony przycisk albo skrót klawiszowy
+#526# Gdy stabilizator jest aktywny, automatycznie używa silników do zatrzymania obrotu statku.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+Pamiętaj, że ilość paliwa jest ograniczona. Te proste silniki manewrujące zużywają ciekły wodór. Aktualna ilość ciekłego wodoru wyświetlona jest na ekranie (oznaczona strzałką)
+#527# Gdy stabilizator jest aktywny, zatrzyma obrót za kadym razem, nawet gdy tego tak na prawdę nie potrzebujesz i zwiększy to zużycie paliwa. Przydatnym może się więc okazać wyłączenie stabilizatora, gdy go nie potrzebujesz.
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
+Wyłącz stabilizator wciskając skrót klawiszowy R.
+#528# Teraz spróbuj poruszać swoim statkiem używając klawiszy W S Q E do przodu, wstecz, w lewo i w prawo.
 #529# Now zoom out a camera and observe a nearest planet and its surroindings.
 
 You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
