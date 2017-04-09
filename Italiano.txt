@@ -441,7 +441,7 @@
 #439# Scoperto server
 #440# Direct IP Collegamento 
 #441# lista di aggiornamento dei server
-#442# Refresh
+#442# Aggiorna
 #443# dei server
 #444# moduli di comando
 #445# componenti strutturali
@@ -450,9 +450,9 @@
 #448# Small Cube
 #449# Cargo Container 4
 #450# Connection to server lost
-#451# Main menu
-#452# Thrust
-#453# Auto mode
+#451# Menu principale
+#452# Spinta
+#453# Auto modalita
 #454# Limit max thrust
 #455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
 #456# When enabled, this engine will be controlled automatically by WASDQE keys.
