@@ -538,33 +538,33 @@ Pamiętaj, że ilość paliwa jest ograniczona. Te proste silniki manewrujące z
 
 Wyłącz stabilizator wciskając skrót klawiszowy R.
 #528# Teraz spróbuj poruszać swoim statkiem używając klawiszy W S Q E do przodu, wstecz, w lewo i w prawo.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+#529# Teraz oddal kamerę i obserwuj najbliższą planetę i jej otoczenie.
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+Pewnie zauważyłeś, że twój statek nie pozostaje w jednym miejscu. Statek porusza się po orbicie wokół planety.
+#530# Pomimo całej mechaniki, poruszanie w grze jest znacznie prostsze niż w prawdziwym świecie.
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+Spróbujmy podlecieć do najbliszej asteroidy.
+Wybierz podświetloną asteroidę klikając myszą.
+#531# Teraz wyświetl prędkość względną
+#532# Gdy to narzędzie jest aktywne i wybrałeś obiekty, zobaczysz dwie strzałki w okolicy swojego statku.
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+Biała strzałka - kierunek do wybranego celu
+Pomarańczowa strzałka - wektor prędkości twojego statku względem wybranego obiektu
+#533# Teraz, aby osiągnąć wybrany cel, zacznij poruszać statek w kierunku celu.
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+Musisz wyrównać pomarańczową strzałkę w tym samym kierunku, co biała strzałka.
+#534# Dobrze. Gdy strzałki są wyrównane, oznacza to, że twój statek podąża prosto do celu.
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+Pilnuj odległości od celu. Nie rozbij się.
+Gdy już podejdziesz, zmniejsz prędkość statku aż żółta strzałka stanie się bardzo krótka. Będzie to oznaczało, że twoja prędkość względną jest prawie zerowa.
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+Osiągnij wybrany cel i zatrzymaj swój statek w pobliżu.
+#535# Dobrze. Spróbujmy jeszcze raz z inną asteroidą.
+#536# Doleć statkiem do podświetlonej asteroidy.
+#537# I jeszcze raz.
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
+Doleć statkiem do podświetlonej asteroidy.
+#538# Doskonale! Teraz już wiesz jak dolecieć do obiektów znajdujących się niezbyt daleko od twojego statku.
 #539# Now let's mine some resources in order to sell it and earn credits.
 
 Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
