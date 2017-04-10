@@ -602,3 +602,26 @@ Modify your ship on the shipyard and perform a missions in order to improve your
 #569# Stabilize orbit
 #570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
 Manual control will deactivate this mode.
+#571# Angular range
+#572# Turn rate
+#573# Max range
+#574# Manual control
+#575# Automatic mode
+#576# Attack debris
+#577# Attack rockets
+#578# deg
+#579# deg/s
+#580# Sell module
+#581# CR
+#582# Module damaged, price is reduced
+#583# Base price
+#584# Select module to sell
+#585# Damage
+#586# Explosion radius
+#587# Fire delay
+#588# Recoil force
+#589# kN
+#590# DPS
+#591# Range
+#592# s
+#593# min
