@@ -1,4 +1,4 @@
-﻿
+
 #0# Gra jednoosobowa
 #1# Gra wieloosobowa
 #2# Opcje
@@ -565,33 +565,33 @@ Osiągnij wybrany cel i zatrzymaj swój statek w pobliżu.
 
 Doleć statkiem do podświetlonej asteroidy.
 #538# Doskonale! Teraz już wiesz jak dolecieć do obiektów znajdujących się niezbyt daleko od twojego statku.
-#539# Now let's mine some resources in order to sell it and earn credits.
+#539# Wydobądźmy teraz trochę surowców, aby je sprzedać.
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+Twój statek jest już wyposażony w laser wydobywczy. Aby go aktywować, wybierz laser wydobywczy i wciśnij "Przełącz" w oknie, które się pojawi.
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+Zauważ, że laser wydobywczy zużywa energię, która wyświetlona jest w prawym-górnym rogu ekranu, wyłączaj więc laser, gdy nie jest skierowany w asteroidę.
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+Spróbuj teraz przy pomocy lasera wydobyć trochę surowców z pobliskiej asteroidy.
+#540# Podczas wydobycia zobaczysz wskaźnik wydajności.
+Zauważ, że im wydobywczy laser jest bliżej asteroidy, tym jest bardziej efektywny.
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+Otwórz teraz interfejs ładunku.
+#541# W tym trybie możesz zobaczyć zawartość dowolnego magazynu w twoim statku.
+Tutaj możesz zobaczyć paliwo, energię i zebrany kruszec.
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+Możesz przemieścić zasoby z jednego kontenera do drugiego przeciągając i upuszczając. Nie jest to jednak teraz istotne, wyłącz więc interfejs ładunku.
+#542# Do systemu gwiezdnego przybyła właśnie nowa stacja kosmiczna.
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+Zadokujmy do stacji i zatankujmy statek.
+Wybierz podświetloną stację kosmiczną.
+#543# Poproś o pozwolenie na dokowanie
+#544# Stacja zarezerwuje dla twojego statku wolny port dokowania.
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+Podejdź do wyznaczonego portu dokowania i ostrożnie zetknij się z nim portem dokowania twojego statku.
+#545# Teraz otwórz interfejs handlu
+#546# W oknie tym zlokalizuj "Wodór", wciśnij "Kup", a potem zaznacz wybraną ilość, na przykład 10 i potwierdź zamówienie.
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
+Możesz tutaj również sprzedać zebrane zasoby. Spróbuj, a gdy skończysz - wciśnij "Dalej".
 #547# Now let's test a weapon
 
 Your ship don't have a weapon, so you need to extend your ship.
