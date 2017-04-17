@@ -502,226 +502,231 @@
 #500# 驾驶舰船返回星系，否则信号将在60秒内消失
 #501# 信号消失
 #502# 舰船迷失在星系外的深空
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
-#506# Torpedo Launcher
-#507# Type
-#508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
-#519# This is your ship
+#503#位置中心的推力相对于中心的质量
+#504#翘曲驱动的停用
+#505#没有足够的力量
+#506#鱼雷发射器
+#507#类型
+#508#地球半径
+#509#氛围半径
+#510#影响范围的半径
+#511#质量
+#512#轨道周期
+#513#轨道的阶段
+#514#轨道半径
+#515#修复
+#516#模块是不是被损坏
+#517#选择模块来修理
+#518#声誉
+#519#这是你的船
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+住右键和拖鼠标旋转图
+#520#你可以泛的视图通过按鼠标按钮和拖鼠
+#521#用老鼠滚轮缩放
+#522#你可以重置视为默认的位置，按强调了按钮
+#523#现在有关移动
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+你可以转动你的船通过键A和D尝试转动你的船有点左右。
+#524#请注意，你的船位于真空中没有空气摩擦，因此它将保留其linier和角速度unil你将会停止。
+#525#自动稳定是非常有用的，如果你想要停止转动你的船。 激活stabilizator按highlitted按钮或其键
+#526#而稳定是积极的，它将自动使用一个引擎停止转动的船舶。
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+然而，请注意，你的燃料是有限的。 这些基本的机动引擎占用的液氢。 你的电流量的luquid氢显示在屏幕上(highligther箭头)
+#527#而stabilzier是积极的，它将停止转动机失败，甚至如果你真的不需要它，这将增加消耗的燃料。 因此，它可能是有用的禁用stabilizrer如果你不需要它。
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+禁止stbilizer按R热键。
+#528#现在尝试移动你的船有点使用钥匙W S Q E移动它前进，向后，向左右。
+#529#现在缩小的一个照相机，并观察了最近的星球及其surroindings的。
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+你probabli注意到你的船不是停留在一个地方。 船上旋转的轨道上围绕星球。
+#530#尽管该轨道的机械师，在这个游戏、运动是更简单比在现实世界。
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+让我们试图接近附近的小行星。
+选择highclickted小行星的鼠标点击。
+#531#现在显示的相对速度
+#532#虽然这种工具的主动和你已经选择了一个对象，你会看到的两个箭头靠近你的船舶。
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+白色的箭方向选择的目标
+Orrange箭速度矢量的你的船相对于所选择的目标
+#533#现在，为了做法，选定的目标，开始移动你的船朝一个目标。
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+你需要调整orrange箭相同的方向白色的箭头。
+#534#好的。 一旦两个箭头对准，这意味着你的船舶移动的权利朝向该目标。
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+眼睛保持在距离目标。 不粉碎成。
+一旦你将做法，减速，你的船直到黄色的箭会变得非常短。 这将意味着你的相对速度几乎是零。
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+方法的选定目标，并停止你的船靠近它。
+#535#好的。 让我们再试一次为另一个小行星。
+#536#移动你的船亮的小行星。
+#537#以及一个更多的时间。
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+移动你的船要强调的小行星。
+#538#完美的！ 现在你知道如何办法的对象，其中位于不太远离你的船舶。
+#539#现在我是我的一些资源，以出售并赚取信贷。
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+你的船已经配备了一个开采的激光。 为了激活它时，选择采矿激，并按下按钮"拨"在出现的窗口。
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+注意到采矿激光器消耗的能量，是显示在右上角的画面，所以脱离的激光，同时它不向在一个小行星。
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+现在我附近的一个小行星使用的激光和采矿收集一些资源。
+#540#在采矿，你会看到一个指标，显示一种输出。
+注意，近挖掘激光器对小行星，它更有效。
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+现在打开货物的接口。
+#541#在这种模式下，你可以看到一个内容的任何储存在你的船。
+在这里你可以看到一个燃料、能源和收集矿石。
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+你可以将资源从一个容器到另一个拖放。 但它不是必要用于现在，因此只是禁止的货物的接口。
+#542#新空间站刚刚抵达的星系统。
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+我们与加油站和船舶。
+选择强调了空间站。
+#543#请求的权限于对接
+#544#站将保留一个免费接口你的船。
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+方法指定的接口，并准确地触摸它你自己的停靠港口的船舶。
+#545#现在开放的贸易小组
+#546#在这个窗口，找到一个线"的氢"并按"买入"，在那之后，选择所需的金额，例如10，并确认订单的。
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+此外，您可以在这里卖收集了资源。 试试按下时它将完成。
+#547#现在让我们来测试一种武器
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+你的船没有武器，所以你需要延长你的船舶。
+以后，你将能够构建模块，使用工程湾，但现在你可以购买新的模块站上。
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+选择站和新闻"造船厂"按钮。
+#548#在出现的菜单中选择一个塔的平台。
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+你会看到一个安装点上你的船。 地方一个塔的任何地方在这里你想要的。
+#549#现在选择的一门大炮的列表并附加上你的炮塔。
+#550#好的。 为了使用大炮，你需要一个弹药。
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+购买弹药从车站使用"交易"的按钮。
+#551#后你买了一个弹药，你应该将你的大炮到储存在它应该采取一种弹药。
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+打开一个资源连接管理。
+#552#在这个模式中，你会看到的一条线代表一个流动的资源。
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+许多设备应conencted以储存，以便工作。 发动机应该接到燃料箱。 护盾发生器应该连接到电源的存储等。
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+现在连接大炮容器与弹药的拖线从灰色的斑点的容器中。
+#553#现在你可以脱离站。
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+为了移除，选择你的对接口，按一个按钮在其控制面板。
+#554#炮台可以手动操作，或者你可以自动激活模式。
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+让我们来试试一个手动控制。
+选择转台和新闻"的手动控制"。
+你也可以按"显示的范围内"为了使界面。
+#555#试着做几个测试镜头，并按下一步。
+#556#你完成基础教程。
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+如果你将需要的额外信息，请查阅该指南从社区。
+#557#你已经抵达了星系统，你有一个小的采矿船，一个小氢的燃料罐，这足以为一个航班到最近的小行星和车站。 用你的挖掘激光聚集资源从一个小行星，并把它卖在最近的交易站。
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Display damaged modules
-#559# Temporarily display hit points for damaged modules on the active ship
-#560# Right click
-#561# Cancel
-#562# Left click
-#563# Repair
-#564# Target objects delivered to destination point
-#565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
-#567# Target objects is not attached to any ship
-#568# Destroy the target
-#569# Stabilize orbit
-#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
-Manual control will deactivate this mode.
-#571# Angular range
-#572# Turn rate
-#573# Max range
-#574# Manual control
-#575# Automatic mode
-#576# Attack debris
-#577# Attack rockets
-#578# deg
-#579# deg/s
-#580# Sell module
-#581# CR
-#582# Module damaged, price is reduced
-#583# Base price
-#584# Select module to sell
-#585# Damage
-#586# Explosion radius
-#587# Fire delay
-#588# Recoil force
-#589# kN
-#590# DPS
-#591# Range
-#592# s
-#593# min
-#594# Ammo
-#595# Deconstruct
-#596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+修改船在船厂和执行特派团为了改进你的声誉和获得新的模块。
+#558#显示，损坏的模块
+#559#暂时显示击中点为损坏的模块上活动的船
+#560#权击
+#561#取消
+#562#左击
+#563#修复
+#564#目标对象传送到目的地点
+#565#目标对象不是抓住了一个采集
+#566#目标对象具有较低的相对速度的目的地点
+#567#目标对象不附加任何船
+#568#摧毁目标
+#569#稳定的轨道
+#570#活动驾驶仪，这将自动保持环形轨道上围绕一个行星或恒星，即使该船将会受到外部力量。
+手动控制，将关闭这个模式。
+#571#角度范围内
+#572#转率
+#573#最大范围
+#574#手动控制
+#575#自动模式
+#576#攻击碎片
+#577#火箭攻击
+#578#度
+#579#度/s
+#580#卖模块
+#581#CR
+#582#模块的损坏，价格降低
+#583#基的价格
+#584#选择模块卖掉
+#585#伤害
+#586#爆炸半径
+#587#火延时
+#588#反冲力
+#589#kN
+#590#DPS
+#591#范围
+#592#s
+#593#分钟
+#594#弹药
+#595#解构
+#596#构造
+#597#这个模块的装备与工业3D打印机和无人驾驶飞机允许建造新的模块，使用各种资源。
+#598#为了建立。 确保资源的连接点连接容器盛装适当的资源。
+#599#能够提取有用的资源，从小行星。 也可用作接近范围的武器。
+#600#它会自动卸货中提取的资源进入适当的容器上的船舶。
+#601#能够生长的植物食品的船员。 需要的能源来操作。
+#602#这种装置能够融冰和使用过程中的电解分获得水分子在两个氢原子和一个原子的氧气，这是可以作为一个推进剂和助燃剂一反应的引擎。
+#603#基础的平台的武器。 能旋转的附着武器在不同方向，在某些角度。
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+可以控制的手动或自动模式。
+在自动模式，它会自动攻击指定目标。
+#604#最武器应放在这个模块。
+#605#重要的模块，该模块可以让你与其他人船只或一站，特别是如果他们是属于其他派别。
+#606#可以让你轻易地检测并选择各种对象，在规定的范围。 特别是有用的，如果你需要检测小型对象（如碎片或小的小行星。
+#607#简单的结构的一部分。
+#608#可以被用作一种储存用于固体资源。
+#609#消耗铀而产生的能量。
+#610#产生的能量时板上的指示一个明星。
+#611#效率取决于距离和角度，为一个明星。
+#612#容器，它可以存储的任何液体或气体，例如燃料的一个引擎。
+#613#允许收集空间碎片和自动改进到可用的材料。
+#614#容器可以储存固体货物，例如矿石、弹药或食物。
+#615#液压臂这使得抓住各种空间物体，如小行星、碎屑或其他船舶。
+#616#这种装置能够以创建一个球体或椭圆体自己周围，这将保护的船舶从任何损害。
+#617#消耗的能量而激活。
 
-Consumes additional energy for blocked unit of damage.
+消耗额外的能源用于阻止单元的损坏。
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+大小的保护领域可以改变的。 能源消耗依赖于大小。
+#618#这种装置能够以这些方向射线的引力波的可能推动一个具体的目的在特定的方向。
+#619#当活跃，将一个物体内的白圈使用鼠标左键，以便将它们在任何方向。
+#620#允许建造一艘船与转动部件。
+#621#允许建造的船舶可移动的零部件。
+#622#化学发动机的创造力推力因燃烧氧气和氢气燃烧室和排出的燃烧产物，我们离喷嘴。
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+为了工作，应当连接的油箱与氧气和氢气。
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+氢作为燃料以及氧气作为氧化剂。
+#623#允许转船只使用一种能源。
+#624#这个发动机需要氙气和电力。 其优势相比，化学引擎，它要求非常少量的燃料，但是具有低得多的推力。 因此，它能够连续工作期间长时间
+#625#简单和廉价的机动引擎，推动加压氢。
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+为了工作，应该可以连接到燃料罐，其中包含有氢。
+#626#一种装置，这种装置能够以在经一个空间周围的船舶，它允许的旅行的速度远远快于光速。
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+它可以用在一个星系统瞬间从一个点到另一个。
+#627#移动，每个对象，其内部位于一个经领域
 
-Size of warp field can be changed
+尺寸的扭曲的领域可以改变的
 
-Energy consumption depends on size of warp field
+能源消耗量取决于大的经领域
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+如果经领域将发生碰撞的东西，这将是不稳定和跳将被中止。
+#628#应连接到电源的储存
+#629#应连接到储存的火箭
+#630#应连接到储存的弹药
+#631#能够启动自我指导鱼雷。
+鱼雷将目标对象是选定的期间推出。
+如果没有对象的选择、鱼雷将在非制导模式。
+#632#能够启动非制导导弹率高的火灾
+#633#包含能产生的反应或者太阳能电池板。 任何装置，它需要的权力应该连接到它
+#634#控制中心的任何船舶，其中包括命令的桥梁，主要计算机和资源分配枢纽
+#635#建立点
+#636#下一个级别
+#637#需要信誉

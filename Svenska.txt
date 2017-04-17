@@ -445,283 +445,288 @@
 #443# Servrar lista
 #444# Kommando moduler
 #445# Strukturella komponenter
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
+#446# Liten Propeller 
+#447# Liten Propeller 2
+#448# Kub Liten
 #449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
-#452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
-#465# Tutorial
-#466# Single-player
+#450# Anslutningen till servern förlorade
+#451# huvudmenyn
+#452# Dragkraft
+#453# Auto-läge
+#454# Gräns max dragkraft
+#455# Aktivera motorn manuellt. Du kan tilldela upp till 3 olika snabbtangenter för denna åtgärd.
+#456#, När de är aktiverade, att denna motor kommer att styras automatiskt av WASDQE nycklar.
+#457# motorns dragkraft kommer inte att överstiga det angivna värdet. Detta är användbart om du vill anpassa din "center of stack" med "masscentrum" för att undvika oönskade kurs avvikelse under rörelse.
+#458# Köp Pris
+#459# Sälja Pris
+#460# Efterfrågan Förhållande
+#461# Arc-anslutningarna
+#462# Kompensera FPS
+#463# Invertera X-axeln
+#464# Invertera Y-axeln
+#465# Handledning
+#466# spelare
 #467# Multi-player
-#468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
-#472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
-#475# Station Hub
-#476# Station Side Section
+#468# Belastning
+#469# Max mining priser
+#470# Aktivering tid
+#471# Max räckvidd
+#472# Max skada
+#473# strömförbrukning
+#474# Lilla Shield Generator
+#475# Hub Station
+#476# Station Sida Avsnitt
 #477# Station Engineering Bay
 #478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
-#485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
+#479# Station Lagringstankar
+#480# Fortsätta att särskilt för port
+#481# Väntar ett ledigt för port
+#482# Ställning i kö
+#483# Din aktiva fartyget bör vara dockad till varvet
+#484# Modul som säljs
+#485# Modul
+#486# säljs för
+#487# Module köpte för
+#488# Gruv-laser funktionshindrade
+#489# Ingen gratis lagringsutrymme för resurs
+#490# Välj ett objekt och försök igen
+#491# Uppdrag slutfört
+#492# CR fått
+#493# Inte dockad med fartyget
+#494# Nya uppdrag tillgängligt
 #495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
-#506# Torpedo Launcher
-#507# Type
-#508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
-#519# This is your ship
+#496# Inte tillräckligt CR
+#497# Pris
+#498# Uppdrag som misslyckades
+#499# Låg signal
+#500# Avkastning fartyget tillbaka till star systemet eller den signal som kommer att vara förlorade i 60 sekunder
+#501# Signal förlorade
+#502# fartyget förlorade i rymden utanför stjärnor
+#503# Läge i centrum av dragkraft i förhållande till masscentrum
+#504# Warp drive avaktiverat
+#505# Inte tillräckligt med ström
+#506# Torped Launcher
+#507# Typ
+#508# Planet radie
+#509# Atmosfär radie
+#510# inflytande radie
+#511# Vikt
+#512# Omloppstid
+#513# Orbital fas
+#514# Bana radie
+#515# Reparation
+#516# Modulen inte skadas
+#517# Välj modul för att reparera
+#518# Rykte
+#519# det Här är ditt skepp
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+Håll ned höger musknapp och dra musen för att rotera en vy
+#520# Du kan panorera visa genom att trycka på och hålla mitt mus-knappen och dra musen
+#521# Använd mushjulet för att zooma
+#522# Du kan återställ vy till standard position genom att trycka på markerade knappen
+#523# Nu om rörelse
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+Du kan rotera ditt skepp av tangenterna A och D. Försök att rotera ditt skepp lite vänster och höger.
+#524# Observera att fartyg som ligger i vakuum, det finns ingen luft friktion, så det kommer att hålla sin linier och vinkelhastighet unil du stoppa den manuellt.
+#525# Automatisk stabilisering är mycket användbart om du vill stoppa rotationen av din båt. Aktivera stabilizator genom att trycka highlitted knappen eller dess hotkey
+#526# Samtidigt som stabilisator är aktiv, kommer det automatiskt att använda en motor för att stoppa rotationen av fartyget.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+Observera dock, att din bränsle är begränsad. Dessa grundläggande manövrering motorer förbrukar flytande väte. Din nuvarande mängden av luquid vätgas som visas på skärmen (highligther med pilen)
+#527# stabilzier är aktiv, kommer det att sluta rotation varje gång, även om du inte verkligen behöver det, detta kommer att öka förbrukningen av bränsle. så det kan vara bra att inaktivera stabilizrer om du inte behöver det.
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+Inaktivera stbilizer genom att trycka på R-kortkommando.
+#528# prova Nu att flytta ditt skepp lite hjälp av knapparna W S F E för att flytta den framåt, bakåt, vänster och höger.
+#529# Nu zooma ut en kamera, och observera närmaste planeten och dess surroindings.
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+Du probabli märkt att ditt skepp är inte stanna på ett ställe. Fartyget roterar i omloppsbana runt planeten.
+#530#, Trots orbital mekaniker, i det här spelet, rörelse är mycket enklare än i verkliga världen.
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+Låt oss försöka att närma sig i närheten asteroid.
+Välj highclickted asteroid genom att klicka med musen.
+#531# Nu visa relativa hastigheten
+#532#, Medan verktyget är aktivt och du har valt ett objekt, kommer du att se två pilar nära ditt skepp.
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+Vit pil - riktning till utvalda mål
+Orrange pil - hastighetsvektorn i ditt skepp i förhållande till valt mål
+#533# Nu, för att närma sig till valda mål att börja flytta ditt skepp mot ett mål.
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+Du behöver för att anpassa orrange pil med samma riktning som vita pilen.
+#534# Bra. När två pilar anpassade, det innebär att ditt fartyg rör sig mot målet.
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+Hålla ett öga på avståndet till målet. Krossa inte till det.
+När du kommer fram, bromsa ditt skepp tills gul pil wil blev mycket kort. Det innebär att din relativa hastigheten är nästan noll.
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+Förhållningssätt till valda mål och stoppa fartyg i närheten av det.
+#535# Bra. Låt oss försöka igen för en asteroid.
+#536# Flytta ditt skepp för att highlighter asteroid.
+#537# Och en gång till.
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+Flytta ditt skepp till markerade asteroid.
+#538# Perfekta! Nu vet du hur man förhållningssätt till objekt som ligger inte alltför långt från ditt skepp.
+#539# låt oss Nu min del resurser i syfte att sälja det och tjäna poäng.
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+Ditt skepp är redan utrustade med en gruv-laser. För att aktivera det, välj gruv-laser och tryck på knappen "Växla" dök upp i fönstret.
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+Observera att gruvdrift laser förbrukar en energi som visas i högra övre hörnet på skärmen, så att lösgöra en laser även om det inte är riktad på en asteroid.
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+Nu mitt i närheten asteroid med gruv-laser och samla några resurser.
+#540# Under gruvdrift, kommer du att se en indikator som visar en utgång.
+Obs, närmare gruv-laser för att asteroid, desto mer effektiv.
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+Nu öppnar en last gränssnitt.
+#541# I detta läge kan du se ett innehåll av lagring på ditt skepp.
+Här kan du se ett bränsle, energi och samlade malm.
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+Du kan flytta resurser från en behållare till en annan genom att dra och släppa. Men det är inte nödvändigt för nu, så det är bara att stänga av en last gränssnitt.
+#542# New rymdstationen just anlänt i-stjärnigt systemet.
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+Låt oss docka med stationen och tanka ett fartyg.
+Välj ett markerat utrymme station.
+#543# Begära tillstånd för
+#544# stationen kommer att boka en gratis dockningsport för ditt skepp.
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+Strategi för att särskilt för port och exakt touch det med ditt eget för-port på ditt skepp.
+#545# Nu öppen handel panel
+#546# I detta fönster, leta upp en linje "Väte" och tryck på "Köp", välj sedan önskat belopp, till exempel 10 och bekräftar en beställning.
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+Även här kan du sälja samlade resurser. Prova och tryck på nästa när det kommer att ske.
+#547# låt oss Nu testa ett vapen
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+Ditt skepp inte har ett vapen, så du behöver förlänga ditt skepp.
+Senare kommer du att kunna bygga moduler med tekniska bay, men för nu kan du köpa nya moduler på stationen.
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+Välj kanalen och tryck på "Varvet" - knappen.
+#548# dök upp I menyn, välj ett torn plattform.
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+Du kommer att se en fästpunkter på ditt skepp. Placera ett torn någonstans där du vill.
+#549# välj Nu en kanon från listan och fäst den på toppen av ditt torn.
+#550# Bra. För att använda en kanon, du behöver en ammo.
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+Köpa ammunition från stationen med hjälp av "Handel" - knappen.
+#551# Efter att du köpt en ammo, bör du ansluta din kanon till den förvaring där det ska ta en ammo.
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+Öppna en resurs connection manager.
+#552# I detta läge kommer du att se en linje som representerar ett flöde av resurser.
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+Många enheter bör vara conencted till förråd för att arbeta. Motorer ska vara ansluten till bränsletankar. Sköld generatorer bör vara kopplade till makt förråd etc.
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+Anslut nu en kanon för att behållare med ammunition genom att dra och släppa linjen från grå prick till behållaren.
+#553# Nu kan du koppla från stationen.
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+För att koppla från väljer du för din port och tryck på a-knappen i kontrollpanelen.
+#554# Torn kan manövreras manuellt eller så kan du aktivera det automatiska läget.
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+Låt oss prova en manuell kontroll.
+Välj ett torn och tryck på "Manuell kontroll".
+Också kan du trycka på "Visa utbud" för att aktivera gränssnittet.
+#555# Prova att göra flera test skott och tryck på nästa.
+#556# Du har genomfört grundläggande handledning.
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+Om du behöver ytterligare information, kolla guiden från gemenskapen.
+#557# Du har kommit i star system, du har en liten gruvdrift fartyget, lite vätgas i tankarna, vilket är tillräckligt för en flygning till närmaste asteroider och stationer. Använda din gruvdrift laser för att samla resurser från en asteroider, och sälja det på en närmast trading station.
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Display damaged modules
-#559# Temporarily display hit points for damaged modules on the active ship
-#560# Right click
-#561# Cancel
-#562# Left click
-#563# Repair
-#564# Target objects delivered to destination point
-#565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
-#567# Target objects is not attached to any ship
-#568# Destroy the target
-#569# Stabilize orbit
-#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
-Manual control will deactivate this mode.
-#571# Angular range
-#572# Turn rate
-#573# Max range
-#574# Manual control
-#575# Automatic mode
-#576# Attack debris
-#577# Attack rockets
-#578# deg
-#579# deg/s
-#580# Sell module
+Ändra ditt fartyg på varvet och utföra ett uppdrag för att förbättra ditt rykte och få tillgång till nya moduler.
+#558# Visa skadad moduler
+#559# Tillfälligt visa träffar poäng för skadade moduler på aktiva fartyg
+#560# högerklicka
+#561# Avbryt
+#562# Vänster klicka
+#563# Reparation
+#564# Mål objekt levereras till destinationen
+#565# målobjekt inte tog med en grabber
+#566# Target-objekt har en låg relativ hastighet med destination
+#567# målobjekt är inte knuten till ett fartyg,
+#568# Förstöra målet
+#569# Stabilisera bana
+#570# Aktivera autopilot som kommer att automatiskt hålla cirkulär omloppsbana runt en planet eller stjärna, även om fartyget kommer att påverkas av yttre krafter.
+Manuell kontroll kommer att avaktivera detta läge.
+#571# Kantiga sortiment
+#572# Aktivera ränta
+#573# Max räckvidd
+#574# Manuell kontroll
+#575# Automatisk läge
+#576# Attack skräp
+#577# Attack raketer
+#578# ° 
+#579# ° /s
+#580# Buy modul
 #581# CR
-#582# Module damaged, price is reduced
-#583# Base price
-#584# Select module to sell
-#585# Damage
-#586# Explosion radius
-#587# Fire delay
-#588# Recoil force
+#582# Modulen skadad, priset är nedsatt
+#583# Bas pris
+#584# Välj modul för att sälja
+#585# Skada
+#586# explosionsradie
+#587# Brand dröjsmål
+#588# Rekyl kraft
 #589# kN
-#590# DPS
-#591# Range
+#590# UP
+#591# Sortiment
 #592# s
 #593# min
-#594# Ammo
-#595# Deconstruct
-#596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+#594# Ammunition
+#595# Dekonstruerar
+#596# Konstruera
+#597# Denna modul är utrustade med industriell 3D-skrivare och drönare som gör det möjligt att bygga nya moduler med olika resurser.
+#598# för att bygga. se till att resource anslutningspunkter som är anslutna till behållare med lämplig resurs.
+#599# Kapabel att utvinna användbara resurser från asteroider. Kan också användas som nära håll vapen.
+#600# Det kommer automatiskt ta bort extraherade resurser i lämplig behållare på fartyget.
+#601# i Stånd att odla växter mat för en besättning. Kräver energi för att fungera.
+#602# enheten är kapabel att smälta isen och med hjälp av den process av elektrolys split fått vatten molekyler med två atomer väte och en atom syre som kan användas som drivmedel och oxidationsmedel för en reaktiv motorer.
+#603# Bas plattform för vapen. Möjlighet att rotera den bifogade vapen i olika riktningar inom vissa vinklar.
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+Kan styras manuellt eller i automatiskt läge.
+I det automatiska läget kommer automatiskt att attackera angivna målen.
+#604# de Flesta vapen bör placeras på denna modul.
+#605# Viktig modul som gör att du kan docka med andra fartyg eller ett stationer, särskilt om de tillhör andra fraktioner.
+#606# Kan du enkelt identifiera och välja olika objekt inom angivet intervall. Särskilt användbart om du behöver för att detektera små objekt som skräp eller små asteroider.
+#607# Enkel strukturell del.
+#608# Kan användas som lagringsplats för fasta resurser.
+#609# Förbrukar uran och genererar energi.
+#610# Genererar energi när panelerna riktas mot en stjärna.
+#611# Effektivitet beror på avstånd och vinkel till en stjärna.
+#612# Container som kan lagra vätska eller en gas som bränsle för motorer.
+#613# Gör det möjligt att samla in skräp från rymden och automatiskt förfina den till användbart material.
+#614# Container som kan lagra fasta gods, såsom malm, ammunition eller mat.
+#615# Hydraulisk arm som gör det möjligt att ta tag i olika objekt i rymden, som asteroider, skräp eller andra fartyg.
+#616# den Här enheten är i stånd att skapa en sfär eller ellipsoid omkring sig som kommer att skydda fartyget från skador.
+#617# Förbrukar energi när den är aktiv.
 
-Consumes additional energy for blocked unit of damage.
+Förbrukar mer energi för blockerade enhet av skador.
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+Storlek skyddande fält kan ändras. Energiförbrukningen beror på storlek.
+#618# enheten är kapabel att släppa ut riktad stråle av gravitation vågor som kan driva ett specifikt objekt i viss riktning.
+#619# När den är aktiv, dra ett objekt i den vita cirkeln med hjälp av vänster musknapp för att flytta dem i valfri riktning.
+#620# Gör det möjligt att bygga ett fartyg med vridbara delar.
+#621# Gör det möjligt att bygga ett fartyg med rörliga delar.
+#622# Kemiska motor som skapar dragkraft på grund av förbränning av syre och väte i förbränningskammaren och avgassystem förbränning produkter våra ur munstycket.
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+För att arbetet ska vara ansluten till bränsletankar med syre och väte.
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+Vätgas som bränsle och syre som oxidationsmedel.
+#623# Gör det möjligt att rotera ett skepp med hjälp av endast en energi.
+#624# Denna motor kräver xenon gas och elektrisk kraft. Dess fördel jämfört med kemiska motorer är att det kräver väldigt liten mängd bränsle, men har ett mycket lägre dragkraft. Som ett resultat, det är kapabla att kontinuerligt arbete under lång tid
+#625# billig och Enkel att manövrera motorn som driver trycksatt vätgas.
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+För att arbetet ska vara ansluten till tank som innehåller väte.
+#626# En enhet som är kapabel att tänja en plats runt ett fartyg som gör det möjligt att resa med en hastighet mycket snabbare än ljusets hastighet.
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+Det kan användas inom en stjärna system för omedelbar resa från en punkt till en annan.
+#627# Flyttar varje objekt som ligger innanför en varp fält
 
-Size of warp field can be changed
+Storleken på warp fält kan ändras
 
-Energy consumption depends on size of warp field
+Energiförbrukningen beror på storleken av varp fält
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+Om varpen området kommer att kollidera med något, det kommer att vara dåligt skick och hoppa kommer att avbrytas.
+#628# Bör vara kopplade till makt förvaring
+#629# Ska vara ansluten till lagring med raketer
+#630# Ska vara ansluten till lagring med ammo
+#631# Kapabla att starta egen guidad torped.
+En torped kommer att vara inriktade på objekt som valts under lanseringen.
+Om inga objekt markerade, torped kommer att lanseras i ostyrd läge.
+#632# Kapabel att lansera ostyrda missiler med hög eldhastighet
+#633# Innehåller energi som genereras av reaktorer eller solpaneler. Någon enhet som kräver att makten ska vara ansluten till det
+#634# control center för alla fartyg, som innehåller kommandot bridge, huvuddator och resursfördelning nav
+#635# Bygga poäng
+#636# Nästa nivå
+#637# Krävs rykte

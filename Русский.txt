@@ -666,62 +666,67 @@
 #594# Ammo
 #595# Deconstruct
 #596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+#597# этот модуль оснащен промышленные 3D-принтеры и беспилотные летательные аппараты, которые позволяет создавать новые модули, используя различные ресурсы.
+#598# для того, чтобы построить. убедитесь, что точки подключения ресурсов, подключенный к емкости с соответствующего ресурса.
+#599# способных добывать полезные ресурсы с астероидов. Также может быть использован в качестве оружия ближнего боя.
+#600# она будет автоматически выгружать добытые ресурсы в подходящий контейнер на корабле.
+#601# способному выращивать растительную пищу для членов экипажа. Требует энергии для работы.
+#602# это устройство способно растопить лед и с помощью процесса электролиза, полученных разделить молекулы воды на два атома водорода и один атом кислорода, который может быть использован в качестве топлива и окислителя в реактивных двигателях.
+Базовая Платформа #603# для оружия. Способен вращать добавленные оружие в разных направлениях в пределах определенных углов.
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+Могут управляться вручную или в автоматическом режиме.
+В автоматическом режиме он будет автоматически атаковать указанные цели.
+#604# большинство оружия должны быть размещены на данном модуле.
+#605# важный модуль, который позволяет состыковать с другими кораблями или станциями, особенно если они принадлежат к другой фракции.
+#606# позволяет легко обнаруживать и выделять различные объекты в пределах указанного диапазона. Особенно полезно, если вам нужно обнаружить небольшие объекты, такие как мусор или мелкие астероиды.
+#607# простой структурной части.
+#608# может быть использован в качестве хранилища для твердых ресурсов.
+#609# потребляет урана и генерирует энергию.
+#610# генерирует энергию, когда панели направлены на звезду.
+#611# эффективность зависит от расстояния и угла к звезде.
+#612# контейнер, который может хранить любые жидкости или газа, как топлива для двигателей.
+#613# позволяет собрать мусор из космоса и автоматически перерабатывать в полезные материалы.
+#614# контейнер, который может хранить твердых грузов, таких как руда, патроны или еду.
+#615# гидравлический рычаг, который позволяет захватывать различные объекты в космосе, таких как астероиды, мусор или другие корабли.
+#616# этот прибор способен создать сферу или эллипсоид вокруг себя, которые будут охранять судно от любых повреждений.
+#617# потребляет энергию.
 
-Consumes additional energy for blocked unit of damage.
+Потребляет дополнительную энергию для заблокированных единицу урона.
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+Размер защитного поля можно изменить. Потребление энергии зависит от размера.
+#618# это устройство способно излучать направленный луч гравитационных волн, которые могут подтолкнуть конкретного объекта в определенном направлении.
+#619# когда активный, перетаскивать объекты внутри белого круга, используя левую кнопку мыши, чтобы переместить их в любом направлении.
+#620# позволяет построить корабль с вращающимися деталями.
+#621# позволяет построить корабль с подвижными деталями.
+#622# химический двигатель, который создает тягу из-за сгорания кислорода и водорода в камеру сгорания и отвода продуктов сгорания из сопла.
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+Для того, чтобы работать, должен быть подключен к топливные баки с кислородом и водородом.
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+Водорода в качестве горючего и кислород в качестве окислителя.
+#623# позволяет вращать корабль, используя только энергию.
+#624# этот двигатель требует Ксеноновые газа и электроэнергии. Его преимущество по сравнению с химическими двигателями является то, что она требует очень небольшое количество топлива, однако имеет гораздо меньшую тягу. В результате, он способен работать непрерывно в течение длительного времени
+#625# простой и дешевый маневрируя двигателем, который толкает сжатый водород.
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+Для того, чтобы работать, должен быть подключен к топливному Баку, который содержит водород.
+Устройство #626# а, которая способна деформироваться пространство вокруг корабля, которая позволяет путешествовать со скоростью быстрее, чем скорость света.
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+Он может быть использован в звездную систему для мгновенного перемещения из одной точки в другую.
+#627# движется каждый объект, который находится внутри варп-поля
 
-Size of warp field can be changed
+Размер варп поле может быть изменено
 
-Energy consumption depends on size of warp field
+Потребление энергии зависит от размера варп поле
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+Если варп поле столкнутся с чем-то, она будет дестабилизирована и прыгать будет прервана.
+#628# должен быть подключен к хранению энергии
+#629# должен быть подключен к хранилищу с ракетами
+#630# должны быть подключены к хранилищу с аммо
+#631# способной запустить самонаводящиеся торпеды.
+Торпедо будут направлены на объект, который был выбран во время запуска.
+Если нет выбранных объектов, Торпедо будет запущен в неуправляемый режим.
+#632# способной запустить неуправляемые ракеты с высокой скорострельностью
+#633# содержит энергию, вырабатываемую реакторы или солнечные батареи. Любое устройство, требующее питания должен быть подключен к нему
+#634# центр управления любого судна, которая включает в себя командный мостик, главный компьютер и распределения ресурсов ступицы
+#635# точки сборки
+#636# следующий уровень
+#637# необходима Репутация

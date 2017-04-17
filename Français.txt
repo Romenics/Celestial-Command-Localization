@@ -444,283 +444,287 @@
 #443# Liste des serveurs
 #444# Modules de commande
 #445# Composants structurels
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
-#449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
-#452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
-#465# Tutorial
-#466# Single-player
-#467# Multi-player
+#446# Petit Propulseur 
+#447# Petit Propulseur 2
+#448# Petit Cube
+#449# Conteneur De Fret 4
+#450# Connexion au serveur perdue
+#451# menu Principal
+#452# Poussée
+#453# mode Auto
+#454# Limite max de poussée
+#455# Activer le moteur manuellement. Vous pouvez attribuer jusqu'à 3 touches de raccourci pour cette action.
+#456# Lorsque activé, ce moteur est commandée automatiquement par WASDQE clés.
+#457# La poussée du moteur ne pourra pas dépasser la valeur spécifiée. Ceci est utile si vous souhaitez aligner votre "centre de poussée" par "centre de masse" afin d'éviter tout écart de route pendant le mouvement.
+#458# Acheter Prix
+#459# Prix De Vente
+#460# Demande En Rapport
+#461# Arc connecteurs
+#462# Compenser les FPS
+#463# Inverser l'axe des X
+#464# Inverser l'axe Y
+#465# Tutoriel
+#466# solo
+#467# Multi-joueur
 #468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
-#472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
+#469# Max taux d'extraction
+#470# temps d'Activation
+#471# Max
+#472# Max de dégâts
+#473# consommation d'Énergie
+#474# Petit Générateur De BouclierN ° 
 #475# Station Hub
-#476# Station Side Section
-#477# Station Engineering Bay
-#478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
+#476# Station De Côté
+#477# Station D'Ingénierie De La Baie
+#478# Station De Conteneurs De Fret
+#479# Station De Réservoirs De Stockage
+#480# Passez à l'désignés port d'accueil
+#481# Attente pour un gratuit port d'accueil
+#482# Position dans la file d'attente
+#483# Votre vaisseau actif doit être ancrée sur le chantier
+#484# Module vendu
 #485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
+#486# vendu pour
+#487# Module acheté pour
+#488# laser Minier désactivé
+#489# Pas d'espace de stockage gratuit pour les ressources
+#490# Sélectionnez un objet et essayez à nouveau
+#491# Mission terminée
+#492# CR reçu
+#493# Non coupée avec le navire
+#494# Nouvelle mission disponible
 #495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
-#506# Torpedo Launcher
+#496# Pas assez de CR
+#497# Prix
+#498# Mission a échoué
+#499# signal Faible
+#500# Retourne le bateau de retour à star-system ou le signal est perdu dans les 60 secondes
+#501# perte du Signal
+#502# Le vaisseau perdu dans l'espace à l'extérieur du star système
+#503# Position du centre de poussée par rapport au centre de masse
+#504# Warp drive désactivé
+#505# Pas assez de puissance
+#506# Lanceur De Torpilles
 #507# Type
-#508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
-#519# This is your ship
+#508# Planète de rayon
+#509# Atmosphère rayon
+#510# Sphère de rayon d'influence
+#511# Masse
+#512# période Orbitale
+#513# Orbital de la phase
+#514# Orbite de rayon
+#515# Réparation
+#516# Module n'est pas endommagé
+#517# Sélectionnez le module de réparation
+#518# Réputation
+#519# Ceci est votre navire
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+Maintenez le bouton droit de la souris et faites glisser la souris pour faire pivoter la caméra
+#520# Vous pouvez effectuer un panoramique de l'appareil photo par un cliquer-glisser le bouton central de la souris
+#521# Utilisez votre souris à molette pour zoomer
+#522# Vous pouvez réinitialiser l'appareil en appuyant sur le bouton en surbrillance
+#523# Maintenant, concernant le mouvement:
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+Vous pouvez faire tourner votre vaisseau avec les touches A et D. Essayez doucement tourner votre vaisseau dans le sens horaire et dans le sens antihoraire.
+#524# Notez que votre vaisseau est situé dans un vide. Dans l'espace, il n'y a pas de frottement de l'air, de sorte que votre navire va garder son liniar et de la vitesse angulaire jusqu'à ce que vous l'arrêtiez manuellement.
+#525# stabilisation Automatique est très utile si vous souhaitez arrêter votre rotation du vaisseau. Activer le stabilizator en appuyant sur le bouton en surbrillance ou son raccourci (R).
+#526# Tandis que le stabilisateur est actif, il va automatiquement utiliser les moteurs du bateau à l'arrêt de la rotation du navire.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+Toutefois, prenez note que votre carburant est limité. Ces manœuvres moteur consomme de l'hydrogène liquide. Votre montant actuel de l'hydrogène liquide est affiché sur l'écran (comme highligthed par la flèche).
+#527# lorsqu'il est actif, la rotation stabilisateur permet de compenser la rotation, même lorsque vous n'avez pas vraiment besoin de le faire. Parce qu'il utilise les moteurs du bateau, ayant le stabilisateur sur l'augmentation de la consommation de carburant. Donc, il peut être utile de désactiver le stabilisateur chaque fois que vous n'en avez pas besoin.
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+Désactiver le stabilisateur en appuyant sur la touche de raccourci (R).
+#528# Maintenant, essayez de déplacer votre vaisseau un peu, à l'aide des touches W S Q E pour aller de l'avant, arrière, gauche et droite.
+#529# Maintenant un zoom arrière et d'observer la planète la plus proche et de ses environs.
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+Maintenant, vous avez probablement remarqué que votre vaisseau ne pas rester dans un seul endroit. Le vaisseau en orbite autour de la planète voisine.
+#530# en Dépit de la mécanique orbitale dans ce jeu, le mouvement est ici beaucoup plus simple que dans le monde réel.
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+Essayons d'approcher la proximité de l'astéroïde.
+Sélectionnez-le en surbrillance astéroïde en cliquant dessus.
+#531# Maintenant, affichage de la vitesse relative.
+#532# Avec une vitesse relative active, et que vous avez sélectionné un objet, vous allez voir deux flèches à proximité de votre navire.
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+Flèche blanche - direction de l'objet sélectionné
+Flèche Orange - vecteur vitesse de votre bateau par rapport à l'objet sélectionné
+#533# Maintenant, afin d'approcher votre cible, de commencer à déplacer votre vaisseau.
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+Vous devez aligner la flèche orange et la flèche blanche.
+#534# Bonne. Ayant les deux flèches aligné signifie que votre vaisseau se déplace tout droit en direction de la cible.
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+Gardez un œil sur la distance et la vitesse relative à votre cible. Ne pas s'écraser sur elle.
+Une fois que vous vous approchez, ralentissez votre navire jusqu'à ce que la flèche jaune devient très courte. Cela signifie que votre vitesse relative est presque à zéro.
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+L'approche de la cible sélectionnée et d'arrêter votre navire près d'elle.
+#535# Bonne. Essayez encore une fois pour un autre astéroïde.
+#536# Déplacer votre vaisseau pour le marqueur de l'astéroïde.
+#537# Vous êtes l'obtention le coup de cela! Une fois de plus!
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+Déplacez votre vaisseau à l'souligné l'astéroïde.
+#538# Parfait! Maintenant, vous savez comment aborder les objets à proximité.
+#539# Maintenant, nous allons mine de certaines ressources dans le but de les vendre et de gagner des crédits.
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+Votre navire est déjà équipé d'un laser minier. Pour l'activer, sélectionnez le laser minier et appuyez sur le bouton "Basculer" dans la fenêtre qui apparaît.
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+Note qu'un laser minier, consomme de l'énergie qui est affiché dans le coin supérieur droit de l'écran pour désactiver le laser quand il n'est pas dirigé vers un astéroïde.
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+Maintenant la mienne, à proximité de l'astéroïde à l'aide de l'exploration de laser et de recueillir certaines ressources.
+#540# au Cours de l'extraction, vous verrez un indicateur qui montre le laser rendement courant.
+Remarque, plus le laser minier, obtient de l'astéroïde, le plus efficace, il devient.
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+Maintenant, ouvrez le fret de l'interface.
+#541# Dans ce mode, vous pouvez voir le contenu de n'importe quel conteneur de stockage sur votre bateau.
+Ici, vous voyez le navire du carburant, de l'énergie et des ressources collectées.
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+Vous pouvez transférer des ressources d'un récipient à l'autre par glisser-déposer. Droit maintenant, ce n'est pas nécessaire, il suffit donc de désactiver la cargaison à nouveau à l'interface.
+#542# Une nouvelle station spatiale vient d'arriver dans le système d'étoile.
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+Laissez quai de la gare et de ravitailler le navire.
+Sélectionnez-le en surbrillance la station spatiale.
+#543# Demande d'autorisation pour l'amarrage.
+#544# La station vous réserve un gratuit port d'amarrage pour votre bateau.
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+Approche désignés port d'amarrage et avec précision le toucher avec votre propre bateau du port d'amarrage.
+#545# Maintenant, ouvrez le panneau de négociation.
+#546# Dans cette fenêtre, recherchez la ligne "Hydrogène" et appuyez sur "Acheter". Après cela, sélectionnez la quantité désirée (par exemple 10) et de confirmer votre commande.
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+Aussi, vous pouvez vendre des ressources collectées. Essayez de vendre votre extrait de minerais, et appuyez sur next (suivant) lorsque c'est terminé.
+#547# Maintenant, nous allons tester une arme!
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+Votre navire ne dispose pas d'une arme, donc vous avez besoin pour développer votre navire.
+Plus tard, vous serez en mesure de construire des modules de vous-même, mais pour l'instant vous pouvez acheter de nouveaux modules de la station spatiale.
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+Sélectionnez la station et appuyez sur le "chantier Naval". Une accumulation de menu apparaîtra.
+#548# Dans le menu générer, sélectionnez une tourelle de la plate-forme.
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+Vous verrez un certain nombre de points de fixation de votre navire. Placer une tourelle n'importe où sur votre bateau, où vous voulez.
+#549# Maintenant, sélectionnez un coup de canon dans le menu générer et fixer sur le dessus de votre tourelle.
+#550# Bonne. Pour utiliser un canon, vous avez besoin de munitions.
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+Acheter des munitions à partir de la station en utilisant le "Commerce".
+#551# Après avoir acheté des munitions, vous devez vous connecter votre canon pour le conteneur de stockage de la tenue de vos munitions.
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+Ouvrir la ressource gestionnaire de connexion.
+#552# Dans ce mode, vous verrez des lignes qui représentent un flux de ressources.
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+De nombreux appareils doivent être connectés à des conteneurs de stockage, afin de travailler. Les moteurs doivent être reliés à des réservoirs de carburant. Générateurs de bouclier doit être connecté à l'alimentation des caves etc.
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+Maintenant, connectez votre canon pour le conteneur avec des munitions en tirant une ligne entre votre canon et les munitions de stockage. Commencez au point gris sur votre canon, puis déplacer vers le conteneur.
+#553# Maintenant, vous pouvez détacher de la gare.
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+Afin de la détacher, sélectionnez votre port d'accueil et appuyez sur accueil pour activer et désactiver le son panneau de contrôle.
+#554# Tourelles peuvent être actionnées manuellement ou vous pouvez activer le mode automatique.
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+Nous allons essayer de la commande manuelle.
+Sélectionnez une tourelle et appuyez sur "commande Manuelle".
+Aussi, vous pouvez appuyer sur le bouton "Afficher la plage" afin de voir votre canon effectif de gamme.
+#555# Essayez de faire plusieurs essais de prise de vue et appuyez sur suivant.
+#556# Félicitation! Vous avez terminé le tutoriel de base.
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+Si vous avez besoin d'informations supplémentaires, consultez le guide des collectivités.
+#557# Vous êtes arrivés dans le star système, vous avez un petit navire minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers la plus proche des astéroïdes et des stations. Utilisez votre laser minier de rassembler des ressources d'astéroïdes, et de les vendre sur toute proximité de la négociation de la station.
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Display damaged modules
-#559# Temporarily display hit points for damaged modules on the active ship
-#560# Right click
-#561# Cancel
-#562# Left click
-#563# Repair
-#564# Target objects delivered to destination point
-#565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
-#567# Target objects is not attached to any ship
-#568# Destroy the target
-#569# Stabilize orbit
-#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
-Manual control will deactivate this mode.
-#571# Angular range
-#572# Turn rate
-#573# Max range
-#574# Manual control
-#575# Automatic mode
-#576# Attack debris
-#577# Attack rockets
+Modifier votre vaisseau sur le chantier et des missions complètes dans le but d'améliorer votre réputation et obtenir un accès à de nouveaux modules.
+#558# Afficher les modules endommagés
+#559# Temporairement l'affichage des points de vie pour les modules endommagés sur le vaisseau actif
+#560# clic Droit
+#561# Annuler
+#562# clic Gauche
+#563# Réparation
+#564# Cible objets livrés à un point de destination
+#565# objets Cible n'est pas saisi avec une pince
+#566# Cible les objets ont une faible vitesse relative avec le point de destination
+#567# objets Cible n'est pas attaché à un navire
+#568# Détruire la cible
+#569# Stabiliser orbite
+#570# Activer le pilote automatique qui maintient automatiquement une orbite circulaire autour d'une planète ou d'une étoile, même si le navire est affecté par des forces externes.
+Manuel de contrôle de désactiver ce mode.
+#571# plage Angulaire
+#572# taux de Virage
+#573# Max
+#574# contrôle Manuel
+#575# mode Automatique
+#576# Attaque débris
+#577# Attaque de roquettes
 #578# deg
 #579# deg/s
-#580# Sell module
+#580# Vendre module
 #581# CR
-#582# Module damaged, price is reduced
-#583# Base price
-#584# Select module to sell
-#585# Damage
+#582# Module endommagé, le prix est réduit
+#583# prix de Base
+#584# Sélectionnez le module à vendre
+#585# Dommage
 #586# Explosion radius
-#587# Fire delay
-#588# Recoil force
+#587# Incendie retard
+#588# Recul de la force
 #589# kN
 #590# DPS
-#591# Range
+#591# Plage
 #592# s
 #593# min
-#594# Ammo
-#595# Deconstruct
-#596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+#594# Munitions
+#595# Déconstruire
+#596# Construction
+#597# Ce module équipé avec des imprimantes 3D et les drones, ce qui permet la construction de nouveaux modules à l'aide de diverses ressources.
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+#600# Il sera automatiquement décharger des ressources extraites dans des conteneurs sur le navire.
+#601# Capables de cultiver des plantes alimentaires pour les membres de l'équipage. Nécessite de l'énergie pour fonctionner.
+#602# Cet appareil est capable de faire fondre la glace et en utilisant le procédé de l'électrolyse split obtenu des molécules d'eau sur les deux atomes d'hydrogène et d'un atome d'oxygène qui peut être utilisé comme carburant et le comburant pour un réactif de moteurs.
+#603# plate-forme de Base pour les armes. Capable de faire tourner le joint d'armes dans des directions différentes au sein de certains angles.
 
-Consumes additional energy for blocked unit of damage.
+Peut être contrôlé manuellement ou en mode automatique.
+En mode automatique, il sera automatiquement attaquer des cibles précisées.
+#604# la Plupart des armes doit être placé sur ce module.
+#605# Important module qui vous permet de quai avec d'autres navires ou d'une des stations, en particulier s'ils appartiennent à d'autres factions.
+#606# vous Permet de détecter et de sélectionner les différents objets à l'intérieur de la plage spécifiée. Particulièrement utile si vous avez besoin de détecter les petits objets comme des débris ou de petits astéroïdes.
+#607# Simple partie structurelle.
+#608# Peut être utilisé comme un stockage de solides ressources.
+#609# Consomme de l'uranium et génère de l'énergie.
+#610# Génère de l'énergie lorsque les panneaux dirigé sur une étoile.
+#611# Efficacité dépend de la distance et de l'angle d'une étoile.
+#612# Container qui peut stocker un liquide ou d'un gaz, tels que le carburant pour les moteurs.
+#613# Permet de collecter les débris de l'espace et automatiquement affiner dans les matériels utilisables.
+#614# Container qui peut stocker des cargaisons solides, tels que des minerais, de munitions ou de la nourriture.
+#615# bras Hydraulique qui permet de saisir divers objets dans l'espace, tels que des astéroïdes, des débris ou d'autres navires.
+#616# Cet appareil est capable de créer une sphère ou ellipsoïde autour de lui, ce qui permettra de protéger le navire contre tout dommage.
+#617# Consomme de l'énergie lorsqu'elle est active.
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+Consomme de l'énergie supplémentaire pour le blocage de l'unité de dommages.
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+La taille du champ de protection peut être changé. La consommation d'énergie dépend de la taille.
+#618# Cet appareil est capable d'émettre directionnelle ray des ondes gravitationnelles qui peut pousser un objet spécifique en direction spécifique.
+#619# Lorsqu'il est activé, faites glisser l'un des objets à l'intérieur du cercle blanc à l'aide de bouton gauche de la souris pour les déplacer dans n'importe quelle direction.
+#620# Permet de construire un bateau avec des pièces rotatives.
+#621# Permet de construire un bateau avec des parties mobiles.
+#622# Chimique moteur qui crée la poussée due à la combustion de l'oxygène et de l'hydrogène dans la chambre de combustion et d'échappement de la combustion des produits de notre de la buse.
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+Pour fonctionner, doit être connecté à des réservoirs de carburant, de l'oxygène et de l'hydrogène.
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+L'hydrogène utilisé comme combustible et de l'oxygène comme oxydant.
+#623# Permet la rotation d'un navire en utilisant uniquement l'énergie.
+#624# Ce moteur nécessite le xenon gaz et de l'électricité. Son avantage par rapport à des moteurs chimiques, c'est qu'il ne nécessite que très peu de carburant, cependant, est beaucoup moins poussée. En conséquence, il est capable à travailler sans interruption pendant longtemps
+#625# Simple et bon marché de manœuvre moteur qui pousse sous pression d'hydrogène.
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+Pour fonctionner, doit être raccordée au réservoir de carburant qui contient de l'hydrogène.
+#626# Un appareil capable de déformer un espace autour d'un navire qui permet de voyager avec une vitesse beaucoup plus rapide que la vitesse de la lumière.
 
-Size of warp field can be changed
+Il peut être utilisé dans un système d'étoiles pour voyager instantanément d'un point à un autre.
+#627# se Déplace chaque objet situé à l'intérieur d'un champ de force
 
-Energy consumption depends on size of warp field
+La taille de la courbure de champ peut être modifié
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+La consommation d'énergie dépend de la taille de la courbure de champ
+
+Si la courbure de champ va entrer en collision avec quelque chose, il sera déstabilisé et saut sera annulée.
+#628# Doit être connecté à l'alimentation de stockage
+#629# Devez être connecté pour stockage avec des roquettes
+#630# Devez être connecté pour stockage avec des munitions
+#631# Capables de lancer l'auto-guidée de la torpille.
+Torpille sera ciblée dans l'objet qui a été sélectionné lors du lancement.
+Si aucun objet sélectionné, torpille sera lancé en unguided mode.
+#632# Capables de lancer des missiles non guidés avec un taux élevé d'incendie
+#633# Contient de l'énergie produite par les réacteurs ou des panneaux solaires. Tout appareil qui nécessite une alimentation doit être connecté
+#634# Le centre de contrôle de tout navire, qui comprend la passerelle de commandement, de l'ordinateur principal et l'allocation des ressources hub
+#635# accumuler des points
+#636# niveau Suivant
+#637# de réputation Requis

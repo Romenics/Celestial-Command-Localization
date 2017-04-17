@@ -440,283 +440,290 @@
 #443# seznamu Servery
 #444# příkazů moduly
 #445# Konstrukční prvky
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
-#449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
-#452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
+ЯндексПереводчик
+
+#446# Malých Trysek 
+#447# Malé Trysky 2
+#448# Malá Kostka
+#449# Nákladní Kontejner 4
+#450# Spojení se serverem bylo ztraceno
+#451# Hlavní menu
+#452# Tah
+#453# Auto režim
+#454# Limit max tah
+#455# Aktivovat motor ručně. Můžete přiřadit až 3 různé klávesové zkratky pro tuto akci.
+#456# Pokud je zapnuto, tento motor bude řízen automaticky pomocí WASDQE klíče.
+#457# tahu motoru nepřekročí stanovenou hodnotu. To je užitečné, pokud chcete sladit svůj "center thrust" s "těžiště", aby se zabránilo nežádoucí odchylky od kurzu při pohybu.
+#458# Koupit Cena
+#459# Prodejní Cena
+#460# Poměr Poptávky
+#461# Oblouku konektory
+#462# Kompenzovat FPS
+#463# Invertovat osa X
+#464# Invertovat Y osu
 #465# Tutorial
 #466# Single-player
 #467# Multi-player
-#468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
+#468# Zatížení
+#469# Max rychlost těžby
+#470# čas Aktivace
+#471# Max rozsah
 #472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
-#475# Station Hub
-#476# Station Side Section
-#477# Station Engineering Bay
-#478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
-#485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
+#473# spotřeba Energie
+#474# Malý Generátor Štítu
+#475# Stanici Hub
+#476# Stanici Boční Části
+#477# Stanici Strojovnu
+#478# Stanici Nákladní Kontejner
+#479# Stanice, Skladovací Nádrže
+#480# přesunou do dokovací port
+#481# Čekání na volný dokovací port
+#482# Pozici ve frontě
+#483# aktivní loď by měla být ukotven do loděnice
+#484# Modul prodal
+#485# Modul
+#486# prodán za
+#487# Modul koupil
+#488# Mining laser zdravotně postižené
+#489# Žádný volný úložný prostor pro zdroj
+#490# Vyberte objekt a zkuste to znovu
+#491# Mise dokončena
+#492# CR obdržela
+#493# Ne kotví s lodí
+#494# Nové mise k dispozici
 #495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
+#496# nestačí ČR
+#497# Cena
+#498# Mise selhala
+#499# Nízký signál
+#500# Vrátit loď zpět do hvězdného systému nebo dojde ke ztrátě signálu v 60 sekund
+#501# Signál ztratil
+#502# lodi ztracené ve vesmíru mimo hvězdný systém
+#503# Pozice centra síly vzhledem k těžišti
+#504# Warp pohon deaktivován
+#505# Není dostatek energie
 #506# Torpedo Launcher
-#507# Type
-#508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
-#519# This is your ship
+#507# Typ
+#508# poloměr Planety
+#509# Atmosféra poloměr
+#510# Sféry vlivu poloměru
+#511# Hmoty
+#512# Orbitální období
+#513# Orbitální fáze
+#514# oběžné Dráze poloměru
+#515# Opravy
+#516# Module není poškozen
+#517# Vyberte modul opravit
+#518# Pověst
+#519# Toto je vaše loď
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+Podržte pravé tlačítko myši a přetažením myši otočit pohled
+#520# můžete posouvat zobrazení stiskněte a podržte prostřední tlačítko myši a táhněte myší
+#521# Použijte kolečko myši pro zoom
+#522# můžete obnovit zobrazení do výchozí polohy stisknutím zvýrazněného tlačítka
+#523# Teď o pohybu
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+Můžete otáčet své lodi pomocí kláves a a D. se Snaží otočit loď trochu doleva a doprava.
+#524# Všimněte si, že vaše loď nachází ve vakuu, tam není žádný odpor vzduchu, tak to bude udržet jeho linier a úhlové rychlosti unil budete zastavit ručně.
+#525# Automatické stabilizace je velmi užitečné, pokud chcete zastavit rotaci lodi. Aktivovat stabilizator stisknutím highlitted tlačítko nebo jeho zkratku
+#526#, Zatímco je aktivní stabilizátor, to bude automaticky používat motory zastavit rotaci lodi.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+Nicméně, aby na vědomí, že palivo je omezená. Tyto základní manévrovací motory spotřebuje kapalný vodík. Vaše aktuální množství luquid vodíku zobrazí na obrazovce (highligther šipkou)
+#527#, Zatímco stabilzier je aktivní, bude to zastavit rotaci pokaždé, i když nemáte opravdu potřebujete, tím se zvýší spotřeba paliva. takže by to mohlo být užitečné zakázat stabilizrer, pokud nepotřebujete to.
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+Zakázat stbilizer stisknutím R klávesové zkratky.
+#528# Nyní se snaží přesunout své lodi trochu pomocí kláves W, S, Q, E se přesunout dopředu, dozadu, doleva a doprava.
+#529# Teď oddálit kameru a pozorovat nejbližší planetu a její surroindings.
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+Ty probabli si všimli, že vaše loď není zůstat na jednom místě. Loď se otáčí na oběžné dráze kolem planety.
+#530# Navzdory orbitální mechanik, v této hře, pohyb je mnohem jednodušší, než v reálném světě.
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+Zkusme přístup do okolních asteroidů.
+Vyberte highclickted asteroid pomocí myši klepněte na tlačítko.
+#531# Nyní zobrazují relativní rychlost
+#532#, Zatímco tento nástroj je aktivní a jste vybrali objekty, uvidíte dvě šipky v blízkosti vaší lodi.
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+Bílá šipka - směrem k vybrané cílové
+Orrange šipka - vektor rychlosti lodi vzhledem k vybrané cílové
+#533#, aby se přístup k vybrané cílové, začnou pohybovat vaše loď k cíli.
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+Je třeba sladit orrange šipka se stejným směrem jako bílou šipkou.
+#534# Dobrý. Hned dvě šipky zarovnány, to znamená, že vaše loď se pohybuje přímo k cíli.
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+Dávat pozor na vzdálenost od cíle. Nedrťte.
+Jakmile se přiblíží, zpomalí se vaše loď, dokud se žlutá šipka wil se stal velmi krátké. To bude znamená, že relativní rychlost je téměř nulová.
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+Přístup k vybrané cílové a zastavit vaši loď poblíž.
+#535# Dobrý. Zkuste to znovu pro další asteroid.
+#536# Přesunout své lodi, aby zvýrazňovač asteroid.
+#537# A ještě jednou.
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+Přesunout své lodi, aby zdůraznila asteroid.
+#538# Perfektní! Nyní víte, jak přistupovat k objektům, které se nachází ne příliš daleko od vaší lodi.
+#539# Teď je moje některých zdrojů za účelem prodat a získat kredity.
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+Vaše loď již vybaveny důlní laser. Aby bylo možné aktivovat, vyberte mining laser a stiskněte tlačítko "Přepnout" v zobrazeném okně.
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+Všimněte si, že těžební laser spotřebuje energie, která je zobrazena v pravém horním rohu obrazovky, takže vypněte laser, i když to není zaměřena na asteroid.
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+Teď moje nedaleké planetky pomocí mining laser a sbírat některé zdroje.
+#540# Průběhu těžby, uvidíte ukazatel, který ukazuje výstupní.
+Všimněte si, že čím blíže mining laser asteroid, tím více je účinná.
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+Nyní otevřete nákladní rozhraní.
+#541# V tomto režimu můžete vidět obsah z jakéhokoli úložiště na vaší lodi.
+Tady můžete vidět paliva, energie a shromáždili rudy.
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+Můžete přesunout prostředky z jedné nádoby do druhé pomocí drag and drop. Ale to není nutné pro teď, takže stačí zakázat nákladní rozhraní.
+#542# Nové vesmírné stanice právě přijel do hvězdného systému.
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+Pojďme dock stanice a tankovací loď.
+Vyberte zvýrazněné prostoru stanice.
+#543# Žádost o povolení k přistání
+#544# stanici bude volná dokovací přístavu pro vaši loď.
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+Přístup k určenému dokovací port a přesně kontaktu s vlastní dokovací port vaší lodi.
+#545# Nyní otevřete panel obchodování
+#546# V tomto okně, vyhledejte řádek "Vodík" a stiskněte tlačítko "Koupit", poté zvolte požadovanou částku, například 10 a potvrdit objednávku.
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+Také zde můžete prodat, získané prostředky. Zkuste to a stiskněte tlačítko další, když to bude provedeno.
+#547# Nyní pojďme otestovat zbraň
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+Vaše loď nemá zbraň, takže budete muset rozšířit své lodi.
+Později budete moci postavit modulů pomocí engineering bay, ale teď si můžete koupit nové moduly na stanici.
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+Vyberte stanici a stiskněte tlačítko "Loděnice" tlačítko.
+#548# se objevil V nabídce, vyberte věže platformy.
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+Uvidíte montážní body na vaší lodi. Místo věže kdekoliv, kde chcete.
+#549# Nyní vyberte děla ze seznamu a připojte je na vrcholu své věže.
+#550# Dobrý. Aby bylo možné použít děla, budete potřebovat munici.
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+Koupit munice ze stanice pomocí "Obchod" tlačítko.
+#551# Poté, co jste si koupili munici, měli byste připojit vaše dělo na úložiště, kde je třeba vzít munici.
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+Otevřít zdrojů správce připojení.
+#552# V tomto režimu uvidíte linky, které představuje tok zdrojů.
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+Mnoho zařízení by měla být conencted na sklady aby se do práce. Motory by měly být připojeny do palivové nádrže. Generátory štítu by měl být připojen k napájení, sklady atd.
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+Nyní připojte dělo kontejner s municí pomocí drag and drop line z šedé tečky na kontejner.
+#553# Nyní můžete uvolnit z nádraží.
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+S cílem uvolnit, vyberte dokovací port a stiskněte tlačítko na jeho ovládacím panelu.
+#554# Věžičky mohou být ovládané ručně, nebo můžete aktivovat automatický režim.
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+Zkusme ruční ovládání.
+Vyberte věž a stiskněte tlačítko "Ruční ovládání".
+Také můžete stisknout tlačítko "Show range" s cílem umožnit rozhraní.
+#555# Pokusit se udělat několik zkušebních snímků a stiskněte tlačítko další.
+#556# Jste dokončili základní kurz.
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+Pokud budete potřebovat další informace, podívejte se na průvodce od společenství.
+#557# Jste dorazili v soustavě, máte malou těžební loď, trochu vodíku v palivových nádrží, což je dost pro let k nejbližším asteroidům a stanic. Používejte své těžební laser shromáždit zdroje z asteroidů, a prodávat to na nejbližší obchodní stanici.
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Display damaged modules
-#559# Temporarily display hit points for damaged modules on the active ship
-#560# Right click
-#561# Cancel
-#562# Left click
-#563# Repair
-#564# Target objects delivered to destination point
-#565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
-#567# Target objects is not attached to any ship
-#568# Destroy the target
-#569# Stabilize orbit
-#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
-Manual control will deactivate this mode.
-#571# Angular range
-#572# Turn rate
-#573# Max range
-#574# Manual control
-#575# Automatic mode
-#576# Attack debris
-#577# Attack rockets
-#578# deg
-#579# deg/s
-#580# Sell module
+Upravit vaši loď na loděnici a provádět mise s cílem zlepšit svou pověst a získat přístup na nové moduly.
+#558# Zobrazení poškozených modulů
+#559# Dočasně displej hit body pro poškozené moduly na aktivní loď
+#560# Pravým tlačítkem myši
+#561# Zrušit
+#562# klikněte Levým tlačítkem
+#563# Opravy
+#564# Cílové objekty doručena do místa určení
+#565# Cílové objekty není popadl s grabber
+#566# Cílové objekty mají nízkou relativní rychlost s cílového bodu
+#567# Cílové objekty není připojena na žádné lodi
+#568# Zničit cíl
+#569# Stabilizaci oběžné dráze
+#570# Aktivovat autopilota, který bude automaticky udržovat kruhovou oběžnou dráhu kolem planety nebo hvězdy, i když bude loď ovlivněny vnějšími silami.
+Ruční ovládání se deaktivuje tento režim.
+#571# Úhlový rozsah
+#572# rychlost otáčení
+#573# Max rozsah
+#574# Manuální ovládání
+#575# Automatický režim
+#576# Útok trosek
+#577# Útok rakety
+#578# °
+#579# stupňů/s
+#580# Prodat modul
 #581# CR
-#582# Module damaged, price is reduced
-#583# Base price
-#584# Select module to sell
-#585# Damage
-#586# Explosion radius
-#587# Fire delay
-#588# Recoil force
+#582# Module poškozen, cena je snížena
+#583# Základní cena
+#584# Vyberte modul prodat
+#585# Poškození
+#586# poloměr Výbuchu
+#587# Oheň zpoždění
+#588# Vratnou silou
 #589# kN
 #590# DPS
 #591# Range
 #592# s
 #593# min
-#594# Ammo
-#595# Deconstruct
+#594# Munice
+#595# Dekonstrukci
 #596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+#597# Tento modul vybaven průmyslové 3D tiskárny a bezpilotní letouny, které umožňuje vytvářet nové moduly, s použitím různých zdrojů.
+#598# Za účelem vybudování. ujistěte se, že zdroj přípojné body připojeny na nádoby s vhodným zdrojem.
+#599# Schopen extrahovat užitečné zdroje z asteroidů. Také může být použit jako zblízka zbraň.
+#600# To bude automaticky uvolnit vytěžených zdrojů do vhodného kontejneru na lodi.
+#601# Schopné růst rostlin, potravin pro členy posádky. Vyžaduje energii k provozu.
+#602# Tento přístroj je schopen roztavit led a pomocí procesu elektrolýzy rozdělit získané vodní molekuly na dva atomy vodíku a jeden atom kyslíku, který je může být použit jako palivo a okysličovadlo pro reaktivní motory.
+#603# Base platforma pro zbraně. Je schopen se otáčet připojené zbraně v různých směrech, v určitých úhlů.
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+Mohou být ovládány ručně nebo v automatickém režimu.
+V automatickém režimu bude automaticky útočit na určené cíle.
+#604# Většina zbraní by měly být umístěny na tomto modulu.
+#605# Důležité modul, který umožňuje dock s ostatními lodí, nebo stanic, a to zejména, pokud jsou majetkem jiných frakcí.
+#606# Umožňuje snadno detekovat a vybrat různé objekty ve specifikovaném rozsahu. Zvláště užitečné, pokud potřebujete detekovat malé objekty, jako jsou nečistoty nebo malé asteroidy.
+#607# Jednoduché konstrukční část.
+#608# Může být použit jako úložiště pro pevné zdrojů.
+#609# Spotřebuje uranu a generuje energii.
+#610# Generuje energii při panely zaměřena na hvězdu.
+#611# Účinnost závisí na vzdálenosti a úhlu hvězda.
+#612# Kontejner, který může uchovávat žádné kapaliny nebo plynu, jako paliva pro motory.
+#613# Umožňuje sbírat nečistoty z prostoru a automaticky přeměnit jej na využitelné materiály.
+#614# Kontejner, který může uchovávat solidní náklad, jako jsou rudy, munici nebo potraviny.
+#615# Hydraulickou rukou, která umožňuje, aby se chytit různé objekty ve vesmíru, jako jsou asteroidy, trosky nebo jiné lodě.
+#616# Toto zařízení je schopné vytvořit koule nebo elipsoidu kolem sebe, které chrání loď před poškozením.
+#617# Spotřebovává energii, zatímco aktivní.
 
-Consumes additional energy for blocked unit of damage.
+Spotřebovává další energii pro blokované jednotky poškození.
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+Velikost ochranné pole lze změnit. Spotřeba energie záleží na velikosti.
+#618# Toto zařízení je schopné emitovat směrový paprsek gravitační vlny, které mohou tlačit konkrétní předmět v konkrétní směr.
+#619#, Když je aktivní, přetáhněte objekty uvnitř bílého kruhu pomocí levé tlačítko myši, aby se přesunout je v libovolném směru.
+#620# Umožňuje postavit loď s otočnou částí.
+#621# Umožňuje postavit loď s pohyblivými částmi.
+#622# Chemických motor, který vytváří tah v důsledku spalování kyslíku a vodíku do spalovací komory a výfuku spalin z trysky.
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+Aby bylo možné pracovat, musí být připojen do palivové nádrže s kyslíkem a vodíkem.
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+Vodík vyžaduje jako palivo a kyslík jako okysličovadlo.
+#623# Umožňuje otočit loď jen pomocí energie.
+#624# Tento motor vyžaduje xenon plynu a elektrické energie. Jeho výhodou ve srovnání s chemickými motory je, že to vyžaduje velmi malé množství paliva, nicméně má mnohem nižší tah. Jako výsledek, je schopen nepřetržitě pracovat po dlouhou dobu
+#625# Jednoduché a levné manévrovací motor, který tlačí pod tlakem vodíku.
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+Aby bylo možné pracovat, by měl být napojen na palivovou nádrž, která obsahuje vodík.
+#626# zařízení, které Je schopné na warp prostor kolem lodi, která umožňuje cestovat s rychlostí mnohem rychleji, než je rychlost světla.
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+To může být použit v rámci hvězdného systému, pro okamžité cestování z jednoho bodu do druhého.
+#627# Pohybuje každý objekt, který se nachází uvnitř warp pole
 
-Size of warp field can be changed
+Velikost warp pole může být změněn
 
-Energy consumption depends on size of warp field
+Spotřeba energie závisí na velikosti warp pole
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+Pokud warp pole bude kolidovat s něčím, to bude destabilizoval a skok bude přerušena.
+#628# By měl být připojen k napájení skladování
+#629# By měl být připojen k úložiště s raketami
+#630# By měl být připojen do skladu s municí
+#631# Schopen zahájit samostatně naváděné torpédo.
+Torpedo bude zaměřena na objekt, který byl vybrán při spuštění.
+Pokud není žádný objekt vybrán, torpédo bude zahájena v neřízené režimu.
+#632# Schopen zahájit neřízené střely s vysokou rychlostí střelby
+#633# Obsahuje energie generované reaktorů nebo solární panely. Jakékoli zařízení, které vyžaduje napájení by měly být k němu připojen
+#634# V ovládacím centru nějaké lodi, která zahrnuje můstek, hlavní počítač a přidělování zdrojů hub
+#635# Build bodů
+#636# Další úroveň
+#637# Požadované pověst

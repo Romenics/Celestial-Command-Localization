@@ -449,280 +449,285 @@
 #446# ちさい Thruster 
 #447# ちさい Thruster 2
 #448# ちさい Cube
-#449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
-#452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
-#465# Tutorial
-#466# Single-player
-#467# Multi-player
-#468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
-#472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
-#475# Station Hub
-#476# Station Side Section
-#477# Station Engineering Bay
-#478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
-#485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
-#495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
-#506# Torpedo Launcher
-#507# Type
-#508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
-#519# This is your ship
+#449#貨物コンテナ4
+#450#サーバへの接続を失った
+#451#メインメニュー
+#452#推力
+#453#オートモード
+#454#限度最大推力
+#455#活性化エンジンです。 が割り当て3つの異なるhotkeysこの行動します。
+#456#有効にした場合、このエンジン制御することにより自動的にWASDQE鍵となります。
+#457#のエンジンの推力を超えないように、指定された値にします。 これがなければならないときに便利ですalignの"センターのスラスト"と"量"を避けるために不要なコースの偏差中に移動します。
+#458#購入価格
+#459#売価格
+#460#需要の比率
+#461#アークコネクタ
+#462#補FPS
+#463#X軸反転
+#464#Y軸反転
+#465#チュートリアル
+#466#シングル-プレイヤー
+#467#マルチプレイヤー
+#468#負荷
+#469#Max鉱業率
+#470#起動時間
+#471#最大範囲
+#472#最大ダメージ
+#473#消費電力
+#474#小さなシールド-ジェネレーター
+#475#駅拠点
+#476#駅側の部
+#477#駅湾工学
+#478#駅の貨物コンテナ
+#479#駅貯蔵タンク
+#480#進の指定されたドッキングポート
+#481#待っている無料のドッキングポート
+#482#位置にキュー
+#483#積極的に船は船では、造船所
+#484#モジュールを販売
+#485#モジュール
+#486#販売
+#487#モジュールを購入してい
+#488#鉱レーザーを無効に
+#489#無収納スペースのための資源
+#490#選択オブジェクトしてから、再度挿入してください
+#491#使命を完成
+#492#CR受
+#493#な船の船
+#494#新しい使命が可能
+#495#駅
+#496#なCR
+#497#価格
+#498#ミッション失敗
+#499#低信号
+#500#の船舶のバスターシステムや信号によって失われまで60秒
+#501#信号を失った
+#502#船宇宙以外の星システム
+#503#位置をセンターのスラストからの相対センターの量
+#504#Warp駆動off
+#505#な電力
+#506#魚雷ランチャー
+#507#タイプ
+#508#星の半径
+#509#雰囲気の半径
+#510#球の半径の影響
+#511#量
+#512#軌道期間
+#513#軌道相
+#514#軌道半径
+#515#修理
+#516#モジュールを傷めません
+#517#選択モジュール修理
+#518#評価
+#519#これは船
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+持ウスの右ボタンをマウスでドラッグで回転し、ビュー
+#520#きパンのビューにより押しでマウスの中央ボタンをマウスでドラッグ
+#521#使用マウスをスクロールホイールでズーム
+#522#きリセットビューをデフォルトの位置を押すと強調しボタン
+#523#つ動き
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+きを回転させた船舶によるキー AとDのみを回転させた船舶のビットを左右します。
+#524#いことがあるので注意して船舶内の真空が空気摩擦ので、そのまま継承しつつlinier、角速度unilま停止する。
+#525#自動安定化を利用したい場合は停止回転の船です。 起動stabilizatorを押しhighlittedボタンまたはそのホットキー
+#526#らスタビライザは、自動的に使用するエンジン停止回転します。
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+しかし、注意する燃料は限定的である。 これらの基本的な操作エンジンの消費量の液体水素ます。 現在の量luquid水素、画面上に表示され(highligtherの矢)
+#527#らstabilzier活動で回転に見た場合、不要なのかもしれませんので、この増加燃料消費によります。 この有無効にするstabilizrer必要がない場合です。
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+Disable stbilizerプRホットキーです。
+#528#いくつかの移動船ーキー W S Q E移動で、前後、左右します。
+#529#現在表示が自動的に切り替わりカメラを遵守し、最寄りの地球とそsurroindingsます。
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+まprobabliいる船舶になります。 船の回りに周回軌道の地球です。
+#530#るもの軌道メカニックは、このゲームで、動きがかsimplierより現実の世界です。
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+いてみようにアプローチ近くの小惑星ます。
+を選択しhighclickted小惑星によるマウスをクリックします。
+#531#表示相対速度
+#532#このツールは、選択した対象物と、ケインズの近くの船です。
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+白矢印方向への選択した対象
+Orrange矢速度ベクトルの船舶の対比で選択した対象
+#533#現のためのアプローチを選択した対象は、始動船舶に向けての目標です。
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+必要なものを揃えorrange矢印の方向としての白矢印です。
+#534#良いです。 一度インズが揃っていること自船の動きを右に向けての目標です。
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+なる意味においても、距離を対象にします。 な粉砕します。
+一度アプローチすが、減速貴船まで黄色の矢印の異なった非常に短います。 まるご相対速度がほぼゼロであることです。
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+アプローチを選択した対象とするのを止め船舶の近くです。
+#535#良いです。 "というエラーメールが返送された他の小惑星ます。
+#536#移動船ハイライタ小惑星ます。
+#537レポートを行ないます。
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+移動船舶のハイライト小惑星ます。
+#538#！ しい方へのオブジェクトでありないものから遠く離れます。
+#539#う鉱山であるバイオリソースを販売し、単位を取得します。
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+貴船装備されている鉱山のレーザーです。 るために起動するを選択し、鉱山のレーザーを押しボタン"を切り替え"が登場します。
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+この鉱山のレーザーを消費するエネルギーに表示させるには右上のコーナーの動画は、割引の対象とレーザーでは、小惑星です。
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+今鉱山の近くの小惑星の鉱レーザー集である。
+#540#中の鉱山見えますので指示を出力します。
+ノートの近くの鉱山のレーザーを小惑星と一つになればなるほど効果的です。
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+オープン貨物インターフェース。
+#541#このモードって見える場合がありコンテンツの保存およ。
+この場所にあり、燃料、エネルギーの収集を行った鉱石です。
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+しを行いご入居いただき資源からのコンテナは別のドラッグ＆ドロップします。 ではないもの必要のためにも、だけを無効にする貨物インターフェース。
+#542#新しい宇宙ステーションのスターシステムです。
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+うドックの駅給油開しています。
+選択スペース駅ます。
+#543#申請許可のためのドッキング
+#544#駅準備、無料のドッキングポートのご船です。
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+アプローチの指定されたドッキングポートと正確なタッチで自分のドッキングポートの船です。
+#545#オープン取引パネル
+#546#、このウィンドウが見線"水素"を選択し、"購入"には、その後、選択量は、例えば、10の確認りますので予めご了承ください。
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+また、ここで売ることができた。 みが終わるまで電波をやりと次の時が行われることになります。
+#547#う試験を武器
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+貴船な武器が必要となり延長します。
+以降ることができますの構築モデルを用いて工湾が購入できる新しいモジュールの駅です。
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+選択を押す"造船所"ボタンを押します。
+#548#登場したメニューを選択し、ターレット台ます。
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+見えてきますので取り付けポイントだ。 場所ターレットでもどこでもしたいです。
+#549#選択、キャノンリストから添付でトップの砲塔。
+#550#良いです。 を利用するためには、さらにキャノンが必要で、胸を張って投稿を続します。
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+購入は胸を張って投稿を続駅からの"貿易"ボタンを押します。
+#551#後に買って胸を張って投稿を続、接続キャノンデータの管理をすべきからは胸を張って投稿を続します。
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+オリソースネクションマネージャです。
+#552#このモードが見えてきますのでラインを表します。
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+多くのデバイスはconenctedを置きするためです。 エンジンは燃料タンクです。 シールド発電機は電源に接続されて倉庫などです。
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+現在接続し、キャノンへのコンテナと胸を張って投稿を続ドラッグ＆ドロップによるラインからグレードをコンテナです。
+#553#今まundock駅からです。
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+するためundockを選択し、ごドッキングポートボタンを押そのコントロールパネルの採用です。
+#554#砲塔が手動で動きを活性化する自動モードになります。
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+試してみてはマニュアルを制御します。
+を選択し、砲塔およびプレス"マニュアル制御"です。
+まだプレス"の範囲"のためのインタフェース。
+#555#う複数のテストショットを押します。
+#556#あなたにとっての完成の基礎チュートリアルです。
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+場合に必要な追加情報をチェックからの案内です。
+#557#ご到着のstarシステムは、こじんまりとしていますが採掘船、水素を燃料タンクであるがこの事業の一環として、最寄りの小惑星、地局です。 ご利用鉱レーザーの収集資源からの小惑星、販売が最寄りの取引駅ます。
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Display damaged modules
-#559# Temporarily display hit points for damaged modules on the active ship
-#560# Right click
-#561# Cancel
-#562# Left click
-#563# Repair
-#564# Target objects delivered to destination point
-#565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
-#567# Target objects is not attached to any ship
-#568# Destroy the target
-#569# Stabilize orbit
-#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
-Manual control will deactivate this mode.
-#571# Angular range
-#572# Turn rate
-#573# Max range
-#574# Manual control
-#575# Automatic mode
-#576# Attack debris
-#577# Attack rockets
-#578# deg
-#579# deg/s
-#580# Sell module
-#581# CR
-#582# Module damaged, price is reduced
-#583# Base price
-#584# Select module to sell
-#585# Damage
-#586# Explosion radius
-#587# Fire delay
-#588# Recoil force
-#589# kN
-#590# DPS
-#591# Range
-#592# s
-#593# min
-#594# Ammo
-#595# Deconstruct
-#596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+変更船の造船所をミッションの改善と評判のアクセスへの新しいモジュールです。
+#558#表示モジュールの破損
+#559#一時的に表示ヒットポイントを破損したモジュールの艦船
+#560#右クリック
+#561#解除
+#562#左クリック
+#563#修理
+#564#ターゲットオブジェクトを納入先に点
+#565#Targetオンライン版に掲載される予定で注文をおもなボタン
+#566#Targetオブジェクトには低い相対速度を着地点を
+#567#Targetオンライン版に掲載される予定でを船
+#568#破壊の対象
+#569#安定軌道
+#570#活自動操縦装置を自動的に維持の円形軌道の周りの惑星や星の場合でも、船舶の影響を受ける外力します。
+マニュアル制御が無効化するこのモードになります。
+#571#角度範囲
+#572#転率
+#573#最大範囲
+#574#マニュアル制御
+#575#自動モード
+#576#攻撃デブリ
+#577#ロケット弾攻撃
+#578#deg
+#579#deg/s
+#580#販売モジュール
+#581#CR
+#582#モジュールの破損、価格が低
+#583#ベースの価格
+#584#選択モジュールの販売
+#585#損傷
+#586#爆発半径
+#587#火遅れ
+#588#反動力
+#589#kN
+#590#DPS
+#591#範囲
+#592#s
+#593#min
+#594#胸を張って投稿を続
+#595#握
+#596#構築
+#597#このモジュールを搭載産業用3Dプリンターと爆ることのできる新規モジュールを様々な資源です。
+#598#を構築するためです。 う資源の接続ポイントに接続で容器の適切な資源です。
+#599#能の抽出に有用資源の小惑星からです。 ものとして使用できる近距離でボスキラー武器でもある。
+#600#自動的にアンロード抽出された資源に適したコンテナ船のです。
+#601#る成長植物性食品のため、乗組員ます。 要するエネルギーで運営されます。
+#602#この装置は、溶融氷の利用の過程で電解割り得られた水分子が二つの原子が水素原子と原子の酸素であるとして使用できる燃料と酸化剤、反応性のエンジンです。
+#603#Baseプラットフォームのための武器です。 きを回転させる付属の武器と異なる方向の内の一定の角度です。
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+制御できる手動または自動モードになります。
+自動モードで自動的に攻撃を指定する。
+#604#一番の武器に置く必要があるこのモジュールです。
+#605#重要なモジュールできるドックとその他の船舶又は局した場合は、所属その他の派です。
+#606#簡単な検出および選択各種オブジェクト内の指定された範囲です。 特になければならないときに便利でする必要がありますが小さなオブジェなどのデブリは小さな小惑星のです。
+#607#簡単な構造です。
+#608#として使用でき、保存のための強固な資源です。
+#609#消費量ウラン及びエネルギーを生成します。
+#610#をコンピューターシミュレーのパネル向上しました。
+#611#効率に依存して距離や角度にしました。
+#612#コンテナサービスが所属する液体やガスなどの燃料エンジンです。
+#613#で収集デブリや宇宙から自動的に精製で使用可能な材料です。
+#614#コンテナサービスが所属する固体貨物などの鉱石、胸を張って投稿を続や食品ます。
+#615#油圧アーム可能なものを掴んでなければ、ビデオポートレートスペースなどの小惑星、土石またはその他の船舶です。
+#616#この機能を球面または楕円体周りの人を保護する船舶からの被害です。
+#617#を消費エネルギーが活躍しました。
 
-Consumes additional energy for blocked unit of damage.
+消費エネルギーのためのブユニットまでご連絡ください。
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+サイズの保護の分野の変更ができます。 エネルギー消費に依存す。
+#618#この装置は、放出されやすい方向線の重力波が押し固有のオブジェクトを特定の方向です。
+#619#アクティブは、ドラッグ対象物の内側の白い丸を用ウスの左ボタンが移動するために、任意の方向です。
+#620#きを船に回転式の部品です。
+#621#能を構築する船舶の可動部品です。
+#622#化学エンジンを作成するスラストによる燃焼酸素及び水素燃焼室の燃焼-排気製品の製造にあたっては、弊社からのノズルです。
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+のための作品は燃料タンクの酸素と水素ます。
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+水素と燃料と酸素として酸化剤です。
+#623#の回転が可能ですの船舶のみを使用エネルギーです。
+#624#このエンジン、キセノンガスと電力です。 その利点と比べて化学エンジンが必要なので非常に少量の燃料としてかなり低スラストです。 結果としてできるが、継続的な作業の中で長時間
+#625#プ操作エンジンを押し圧水素ます。
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+るために、さらに燃料タンクを含む水素ます。
+#626#装置でワープスペースの周りに船で旅行速度よりもかなり早く、光速に近い速度ます。
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+で使用できるスターシステムのための瞬間から一点です。
+#627#移毎オブジェクト内に位置し、ワープ分野
 
-Size of warp field can be changed
+サイズのワープするときに変更
 
-Energy consumption depends on size of warp field
+エネルギー消費によりサイズのワープ分野
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+がwarp分野のぶつかんで不安定化およびジャンプが中断されました。
+#628#き電源に接続して保存
+#629#は保存とロケット
+#630#は保存と胸を張って投稿を続
+#631#で始自己誘導魚雷発射します。
+魚雷発射を中心とするオブジェクトに採択された時に発売します。
+ない場合、オブジェクトを選択した魚雷発unguidedモードになります。
+#632#で始unguidedミサイルを高速
+#633#含む発生するエネルギーによる原子炉や太陽光パネルです。 デバイスを必要とする電源を接続してい
+#634#コントロールセンターでは他の船舶を含むコマンドの橋は、主にコンピュータ資源の配分の拠点
+#635#構築のポイント
+#636#次のレベル
+#637#必要とされる評判

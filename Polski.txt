@@ -592,138 +592,143 @@ Podejdź do wyznaczonego portu dokowania i ostrożnie zetknij się z nim portem 
 #546# W oknie tym zlokalizuj "Wodór", wciśnij "Kup", a potem zaznacz wybraną ilość, na przykład 10 i potwierdź zamówienie.
 
 Możesz tutaj również sprzedać zebrane zasoby. Spróbuj, a gdy skończysz - wciśnij "Dalej".
-#547# Now let's test a weapon
+#547# teraz sprawdźmy broń
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+Twój statek nie ma broni, dlatego należy poszerzyć swój statek.
+Później można budować modułów z wykorzystaniem technicznych zatoki, ale teraz można kupić nowe moduły na stacji.
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+Wybierz stację i naciśnij "stocznia" przycisk.
+#548# W wyświetlonym menu wybierz obrotowej platformie.
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+Zobaczysz punkty mocowania na swój statek. Miejsce wieże w dowolnym miejscu, gdzie chcesz.
+#549# teraz wybieramy broń z listy i dołączyć go na szczycie swojej wieży.
+#550# dobrze. Aby użyć broń, trzeba amunicję.
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+Sprzedam naboje od stacji za pomocą przycisku "handel".
+#551# po zakupie broni, należy podłączyć pistolet do magazynu, gdzie trzeba wziąć amunicję.
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+Otwórz menedżer połączeń usługi.
+#552# w tym czasie, pojawi się linia, która reprezentuje przepływ zasobów.
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+Wiele urządzeń powinny być połączone w magazynach do tego, aby pracować. Silniki muszą być podłączone do zbiorników paliwa. Generatory tarcz muszą być podłączone do magazynów energii, itp.
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+Teraz podłączyć pistolet do kontenera z amunicją przez przeciągnij i upuść linia od szarej punktem w pojemniku.
+#553# teraz możesz отстыковаться od stacji.
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+Aby zdjąć mocowanie, wybierz port dokujący i nacisnąć przycisk na panelu sterowania.
+#554# wieżyczki może być sterowany ręcznie lub można włączyć tryb automatyczny.
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+Spróbujmy sterowanie ręczne.
+Wybrać działko i nacisnąć przycisk "sterowanie ręczne".
+Możesz także nacisnąć przycisk "Pokaż widmo", aby włączyć interfejs.
+#555# spróbować zrobić kilka zdjęć testowych i kliknij przycisk Dalej.
+#556# zakończeniu tutorial.
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+Jeśli wymagane są Dodatkowe informacje, należy skontaktować się z przełożonym wspólnoty.
+#557# jesteście w układzie gwiezdnym, masz mały statek górniczy, trochę wodoru w zbiornikach paliwowych, co wystarcza do lotu do najbliższego asteroidy i stacji roboczych. Użyj zestawu laser, aby zebrać surowce z asteroid, i sprzedać go na najbliższej stacji handlowej.
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Wyświetl uszkodzone moduły
-#559# Tymczasowo wyświetlaj punkty życia uszkodzonych modułów w aktywnym statku
+Modyfikować swój statek w stoczni i wykonywania misji, aby poprawić swoją reputację i uzyskać dostęp do nowych modułów.
+#558# uszkodzone Wyświetl moduły
+#559# Tymczasowo wyświetlaj elementy życia uszkodzonych modułów W tym aktywnym статку
 #560# Prawy klik
 #561# Anuluj
-#562# Lewy klik
+#562# Levy kliknięciem
 #563# Napraw
-#564# Wyznaczone obiekty dostarczone do celu
-#565# Wyznaczone obiekty nie złapane chwytakiem
+#564# Wyznaczone obiekty dostarczone robić celu
+#565# Wyznaczone obiekty nia złapane chwytakiem
 #566# Wyznaczone obiekty mają niską prędkość względem celu
 #567# Wyznaczone obiekty nie są powiązane z żadnym statkiem
-#568# Zniszcz cel
-#569# Wyrównaj orbitę
-#570# Aktywuj autopilota, który automatycznie utrzyma orbitę kołową wokół planety lub gwiazdy, nawet w przypadku działania na statek sił zewnętrznych.
-Sterowanie ręczne wyłączy ten tryb.
+#568# Zniszcz lrpOrbitę
+#569# Wyrównaj
+#570# autopilota Aktywuj, który automatycznie utrzyma orbitę kołową wokół planety lub gwiazdy, nawet W przypadku działania dom sił zewnętrznych.
+Sterowanie ręczne wyłączy dziesięć tryb.
 #571# Zakres kątowy
 #572# Szybkość obrotu
 #573# Maksymalny zasięg
-#574# Sterowanie ręczne
-#575# Tryb automatyczny
-#576# Attack debris
-#577# Attack rockets
-#578# deg
-#579# deg/s
-#580# Sprzedaj moduł
-#581# CR
-#582# Moduł uszkodzony, cena obniżona
+Sterowanie #574# ręczne
+#575# automatyczny Tryb
+#576# atak śmieci
+Rakiety atak #577# 
+#578# grad
+#579# grad/z
+#580# Sprzedaj pełni funkcję konwerter
+#581# SG
+#582#, pełni funkcję konwerter uszkodzony Cena obniżona
 #583# Cena podstawowa
-#584# Wybierz moduł do sprzedania
+#584# Wybierz pełni funkcję konwerter zrobić sprzedania
 #585# Uszkodzenie
-#586# Promień eksplozji
+#586# Промень eksplozji
 #587# Opóźnienie wystrzału
 #588# Siła odrzutu
-#589# kN
+#589# kn
 #590# DPS
 #591# Zasięg
 #592# s
 #593# min
-#594# Ammo
-#595# Deconstruct
-#596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+#594# amunicja
+#595# Dekonstrukcji
+#596# budowa
+#597# moduł ten wyposażony jest w przemysłowe drukarki 3D i samoloty bezzałogowe, które pozwala tworzyć nowe moduły, za pomocą różnych środków.
+#598# do tego, aby budować. upewnij się, że punkt połączenia zasobów, podłączony do zbiornika z danego zasobu.
+#599# zdolnych zbierać przydatne zasoby z asteroidy. Może być również używany jako broń do walki w zwarciu.
+#600# będzie automatycznie przesyłać identyfikacji zasobów w odpowiednim pojemniku na statku.
+#601# sprawnie rozwijać pokarm roślinny dla członków załogi. Wymaga energii do pracy.
+#602# to urządzenie jest w stanie stopić lód i za pomocą procesu elektrolizy, otrzymanych podzielić cząsteczki wody dwa atomy wodoru i jeden atom tlenu, który może być używany jako paliwo i utleniacz w silnikach odrzutowych.
+Podstawowa Platforma #603# do broni. Jest w stanie obracać dodane broń w różnych kierunkach w obrębie określonych kątów.
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+Mogą być sterowane ręcznie lub w trybie automatycznym.
+W trybie automatycznym, będzie automatycznie atakować określone cele.
+#604# większość broni powinny być umieszczone na tym module.
+#605# ważny moduł, który pozwala dokować z innymi statkami lub stacjami, zwłaszcza jeśli należą do innej frakcji.
+#606# pozwala łatwo wykryć i wydzielać różne obiekty w określonym zakresie. Szczególnie przydatne, jeśli trzeba wykrywać małe obiekty, takie jak zanieczyszczenia lub małe asteroidy.
+#607# prosty formalnie części.
+#608# może być używany jako magazyn dla stałych zasobów.
+#609# zużywa uranu i generuje energię.
+#610# generuje energię, gdy panelu skierowane na gwiazdę.
+#611# skuteczność zależy od odległości i kąta do gwiazdy.
+#612# pojemnik, który może przechowywać wszelkie cieczy lub gazu, jako paliwa do silników.
+#613# pozwala zebrać śmieci z kosmosu i automatycznie przerabiać w przydatne materiały.
+#614# pojemnik, który może przechowywać stałych ładunków, takich jak ruda, amunicji lub jedzenie.
+#615# hydrauliczny dźwignia, która pozwala rejestrować różne obiekty w przestrzeni kosmicznej, takich jak asteroidy, śmieci lub inne statki.
+#616# ten przyrząd jest w stanie stworzyć sferę lub elipsoida wokół siebie, które będą chronić statek przed wszelkimi uszkodzeniami.
+#617# zużywa energię.
 
-Consumes additional energy for blocked unit of damage.
+Zużywa dodatkową energię do zablokowanych jednostkę obrażeń.
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+Rozmiar ochronnego pola można zmienić. Zużycie energii zależy od wielkości.
+#618# to urządzenie emituje kierunkowe wiązki fal grawitacyjnych, które mogą popchnąć konkretnego obiektu w określonym kierunku.
+#619# gdy aktywny, przeciągać obiekty wewnątrz białego kręgu, za pomocą lewego przycisku myszy, aby przenieść je w dowolnym kierunku.
+#620# pozwala zbudować statek z obrotowymi częściami.
+#621# pozwala zbudować statek z ruchomymi częściami.
+#622# chemiczny silnik, który tworzy głód z powodu spalania tlenu i wodoru w komorze spalania i odprowadzania spalin z dyszy.
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+Do tego, aby działać, musi być podłączony do paliwa, zbiorniki z tlenem i wodorem.
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+Wodór jako paliwo i tlen jako utleniacz.
+#623# pozwala obrócić statek, wykorzystując jedynie energię.
+#624# ten silnik wymaga Ksenonowe gazu i energii elektrycznej. Jego zaletą w porównaniu z chemicznymi silnikami jest to, że wymaga ona bardzo mała ilość paliwa, jednak ma znacznie mniejszą przyczepność. W rezultacie, jest on w stanie pracować w sposób ciągły przez długi czas
+#625# prosty i tani manewrowanie silnikiem, który popycha sprężony wodór.
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+Do tego, aby działać, musi być podłączony do zaworu paliwowego Baku, który zawiera wodór.
+Urządzenie #626# a, która jest w stanie zdeformować przestrzeń wokół statku, który pozwala podróżować z prędkością szybciej, niż prędkość światła.
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+Może on być stosowany system gwiezdny do szybkiego przemieszczania się z jednego punktu do drugiego.
+#627# porusza się każdy obiekt, który znajduje się wewnątrz rdzenia pola
 
-Size of warp field can be changed
+Rozmiar warp pole może być zmieniona
 
-Energy consumption depends on size of warp field
+Zużycie energii zależy od wielkości warp polu
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+Jeśli warp polu zmierzyć się z czymś, ona będzie destabilized i skakać będzie przerwana.
+#628# musi być podłączony do magazynowania energii
+#629# musi być podłączony do magazynu z rakietami
+#630# muszą być podłączone do magazynu z ammo
+#631# w stanie uruchomić naprowadzania torpedy.
+Torpedy zostaną skierowane na obiekt, który został wybrany podczas uruchamiania.
+Jeśli nie ma zaznaczonych obiektów, Torpedy zostanie uruchomiony w tryb niezarządzalny.
+#632# w stanie uruchomić niezarządzane rakiety z wysoką szybkostrzelnością
+#633# zawiera energię wytwarzaną reaktory lub baterie słoneczne. Każde urządzenie wymaga zasilania musi być podłączony do niego
+#634# centrum zarządzania każdego statku, który obejmuje team mostek, główny komputer i dystrybucji zasobów piasty
+#635# punkty montażu
+#636# następnego poziomu
+#637# potrzebna jest Reputacja

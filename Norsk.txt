@@ -445,283 +445,288 @@
 #443# Servers list
 #444# Command modules
 #445# Structural components
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
+#446# Små Pådriver 
+#447# Små Pådriver 2
+#448# Liten Kube
 #449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
+#450# Tilkobling til server tapt
+#451# Hovedmenyen
 #452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
-#465# Tutorial
+#453# Auto-modus
+#454# Grense maks thrust
+#455# Aktivere motoren manuelt. Du kan tilordne opptil 3 forskjellige hurtigtaster for denne handlingen.
+#456# Når denne er aktivert, vil motoren styres automatisk av WASDQE tastene.
+#457# motoren stakk vil ikke overskride den angitte verdien. Dette er nyttig hvis du ønsker å justere "sentrum av thrust" med "tyngdepunkt" for å unngå uønskede kurs avvik under bevegelse.
+#458# Kjøpe Pris
+#459# Selge Pris
+#460# Etterspørsel Forhold
+#461# Arc kontakter
+#462# Kompensere FPS
+#463# Inverter X-aksen
+#464# Inverter Y-aksen
+#465# Opplæringen
 #466# Single-player
 #467# Multi-player
-#468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
-#472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
-#475# Station Hub
-#476# Station Side Section
+#468# Legg
+#469# Maks mining pris
+#470# aktiveringstid
+#471# Maks rekkevidde
+#472# Maks skade
+#473# strømforbruk
+#474# Små Skjold Generator
+#475# Station-Hub
+#476# Station Side Delen
 #477# Station Engineering Bay
 #478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
-#485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
+#479# Station Lagringstanker
+#480# Gå videre til eget docking-port
+#481# Venter for en gratis docking-port
+#482# Posisjon i kø
+#483# aktive skip skal være forankret til verftet
+#484# Modul solgt
+#485# Modul
+#486# selges for
+#487# Modul kjøpt for
+#488# Mining laser funksjonshemmede
+#489# Ingen gratis lagringsplass for ressurs
+#490# Velge et objekt og prøv igjen
+#491# Oppdrag fullført
+#492# CR mottatt
+#493# Ikke med skipet dokket
+#494# Nye oppdrag tilgjengelig
 #495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
+#496# Ikke nok CR
+#497# Prisen
+#498# Oppdraget mislyktes
+#499# Lavt signal
+#500# Returnerer skipet tilbake til star-systemet, eller signalet vil være tapt i 60 sekunder
+#501# Signal tapt
+#502# skipet tapt i verdensrommet utenfor stjerners system
+#503# Plassering av center of fremstøt i forhold til sentrum av masse
+#504# Warp drive deaktivert
+#505# Ikke nok strøm
 #506# Torpedo Launcher
 #507# Type
 #508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
-#519# This is your ship
+#509# Atmosfære radius
+#510# Sfære radius
+#511# Masse
+#512# Orbital periode
+#513# Orbital fase
+#514# Bane radius
+#515# Reparasjon
+#516# Modulen ikke er skadet
+#517# Velg modulen for å reparere
+#518# Omdømme
+#519# Dette er ditt skip
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+Hold høyre museknapp og dra musen for å rotere visningen
+#520# Du kan panorere visningen av trykk og hold midtre museknapp og dra musen
+#521# Bruke rullehjulet på musen for å zoome
+#522# Du kan tilbakestille visningen til standard posisjon ved å trykke på knappen merket
+#523# Nå om bevegelse
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+Du kan rotere skipet ditt med tastene A og D. Prøv å rotere skipet ditt litt til venstre og høyre.
+#524# Oppmerksom på at skipet ligger i vakuum, det er ingen air friksjon, så det vil holde sin linier og angular velocity unil du vil stoppe det manuelt.
+#525# Automatisk stabilisering er veldig nyttig hvis du ønsker å stoppe rotasjonen av skipet. Aktivere stabilizator ved å trykke på highlitted knappen eller hurtigtast
+#526# Mens stabilisatoren er aktiv, vil den automatisk bruke et motorer for å stoppe rotasjonen av skipet.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+Imidlertid gjøre oppmerksom på at din drivstoff er begrenset. Disse grunnleggende manøvrering motorer bruker flytende hydrogen. Ditt nåværende mengden av luquid hydrogen som vises på skjermen (highligther ved pilen)
+#527# Mens stabilzier er aktiv, det vil stoppe rotasjonen hver gang, selv om du ikke virkelig trenger det, vil dette øke forbruket av drivstoff. så det kan være nyttig å deaktivere stabilizrer hvis du ikke trenger det.
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+Deaktiver stbilizer ved å trykke på R hurtigtast.
+#528# Nå prøve å flytte skipet ditt litt hjelp av tastene W E Q E for å flytte den fremover, bakover, venstre og høyre.
+#529# Nå zoome ut et kamera og observere nærmeste planeten og dens surroindings.
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+Du probabli lagt merke til at skipet ikke bo på ett sted. Skipet roterer på bane rundt planeten.
+#530# Tross orbital mekaniker, i dette spillet, bevegelse er mye enklere enn i den virkelige verden.
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+La oss prøve å nærme til nærliggende asteroide.
+Velg highclickted asteroide ved museklikk.
+#531# Nå vise relativ hastighet
+#532#, Mens dette verktøyet er aktivt, og du har valgt en objekter, vil du se to piler i nærheten av skipet.
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+Hvite pilen - retning til utvalgte mål
+Orrange pil - fartsvektoren av skipet i forhold til utvalgte mål
+#533# Nå, for å tilnærming til utvalgte mål, begynner å flytte skipet ditt mot et mål.
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+Du må justere orrange pil med samme retning som hvite pilen.
+#534# God. Når to piler justert, det betyr at skipet beveger seg rett mot målet.
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+Holde et øye på avstand til målet. Du må ikke knuse inn i den.
+Når du vil nærme, avta din skipet til gul pil wil ble svært kort. Det vil si at deres relative hastigheten er nesten null.
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+Tilnærming til utvalgte mål og stoppe skipet i nærheten av det.
+#535# God. La oss prøve igjen en annen asteroide.
+#536# Flytte skipet ditt for å highlighter asteroide.
+#537# Og enda en gang.
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+Flytte skipet ditt for å fremhevet asteroide.
+#538# Perfekt! Nå vet du hvordan du tilnærming til objekter som ligger ikke så langt fra skipet ditt.
+#539# la oss Nå meg noen ressurser for å selge og tjene kreditter.
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+Skipet som allerede er utstyrt med en gruve laser. For å aktivere den, velger du gruvedrift laser og trykk på knappen "Veksle" dukket opp i vinduet.
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+Vær oppmerksom på at gruvedrift laser bruker en energi som vises i høyre øverste hjørne av skjermen, så løsner en laser mens det ikke er rettet på en asteroide.
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+Nå har mine nærmeste asteroide ved hjelp av gruvedrift laser og samle noen ressurser.
+#540# Løpet av gruvedrift, vil du se en indikator som viser en effekt.
+Merk, nærmere mining laser for å asteroide, jo mer effektiv.
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+Nå åpner en last grensesnitt.
+#541# I denne modusen kan du se et innhold av enhver lagring på skipet ditt.
+Her kan du se et drivstoff, energi og samlet malm.
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+Du kan flytte ressurser fra en beholder til en annen ved å dra og slippe. Men det er ikke nødvendige for nå, så det er bare å deaktivere en last grensesnitt.
+#542# New space station nettopp kommet i star-systemet.
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+La oss dock med stasjonen og fylle drivstoff på et skip.
+Velg merkede romstasjonen.
+#543# Be om en tillatelse for dokking
+#544# stasjonen vil reservere en gratis docking-port for skipet ditt.
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+Tilnærming til eget docking port og presist ta på den med din egen docking-port på skipet ditt.
+#545# Nå åpen handel panel
+#546# I dette vinduet finner du en linje "Hydrogen", og trykk "Kjøp", etter det, velge ønsket beløp, for eksempel 10 og bekrefte en bestilling.
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+Også her kan du selge samlet ressurser. Prøv det, og trykk på neste når det vil bli gjort.
+#547# la oss Nå teste et våpen
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+Skipet ikke har et våpen, så du trenger for å utvide ditt skip.
+Senere vil du være i stand til å konstruere moduler bruker engineering bay, men for nå kan du kjøpe nye moduler på stasjonen.
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+Velg stasjonen og trykk på "Verftet" - knappen.
+#548# dukket opp I menyen, og velg et tårn plattform.
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+Du vil se en festepunkter på skipet ditt. Plasser et tårn hvor som helst der du vil.
+#549# velg Nå en kanon fra listen, og legg det på toppen av din turret.
+#550# God. For å bruke en kanon, trenger du en ammunisjon.
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+Kjøpe ammunisjon fra stasjonen ved hjelp av "Trade" - knappen.
+#551# Etter at du har kjøpt en ammunisjon, bør du koble din kanon til oppbevaring hvor det skulle ta en ammunisjon.
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+Åpne en ressurs connection manager.
+#552# I denne modusen vil du se en linjene som representerer en strøm av ressurser.
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+Mange enheter bør være conencted å storages for å fungere. Motorene skal være koblet til drivstofftanker. Skjold generatorer bør være koblet til strøm storages etc.
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+Nå kobler en kanon til beholder med ammunisjon ved å dra og slippe linje fra grå prikk-container.
+#553# Nå kan du løsne fra stasjonen.
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+For å koble fra, velg din docking-port, og trykk på a-knappen i kontrollpanelet.
+#554# Tårn kan betjenes manuelt, eller du kan aktivere automatisk modus.
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+La oss prøve en manuell kontroll.
+Velg en turret og trykk på "Manuell kontroll".
+Også du kan trykke på "Vis utvalg" for å aktivere grensesnitt.
+#555# Prøv å lage flere testbilder, og trykk på neste.
+#556# Du har fullført grunnleggende opplæring.
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+Hvis du trenger mer informasjon, kan du se håndboken fra samfunnet.
+#557# Du har kommet i star-systemet, du har en liten gruve-skip, et lite hydrogen i drivstofftankene, som er nok til en flytur til nærmeste asteroider og stasjoner. Bruk din gruvedrift laser til å samle ressurser fra en asteroider, og selge den på nærmeste handelssted.
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Display damaged modules
-#559# Temporarily display hit points for damaged modules on the active ship
-#560# Right click
-#561# Cancel
-#562# Left click
-#563# Repair
-#564# Target objects delivered to destination point
-#565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
-#567# Target objects is not attached to any ship
-#568# Destroy the target
-#569# Stabilize orbit
-#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
-Manual control will deactivate this mode.
-#571# Angular range
-#572# Turn rate
-#573# Max range
-#574# Manual control
-#575# Automatic mode
-#576# Attack debris
-#577# Attack rockets
-#578# deg
-#579# deg/s
-#580# Sell module
+Endre dine skip på verftet og utføre et oppdrag for å forbedre omdømmet ditt og få tilgang til nye moduler.
+#558# Vise skadet moduler
+#559# Midlertidig vis treff poeng for skadet moduler på aktive skip
+#560# høyreklikk
+#561# Avbryt
+#562# Venstre klikk
+#563# Reparasjon
+#564# Målet objekter levert til bestemmelsesstedet
+#565# Målet objekter er ikke tatt med grabb
+#566# Målet objekter har lav relativ hastighet med destinasjon
+#567# Målet objekter er ikke knyttet til noen skip
+#568# Ødelegge målet
+#569# Stabilisere bane
+#570# Aktivere autopiloten som automatisk vil opprettholde sirkulær bane rundt en planet eller stjerne, selv om skipet vil bli påvirket av ytre krefter.
+Manuell kontroll vil deaktivere denne modusen.
+#571# Kantete utvalg
+#572# Slå pris
+#573# Maks rekkevidde
+#574# Manuell kontroll
+#575# Automatisk modus
+#576# Angrep rusk
+#577# Angrep raketter
+#578# grader
+#579# grader/s
+#580# Selge modul
 #581# CR
-#582# Module damaged, price is reduced
-#583# Base price
-#584# Select module to sell
-#585# Damage
-#586# Explosion radius
-#587# Fire delay
-#588# Recoil force
+#582# Modul skadet, prisen er redusert
+#583# Base pris
+#584# Velg modulen til å selge
+#585# Skade
+#586# Eksplosjon radius
+#587# Brann forsinkelse
+#588# Rekyl kraft
 #589# kN
 #590# DPS
 #591# Range
 #592# s
 #593# min
-#594# Ammo
-#595# Deconstruct
-#596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+#594# Ammunisjon
+#595# Dekonstruerer
+#596# Konstruere
+#597# Denne modulen er utstyrt med industriell 3D-skrivere og droner som gjør det mulig å konstruere nye moduler ved hjelp av ulike ressurser.
+#598# for å bygge. kontroller at resource forbindelse poeng koblet til en beholder med riktig ressurs.
+#599# Stand til å trekke ut nyttige ressurser fra asteroider. Kan også brukes som nær rekke våpen.
+#600# Det vil automatisk laste hentet ressurser i egnet beholder på skipet.
+#601# Stand til å vokse anlegget mat for et crew-medlemmer. Krever energi for å fungere.
+#602# Denne enheten er i stand til å smelte isen og bruk av prosessen med elektrolyse delt fått vann molekyler på to atomer av hydrogen og ett atom av oksygen som kan brukes som drivstoff og oksidant for en reaktiv motorer.
+#603# Base plattform for våpen. I stand til å rotere festet våpen i forskjellige retninger innenfor visse vinkler.
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+Kan styres manuelt eller automatisk modus.
+I automatisk modus vil automatisk angripe angitte mål.
+#604# Mest våpen bør plasseres på denne modulen.
+#605# Viktig modul som lar deg dock med andre skip eller stasjoner, spesielt hvis de tilhører andre grupper.
+#606# Tillater deg å enkelt finne og velge forskjellige objekter innenfor angitt område. Spesielt nyttig hvis du trenger til å detektere små objekter, slik som avfall eller små asteroider.
+#607# Enkle strukturelle delen.
+#608# Kan brukes som lagringsplass for solid ressurser.
+#609# Bruker uran og genererer energi.
+#610# Genererer energi når paneler rettet på en stjerne.
+#611# Effektivitet avhenger av avstand og vinkel til en stjerne.
+#612# Beholder som kan lagre noen form for væske eller en gass som drivstoff for motorer.
+#613# mulig å samle rusk fra verdensrommet og automatisk avgrense det til brukbare materialer.
+#614# Beholder som kan lagre solid last, for eksempel malm, ammunisjon eller mat.
+#615# Hydraulisk arm som gjør det mulig å hente ulike objekter i verdensrommet, som asteroider, avfall eller andre skip.
+#616# Denne enheten er i stand til å skape en sfære eller ellipsoide rundt seg som vil beskytte skipet fra skade.
+#617# Forbruker energi, mens aktive.
 
-Consumes additional energy for blocked unit of damage.
+Forbruker mer energi for blokkert enhet av skade.
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+Størrelse på beskyttende felt kan endres. Energiforbruket avhenger av størrelse.
+#618# Denne enheten er i stand til å avgi retningsbestemt ray av gravitasjon bølger som kan presse en bestemt gjenstand i en bestemt retning.
+#619# Når du er aktiv, kan du dra en objekter inne i den hvite sirkelen ved hjelp av venstre museknapp for å flytte dem i hvilken som helst retning.
+#620# Gjør det mulig å konstruere et skip med roterbar deler.
+#621# Gjør det mulig å konstruere et skip med bevegelige deler.
+#622# Kjemiske motor som skaper skyvekraft på grunn av forbrenning av oksygen og hydrogen i brennkammeret og eksos forbrenning produktene våre fra dysen.
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+For å arbeide, bør være koblet til drivstoff tanker med oksygen og hydrogen.
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+Hydrogen er nødvendig som drivstoff og oksygen som en oksidant.
+#623# Gjør det mulig å rotere et skip ved hjelp av bare en energi.
+#624# Denne motoren krever xenon gass og elektrisk kraft. Sin fordel i forhold til kjemiske motorer er at det krever svært liten mengde drivstoff, men har en mye lavere skyvekraft. Som et resultat, det er i stand til å kontinuerlig arbeid i lang tid
+#625# Enkle og billige å manøvrere motoren som presser trykksatt hydrogen.
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+For å arbeide, bør være koblet til drivstoff tank som inneholder hydrogen.
+#626# En enhet som er i stand til å deformere en plass rundt et skip som gjør det mulig å reise med fart mye raskere enn lyshastigheten.
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+Det kan brukes innenfor en stjerne system for umiddelbar reise fra ett punkt til et annet.
+#627# Flytter hvert objekt som ligger inne i en warp-feltet
 
-Size of warp field can be changed
+Størrelse på warp-feltet kan bli endret
 
-Energy consumption depends on size of warp field
+Energiforbruket avhenger av warp-feltet
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+Hvis warp feltet vil kollidere med noe, vil det være destabilized og hoppe vil bli avbrutt.
+#628# Bør være koblet til strøm lagring
+#629# Bør være koblet til lagring med raketter
+#630# Bør være koblet til lagring med ammunisjon
+#631# Stand til å starte selv-guidet torpedo.
+Torpedo vil være målrettet i objektet som ble valgt ved oppstart.
+Hvis ingen objekt er valgt, torpedo vil bli lansert i unguided-modus.
+#632# Stand til å lansere unguided raketter med høy rate av brann
+#633# Inneholder energi som er generert av reaktorer eller solcellepaneler. En hvilken som helst enhet som krever strøm bør være koblet til det
+#634# kontrollsenteret av alle skip, som inneholder kommandoen bridge, hoved datamaskin og ressursallokering hub
+#635# Bygge poeng
+#636# Neste nivå
+#637# Nødvendig rykte

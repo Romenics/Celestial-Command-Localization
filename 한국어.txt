@@ -407,283 +407,288 @@
 #443# 서버 목록
 #444# 명령 모듈
 #445# 구조적 구성요소
-#446# Small Thruster 
-#447# Small Thruster 2
-#448# Small Cube
-#449# Cargo Container 4
-#450# Connection to server lost
-#451# Main menu
-#452# Thrust
-#453# Auto mode
-#454# Limit max thrust
-#455# Activate engine manually. You may assign up to 3 different hotkeys for this action.
-#456# When enabled, this engine will be controlled automatically by WASDQE keys.
-#457# The engine thrust will not exceed the specified value. This is useful if you want to align your "center of thrust" with "center of mass" in order to avoid unwanted course deviation during movement.
-#458# Buy Price
-#459# Sell Price
-#460# Demand Ratio
-#461# Arc connectors
-#462# Compensate FPS
-#463# Invert X axis
-#464# Invert Y axis
-#465# Tutorial
-#466# Single-player
-#467# Multi-player
-#468# Load
-#469# Max mining rate
-#470# Activation time
-#471# Max range
-#472# Max damage
-#473# Power consumption
-#474# Small Shield Generator
-#475# Station Hub
-#476# Station Side Section
-#477# Station Engineering Bay
-#478# Station Cargo Container
-#479# Station Storage Tanks
-#480# Proceed to designated docking port
-#481# Waiting for a free docking port
-#482# Position in queue
-#483# Your active ship should be docked to the shipyard
-#484# Module sold
-#485# Module
-#486# sold for
-#487# Module bought for
-#488# Mining laser disabled
-#489# No free storage space for resource
-#490# Select an object and try again
-#491# Mission completed
-#492# CR received
-#493# Not docked with the ship
-#494# New mission available
-#495# Station
-#496# Not enough CR
-#497# Price
-#498# Mission failed
-#499# Low signal
-#500# Return the ship back to star system or signal will be lost in 60 seconds
-#501# Signal lost
-#502# The ship lost in space outside of star system
-#503# Position of center of thrust relative to center of mass
-#504# Warp drive deactivated
-#505# Not enough power
-#506# Torpedo Launcher
-#507# Type
-#508# Planet radius
-#509# Atmosphere radius
-#510# Sphere of influence radius
-#511# Mass
-#512# Orbital period
-#513# Orbital phase
-#514# Orbit radius
-#515# Repair
-#516# Module is not damaged
-#517# Select module to repair
-#518# Reputation
-#519# This is your ship
+#446#작은 스러 
+#447#작은 스러 2
+#448#작은 큐브
+#449#컨테이너화물 4
+#450#서버로의 연결을 잃
+#451#메인 메뉴
+#452#격
+#453#자동 모드
+#454#한계 최대 추력
+#455#활성화 엔진을 수 있습니다. 에 할당할 수 있습니다 최대 3 개의 다른 단축키에 대한 이동합니다.
+#456#활성화되면,이 엔진 것이 자동으로 제어하여 WASDQE 키를 사용합니다.
+#457#엔진의 추력 초과하지 않을 것이라는 점을 지정한 값입니다. 이는 유용하려면 정렬의 중심"을 추진력""중심의 질량"을 피하기 위해 원치 않는 물론 편차로 이동하는 동안.
+#458#구매 가격
+#459#판매 가격
+#460#수요한 비율
+#461#아크 커넥터
+#462#보상 FPS
+#463#X 축 반전
+#464#반전 Y 축
+#465#튜토리얼
+#466#싱글 플레이어
+#467#멀티 플레이어
+#468#드
+#469#최대 mining 평가
+#470#활성화 시간
+#471#최대 범위
+#472#최대 피해
+#473#소비 전력
+#474#작은 방패는 발전기
+#475#Station 허브
+#476#Station 측 섹션
+#477#소 엔지니어링 Bay
+#478#Station 화물 콘테이너
+#479#소 저장 탱크
+#480#로 진행되는 보트 스테이션
+#481#를 기다리고 무료는 보트 스테이션
+#482#에 위치 큐
+#483#active 선박 고정되어야 할 조선소
+#484#모듈 판매
+#485#모듈
+#486#판매
+#487#모듈이 구입하실
+#488#이닝 레이저 장애인
+#489#없이 저장 공간에 대한 자원
+#490#객체를 선택하고 다시 시도하십시오
+#491#임무를 완료
+#492#받은 CR
+#493#지와 도킹 선박
+#494#새로운 임무를 사용할 수
+#495#Station
+#496#충분하지 않 CR
+#497#가격
+#498#미션 실패
+#499#낮은 신호
+#500#반환하는 선박에 다시 성급 시스템 또는 신호에서 손실됩 60 초
+#501#신호 분실
+#502#배 잃어버린 공간 외에 스타 시스템
+#503#의 위치를 중심의 돌격에 상대적인 중심의 질량
+#504#Warp 드라이브는 비활성화
+#505#충분하지원
+#506#어뢰 실행
+#507#유형
+#508#행성 radius
+#509#분위기를 반경
+#510#영역의 영향을 반경
+#511#량
+#512#궤도 기간
+#513#궤도상
+#514#궤도 radius
+#515#복구
+#516#모듈이 손상되지 않은
+#517#모듈을 선택하는 복구
+#518#명성
+#519#이것은 당신의 선박
 
-Hold right mouse button and drag the mouse to rotate a view
-#520# You may pan the view by press and hold middle mouse button and drag the mouse
-#521# Use mouse scroll wheel to zoom
-#522# You may reset view to default position by pressing highlighted button
-#523# Now about movement
+보고 마우스 오른쪽 버튼을 마우스를 드래그 뷰를 회전
+#520#할 수 있습 팬보기를 누르고 마우스 가운데 버튼을 마우스를 드래그
+#521#사용 마우스 휠 스크롤 확대
+#522#다시 설정할 수 있습 보기를 기본값으로 위치를 눌러서 버튼을 강조 표시
+#523#이제에 대해 이동
 
-You may rotate your ship by keys A and D. Try to rotate your ship a bit left and right.
-#524# Note that your ship located in vacuum, there is no air friction, so it will keep its linier and angular velocity unil you will stop it manually.
-#525# Automatic stabilization is very useful if you want to stop rotation of your ship. Activate stabilizator by pressing highlitted button or its hotkey
-#526# While stabilizer is active, it will automatically use an engines to stop rotation of the ship.
+당신이 회전 할 수 있습니 당신의 선박에 의해 키와 디 회전을 시도는 당신의 배를 조금 오른쪽과 왼쪽입니다.
+#524#참고는 당신의 선박에 위치한 진공,공기의 마찰,그래서 그것이 유지됩니다 linier 및 각속도엔 당신은 그것을 멈출 수 있습니다.
+#525#자동화하는 경우 매우 유용하지만,당신은 당신의 선박이다. 활성화 stabilizator 눌러 highlitted 버튼 또는 그것의 단축키
+#526#하는 동안 안정제 활성화,그것은 자동으로 사용하는 엔진의 회전을 중지하는 선박의합니다.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consumes liquid hydrogen. Your current amount of luquid hydrogen displayed on the screen (highligther by arrow)
-#527# While stabilzier is active, it will stop rotation everytime, even if you don't really need it, this will increase the consumption of fuel. so it could be useful to disable stabilizrer if you don't need it.
+그러나,주의 연료가 제한됩니다. 이러한 기본적인 기동 엔진이 소모 액체 수소이다. 현재의 금액 luquid 수소 화면에 표시(highligther 여 화살표)
+#527#동안 stabilzier 활성화,그 중지 회전 때마다 경우에도 당신은 정말 필요 없어,이것을 증가시킬 것이 연료의 소비합니다. 그래서 그것은 도움이 될 수 있는 사용 stabilizrer 는 경우에 당신은 그것을 필요로하지 않습니다.
 
-Disable stbilizer by pressing R hotkey.
-#528# Now try to move your ship a bit using keys W S Q E to move it forward, backward, left and right.
-#529# Now zoom out a camera and observe a nearest planet and its surroindings.
+사용 stbilizer 여 R 을 누르면 단축키니다.
+#528#이제 이동하려고 배를 조금 키를 사용하여 W S Q E 이동하는 그 뒤로,앞으로,왼쪽과 오른쪽.
+#529#이제 줌 카메라 관찰하는 것을 가장 가까운 행성과 그 surroindings 니다.
 
-You probabli noticed that your ship is not stay in one place. The ship rotates on orbit around planet.
-#530# Despite the orbital mechanic, in this game, movement is much simplier than in real world.
+당신 probabli 는 당신의 배는하지 않은 한 곳에 있습니다. 선박에서 회전할 때도 행성이다.
+#530#에도 불구하고 궤도,정비사에서 이 게임,운동은 훨씬 더 간단보다는 현실 세계에서습니다.
 
-Let's try to approach to nearby asteroid.
-Select the highclickted asteroid by mouse click.
-#531# Now display relative velocity
-#532# While this tool is active and you have selected an objects, you will see two arrows near your ship.
+자의 접근을 시도하고 근처의 소행성합니다.
+선택하 highclickted 소행성 마우스로 클릭합니다.
+#531#이제 전시 상대 속도
+#532#는 동안 이 도구는 활동을 선택한체,당신은 두 개의 화살표 근처에 당신의 배를합니다.
 
-White arrow - direction to selected target
-Orrange arrow - velocity vector of your ship relative to selected target
-#533# Now, in order to approach to selected target, begin to move your ship toward a target.
+백색 화살표 방향을 선택한 대상
+Orrange 화살표속 벡터의 당신의 선박에 상대적인 선택한 대상
+#533#이제에 접근하기 위해,을 선택한 대상에 대 이동하기 시작 당신의 배를 향해의 대상이 됩니다.
 
-You need to align orrange arrow with the same direction as white arrow.
-#534# Good. Once two arrows aligned, it means that your ship moves right toward the target.
+당신은 필요를 맞추 orrange 화살표와 동일한 방향으로 백색 화살표입니다.
+#534#좋습니다. 한 두 개의 화살표를 정렬,그것이 의미하는 선박은 오른쪽으로 이동으로 대상입니다.
 
-Keep an eye on the distance to target. Do not crush into it.
-Once you will approach, decelerate your ship until yellow arrow wil became very short. It will means that your relative velocity is almost zero.
+에 눈을 유지까지의 거리 대상입니다. 분쇄하지 않습니다.
+일단 당신이 접근 할 것이다,감속 배색이 될 때까지 화살표 wil 이 매우 짧습니다. 그것이 의미하는 상대 속도가 거의 제로니다.
 
-Approach to selected target and stop your ship near it.
-#535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
-#537# And one more time.
+접근 방식을 선택한 대상을 중지하고 당신의 배치를 기준으로합니다.
+#535#좋습니다. 다시 해보자는 다른 소행성합니다.
+#536#당신의 배를 이동하는 하이라이트 소행성합니다.
+#537#그리고 하나 더 많은 시간입니다.
 
-Move your ship to highlighted asteroid.
-#538# Perfect! Now you know how to approach to objects which located not too far from your ship.
-#539# Now let's mine some resources in order to sell it and earn credits.
+당신의 배를 이동 강조 표시된 소행성합니다.
+#538#완벽하다! 지금 하는 방법을 알고 있 접근 방식 개체에 어떤 위치에서 멀지 않습니다.
+#539#이제 내부 리소스를 위해서 그것을 판매하고 학점을 취득합니다.
 
-Your ship already equipped with a mining laser. In order to activate it, select the mining laser and press button "Toggle" in appeared window.
+당신의 선박이 이미 갖추고 있으로 마이닝 레이저입니다. 을 활성화하기 위해서는 그것을 선택하이닝 레이저와 버튼을 누르면"전환"창이 나타났습니다.
 
-Note that mining laser consumes an energy which is displayed in right-top corner of the screen, so disengage a laser while it not directed in a asteroid.
+참고 하는 마이닝 레이저 소비하는 에너지에 표시되는 오른쪽 상단의 화면서 분리 레이저 동안 그것은 지시되지 않에서 소행성합니다.
 
-Now mine a nearby asteroid using the mining laser and gather some resources.
-#540# During mining, you will see an indicator which shows an output.
-Note, the closer mining laser to asteroid, the more it effective.
+지금 광산 근처의 소행성을 사용하여 마이닝 레이저를 수집하고 일부 자원합니다.
+#540#동안 마이닝을 보여주는 표시등 출력합니다.
+참고,가까이닝 레이저를 소행성,더 효과적입니다.
 
-Now open a cargo interface.
-#541# In this mode you may see a content of any storage on your ship.
-Here you may see a fuel, energy and gathered ore.
+지금 열린 화물 인터페이스입니다.
+#541#이 모드에서는 당신이 볼 수있는 콘텐츠의 저장소에 선박이다.
+여기에 당신이 볼 수있는 연료,에너지 및 광석 모니다.
 
-You may move resources from one container to another by drag and drop. But it is not neccesary for now, so just disable a cargo interface.
-#542# New space station just arrived in the star system.
+당신이 이동할 수 있는 자원 중 하나에서 컨테이너를 다른 컨테이너로 드래그 앤 드롭하여합니다. 하지만 그것은 앱에는 비가족용 콘텐츠가 포함한 지금,그래서 그냥 안 화물 인터페이스입니다.
+#542#새로운 공간이 역에 도착에서 성급 시스템입니다.
 
-Let's dock with the station and refuel a ship.
-Select highlighted space station.
-#543# Request a permission for docking
-#544# The station will reserve a free docking port for your ship.
+Let's 독소와 연료를 배합니다.
+선택 강조 표시된 우주 정거장입니다.
+#543#요청을 허가한 도
+#544#station 실 수 있는 무료 도킹 포트의 선박.
 
-Approach to designated docking port and accurately touch it with your own docking port of your ship.
-#545# Now open trading panel
-#546# In this window, locate a line "Hydrogen" and press "Buy", after that, select desired amount, for example 10 and confirm an order.
+접근 방식을 지정에는 보트 스테이션이고 정확하게 터치와 함께 그것의 자신의 도킹 포트의 당신의 선박이다.
+#545#이제 오픈 거래 패널
+#546#이 창에서 찾아 라인"수소"를 눌러"Buy",그 후,선택을 원하는 금액에 대한 예 10 확인합니다.
 
-Also, here you can sell gathered resources. Try it and press next when it will be done.
-#547# Now let's test a weapon
+또한,여기에 당신은 판매할 수 있는 수집한 리소스입니다. 그것을 시도하고 누르면 다음이 될 것입니다.
+#547#이제 그 무기가스 테스트
 
-Your ship don't have a weapon, so you need to extend your ship.
-Later you will be able to construct modules using engineering bay, but for now you can buy new modules on the station.
+당신의 배는하지 않는 무기를 가지고,그래서 당신은 당신을 연장해야 합니다.
+나중에 너를 구축할 수 있는 모듈을 사용하여 엔지니어링 베이,하지만 지금은 당신이 살 수 있는 새로운 모듈에서의 역습니다.
 
-Select the station and press "Shipyard" button.
-#548# In appeared menu, select a turret platform.
+선택역 키를 누릅니다"조선소"버튼을 누릅니다.
+#548#에서 나타난 메뉴를 선택하렛 플랫폼입니다.
 
-You will see a mounting points on your ship. Place a turret anywhere where you want.
-#549# Now select a cannon from the list and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need an ammo.
+당신이 볼 설치 포인트에서 당신의 선박이다. 소를 터렛 어디서나 당신이 원하는 곳입니다.
+#549#이제 선택포 목록에서 연결에서의 상단 갑니다.
+#550#좋습니다. 을 사용하기 위해서 대포를 필요로 합니다.
 
-Buy ammo from the station using "Trade" button.
-#551# After you bought an ammo, you should connect your cannon to the storage where it should take an ammo.
+탄약을 구입 역에서 사용하는"무역"버튼을 누릅니다.
+#551#당신이 구입 후에는 탄약,당신은 연결의 대포가 저장소는 그것을 합니다.
 
-Open a resource connection manager.
-#552# In this mode you will see a lines which represents a flow of resources.
+열 자 연결 관리자입니다.
+#552#이 모드에서는 당신이 볼 라인의 흐름을 나타내는 자원입니다.
 
-Many devices should be conencted to storages in order to work. Engines should be connected to fuel tanks. Shield generators should be connected to power storages etc.
+많은 장치해야 conencted 를 저장하기 위해서 작동합니다. 엔진 연결되어 있는 연료 탱크습니다. Shield 발전기에 연결되어야 합 파워 스토리지 등니다.
 
-Now connect a cannon to container with ammo by drag and drop line from grey dot to container.
-#553# Now you may undock from the station.
+지금 연결포 컨테이너 탄약과 함께 드래그 앤 드롭하여 라인에서 회색 점은 컨테이너입니다.
+#553#이제할 수 있습을 해제됩니다.
 
-In order to undock, select your docking port and press a button in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+하기 위해서 도킹,을 선택하는 보트 스테이션 버튼을 눌러서 그것의 제어 패널.
+#554#포탑할 수 있는 수동으로 운영하거나 당신 활성화할 수 있습니다.
 
-Let's try a manual control.
-Select a turret and press "Manual control".
-Also you may press "Show range" in order to enable interface.
-#555# Try to make several test shots and press next.
-#556# You completed basic tutorial.
+해보자 수동 제어이다.
+선택렛 키를 누릅니다"수동 제어"니다.
+또한 당신은"를 누르십시오 수 있습 범위를 표시하기 위해"인터페이스를 사용합니다.
+#555#를 만들려고 여러 가지 테스트 샷을하고 다음을 누릅니다.
+#556#를 완료한 기본습니다.
 
-If you will need additional information, check the guide from community.
-#557# You have arrived in the star system, you have a small mining ship, a little hydrogen in the fuel tanks, which is enough for a flight to the nearest asteroids and stations. Use your mining laser to gather resources from an asteroids, and sell it on a nearest trading station.
+당신이 필요로하는 경우 추가 정보 확인 가이드에서는 커뮤니티입니다.
+#557#당신은 도착에서 성급 시스템,당신은 작은주,조에서 수소 연료 탱크는 충분한 항공편 가장 가까운 소행성 및 역습니다. 사이닝 레이저를 수집하는 리소스 소행성,그리고 그것을 판매하에서 가까운 거래 역습니다.
 
-Modify your ship on the shipyard and perform a missions in order to improve your reputation and get an access to new modules.
-#558# Display damaged modules
-#559# Temporarily display hit points for damaged modules on the active ship
-#560# Right click
-#561# Cancel
-#562# Left click
-#563# Repair
-#564# Target objects delivered to destination point
-#565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
-#567# Target objects is not attached to any ship
-#568# Destroy the target
-#569# Stabilize orbit
-#570# Activate autopilot which will automatically maintain circular orbit around a planet or star, even if the ship will be affected by external forces.
-Manual control will deactivate this mode.
-#571# Angular range
-#572# Turn rate
-#573# Max range
-#574# Manual control
-#575# Automatic mode
-#576# Attack debris
-#577# Attack rockets
-#578# deg
-#579# deg/s
-#580# Sell module
-#581# CR
-#582# Module damaged, price is reduced
-#583# Base price
-#584# Select module to sell
-#585# Damage
-#586# Explosion radius
-#587# Fire delay
-#588# Recoil force
-#589# kN
-#590# DPS
-#591# Range
-#592# s
-#593# min
-#594# Ammo
-#595# Deconstruct
-#596# Construct
-#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
-#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
-#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
-#600# It will automatically unload extracted resources into suitable container on the ship.
-#601# Capable to grow plant food for a crew members. Requires energy to operate.
-#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
-#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+수정 당신의 선박에서 조선소와 임무를 수행하기 위해서 당신의 평판을 개선하고 새로운 모듈을 사용합니다.
+#558#디스플레이 손상 모듈
+#559#일시적으로 표시 포인트를 칠해 손상된 모듈이 활성 배
+#560#오른쪽 클릭
+#561#취소
+#562#왼쪽 클릭
+#563#복구
+#564#대상 물체에 전달 목적지점
+#565#대상 물체를 잡고 있지 않으로 그래버
+#566#대상 물체는 낮은 상대 속도와 목적지점
+#567#대상 물체에 연결되지 않은 모든 선박
+#568#대상을 파괴
+#569#안정 궤도
+#570#활성화를 자동 조종 장치는 것이 자동으로 유지 원형 궤도 행성이나인 경우라도,선박에 의해 영향을 받을 것이 외부의 힘입니다.
+수동 제어이 비활성화됩니다.
+#571#각도 범위
+#572#차례 비율
+#573#최대 범위
+#574#동 제어
+#575#동 모드
+#576#격 파편
+#577#격켓
+#578#deg
+#579#deg/s
+#580#판매하 모듈
+#581#CR
+#582#모듈 손상,가격은 감소
+#583#기본 가격
+#584#을 선택하려면 모듈을 판매
+#585#손상
+#586#폭발 범위
+#587#불연
+#588#반동 강
+#589#kN
+#590#DPS
+#591#범위
+#592#s
+#593#min
+#594#탄
+#595#해체
+#596#구조
+#597#이 모듈을 갖춘 산업 3D 프린터와 드론할 수 있는 구성하는 새로운 모듈을 사용하여 다양한 리소스입니다.
+#598#을 구축하기 위해서입니다. 는지 확인하는 리소스 연결 지점을 연결하는 컨테이너와 적절한 리소스입니다.
+#599#할 수 있을 추출하는 유용한 자원에서 소습니다. 도로 사용할 수 있습니다 가까운 무기입니다.
+#600#것이 자동으로 언로드 추출한 리소스에 적당한 용기에 배송됩니다.
+#601#할 수있는 식물을 재배하는 음식에 대한 승무원입니다. 에너지를 필요로 작동합니다.
+#602#이 장치는 능력이 얼음이 녹고 프로세스를 사용하여 전기분해의 분할이 얻은 물 분자에서 두 개의 원자들의 수소 및 하나의 원자 산소로 사용될 수 있는 발사 화약과 산화제에 대한 반응성 엔진이 있습니다.
+#603#기본 플랫폼에 대한 무기입니다. 를 회전할 수 있도록 첨부된 무기에서 다른 방향으로 내 일정 각도니다.
 
-Can be controlled manually or in automatic mode.
-In automatic mode it will automatically attack specified targets.
-#604# Most weapons should be placed on this module.
-#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
-#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
-#607# Simple structural part.
-#608# Can be used as a storage for solid resources.
-#609# Consumes uranium and generates energy.
-#610# Generates energy when panels directed on a star.
-#611# Efficiency depends on distance and angle to a star.
-#612# Container which may store any liquids or a gas, such as fuel for an engines.
-#613# Allows to collect debris from space and automatically refine it into usable materials.
-#614# Container which may store solid cargo, such as ore, ammo or food.
-#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
-#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
-#617# Consumes energy while active.
+수동으로 제어할 수 있습니다 또는 자동 모드에서습니다.
+자동 모드에서 자동으로 공격이 지정된 목표이다.
+#604#대부분 무기를 배치해야에 이 모듈이다.
+#605#중요 모듈할 수 있는 독 다른 사람들과 선박 또는 방송,특히 그들은 경우에 속한 다른 파벌니다.
+#606#사용하면 쉽게 검색 및 선택의 다양한 개체 지정된 범위 안에서입니다. 필요한 경우 특히 유용합을 감지하는 작은 물체 등의 이물질이나 작은행합니다.
+#607#간단한 구조적인 부분입니다.
+#608#로 사용할 수 있습 저장을 위한 단단 리소스입니다.
+#609#소비한 우라늄 및 에너지 생성합니다.
+#610#에너지 생성될 때 패널에 지시됩니다.
+#611#효율성에 따라 달라집 거리하고 각하됩니다.
+#612#컨테이너 저장할 수 있습니다 모든 액체 또는 가스 등에 대한 연료에는 엔진이 있습니다.
+#613#허용 수집하는 파편이 우주에서 자동적으로 수정으로 사용 가능한 소재다.
+#614#컨테이너 저장할 수 있습니다드화물과 같은 광석,탄약 또는 음식입니다.
+#615#유압 팔 할 수있는 잡아 다양한 공간에서 객체와 같은행,파편 또는 다른 배송입니다.
+#616#이 장을 만들 수있는 구체 또는 타원체의 주위에 자신이 배를 보호하기 위해서는 어떠한 손해합니다.
+#617#에너지를 소비하는 동안 활성화됩니다.
 
-Consumes additional energy for blocked unit of damage.
+추가로 사용한 에너지를 차단 장치의 손상이다.
 
-Size of protective field can be changed. Energy consumption depends on size.
-#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
-#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
-#620# Allows to construct a ship with rotatable parts.
-#621# Allows to construct a ship with movable parts.
-#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+의 크기 보호 필드를 변경할 수 있습니다. 에너지 소비 크기에 따라 다릅니다.
+#618#이 장치가있을 방출하는 방향 레이의 중력이 파도가 밀어 수있는 특정 개체에서 특정 방향이다.
+#619#활성 상태인 경우,끌어체 내부에는 흰색 사용하여 원 마우스 왼쪽 버튼을하기 위해 어떤 방향으로 이동합니다.
+#620#할 수 있을 구성하는 선박으로 돌릴수 있는 부분입니다.
+#621#할 수 있을 구성하는 배 움직일 수 있는 부분입니다.
+#622#화학제품 엔진을 만드는 돌격으로 인해의 연소 산소 및 수소에서는 연소실 및 배출 연소 제품에서 우리의 노즐.
 
-In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+에서 작업하기 위해,연결되어야 한다는 연료 탱크와 산소 및 수소이다.
 
-Hydrogen required as a fuel and oxygen as an oxidizer.
-#623# Allows to rotate a ship using only an energy.
-#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
-#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+수소이 필요로 연료와 산소로는 산화제이다.
+#623#할 수 있습 회전하는 선박만을 사용하여 에너지습니다.
+#624#이 엔진을 필요로 크세논은 가스와 전기는 힘입니다. 그에 비해 장점이 화학제품 엔진은 그것이 필요 아주 적은 양의 연료,그러나이 훨씬 낮습니다. 결과적으로,그것은 성능을 지속적으로 작동하는 동안 긴 시간
+#625#간단하고 저렴한 기동 엔진를 밀어 가압식 수소이다.
 
-In order to work, should be connected to fuel tank which contains a hydrogen.
-#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+에서 작업하기 위해,연결되어야 한다는 연료 탱크는 포함되어 수소이다.
+#626#는 장치 할 수있는 워프에는 공간을 주선할 수 있는 함께 여행하는 속도보다 훨씬 빠른 속도입니다.
 
-It can be used within a star system for instant travel from one point to another.
-#627# Moves every object which located inside a warp field
+내에서 사용할 수 있습니다 스타 시스템에 대한 인스턴트 여행 중 하나에서 확인해 보시기 바랍니다.
+#627#움직이는 모든 개체 내에 있는 warp 분야
 
-Size of warp field can be changed
+의 크기 warp 필드를 변경할 수 있습
 
-Energy consumption depends on size of warp field
+에너지 소비 크기에 따라 다릅의 warp 분야
 
-If warp field will collide with something, it will be destabilized and jump will be aborted.
-#628# Should be connected to power storage
-#629# Should be connected to storage with rockets
-#630# Should be connected to storage with ammo
-#631# Capable to launch self-guided torpedo.
-Torpedo will be targeted in object which was selected during launch.
-If no object selected, torpedo will be launched in unguided mode.
-#632# Capable to launch unguided missiles with high rate of fire
+는 경우 warp 필드와 충돌하는 뭔가가 될 것이 불안정하고 이동이 중단됩니다.
+#628#해야 연결된 전원 스토리지
+#629#연결되어 있어야 저장된 로켓
+#630#에 연결되어야 합 탄약 저장소
+#631#할 수있는 실행하는 자-유도뢰합니다.
+어뢰의 대상이 될 것입 개체 선정되었다 동안 실행됩니다.
+지 않은 경우 객체를 선택,어뢰에서 시작됩니다 나누어져 모니다.
+#632#능력을 발사 나누어져 미사일의 높은 속도 불
+#633#포함되어에 의해 생성되는 에너지는 원자로 또는 태양 전지 패널입니다. 어떤 장치를 요구하는 전원 연결되어 있어야 합 그
+#634#컨트롤 센터의 모든선을 포함하는 명령은 다리,주 컴퓨터 및 리소스 할당 허브
+#635#구축하 포인트
+#636#다음 수준
+#637#필요한 명성
