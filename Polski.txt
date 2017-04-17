@@ -1,4 +1,4 @@
-
+﻿
 #0# Gra jednoosobowa
 #1# Gra wieloosobowa
 #2# Opcje
@@ -665,3 +665,65 @@ Sterowanie ręczne wyłączy ten tryb.
 #591# Zasięg
 #592# s
 #593# min
+#594# Ammo
+#595# Deconstruct
+#596# Construct
+#597# This module equipped with industrial 3D printers and drones which allows to construct new modules using various resources.
+#598# In order to build. make sure that resource connection points connected to containers with appropriate resource.
+#599# Capable to extract useful resources from asteroids. Also can be used as close range weapon.
+#600# It will automatically unload extracted resources into suitable container on the ship.
+#601# Capable to grow plant food for a crew members. Requires energy to operate.
+#602# This device is capable to melt the ice and using the process of electrolysis split obtained water molecules on two atoms of hydrogen and one atom of oxygen which is can be used as a propellant and oxidizer for a reactive engines.
+#603# Base platform for weapons. Able to rotate the attached weapon in different directions within certain angles.
+
+Can be controlled manually or in automatic mode.
+In automatic mode it will automatically attack specified targets.
+#604# Most weapons should be placed on this module.
+#605# Important module which allows you to dock with others ships or a stations, especially if they are belong to other factions.
+#606# Allows you to easily detect and select various objects within specified range. Especially useful if you need to detect small objects such as debris or small asteroids.
+#607# Simple structural part.
+#608# Can be used as a storage for solid resources.
+#609# Consumes uranium and generates energy.
+#610# Generates energy when panels directed on a star.
+#611# Efficiency depends on distance and angle to a star.
+#612# Container which may store any liquids or a gas, such as fuel for an engines.
+#613# Allows to collect debris from space and automatically refine it into usable materials.
+#614# Container which may store solid cargo, such as ore, ammo or food.
+#615# Hydraulic arm which allows to grab various objects in space, such as asteroids, debris or other ships.
+#616# This device is capable to create a sphere or ellipsoid around himself which will protect the ship from any damage.
+#617# Consumes energy while active.
+
+Consumes additional energy for blocked unit of damage.
+
+Size of protective field can be changed. Energy consumption depends on size.
+#618# This device is capable to emit directional ray of gravitation waves which may push a specific object in specific direction.
+#619# When active, drag an objects inside the white circle using left mouse button in order to move them in any direction.
+#620# Allows to construct a ship with rotatable parts.
+#621# Allows to construct a ship with movable parts.
+#622# Chemical engine which creates thrust due combustion of oxygen and hydrogen in combustion chamber and exhaust combustion products our from the nozzle.
+
+In order to work, should be connected to fuel tanks with oxygen and hydrogen.
+
+Hydrogen required as a fuel and oxygen as an oxidizer.
+#623# Allows to rotate a ship using only an energy.
+#624# This engine requires the xenon gas and electrical power. Its advantage compared to chemical engines is that it requires very small amount of fuel, however has a much lower thrust. As a result, it is capable to continuously work during long time
+#625# Simple and cheap maneuvering engine which pushes pressurized hydrogen.
+
+In order to work, should be connected to fuel tank which contains a hydrogen.
+#626# A device which capable to warp a space around a ship which allows to travel with speed much faster than speed of light.
+
+It can be used within a star system for instant travel from one point to another.
+#627# Moves every object which located inside a warp field
+
+Size of warp field can be changed
+
+Energy consumption depends on size of warp field
+
+If warp field will collide with something, it will be destabilized and jump will be aborted.
+#628# Should be connected to power storage
+#629# Should be connected to storage with rockets
+#630# Should be connected to storage with ammo
+#631# Capable to launch self-guided torpedo.
+Torpedo will be targeted in object which was selected during launch.
+If no object selected, torpedo will be launched in unguided mode.
+#632# Capable to launch unguided missiles with high rate of fire
