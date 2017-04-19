@@ -1,6 +1,6 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
+#0# Start Server
+#1# Join Multiplayer
 #2# Options
 #3# Developers
 #4# Exit
@@ -11,7 +11,7 @@
 #9# Exit
 #10# Respawn
 #11# EARLY ACCESS
-#12# The game is not yet complete but it is in very active development  Visit the development blog in Steam Community Hub for more information
+#12# The game is not yet complete but is in very active development  Visit the development blog on the Steam Community Hub for more information
 #13# News
 #14# Discussions
 #15# Guides
@@ -30,18 +30,18 @@
 #28# Total
 #29# Music
 #30# GAME
-#31# Show help
+#31# Show Help
 #32# Show time in chat
 #33# Sandbox mode
 #34# Swap mouse buttons
 #35# Auto save interval
 #36# GRAPHIC
 #37# Full screen
-#38# Textures quality
+#38# Texture quality
 #39# Anti-aliasing
 #40# V-sync
 #41# Resolution
-#42# Press any key to bind it or ESC to cancel
+#42# Press key to bind or ESC to cancel
 #43# Save
 #44# Default
 #45# HOTKEYS
@@ -77,7 +77,7 @@
 #75# Port
 #76# Pass
 #77# Join
-#78# Select the server
+#78# Select Server
 #79# Add to favorites
 #80# Confirm deletion of server
 #81# Back
@@ -204,7 +204,7 @@
 #202# has starved to death!
 #203# Warning
 #204# Last command module cannot be deconstructed
-#205# Automatic movement stopped due manual control
+#205# Automatic movement stopped due to manual control
 #206# Warp drive is not ready yet
 #207# Cannot fire
 #208# Rocket launcher is not connected to rocket storage
@@ -227,14 +227,14 @@
 #225# Ships should be docked together
 #226# Storage is empty
 #227# This trader does not demand
-#228# Can't sell it. Storage is full
+#228# Can not sell this. Storage is full
 #229# units of
 #230# was sold for
 #231# units of
 #232# was bought for
 #233# Insufficient credits:
 #234# salvaged
-#235# Not enough storage space to salvage
+#235# Not enough storage space for salvage
 #236# Factors
 #237# Star Mass
 #238# Planet Mass
@@ -258,12 +258,12 @@
 #256# Decrease time scale
 #257# Increase time scale
 #258# Show Storage
-#259# Display content of all storage containers of the current ship. Content can be moved between containers by using drag and drop with the left mouse button. With holding Left-Shift you can transfer a specific amount of resources.
+#259# Display content of all storage containers of the current ship. Content can be moved between containers by dragging and dropping with the left mouse button. Hold Left-Shift to transfer a specific amount of resources.
 #260# Display the crew of the current ship. Crew members can be moved using drag and drop.
 #261# Show Connectors
-#262# Display resource connectors for the current ship. If the module requires specific resources, they should be connected to the module by using this mode. Connectors can be attached to modules by using drag and drop.
+#262# Display resource connectors for the current ship. If a module requires specific resources, they should be connected to the module using this mode. Connectors can be attached to modules by dragging and droppingp.
 #263# Mounting Points
-#264# Display mounting points for the current ship. Mounting points can be connected or disconnected by left click.
+#264# Display mounting points for the current ship. Mounting points can be connected or disconnected with left click.
 #265# Display center of mass for the current ship
 #266# Lock RCS
 #267# Stabilize rotation of the ship by using its engines
@@ -294,7 +294,7 @@
 #292# This parameter determines how much force you need to rotate the ship. To reduce this value, the most massive modules should be located close to the center of mass.
 #293# Including the mass of content in case this is a cargo bay or container
 #294# Structural integrity
-#295# Enable \ disable manual control for the selected weapon group. Press with holding Left Shift to switch to auto mode.
+#295# Enable \ disable manual control for the selected weapon group. Press while holding Left Shift to switch to auto mode.
 #296# Fill selected storage with Oxygen
 #297# Fill selected storage with Hydrogen
 #298# Fill selected storage with Xenon
@@ -406,7 +406,7 @@
 #404# The ship can't be found
 #405# Paint after construction
 #406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
+#407# Pin trajectory. Trajectory will be displayed evenwhile this window is closed.
 #408# Show accepted missions
 #409# Discord chat
 #410# Warp field has been collapsed due dense obstacle
@@ -429,7 +429,7 @@
 #427# Don't show again
 #428# Unable to save
 #429# Please select a ship
-#430# Please selected a command module of the ship
+#430# Please select a command module on the ship
 #431# SELECT A SHIP
 #432# Public server
 #433# Server name
@@ -501,7 +501,7 @@
 #499# Low signal
 #500# Return the ship back to star system or signal will be lost in 60 seconds
 #501# Signal lost
-#502# The ship lost in space outside of star system
+#502# The ship was lost in space outside of star system
 #503# Position of center of thrust relative to center of mass
 #504# Warp drive deactivated
 #505# Not enough power
@@ -521,17 +521,17 @@
 #519# This is your ship
 
 Hold right mouse button and drag the mouse to rotate the camera
-#520# You may pan the camera by click-dragging the middle mouse button
+#520# You may pan the camera by holding the middle mouse button
 #521# Use your mouse's scroll wheel to zoom
 #522# You may reset the camera by pressing the highlighted button
 #523# Now, regarding movement:
 
 You may rotate your ship with the A and D keys. Try to gently rotate your ship clockwise and counter clockwise.
-#524# Note that your ship is located in a vacuum. In space, there is no air friction, so your ship will keep its liniar and angular velocity until you stop it manually.
-#525# Automatic stabilization is very useful if you want to stop your ship's rotation. Activate the stabilizator by pressing the highlighted button or its hotkey (R).
-#526# While the stabilizer is active, it will automatically use the ship's engines to stop any rotation of the ship.
+#524# Note that your ship is located in a vacuum. In space, there is no air friction, so your ship will keep its linear and angular velocity until you stop it manually.
+#525# Automatic stabilization is very useful if you want to stop your ship's rotation. Activate the stabilizer by pressing the highlighted button or its hotkey (R).
+#526# While the stabilizer is active, it will automatically use the ship's engines to stop any rotation.
 
-However, make note, that your fuel is limited. These basic maneuvering engines consume liquid hydrogen. Your current amount of liquid hydrogen is displayed on screen (as highligthed by the arrow).
+However, take note, that your fuel is limited. These basic maneuvering engines consume liquid hydrogen. Your current amount of liquid hydrogen is displayed on screen (as highligthed by the arrow).
 #527# While active, the rotation stabilizer will counteract all rotation, even when you don't really need it to do so. Because this uses the ship's engines, having the stabilizer on increases the consumption of fuel. So, it may be useful to disable stabilizer whenever you don't need it.
 
 Disable the stabilizer by pressing its hotkey (R).
@@ -539,12 +539,12 @@ Disable the stabilizer by pressing its hotkey (R).
 #529# Now zoom out and observe the nearest planet and its surroundings.
 
 By now you've probably noticed that your ship doesn't stay in one place. The ship orbits the nearby planet.
-#530# Despite the orbital mechanics in this game, movement here is much simpler than in the real world.
+#530# Despite the orbital mechanics in the game, movement here is much simpler than in the real world.
 
 Let's try to approach the nearby asteroid.
 Select the highlighted asteroid by clicking it.
 #531# Now display relative velocity.
-#532# With relative velocity active, and you have selected an object, you will see two arrows near your ship.
+#532# With relative velocity active, and an object selected, you will see two arrows near your ship:
 
 White arrow - direction to the selected object
 Orange arrow - velocity vector of your ship relative to the selected object
@@ -558,16 +558,16 @@ Once you approach, decelerate your ship until the yellow arrow becomes very shor
 
 Approach the selected target and stop your ship near it.
 #535# Good. Let's try again for another asteroid.
-#536# Move your ship to highlighter asteroid.
+#536# Move your ship to highlighted asteroid.
 #537# You're getting the hang of this! One more time!
 
 Move your ship to the highlighted asteroid.
 #538# Perfect! Now you know how to approach nearby objects.
 #539# Now let's mine some resources in order to sell them and earn credits.
 
-Your ship is already equipped with a mining laser. In order to activate it, select the mining laser and press the "Toggle" button in the appeared window.
+Your ship is already equipped with a mining laser. In order to activate it, select the mining laser and press the "Toggle" button in the window.
 
-Note that an active mining laser consumes energy which is displayed in right-top corner of the screen, so deactivate the laser when it is not directed towards an asteroid.
+Note that an active mining laser consumes energy; which is displayed in right-top corner of the screen. So deactivate the laser when it is not directed towards an asteroid.
 
 Now mine a nearby asteroid using the mining laser and gather some resources.
 #540# During mining, you will see an indicator which shows the laser's current yield.
@@ -600,10 +600,10 @@ Select the station and press the "Shipyard" button. A build menu will appear.
 
 You will see some mounting points on your ship. Place one turret anywhere on your ship where you want.
 #549# Now select a cannon from the build menu and attach it on top of your turret.
-#550# Good. In order to use a cannon, you need ammo.
+#550# Good. In order to use a cannon, you need ammunition.
 
 Buy ammo from the station using the "Trade" button.
-#551# After you bought some ammo, you should connect your cannon to the storage container holding your ammo.
+#551# After you have purchased some ammo, you should connect your cannon to the storage container holding your ammo.
 
 Open the resource connection manager.
 #552# In this mode you will see lines which represent a flow of resources.
@@ -614,12 +614,12 @@ Now connect your cannon to the container with ammo by dragging a line between yo
 #553# Now you may undock from the station.
 
 In order to undock, select your docking port and press the docking toggle in its control panel.
-#554# Turrets may be operated manually or you may activate automatic mode.
+#554# Turrets may be operated manually, or you may activate automatic mode.
 
-Let's try the manual control.
+Let's try manual control.
 Select a turret and press "Manual control".
 Also you may press "Show range" in order to see your cannon's effective range.
-#555# Try to make several test shots and press next.
+#555# Try and fire several test shots and press next.
 #556# Congratulations! You have completed the basic tutorial.
 
 If you need additional information, be sure to check the community guide.
