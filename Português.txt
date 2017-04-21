@@ -11,7 +11,7 @@
 #9# Sair
 #10# Renascer
 #11# Acesso Antecipado
-#12# O jogo não está pronto ainda mas esta com o desenvolvimento muito ativo. Visite o blog de desenvolvimento na Central da Comunidade Steam para ter mais informações
+#12# O jogo não está pronto ainda mas possui desenvolvimento bastante ativo. Visite o blog de desenvolvimento na Central da Comunidade Steam para obter mais informações
 #13# Notícias
 #14# Discussões
 #15# Guias
@@ -19,10 +19,10 @@
 #17# Você tem certeza?
 #18# Sair
 #19# Voltar
-#20# Diretamente Conectado
+#20# Conexão Direta
 #21# Steam Connect (em breve)
 #22# Desenvolvedores
-#23# O jogo é desenvolvido por três amigos apelidados de Artaani, Riya e Romenics. Visite nosso blog de desenvolvimento na Central da Comunidade Steam para mais informações
+#23# O jogo está sendo desenvolvido por três amigos apelidados de Artaani, Riya e Romenics. Visite nosso blog de desenvolvimento na Central da Comunidade Steam para mais informações
 #24# Salvar
 #25# Padrão
 #26# Aplicar
@@ -34,21 +34,21 @@
 #32# Mostrar hora no chat
 #33# Modo Sandbox
 #34# Inverter botões do mouse
-#35# Intervalo para salvamento automático 
-#36# GRÁFICO
+#35# Intervalo de salvamento automático 
+#36# GRÁFICOS
 #37# Tela Cheia
-#38# Qualidade das Texturas
+#38# Qualidade de Texturas
 #39# Anti-Aliasing
 #40# V-sync
 #41# Resolução
 #42# Aperte qualquer tecla para definir ou ESC para sair
 #43# Salvar
 #44# Padrão
-#45# ATALHOS
+#45# CONTROLES
 #46# SELECIONE O MUNDO
-#47# Nome
-#48# JOGOS SALVOS
-#49# HORA DO JOGO
+#47# NOME
+#48# SALVO EM
+#49# TEMPO DE JOGO
 #50# VERSÃO
 #51# CRIAR MUNDO
 #52# Confirmar remoção do mundo
@@ -61,15 +61,15 @@
 #59# CARREGAR
 #60# CARREGANDO
 #61# Conectando...
-#62# NOME DO MUNDO 
+#62# NOME DO MUNDO
 #63# PORTA
 #64# SENHA
-#65# MAX DE JOGADORES
+#65# JOGADORES MAXIMOS
 #66# MODO SANDBOX
 #67# QUANTIDADE DE ESTAÇÕES
 #68# QUANTIDADE DE INIMIGOS
 #69# QUANTIDADE DE ASTEROIDES
-#70# NOVO MUNDO
+#70# Novo mundo
 #71# VOLTAR
 #72# INICIAR JOGO
 #73# Entrar no Multiplayer
@@ -90,12 +90,12 @@
 #88# Salvar
 #89# Editar
 #90# Idioma
-#91# Pausar
+#91# Pausado
 #92# Travar Rotação
 #93# Resetar Pan
 #94# Velocidade Local
 #95# Grade
-#96# Negociar
+#96# Comércio
 #97# CONSTRUIR
 #98# DESCONSTRUIR
 #99# FERRAMENTAS SANDBOX
@@ -103,7 +103,7 @@
 #101# Oxigênio
 #102# Hidrogênio
 #103# Xenônio
-#104# Míssil
+#104# Mísseis
 #105# Energia
 #106# Alimento
 #107# Tripulação
@@ -117,101 +117,101 @@
 #115# FÍSICA
 #116# Remover nave selecionada
 #117# Desativar mecânicas orbitais
-#118# Colocar o planejador de trajetória
-#119# Modo de Lançamento de Detritos
+#118# Colocar planejador de trajetória
+#119# Modo de lançamento de detritos
 #120# Aplicar
 #121# Descartar
-#122# Pressione qualquer tecla
+#122# Qualquer tecla
 #123# Definir novo atalho
 #124# Distância
 #125# Velocidade relativa
 #126# Jogador
 #127# Latência
-#128# Módulos Avaliados
-#129# Armazenamentos
+#128# Módulos disponíveis
+#129# Armazenamento
 #130# Produção
 #131# Energia
-#132# Variados
-#133# Armas
+#132# Outros
+#133# Armamentos
 #134# Torretas
 #135# Propulsão
-#136# Informação de Membro da Tripulação
+#136# Informação de Tripulante
 #137# Saúde
-#138# Alimento
-#139# Moral
+#138# Nutrição
+#139# Ânimo
 #140# COMEÇANDO O JOGO
-#141# Como o tutorial ainda não esta pronto, aconselhamos que você leia esse guia de um membro da comunidade
+#141# Como o tutorial ainda não está pronto, aconselhamos que você leia esse guia de um membro da comunidade
 #142# ABRIR GUIA
-#143# NEGOCIAÇÃO
+#143# COMÉRCIO
 #144# NOME
 #145# QUANTIDADE
 #146# PREÇO
 #147# DEMANDA
-#148# SUPRIMENTO
+#148# OFERTA
 #149# NAVE ANTERIOR
 #150# PRÓXIMA NAVE
 #151# MASSA TOTAL  
 #152# MOMENTO DE INÉRCIA
 #153# MASSA DO MÓDULO
-#154# Não conectado a um suprimento de energia
+#154# Não conectado a rede elétrica
 #155# Consumo de energia
 #156# Desacoplar
 #157# Acoplar
 #158# Arraste para Transferir
-#159# Botão Direito: Vender
-#160# Comprar: Arraste até um Armazenamento
+#159# Botão direito: Vender
+#160# Comprar: Arraste até um contêiner 
 #161# Solte para transferir
 #162# Segure SHIFT para especificar a quantidade
 #163# Solte para comprar
-#164# O tipo de armazenamento não confere (Líquido / Sólido)
-#165# CTRL+Botão Direito - Desconstruir
-#166# Botão Direito - Reparar
-#167# Botão Direito - Construir
-#168# Botão Direito - mostrar conteúdo
-#169# Botão Direito - Definir hotkey
+#164# Disparidade de armazenamento (Líquido / Sólido)
+#165# Ctrl+Botão direito - Desconstruir
+#166# Botão direito - Reparar
+#167# Botão direito - Construir
+#168# Botão direito - Mostrar conteúdo
+#169# Botão direito - Definir hotkey
 #170# Massa
 #171# ejetar
-#172# Botão Direito
+#172# Botão direito
 #173# Resetar hotkey
-#174# CTRL + Botão Direito - Desconstruir
-#175# CTRL + Botão Direito - Desconstruir
+#174# Ctrl + Botão direito - Desconstruir
+#175# Ctrl + Botão direito - Desconstruir
 #176# Carbono
 #177# Alumínio
-#178# Silicone
+#178# Silício
 #179# Prata
 #180# Titânio
 #181# Ferro
 #182# Cobalto
 #183# Nickel
 #184# Cobre
-#185# Niobium
+#185# Nióbio
 #186# Oxigênio
 #187# Hidrogênio
 #188# Xenônio
 #189# Gelo
-#190# Fullerite
-#191# Deuterium
+#190# Fullerita
+#191# Deutério
 #192# Urânio
-#193# Míssil
+#193# Mísseis
 #194# Energia
 #195# Alimento
 #196# Não há recurso com o nome
-#197# Não é possível abrir o menu de construção
-#198# A nave atual não tem a baía de engenharia
+#197# Não é possível abrir menu de construção
+#198# A nave atual não tem baía de engenharia
 #199# Sem alimentos
 #200# não se pode encontrar nenhuma comida na nave!
 #201# Morte por fome
 #202# morreu de fome!
 #203# Atenção
 #204# O último modulo de comando não pode ser descontruido
-#205# Movimentação automática desligada devido a controle manual
-#206# Warp drive ainda não esta pronto
+#205# Movimento automático desligada por controle manual
+#206# Unidade de salto ainda não está pronta
 #207# Não pode disparar
-#208# Lançador de Misseis não esta conectado ao compartimento de munição
+#208# Lançador de Misseis não conectado a compartimento de munição
 #209# Não pode disparar
 #210# Sem munição no compartimento conectado
-#211# Piloto Automático - Ativado
-#212# Piloto Automático - Desativado
+#211# Piloto Automático - ativado
+#212# Piloto Automático - desativado
 #213# Selecione uma nave
 #214# Nenhum objeto selecionado
 #215# Selecione uma nave
@@ -222,12 +222,12 @@
 #220# Apenas o servidor pode fazer isso
 #221# Jogo salvo
 #222# ERRO AO SALVAR
-#223# Não foi possível salvar devido a um erro interno.
+#223# Não se pôde salvar devido a um erro interno.
 #224# Créditos insuficientes
-#225# Naves devem estar acopladas
-#226# Armazenamento esta fazio
-#227# This trader does not demand
-#228# Não se pode vender. Armazenamento esta cheio
+#225# Naves devem estar acopladas entre si
+#226# Armazenamento vazio
+#227# Este comerciante não tem demanda
+#228# Não se pôde vender. Armazenamento cheio
 #229# unidades de
 #230# foram vendidas por
 #231# unidades de
@@ -236,16 +236,16 @@
 #234# sucateado
 #235# Sem espaço suficiente para sucata
 #236# Fatores
-#237# Massa da Estrela
-#238# Massa do Planeta
-#239# Impulso do Motor
-#240# Consumo de Combustível
-#241# Torque da Roda de Reação
+#237# Massa estelar
+#238# Massa planetária
+#239# Potência de propulsores
+#240# Consumo de combustível
+#241# Torque de rodas de reação
 #242# PARÂMETROS ORBITAIS
 #243# Trajetória
 #244# Posição
-#245# Apoapsis
-#246# Periapsis
+#245# Apoapside
+#246# Periapside
 #247# Excentricidade
 #248# Período Orbital
 #249# Velocidade Tang.
@@ -257,19 +257,19 @@
 #255# Resetar escala de tempo
 #256# Reduzir escala de tempo
 #257# Aumentar escala de tempo
-#258# Mostrar Armazenamentos
-#259# Exibe o conteúdo de todos os contêineres de armazenamento da nave atual. É possível mover conteúdo entre contêineres arrastando-os com o botão esquerdo do mouse. Segurando Shift-Esquerda você pode transferir uma quantidade específica de recursos.
+#258# Mostrar armazenamento
+#259# Exibe o conteúdo de todos os contêineres de armazenamento da nave atual. É possível mover conteúdo entre contêineres arrastando-os com o botão esquerdo do mouse. Segurando Shift-esquerda você pode transferir uma quantidade específica de recursos.
 #260# Exibe a tripulação da nave atual. Tripulantes podem ser movidos arrastando-os.
 #261# Mostrar Conectores
 #262# Exibe conectores de recursos para a nave atual. Se um módulo exigir recursos específicos, estes devem ser conectados utilizando este modo. Conectores podem ser fixados a módulos arrastando-os. 
-#263# Pontos de Montagem
-#264# Exibe pontos de montagem para a nave atual. Pontos de montagem podem ser conectados ou desconectados com um clique esquerdo.
-#265# Exibe o centro de massa da nave atual
+#263# Pontos de junção
+#264# Exibe pontos de junção para a nave atual. Pontos de junção podem ser conectados ou desconectados com um clique esquerdo.
+#265# Exibe o centro de massa da nave atual.
 #266# Trava RCS
 #267# Estabiliza a rotação da nave utilizando seus propulsores
 #268# Se ativado - selecione sua nave e clique com o botão direito para enviar uma ordem de movimento
 #269# Mostrar barras de HP
-#270# Temporariamente exibe a integridade da nave
+#270# Exibe temporariamente a integridade da nave
 #271# Trava de rotação
 #272# Alinha a rotação da câmera com o objeto observado
 #273# Focar visão
@@ -277,102 +277,102 @@
 #275# Resetar câmera
 #276# Reseta a posição da câmera para focar no objeto selecionado
 #277# Mostrar velocidade
-#278# Exibe velocidade (laranja) e direção (branca) em relação ao objeto selecionado
+#278# Exibe vetores de velocidade (laranja) e direção (branca) relativas ao objeto selecionado
 #279# Mostrar grade
 #280# Exibe uma grade retangular relativa à estrela
 #281# Energia atual
 #282# Capacidade máxima de energia
 #283# Entrada de energia
 #284# Saída de energia
-#285# Combinação da entrada e saída de energia
+#285# Combinação de entrada e saída de energia
 #286# Quantidade total de hidrogênio
 #287# Quantidade total de oxigênio
 #288# Exibe parâmetros orbitais do objeto selecionado
 #289# Facção
 #290# Renomear nave
-#291# Massa total da estrutura
-#292# Este valor determina quanta força é necessária para rotacionar a nave. Para reduzir este valor, os módulos mais pesados devem ser localizados próximo ao centro de massa,
-#293# Incluindo a massa do conteúdo caso seja uma baia ou contêiner de carga
+#291# Massa total do objeto
+#292# Este valor determina quanta força é necessária para rotacionar a nave. Para reduzir este valor, os módulos mais pesados devem ser localizados próximo ao centro de massa.
+#293# Inclui a massa do conteúdo interno caso seja uma baia ou contêiner de carga
 #294# Integridade estrutural
 #295# Habilita \ desabilita controle manual para o grupo de armas selecionado. Aperte segurando Shift Esquerda para controle automático. 
-#296# Enche o armazenamento selecionado com Oxigênio
-#297# Enche o armazenamento selecionado com Hidrogênio
-#298# Enche o armazenamento selecionado com Xenônio
-#299# Enche o armazenamento selecionado com foguetes
-#300# Enche o armazenamento selecionado com munições
-#301# Carrega completamente o Armazenador de Energia selecionado
-#302# Enche o armazenamento selecionado com alimentos
+#296# Enche o armazenamento selecionado de Oxigênio
+#297# Enche o armazenamento selecionado de Hidrogênio
+#298# Enche o armazenamento selecionado de Xenônio
+#299# Enche o armazenamento selecionado de mísseis
+#300# Enche o armazenamento selecionado de munições
+#301# Carrega completamente o acumulador de energia selecionado
+#302# Enche o armazenamento selecionado de alimentos
 #303# Adiciona tripulante ao módulo selecionado
 #304# Cria uma nave inimiga em um ponto aleatório ao redor do planeta inicial que atacará a nave do jogador automaticamente.
-#305# Adiciona uma Inteligência Artificial à nave selecionada com a facção aliada. A nave seguirá a nave do jogador.
-#306# A nave voará automaticamente ao objeto selecionado. Um segundo clique desliga o piloto automático.
+#305# Adiciona uma Inteligência Artificial à nave selecionada sob controle da facção aliada. A nave seguirá a nave do jogador.
+#306# A nave pilotará automaticamente ao objeto selecionado. Um segundo clique desliga o piloto automático.
 #307# Remover completamente a nave ou asteroide
-#308# ATENÇÃO - Esta ação não pode ser desfeita se ativada para o mundo atual. Desabilitará a gravidade para todos os objetos (somente para fins de teste).
+#308# ATENÇÃO - Esta ação não pode ser desfeita se ativada no mundo atual. Desabilita a gravidade para todos os objetos (somente para fins de teste).
 #309# (Funcionalidade incompleta) Aperte o botão e clique em algum lugar no espaço para criar um planejador orbital. Nódulos de posição e velocidade podem ser arrastados com botão esquerdo. O botão direito remove o nódulo.
-#310# Se ativo, ao clicar com o botão esquerdo do mouse em algum lugar do espaço criará um detrito. Shift+Clique lançará o detrito com uma velocidade aleatória.
+#310# Se ativo,criará um detrito ao clicar com o botão esquerdo do mouse em algum lugar do espaço. Shift+clique lançará o detrito com uma velocidade aleatória.
 #311# Comerciante disposto a COMPRAR estes bens
 #312# Comerciante disposto a VENDER estes bens
 #313# Mudar nome
 #314# Mudar patente
 #315# Atributo incompleto
-#316# Tripulantes automaticamente consumirão alimentos de qualquer contêiner quando este valor estiver abaixo de 75% (valor reduzido em 25% a cada 2 minutos)
+#316# Tripulantes consumirão automaticamente alimentos de qualquer contêiner quando este valor estiver abaixo de 75% (valor reduzido em 25% a cada 2 minutos)
 #317# Atributo incompleto
 #318# Encher armazenamento selecionado de Hidrogênio
 #319# Adicionar tripulante ao módulo selecionado
 #320# Abre a interface de comércio. (NOTA: Para negociar com uma estação, a interface deve estar aberta, sua nave deve estar docada à estação e ambas as portas de docagem devem estar ativadas. Para comprar algo da estação, abra a interface de carga e então arraste os bens desejados da estação para o seu contêiner. Para vender algo, clique com o botão direito nos bens no seu contêiner)
-#321# Abre o menu de construção fornecido pelo estaleiro selecionado. Enquanto sua nave estiver dentro do estaleiro, você pode comprar e vender módulos por créditos.
+#321# Abre o menu de construção fornecido pelo estaleiro selecionado. Enquanto sua nave estiver acoplada ao estaleiro, você pode comprar e vender módulos por créditos.
 #322# Estado da trajetória
 #323# Posição relativa ao planeta ou estrela
 #324# Distância do centro do planeta ao ponto mais distante na órbita
 #325# Distância do centro do planeta ao ponto mais próximo na órbita
-#326# A excentricidade define o formato da órbita. (e=0) círculo) (0<e<1) elipse (e=1) parábola (e>1) hipérbole
-#327# O período orbital é o tempo durante o qual um objeto faz uma volta ao redor de sua órbita
+#326# A excentricidade define o formato da órbita. (e=0) círculo (0<e<1) elipse (e=1) parábola (e>1) hipérbole
+#327# O período orbital é o tempo durante o qual um objeto realiza uma volta ao redor de sua órbita
 #328# Velocidade angular (em graus por segundo)
 #329# PARÂMETROS ORBITAIS
-#330# Contêiner de carga 2
-#331# Contêiner de carga 1
-#332# Propulsor Químico
-#333# Contêiner de Líquidos 1
-#334# Reator Nuclear
-#335# Acumulador de Energia
-#336# Baia de Engenharia
+#330# Contêiner de carga 2x1
+#331# Contêiner de carga 2x2
+#332# Propulsor químico
+#333# Contêiner de líquidos 1x1
+#334# Reator nuclear
+#335# Acumulador de energia
+#336# Baia de engenharia
 #337# Radar
-#338# Painéis Solares
-#339# Plataforma de Torretas 1
-#340# Plataforma de Torretas 2
-#341# Canhão de Energia
-#342# Canhão Balístico 1
-#343# Junção de 4 Corredores
+#338# Painel solar
+#339# Plataforma de torretas 1
+#340# Plataforma de torretas 2
+#341# Canhão de energia
+#342# Canhão balístico 1
+#343# Corredor de 4 vias
 #344# Laser 1
 #345# Minerador
-#346# Contêiner de Líquidos 2
-#347# Contêiner de carga 3
-#348# Porta de Docagem
+#346# Contêiner de líquidos 2x1
+#347# Contêiner de carga 1x1 1
+#348# Porta de docagem
 #349# Garra
 #350# Laser 2
-#351# Gerador de Combustível
-#352# Canhão Balístico 2
+#351# Gerador de combustível
+#352# Canhão balístico 2
 #353# Corredor
-#354# Junção de 3 Corredores
-#355# Módulo de Comando
-#356# Curva de Corredor
-#357# Roda de Reação
-#358# Dobrador Espacial
-#359# Adaptador Estrutural 2x1
-#360# Propulsor de RCS
-#361# Contêiner de Líquidos 3
+#354# Corredor de 3 vias
+#355# Módulo de comando
+#356# Corredor curvo
+#357# Roda de reação
+#358# Unidade de salto
+#359# Adaptador estrutural 2x1
+#360# Propulsor RCS
+#361# Contêiner de líquidos 2x2
 #362# Laser de Mineração
-#363# Contêiner de Líquidos 4
-#364# Módulo de Comando 2
-#365# Gerador de Escudo
-#366# Portão de Carga
-#367# Raio Trator
-#368# Propulsor Iônico
-#369# Viga Estrutural
-#370# Lançador de Foguetes
+#363# Mini contêiner de líquidos
+#364# Módulo de comando 2
+#365# Gerador de escudo 2x2
+#366# Portão de carga
+#367# Raio trator
+#368# Propulsor iônico
+#369# Viga estrutural
+#370# Lançador de mísseis
 #371# Adaptador 2x1
 #372# Estaleiro
-#373# Estufa Hidropônica
+#373# Estufa hidropônica
 #374# Estaleiro
 #375# Docagem
 #376# Comércio
@@ -380,17 +380,17 @@
 #378# Exibir missões disponíveis
 #379# Solicitar docagem
 #380# Detrito
-#381# ATIVE UMA FACÇÃO PARA A NAVE DUPLICADA
+#381# FACÇÃO PARA NAVES DUPLICADAS
 #382# Aliado
 #383# Inimigo
-#384# Não mude a facção
+#384# Não mudar facção
 #385# A próxima nave duplicada terá a mesma facção do nave original
 #386# Próxima nave duplicada terá facção aliada
 #387# Próxima nave duplicada terá facção inimiga
 #388# Asteroide
 #389# FERRAMENTA DE PINTURA
 #390# Selecionar módulo para pintar
-#391# Clique esquerdo - Pintura
+#391# Clique esquerdo - Pintar
 #392# NAVES SALVAS
 #393# Salvar nave
 #394# Nenhuma nave selecionada
@@ -418,16 +418,16 @@
 #416# Mostrar parâmetros orbitais
 #417# Ferramenta de pintura
 #418# Carregar nave
-#419# Pin trajectory
-#420# Build menu
+#419# Fixar trajetória
+#420# Menu de construção
 #421# Desconstruir
 #422# Compensar rotação
 #423# Rotor
-#424# Parte do rotor
+#424# Peça de rotor
 #425# Pistão
 #426# Peça de pistão
 #427# Não mostrar novamente
-#428# Não é possível salvar
+#428# Não foi possível salvar
 #429# Selecione uma nave
 #430# Por favor, selecione um módulo de comando da nave.
 #431# SELECIONE UMA NAVE
@@ -437,296 +437,295 @@
 #435# Configurações avançadas
 #436# Se habilitado, o servidor estará visível na lista global de servidores
 #437# Jogadores
-#438# Não foram encontrados servidores
+#438# Nenhum servidor encontrado
 #439# Servidores descobertos
-#440# Conexão direta IP
+#440# Conexão direta por IP
 #441# Atualizar lista de servidores
 #442# Refresh
 #443# Lista de servidores
 #444# Módulos de comando
 #445# Componentes estruturais
-#446# Pequeno Propulsor 
-#447# Pequeno Propulsor De 2
-#448# Pequeno Cubo
-#449# Recipiente De Carga 4
-#450# Conexão para o servidor perdeu
-#451# menu Principal
-#452# Empuxo
-#453# modo Automático
-#454# Limite máximo de empuxo
-#455# Ativar o motor manualmente. Você pode atribuir até 3 diferentes teclas de atalho para esta ação.
-#456# Quando ativado, esse motor vai ser controlado automaticamente pelo WASDQE chaves.
-#457# O empuxo do motor não irá exceder o valor especificado. Isso é útil se você deseja alinhar seu "centro de empuxo" com o "centro de massa", a fim de evitar indesejável de desvio de curso durante o movimento.
-#458# Preço De Compra
-#459# Preço De Venda
-#460# Procura Taxa De
-#461# Arco conectores
+#446# Propulsor pequeno
+#447# Propulsor pequeno 2
+#448# Cubo pequeno
+#449# Contêiner de carga 1x1 2
+#450# Conexão ao servidor perdida
+#451# Menu principal
+#452# Impulso
+#453# Modo automático
+#454# Limite máximo de impulso
+#455# Ativa o propulsor manualmente. Você pode atribuir até 3 diferentes teclas de atalho para esta ação.
+#456# Quando ativado, esse motor vai ser controlado automaticamente pelas teclas WASDQE.
+#457# O inpulso do motor não irá exceder o valor especificado. Útil se você deseja alinhar seu centro de impulso com o centro de massa, a fim de evitar desvios indesejados de trajetória durante movimentos.
+#458# Preço de compra
+#459# Preço de venda
+#460# Taxa de oferta
+#461# Arquear conectores
 #462# Compensar FPS
 #463# Inverter eixo X
-#464# Inverter o eixo Y
+#464# Inverter eixo Y
 #465# Tutorial
-#466# Single-player
-#467# Multi-jogador
+#466# Jogador único
+#467# Multijogador
 #468# Carregar
-#469# Max mineração taxa de
-#470# tempo de Ativação.
-#471# Max gama
-#472# Max damage
-#473# consumo de Energia
-#474# Pequeno Gerador De Escudo
-#475# Estação Hub
-#476# Estação De Seção De Lado
-#477# Estação De Engenharia Bay
-#478# Estação De Carga Do Recipiente
-#479# Estação De Tanques De Armazenamento De
-#480# Avance para o designado porta de ancoragem
-#481# Esperando por uma porta de encaixe livre
+#469# Taxa máxima de mineração
+#470# Tempo de ativação
+#471# Alcance máximo
+#472# Dano máximo
+#473# Consumo de Energia
+#474# Gerador de escudo 1x1
+#475# Centro de estação
+#476# Ala lateral de estação
+#477# Baia de engenharia de estação
+#478# Contêiner de carga de estação
+#479# Tanques de armazenamento de estação
+#480# Prosiga à porta de docagem indicada
+#481# Aguardando por porta de docagem livre
 #482# Posição na fila
-#483# Seu ativo navio deve ser encaixada para o estaleiro
-#484# Módulo vendidos
+#483# Sua nave ativa deve estar docada ao estaleiro
+#484# Módulo vendido
 #485# Módulo
-#486# vendidos para
-#487# Módulo comprou para
-#488# Mining laser deficiência
-#489# Nenhum espaço de armazenamento gratuito para recurso
-#490# Seleccionar um objecto e tente novamente
+#486# vendido por
+#487# Módulo comprado por
+#488# Laser de mineração desativado
+#489# Não há espaço livre para o recurso
+#490# Selecione um objeto e tente novamente
 #491# Missão concluída
-#492# CR recebido
-#493# Não encaixado com o navio
+#492# CR recebidos
+#493# Não acoplado à nave
 #494# Nova missão disponível
 #495# Estação
-#496# Não é suficiente CR
+#496# CR insuficientes
 #497# Preço
 #498# Missão falha
-#499# sinal Baixo
-#500# Devolve o navio de volta para o sistema de estrelas ou sinal será perdido em 60 segundos
-#501# a perda do Sinal
-#502# O navio perdido no espaço fora do sistema de estrelas
-#503# Posição do centro de empuxo em relação ao centro de massa
-#504# Warp drive desativados
-#505# Não poder suficiente
-#506# Lançador De Torpedo
-#507# Tipo de
-#508# Planeta de raio
-#509# Atmosfera raio
-#510# Esfera de raio de influência
+#499# Sinal fraco
+#500# Retorne a nave de volta ao sistema estelar ou o sinal se perderá em 60 segundos
+#501# Sinal perdido
+#502# Nave perdida no espaço exterior ao sistema
+#503# Posição do centro de impulso relativo ao centro de massa
+#504# Unidade de salto desativada
+#505# Energia insuficiente
+#506# Lançador De Torpedos
+#507# Tipo
+#508# Raio do planeta
+#509# Raio da atmosfera
+#510# Raio da esfera de influência
 #511# Massa
-#512# o período Orbital
-#513# Orbital fase
-#514# raio da Órbita
-#515# Reparo
+#512# Período orbital
+#513# Fase orbital
+#514# Raio da órbita
+#515# Reparos
 #516# Módulo não está danificado
 #517# Selecione o módulo para reparo
 #518# Reputação
-#519# Este é o seu navio
+#519# Esta é a sua nave
 
-Segure o botão direito do mouse e arraste o mouse para girar uma vista
-#520# Você pode mover a visão em pelo pressione e segure o botão do meio do mouse e arrastar o mouse
-#521# Usar a roda de rolagem do mouse para aumentar o zoom
-#522# Você pode redefinir visualizar a posição padrão pressionando o botão realçado
-#523# Agora sobre o movimento
+Segure o botão direito do mouse e arraste o mouse para girar a câmera
+#520# Você pode mover a câmera arrastando o mouse segurando o botão central
+#521# Use a roda do mouse para controlar o zoom
+#522# Você pode restaurar a câmera clicando no botão indicado
+#523# Agora, em relação a movimentação:
 
-Você pode girar a tua nave com as teclas A e D. Tente girar seu navio um pouco para a esquerda e para a direita.
-#524# Note que o seu navio localizado no vácuo, não há atrito do ar, por isso, vai manter a sua linier e a velocidade angular unil você vai pará-lo manualmente.
-#525# Automático de estabilização é muito útil se você deseja parar a rotação do navio. Activar stabilizator pressionando highlitted botão ou o seu atalho
-#526# Enquanto o estabilizador está ativo, ele automaticamente irá utilizar um dos motores para parar a rotação do navio.
+Você pode rotacionar sua nave com as teclas A e D. Tente virar sua nave um pouco para a esquerda e para a direita.
+#524# Note que sua nave está em um vácuo. No espaço, não há atrito com o ar, então sua nave irá manter suas velocidades angular e linear até você pará-la manualmente.
+#525# A estabilização automática é bastante útil para parar a rotação de uma nave. Ative a estabilização clicando no botão indicado ou o seu atalho (R).
+#526# Enquanto o estabilização estiver ativa, ele irá utilizar automaticamente os propulsores da nave para parar sua rotação.
 
-No entanto, tome nota, que seu combustível é limitado. Estas manobras de motores consome hidrogênio líquido. Seu valor atual de luquid de hidrogênio exibidas na tela (highligther pela seta)
-#527# Enquanto stabilzier está ativo, ele irá parar de rotação de cada vez, mesmo se você realmente não precisa dele, isso vai aumentar o consumo de combustível. assim, poderia ser útil para desativar stabilizrer se você não precisa dele.
+Porém, note que sua massa de reação é limitada. Estes motores de manobra básicos consomem hidrogênio líquido. Sua quantidade de hidrogênio líquido é exibida na tela, conforme indicado pela seta.
+#527# Enquanto ativa, a estabilização irá agir contra qualquer rotação, mesmo quando isso não for necessário. Já que o sistema utiliza os propulsores da nave, manter o estabilizador ligado aumenta o consumo de massa de reação.
 
-Desativar stbilizer pressionando R hotkey.
-#528# Agora tente mover seu navio um pouco usando as teclas W a S P E movê-lo para frente, para trás, esquerda e direita.
-#529# Agora diminuir o zoom de uma câmera, e observar um planeta mais próximo e sua surroindings.
+Desative o estabilizador pressionando sua tecla de atalho (R). 
+#528# Agora tente movimentar sua nave um pouco, utilizando as teclas W, S, Q e E para movê-la para frente, para trás, esquerda e direita.
+#529# Agora diminua o zoom da câmera e obseve o planeta mais próximo e seus arredores.
 
-Você probabli notado que o seu navio não é ficar em um só lugar. O navio gira em órbita ao redor do planeta.
-#530# Apesar de o orbital mecânico, neste jogo, o movimento é muito mais simples do que no mundo real.
+Você provavelmente deve ter notado que sua nave não fica parada no lugar. Ao invés disso, a nave orbita o planeta próximo.
+#530# Mesmo com as mecânicas orbitais deste jogo, movimentações aqui são muito mais simples do que no mundo real.
 
-Vamos tentar uma abordagem para o próximo asteróide.
-Selecione o highclickted asteróide pelo clique do mouse.
-#531# Agora apresentar velocidade relativa
-#532# Enquanto a ferramenta estiver ativa e você tiver selecionado um objeto, você verá duas setas perto de seu navio.
+Vamos tentar nos aproximar a um asteroide próximo.
+Selecione o asteroide indicado clicando nele.
+#531# Agora acione o indicador de velocidade relativa.
+#532# Enquanto o indicador estiver ativo e você tiver um objeto selecionado, você irá ver dois vetores próximos a sua nave.
 
-Branca de seta de direção para o destino selecionado
-Orrange de seta - vetor velocidade do navio em relação ao destino selecionado
-#533# Agora, a fim de abordagem do alvo selecionado, começar a mover o navio na direção do alvo.
+Seta branca - direção ao objeto selecionado.
+Seta laranja - vetor de velocidade de sua nave relativo ao objeto selecionado.
+#533# Comece a movimentar sua nave para se aproximar ao asteroide.
 
-Você precisa alinhar orrange seta com a mesma direção que a seta branca.
-#534# Bom. Depois de duas setas alinhados, isso significa que o seu navio se move para a direita em direção ao alvo.
+Você deve alinhar o vetor laranja com o vetor branco.
+#534# OK. Ter ambos os vetores alinhados significa que sua nave está indo em direção ao alvo.
 
-Manter um olho na distância do alvo. Não esmague.
-Uma vez que você vai abordar, desacelerar seu navio até a seta amarela wil tornou-se muito curto. Ele significa que a sua velocidade relativa é quase zero.
+Fique de olho na distância e velocidade relativa ao asteroide. Não bata nele.
+Quando estiver se aproximando, desacelere sua nave até o vetor laranja estiver bastante curto. Isso significa que sua velocidade relativa estará próxima a zero.
 
-Abordagem alvo selecionado e parar o navio de perto.
-#535# Bom. Vamos tentar novamente para outro asteróide.
-#536# Mover a sua nave para o marcador de asteróide.
-#537# E mais um tempo.
+Aproxime-se ao objeto selecionado e pare sua nave próxima a ele.
+#535# OK. Vamos tentar novamente para um asteroide diferente.
+#536# Movimente sua nave ao asteroide indicado.
+#537# Mais uma vez.
 
-Mova sua nave para destacou asteróide.
-#538# Perfeito! Agora você já sabe como abordagem para objetos que localizado não muito longe de seu navio.
-#539# Agora vamos mina de recursos, a fim de vendê-lo e ganhar créditos.
+Mova sua nave para o asteroide indicado.
+#538# Perfeito! Agora você já sabe como se deslocar para objetos próximos.
+#539# Agora vamos minerar alguns recursos para vendê-los e obter créditos.
 
-O seu navio já estiver equipado com uma mining laser. A fim de ativá-lo, selecione a mineração de laser e pressione o botão "Alternar" apareceu na janela.
+Sua nave já está equipada com um laser de mineração. Para acioná-lo, selecione o laser de mineração e clique no botâo "Acionar" na janela que aparece.
 
-Observe que a mineração laser, consome uma energia que é exibido na direita, de cima do canto da tela, para soltar um laser enquanto ele não está direcionado em um asteróide.
+Observe que um laser de mineração ativo consome energia, que é exibida no canto superior direito da tela, então desative o laser quando ele não estiver direcionado para algum asteroide.
 
-Agora meus próximos de um asteróide utilizando a mineração de laser e reunir alguns recursos.
-#540# Durante a mineração, você verá um indicador que mostra uma saída.
-Note que o mais perto de mineração de laser para asteróide, mais eficaz.
+Agora minere um asteroide próximo utilizando o laser de mineração e colete alguns recursos.
+#540# Durante a mineração, você visualizará um indicador que mostra a eficiência atual do laser.
+Quanto mais próximo o laser estiver do asteroide, mais rapidamente ele coleta recursos.
 
-Agora abra uma carga de interface.
-#541# neste modo, pode ver o conteúdo de qualquer dispositivo de armazenamento no seu navio.
-Aqui você pode ver um combustível, energia e reuniu minério.
+Agora, abra a interface de carga.
+#541# Neste modo você pode visualizar o conteúdo de qualquer contêiner de armazenamento em sua nave.
+Aqui você pode ver a massa de reação, energia, e recursos coletados de sua nave.
 
-Você pode mover os recursos de um recipiente para outro, através do método arrastar e largar. Mas não é preciso para agora, então, basta desabilitar uma carga de interface.
-#542# Nova estação espacial chegou apenas no sistema de estrelas.
+Você pode mover itens de um contêiner a outro arrastando. No momento isso não é necessário, então só desative a interface de carga.
+#542# Uma estação espacial nova acabou de chegar ao sistema estelar.
 
-Vamos acoplar com a estação e reabastecer o navio.
-Selecione destacado estação espacial.
-#543# Solicitar uma permissão para ancoragem
-#544# A estação de reserva gratuitamente uma porta de ancoragem para o seu navio.
+Vamos nos acoplar a estação e reabastecer a nave.
+#543# Solicite permissão de docagem.
+#544# A estação irá reservar uma porta de docagem livre para sua nave.
 
-Abordagem designada de porta de encaixe e precisa tocá-lo com a sua própria porta de ancoragem do seu navio.
-#545# Agora abra o painel de negociação
-#546# nesta janela, localize a linha "ponte de Hidrogênio" e pressione o botão "Comprar", após isso, selecione a quantidade desejada, por exemplo, 10 e confirmar uma ordem.
+Siga até a porta de docagem demarcada e encaixe-a precisamente com a porta de docagem de sua própria nave.
+#545# Agora, abra o painel de negociação.
+#546# Nesta janela, localize a linha "Hidrogênio" e clique em Comprar. Após isso, selecione a quantidade desejada(por exemplo, 10) e confirme sua compra.
 
-Além disso, aqui você pode vender recursos recolhidos. Tente-e pressione avançar e quando será feito.
-#547# Agora vamos testar uma arma
+Além disso, aqui você pode vender recursos coletados. Tente vender seus minérios, e clique em próximo quando isso for completado.
+#547# Agora vamos testar uma arma!
 
-O seu navio não tem uma arma, então você precisa para expandir o seu navio.
-Mais tarde você vai ser capaz de construir módulos usando engenharia bay, mas por agora você pode comprar novos módulos na estação.
+Sua nave não possui uma no momento, então você precisa expandir sua nave.
+Mais tarde você poderá construir módulos por conta própria, mas por enquanto é possível comprar módulos novos em uma estação espacial.
 
-Selecione a estação e pressione "Estaleiro" botão.
-#548# No menu apareceu, selecione uma torre de plataforma.
+Selecione a estação e clique no botão "Estaleiro".
+#548# No menu que aparecer, selecione uma plataforma de torretas.
 
-Você vai ver uma montagem de pontos em seu navio. Colocar uma torre em qualquer lugar onde você quiser.
-#549# Agora selecione um canhão a partir da lista e anexá-lo no topo de sua torre.
-#550# Bom. Para usar um canhão, você precisa de uma munição.
+Você verá uma série de pontos de junção em sua nave. Coloque uma torreta em qualquer lugar de sua nave que você quiser.
+#549# Agora selecione um canhão do menu de construção e conecte-o com sua torreta.
+#550# OK. Para utilizar um canhão, você precisa de munição.
 
-Comprar munição da estação usando "Comércio".
-#551# Depois de você comprar uma munição, você deve conectar o seu canhão para o armazenamento, onde ele deve tomar uma munição.
+Compre munições da estação usando o menu de comércio.
+#551# Após comprar munições, você deve conectar seu canhão ao contâiner de carga que contiver suas munições. 
 
-Abrir uma conexão de recurso manager.
-#552# neste modo, você vai ver uma linhas que representa um fluxo de recursos.
+Abra o gerenciador de conexão de recursos.
+#552# Neste modo você verá linhas que representam fluxos de recursos.
 
-Muitos dispositivos devem ser conencted para armazenamentos em ordem para trabalhar. Os motores devem estar conectado para tanques de combustível. Geradores de escudo deve ser conectado à alimentação de estoques etc.
+Vários dispositivos devem estar conectados a contêineres de armazenamento para funcionar. Propulsores devem estar conectados a tanques de massa de reação. Geradores de escudo devem ser conectados a acumuladores, etc.
 
-Agora, conecte um canhão para recipiente com munição por arrastar e soltar linha a partir do ponto cinza para o recipiente.
-#553# Agora você pode desencaixar a partir da estação.
+Agora, conecte seu canhão ao contêiner com munição arrastando uma linha entre seu canhão e o contêiner de munições. Comece no ponto cinza de seu canhão, então mova-o até o contêiner.
+#553# Agora você pode desdocar da estação.
 
-Para desencaixar, selecione o seu encaixe da porta e pressione um botão em seu painel de controle.
-#554# Torres pode ser operado manualmente ou você pode ativar o modo automático.
+Para desacoplar, selecione sua porta de docagem e pressione o botão em seu painel de controle.
+#554# Torretas podem ser operadas manualmente ou pelo modo automático.
 
-Vamos tentar um controle manual.
-Selecione um revólver e pressione "controle Manual".
-Você também pode pressionar "Show do intervalo" para ativar a interface.
-#555# Tente fazer vários disparos de teste e pressione avançar.
-#556# Você concluiu o tutorial básico.
+Vamos tentar pelo controle manual.
+Selecione uma torre e clique em "Controle manual".
+Você também pode clicar em "Mostrar alcance" para visualizar o alcance efetivo de seu canhão.
+#555# Tente realizar alguns disparos de teste e clique em próximo para continuar.
+#556# Parabéns! Você concluiu o tutorial básico.
 
-Se você precisar de informações adicionais, verifique a guia da comunidade.
-#557# Você chegou no star system, você tem uma pequena nave de mineração, um pouco de hidrogênio na tanques de combustível, o que é suficiente para um vôo para o próximo asteróides e estações. Use o seu mining laser para reunir recursos de uma asteróides, e vendê-lo no próximo estação de negociação.
+Se você precisar de informações adicionais, lembre-se de ler o guia da comunidade.
+#557# Você chegou ao sistema estelar. Você tem uma nave de mineração pequena, e um pouco de hidrogênio nos tanques, que é suficiente para um voo até os asteroides e estações mais próximos. Use seu laser de mineração para coletar recursos de asteroides, e venda-os em qualquer estação próxima.
 
-Modificar seu navio no estaleiro e execute missões, a fim de melhorar sua reputação e ter acesso aos novos módulos.
-#558# Display danificado módulos
-#559# exibir Temporariamente pontos danificados módulos do navio
-#560# Direito do mouse
+Modifique sua nave no estaleiro e complete missões para melhorar sua reputação e obter acesso a novos módulos.
+#558# Mostar módulos danificados
+#559# Mostra temporariamente a saúde de módulos danificados na nave ativa
+#560# Clique direito
 #561# Cancelar
-#562# clique Esquerdo
-#563# Reparo
-#564# objectos de Destino entregue a ponto de destino
-#565# objectos de Destino não é agarrou com um grabber
-#566# objectos de Destino têm baixa velocidade relativa com o ponto de destino
-#567# objectos de Destino não está ligada a qualquer navio
-#568# Destruir o alvo
-#569# Estabilizar a órbita
-#570# Ativar o piloto automático, que irá automaticamente manter a órbita circular em torno de um planeta ou estrela, mesmo se o navio vai ser afetado por forças externas.
-Manual de controle para desativar este modo.
-#571# Angular gama
-#572# a taxa de giro
-#573# Max gama
-#574# Manual de controle
-#575# modo Automático
-#576# Ataque de detritos
-#577# Ataque de foguetes
-#578# deg
-#579# deg/s
+#562# Clique esquerdo
+#563# Consertar
+#564# Objeto alvo entregue ao ponto de destino
+#565# Objeto alvo não está conectado a uma garra
+#566# Objeto alvo deve ter baixa velocidade relativa ao ponto de destino
+#567# Objeto alvo não está conectado a qualquer nave
+#568# Destruir alvo
+#569# Estabilizar órbita
+#570# Ativar o piloto automático, que irá manter a nave em uma órbita circular em torno de um planeta ou estrela, mesmo se a nave for afetada por forças externas.
+
+Controle a nave manualmente para desativar o sistema.
+#571# Ângulo de alcance
+#572# Taxa de rotação
+#573# Alcance máximo
+#574# Controle manual
+#575# Modo automático
+#576# Atacar detritos
+#577# Atacar mísseis
+#578# graus
+#579# graus/s
 #580# Vender módulo
 #581# CR
-#582# Módulo danificado, o preço é reduzido
-#583# preço Base
+#582# Módulo danificado, valor reduzido
+#583# Preço base
 #584# Selecione o módulo para vender
-#585# Danos
-#586# raio de Explosão
-#587# Fogo atraso
-#588# Recuo força
+#585# Dano
+#586# Raio de explosão
+#587# Intervalo entre disparos
+#588# Força de recuo
 #589# kN
 #590# DPS
-#591# Intervalo
+#591# Alcance
 #592# s
 #593# min
 #594# Munição
 #595# Desconstruir
 #596# Construir
-#597# Este módulo industrial equipado com impressoras 3D e robôs que permite a construção de novos módulos, usando vários recursos.
-#598# para construir. certifique-se de que o recurso de pontos de conexão conectado para recipientes com recurso apropriado.
-#599# Capazes de extrair recursos úteis a partir de asteróides. Também pode ser usado como uma estreita faixa de arma.
-#600# Ele vai descarregar automaticamente extraídos de recursos em recipiente adequado no navio.
-#601# Capazes de crescer o alimento de planta para um dos membros da tripulação. Necessita de energia para funcionar.
-#602# Este dispositivo é capaz de derreter o gelo e utilizando o processo de eletrólise dividir obtidos água moléculas em dois átomos de hidrogênio e um átomo de oxigênio, que pode ser usada como propelente e oxidante para um reativa motores.
-#603# Base para a plataforma de armas. Capaz de girar a arma anexada em diferentes direções dentro de certos ângulos.
+#597# Módulo equipado com impressoras 3D industriais e drones que permite a construção de novos módulos utilizando vários recursos.
+#598# Para construir com ele, certifique-se de que os pontos de conexão de recursos estejam conectados a contêiners com recursos apropriados.
+#599# Capaz de extrair recursos úteis de asteroides. Também pode ser usado como arma de curto alcance.
+#600# Irá descarregar recursos extraídos em um contêiner apropriado na nave.
+#601# Capaz de criar plantas alimentícias para tripulantes. Requer energia para operar.
+#602# Este aparelho consegue derreter gelo e utilizando o processo de eletrólise separar a água obtida em hidrogênio e oxigênio que podem ser utilizados como combustível e oxidante para propulsores de reação.
+#603# Plataforma base para armas. Permite rotacionar a arma instalade em direções diferentes dentro de certos ângulos.
 
-Pode ser controlado manualmente ou em modo automático.
-No modo automático, ele será automaticamente atacar alvos especificados.
-#604# a Maioria das armas deve ser colocado sobre este módulo.
-#605# módulo que permite o acoplamento com os outros navios, ou de um estações, especialmente se eles são pertencentes a outras facções.
-#606# Permite que você facilmente detectar e selecionar vários objetos dentro do intervalo especificado. Especialmente útil se você precisa detectar objectos pequenos, tais como restos ou pequenos asteróides.
-#607# Simples parte estrutural.
-#608# Pode ser usado como um armazenamento de recursos sólidos.
+Pode ser controlada manualmente ou em modo automático.
+No modo automático irá atacar automaticamente alvos especificados.
+#604# A maioria das armas devem ser instaladas neste módulo.
+#605# Módulo que permite docagem com outras naves ou estações, especialmente se pertencerem a outras facções.
+#606# Permite facilmente detectar e selecionar vários objetos dentro de seu alcance. Especialmente útil na detecção de objetos pequenos como detritos ou asteroides pequenos.
+#607# Peça estrutural simples.
+#608# Pode ser usado como contêiner para recursos sólidos.
 #609# Consome urânio e gera energia.
-#610# Gera energia quando os painéis direcionados em uma estrela.
-#611# a Eficiência depende da distância e do ângulo para uma estrela.
-#612# Recipiente, que pode armazenar qualquer líquido ou um gás, tal como o combustível para um motor.
-#613# Permite recolher detritos do espaço e, automaticamente, refiná-la em materiais utilizáveis.
-#614# Recipiente, que pode armazenar sólido de carga, tais como minério, munição ou de alimentos.
-#615# braço Hidráulico, o que permite pegar vários objetos no espaço, tais como asteróides, detritos ou outros navios.
-#616# Este dispositivo é capaz de criar uma esfera ou elipsóide em torno de si o que irá proteger a nave de qualquer dano.
-#617# Consome energia enquanto está ativo.
+#610# Gera energia quando os painéis são direcionados a uma estrela.
+#611# A eficiência depende da distância e ângulo relativos à estrela.
+#612# Recipiente capaz de armazenar quaisquer líquidos ou gases, como massa de reação para propulsores.
+#613# Permite a coleta de detritos espaciais, automaticamente refinando-os em materiais utilizáveis.
+#614# Contêiner que pode armazenar cargas sólidas, como minérios, munições ou alimentos.
+#615# Braço hidráulico que permite agarrar vários objetos, como asteroides, detritos ou outras naves.
+#616# Este equipamento gera uma esfera ou elipsoide ao redor de si mesmo que protege a nave de fontes de dano.
+#617# Consome energia enquanto ativo.
 
-Consome energia adicional para bloqueada unidade de danos.
+Consome energia adicional por danos bloqueados.
 
-Tamanho do campo de proteção pode ser alterado. O consumo de energia depende do tamanho.
-#618# Este dispositivo é capaz de emitir direcional raio de gravitação, ondas que podem empurrar um objeto específico em direção específica.
-#619# Quando ativo, arrastar objetos dentro do círculo branco usando o botão esquerdo do mouse para movê-los em qualquer direção.
-#620# Permite a construção de um navio com giratório partes.
-#621# Permite a construção de um navio com partes móveis.
-#622# motor Químico, que cria o empuxo devido a combustão do oxigênio e do hidrogênio na câmara de combustão e exaustão dos produtos da combustão nossa do bico.
+Pode-se alterar o tamanho do campo de proteção. O consumo de energia depende do tamanho.
+#618# Aparelho que emite raios gravitacionais direcionados que podem movimentar um objeto em uma direção específica.
+#619# Quando ativo, Arraste objetos dentro do círculo branco usando o botão esquerdo do mouse para movimentá-los em qualquer direção.
+#620# Permite a construção de uma nave com partes giratórias.
+#621# Permite a construção de uma nave com partes móveis.
+#622# Propulsor químico que gera impulso a partir da combustão de hidrogênio e oxigênio dentro da câmara de combustão, ejetando produtos da combustão pelo bocal.
 
-Para funcionar, deve estar ligado para tanques de combustível com o oxigênio e o hidrogênio.
+Para funcionar, deve estar conectado a tanques contendo hidrogênio e oxigênio.
+Hidrogênio necessário como combustível e oxigênio como oxidante.
+#623# Permite rotacionar uma nave utilizando apenas energia.
+#624# Propulsor que utiliza gás xenônio e energia elétrica. Sua vantagem comparada a propulsores químicos é que só exige uma quantidade muito pequena de massa de reação, porém gera um impulso muito menor. Por conta disso, deve operar continuamente durante longos períodos de tempo.
+#625# Propulsor de manobra simples e barato que expulsa hidrogênio pressurizado.
 
-O hidrogênio necessário como combustível e oxigênio como oxidante.
-#623# Permite rodar um navio, utilizando apenas uma energia.
-#624# Isto requer o motor a gás xenônio e energia elétrica. Sua vantagem em relação aos motores de química é que ele requer uma quantidade muito pequena de combustível, no entanto, tem uma muito menor impulso. Como resultado, ele é capaz de trabalhar continuamente por um longo tempo
-#625# Simples e barato de manobra do motor que empurra o hidrogênio pressurizado.
+Para funcionar, deve estar conectado a um tanque contendo hidrogênio.
+#626# Aparato capaz de dobrar o espaço ao seu redor que permite viagens muito mais rápidas que a velocidade da luz.
 
-Para funcionar, deve estar ligado ao tanque de combustível, que contém hidrogênio.
-#626# Um aparelho que é capaz de deformar um espaço em torno de um navio, que permite viajar com velocidade muito mais rápida do que a velocidade da luz.
+Pode ser usado dentro de um sistema estelar para viajar instantaneamente de um ponto a outro.
+#627# Move todos os objetos que se encontrarem dentro do campo de salto.
 
-Ele pode ser usado dentro de um sistema de estrelas para o instante de viagem de um ponto a outro.
-#627# Move todos os objetos que encontra dentro de uma teia de campo
+Pode-se alterar o tamanho do campo de salto.
 
-Tamanho do warp campo pode ser alterado
+O consumo de energia depende do tamanho do campo.
 
-O consumo de energia depende do tamanho do warp campo
-
-Se deformar campo irá colidir com algo, ele vai ser desestabilizado e salto será anulada.
-#628# Deve ser ligado ao armazenamento de energia
-#629# Deve ser conectado ao armazenamento com foguetes
-#630# Devem ser conectados a um armazenamento de munição
-#631# Capazes de lançamento, de auto-guiada torpedo.
-Torpedo será orientada no objeto que foi selecionado durante o lançamento.
-Se nenhum objeto selecionado, torpedo, que será lançada em modo descontrolado.
-#632# Capazes de lançamento descontrolado de mísseis com alta taxa de fogo
-#633# Contém a energia gerada pelos reatores ou painéis solares. Qualquer dispositivo que requer alimentação deve ser ligado a ele
-#634# O centro de controle de qualquer navio, que inclui a ponte de comando, o computador principal e de alocação de recursos de hub
-#635# Criar pontos de
+Se o campo colidir com algo, ele será desestabilizado e o salto será abortado.
+#628# Deve ser ligado a um acumulador de energia.
+#629# Deve ser conectado a um contêiner contendo mísseis.
+#630# Devem ser conectados a um contêiner contendo munições.
+#631# Lança torpedos autonomamente guiados.
+O torpedo tentará atingir o objeto que estiver selecionado durante o lançamento.
+Se nenhum objeto for selecionado, o torpedo será lançado em modo não-guiado.
+#632# Lança mísseis não guiados com uma alta taxa de disparos.
+#633# Armazena energia gerada por reatores ou painéis solares. Qualquer dispositivo que necessite de energia deve ser conectado a um.
+#634# Centro de controle de qualquer nave, que inclui ponte de comando, computador principal e sistema de alocação de recursos.
+#635# Pontos de construção
 #636# Próximo nível
-#637# Necessário reputação
+#637# Reputação necessária
