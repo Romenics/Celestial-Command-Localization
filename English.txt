@@ -730,3 +730,5 @@ If no object is selected, the torpedo will be launched in unguided mode.
 #635# Build points
 #636# Next level
 #637# Required reputation
+#638# Glow effect
+#639# Show background

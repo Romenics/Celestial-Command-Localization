@@ -730,3 +730,5 @@ Se nessun oggetto è selezionato, siluro, che sarà lanciato in modalità libera
 #635# punti
 #636# livello Successivo
 #637# Required reputazione
+#638# Glow effect
+#639# Show background

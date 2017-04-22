@@ -730,3 +730,5 @@ Om inga objekt markerade, torped kommer att lanseras i ostyrd läge.
 #635# Bygga poäng
 #636# Nästa nivå
 #637# Krävs rykte
+#638# Glow effect
+#639# Show background

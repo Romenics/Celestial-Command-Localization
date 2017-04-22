@@ -727,3 +727,5 @@ Pokud není žádný objekt vybrán, torpédo bude zahájena v neřízené reži
 #635# Build bodů
 #636# Další úroveň
 #637# Požadované pověst
+#638# Glow effect
+#639# Show background

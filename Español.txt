@@ -726,11 +726,12 @@ Si urdimbre de campo va a chocar con algo, va a ser desestabilizado y salto ser�
 #631# Capaz de lanzar auto-guiada de torpedo.
 Torpedo serán incluidas en el objeto, que fue seleccionado durante el lanzamiento.
 Si no hay ningún objeto seleccionado, torpedo, que será lanzada en no guiados modo.
-#632# Capaz de lanzar misiles no guiados con alta tasa de fuego
-# Build
+#632# Capaz de lanzar misiles no guiados con alta tasa de fuego Build
 
 #633# Contiene la energía generada por reactores o paneles solares. Cualquier dispositivo que requiere de alimentación debe estar conectado a ella
 #634# El centro de control del buque, lo que incluye el comando puente, principal equipo y la asignación de recursos hub
 #635# la Acumulación de puntos
 #636# Siguiente nivel
 #637# Requerido reputación
+#638# Glow effect
+#639# Show background

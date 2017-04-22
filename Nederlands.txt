@@ -730,3 +730,5 @@ Als er geen object is geselecteerd, torpedo zal worden gelanceerd in vrije modus
 #635# Bouwen punten
 #636# Volgende niveau
 #637# Vereist reputatie
+#638# Glow effect
+#639# Show background

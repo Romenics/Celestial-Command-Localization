@@ -728,3 +728,5 @@ Si aucun objet sélectionné, torpille sera lancé en unguided mode.
 #635# accumuler des points
 #636# niveau Suivant
 #637# de réputation Requis
+#638# Glow effect
+#639# Show background

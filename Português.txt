@@ -729,3 +729,5 @@ Se nenhum objeto for selecionado, o torpedo será lançado em modo não-guiado.
 #635# Pontos de construção
 #636# Próximo nível
 #637# Reputação necessária
+#638# Glow effect
+#639# Show background

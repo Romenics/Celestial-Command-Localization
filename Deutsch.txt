@@ -732,3 +732,5 @@ Wenn kein Objekt ausgewählt ist, torpedo startet im geführten Modus.
 #635# Build Punkte
 #636# Next level
 #637# Benötigte Ruf
+#638# Glow effect
+#639# Show background

@@ -730,3 +730,5 @@ Ak nie, objekt vybratý, torpédo bude zahájená v neriadená režime.
 #635# Budovať bodov
 #636# Ďalšiu úroveň
 #637# Vyžaduje povesť
+#638# Glow effect
+#639# Show background

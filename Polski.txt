@@ -732,3 +732,5 @@ Jeśli nie ma zaznaczonych obiektów, Torpedy zostanie uruchomiony w tryb niezar
 #635# punkty montażu
 #636# następnego poziomu
 #637# potrzebna jest Reputacja
+#638# Glow effect
+#639# Show background

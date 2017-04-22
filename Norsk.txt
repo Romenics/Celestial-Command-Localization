@@ -730,3 +730,5 @@ Hvis ingen objekt er valgt, torpedo vil bli lansert i unguided-modus.
 #635# Bygge poeng
 #636# Neste nivå
 #637# Nødvendig rykte
+#638# Glow effect
+#639# Show background
