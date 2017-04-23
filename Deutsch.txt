@@ -728,7 +728,7 @@ Torpedo sein Ziel-Objekt ausgewählt wurde beim Start.
 Wenn kein Objekt ausgewählt ist, torpedo startet im geführten Modus.
 #632#, Fähig zu starten, ungelenkte Raketen mit hoher Feuerrate
 #633# Enthält die Energie aus Reaktoren oder solar-panels. Jedes Gerät, das benötigt Strom angeschlossen werden sollte es
-#634# Die Kommando-Brücke beinhaltet die wichtigsten Computer und steuert Ressourcenzuweisungen auf jedem Schiff.
+#634# Die Kommando-Brücke beinhaltet die wichtigsten Computer und steuert Ressourcenzuweisungen für das jeweilige Schiff.
 #635# Baupunkte
 #636# nächste Reputationsstufe
 #637# Benötigte Reputation
