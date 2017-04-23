@@ -11,7 +11,7 @@
 #9# Verlassen
 #10# Neustart
 #11# EARLY ACCESS
-#12# Das Spiel ist noch nicht fertig, aber es befindet sich in sehr aktiver Entwicklung. Besuchen Sie den Entwicklerblog im Steam Community Hub, um mehr Informationen zu erhalten.
+#12# Das Spiel ist noch nicht fertig, es befindet sich jedoch in sehr aktiver Entwicklung. Besuchen Sie den Entwicklerblog im Steam Community Hub, um mehr Informationen zu erhalten.
 #13# Neuigkeiten
 #14# Diskussionen
 #15# Anleitungen
@@ -41,7 +41,7 @@
 #39# Kantenglättung
 #40# Vertikale Synchronisation
 #41# Bildauflösung
-#42# Drücke eine Taste für die Tastenbelegung oder ESC um zu beenden
+#42# Drücke eine Taste für die Tastenbelegung oder ESC zum Beenden
 #43# Speichern
 #44# Standard
 #45# Tastenkürzel
@@ -388,7 +388,7 @@
 #386# Das nächste geklonte Schiff wird der alliierten Fraktion angehören.
 #387# Das nächste geklonte Schiff wird der feindlichen Fraktion angehören.
 #388# Asteroid
-#389# Malwerkzeug
+#389# Farbwerkzeug
 #390# Modul zum bemalen auswählen
 #391# Links-Klick zum malen
 #392# Gespeicherte Schiffe
@@ -459,18 +459,18 @@
 ЯндексПереводчик
 
 #457# Der Schub wird nicht mehr als den angegebenen Wert. Dies ist nützlich, wenn Sie wollen, richten Sie Ihr "center of thrust" mit "center of mass" um zu vermeiden, unerwünschte Abweichung vom Kurs während der Bewegung.
-#458# Buy-Preis
-#459# Verkaufen Preis
-#460# Nachfrage-Relation
+#458# Einkaufspreis
+#459# Verkaufspreis
+#460# Angebot-Nachfrage-Verhältnis
 #461# Arc-Anschlüsse
-#462# Kompensieren FPS
+#462# Kompensiere niedrige FPS
 #463# X-Achse Invertieren
 #464# Invert Y-Achse
 #465# Tutorial
-#466# Single-player
-#467# Multi-player
-#468#, Load
-#469# Max-mining-rate
+#466# Einzelspieler
+#467# Mehrspieler
+#468#, laden
+#469# maximale Bergbaurate
 #470# Aktivierung Zeit
 #471# Max-Bereich
 #472# Max Schaden
@@ -482,50 +482,50 @@
 #478# - Station, Cargo-Container
 #479# Station-Speicher-Tanks
 #480# Gehen Sie zu den vorgesehenen docking-Anschluss
-#481# Warten auf eine freie docking-port
+#481# Warten auf eine freie Andockschleuse
 #482# Position in der Warteschlange
-#483# Ihre aktive Schiff sollte angedockt an der Schiffswerft
+#483# Ihr aktives Schiff sollte an der Station angedockt sein
 #484# Modul verkauft
 #485# Modul
 #486# verkauft
 #487# Modul gekauft für
-#488# Mining laser deaktiviert
-#489# Keine freien Speicherplatz für die Ressource
+#488# Bergbaulaser deaktiviert
+#489# Keine freier Lagerraum für die Ressource
 #490# Wählen Sie ein Objekt und versuchen Sie es erneut
 #491# Mission abgeschlossen
 #492# CR erhalten
-#493#, Nicht angedockt, die mit dem Schiff
+#493#, Nicht mit dem Schiff angedockt
 #494# Neue mission verfügbar
-#495# Bahnhof
+#495# Station
 #496# Nicht genug CR
 #497# Preis
 #498# Mission gescheitert
 #499# Low-signal
-#500# Zurückzukehren, das Schiff wieder zu star-system oder signal verloren in 60 Sekunden
+#500# Sie sollten Zurückzukehren, oder das Schiff wird in 60 Sekunden vernichtet 
 #501# - Signal verloren
-#502# Das Schiff verloren im Raum außerhalb von star-system
-#503# Position der Mitte der Schub relativ zum Zentrum der Masse
-#504# warpantrieb deaktiviert
-#505# Nicht genug power
-#506# Torpedo Launcher
+#502# Das Schiff wurde im Raum außerhalb des Sonnensystems verloren.
+#503# Position des Schubmittelpunktes relativ zum Massezentrum
+#504# Sprungantrieb deaktiviert
+#505# Nicht genug Energie
+#506# Torpedowerfer
 #507# Art
-#508# Planet radius
-#509# Atmosphäre radius
-#510# Einflussbereich radius
+#508# Planetendurchmesser
+#509# Atmosphäredurchmesser
+#510# Einflussbereich
 #511# Masse
 #512# Umlaufszeit
 #513# Orbital phase
-#514# Orbit radius
+#514# Orbitalradius
 #515# Reparatur
 #516# Modul ist nicht beschädigt
-#517# Wählen Sie Modul zu reparieren
+#517# Wählen Sie das zu reparierende Modul 
 #518# Reputation
-#519# Das ist euer Schiff
+#519# Das ist Ihr Schiff
 
-Halten Sie die Rechte Maus-Taste und ziehen Sie die Maus, um eine Ansicht drehen
-#520# Sie können schwenken Sie die Ansicht durch drücken und halten der mittleren Maustaste und ziehen der Maus
-#521# Verwenden Sie die Maus, scroll-Rad, um zu vergrößern
-#522# können Sie ein reset view default-position durch drücken der markierten Taste
+Halten Sie die rechte Maus-Taste und ziehen Sie die Maus, um die Ansicht zu drehen
+#520# Sie können die Ansicht schwenken, indem Sie die mittlere Maustaste halten und ziehen.
+#521# Verwenden Sie das Scrollrad um zu zoomen.
+#522# Ansicht zurücksetzen
 #523# Jetzt über die Bewegung
 
 Sie können Sie drehen Sie Ihr Schiff mit den Tasten A und D. Versuchen Sie, um dein Schiff zu drehen ein wenig nach Links und rechts.
@@ -717,7 +717,7 @@ Es kann verwendet werden innerhalb von ein Sterne-system für sofortiges Reisen 
 
 Die Größe der warp-Feld kann geändert werden
 
-Der Energieverbrauch hängt von der Größe des warp-Feld
+Der Energieverbrauch hängt von der Größe des Sprungantriebfeldes ab.
 
 Wenn warp-Feld wird sich stoßen mit etwas, wird es destabilisiert und springen wird abgebrochen.
 #628# verbunden werden Sollen stromspeicher
@@ -728,9 +728,9 @@ Torpedo sein Ziel-Objekt ausgewählt wurde beim Start.
 Wenn kein Objekt ausgewählt ist, torpedo startet im geführten Modus.
 #632#, Fähig zu starten, ungelenkte Raketen mit hoher Feuerrate
 #633# Enthält die Energie aus Reaktoren oder solar-panels. Jedes Gerät, das benötigt Strom angeschlossen werden sollte es
-#634# Das control-center von jedem Schiff, das beinhaltet die Kommando-Brücke, wichtigste computer-und Ressourcen-Zuweisung hub
-#635# Build Punkte
-#636# Next level
-#637# Benötigte Ruf
-#638# Glow effect
-#639# Show background
+#634# Die Kommando-Brücke beinhaltet die wichtigsten Computer und steuert Ressourcenzuweisungen für das jeweilige Schiff.
+#635# Baupunkte
+#636# nächste Reputationsstufe
+#637# Benötigte Reputation
+#638# Leuchteffekte
+#639# Hintergrund anzeigen
