@@ -735,3 +735,11 @@ Si no hay ningún objeto seleccionado, torpedo, que será lanzada en no guiados 
 #637# Requerido reputación
 #638# Glow effect
 #639# Show background
+#640# Black space background
+#641# Debug mode
+#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
+#643# Directed on star
+#644# Current production
+#645# Maximum production
+#646# Star blocked by
+#647# Small solar panel

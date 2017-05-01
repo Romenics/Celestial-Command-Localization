@@ -734,3 +734,11 @@ Wenn kein Objekt ausgewählt ist, torpedo startet im geführten Modus.
 #637# Benötigte Reputation
 #638# Leuchteffekte
 #639# Hintergrund anzeigen
+#640# Black space background
+#641# Debug mode
+#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
+#643# Directed on star
+#644# Current production
+#645# Maximum production
+#646# Star blocked by
+#647# Small solar panel
