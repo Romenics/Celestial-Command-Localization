@@ -22,7 +22,7 @@
 #20# Conexión directa
 #21# Steam Connect (en breve)
 #22# Desarrolladores
-#23# #23# El juego está siendo desarrollados por tres amigos llamados Artaani, Riya y Romenics  Visita el blog de desarrollo en la Comunidad de Steam para más información
+#23# El juego está siendo desarrollados por tres amigos llamados Artaani, Riya y Romenics  Visita el blog de desarrollo en la Comunidad de Steam para más información
 #24# Guardar
 #25# Por defecto
 #26# Aplicar
