@@ -732,13 +732,13 @@ Jeśli nie ma zaznaczonych obiektów, Torpedy zostanie uruchomiony w tryb niezar
 #635# punkty montażu
 #636# następnego poziomu
 #637# potrzebna jest Reputacja
-#638# Glow effect
-#639# Show background
-#640# Black space background
-#641# Debug mode
-#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
-#643# Directed on star
-#644# Current production
-#645# Maximum production
-#646# Star blocked by
-#647# Small solar panel
+#638# Efekt poświaty
+#639# Pokaż tło
+#640# Czarny kosmos w tle
+#641# Tryb debugowania
+#642# W trybie debugowania, gdy napotkasz błąd, zobaczysz propozycję wysłania nam raportu o błędzie. Pomoże nam to poprawić różne błędy znacznie szybciej.
+#643# Skierowano do gwiazdy
+#644# Obecna produkcja
+#645# Maksymalna produkcja
+#646# Gwiazda zablokowana przez
+#647# Mały panel słoneczny
