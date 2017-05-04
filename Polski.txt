@@ -632,35 +632,35 @@ Modyfikować swój statek w stoczni i wykonywania misji, aby poprawić swoją re
 #559# Tymczasowo wyświetlaj elementy życia uszkodzonych modułów W tym aktywnym статку
 #560# Prawy klik
 #561# Anuluj
-#562# Levy kliknięciem
+#562# Lewy klik
 #563# Napraw
-#564# Wyznaczone obiekty dostarczone robić celu
-#565# Wyznaczone obiekty nia złapane chwytakiem
+#564# Wyznaczone obiekty dostarczone do celu
+#565# Wyznaczone obiekty nie złapane chwytakiem
 #566# Wyznaczone obiekty mają niską prędkość względem celu
 #567# Wyznaczone obiekty nie są powiązane z żadnym statkiem
-#568# Zniszcz lrpOrbitę
-#569# Wyrównaj
-#570# autopilota Aktywuj, który automatycznie utrzyma orbitę kołową wokół planety lub gwiazdy, nawet W przypadku działania dom sił zewnętrznych.
-Sterowanie ręczne wyłączy dziesięć tryb.
+#568# Zniszcz cel
+#569# Wyrównaj orbitę
+#570# Aktywuj autopilota, który automatycznie utrzyma orbitę kołową wokół planety lub gwiazdy, nawet w przypadku działania na statek sił zewnętrznych.
+Sterowanie ręczne wyłączy ten tryb.
 #571# Zakres kątowy
 #572# Szybkość obrotu
 #573# Maksymalny zasięg
-Sterowanie #574# ręczne
-#575# automatyczny Tryb
-#576# atak śmieci
-Rakiety atak #577# 
-#578# grad
-#579# grad/z
-#580# Sprzedaj pełni funkcję konwerter
-#581# SG
-#582#, pełni funkcję konwerter uszkodzony Cena obniżona
+#574# Sterowanie ręczne
+#575# Tryb automatyczny
+#576# Atakować odłamki
+#577# Atakować rakiety
+#578# deg
+#579# deg/s
+#580# Sprzedaj moduł
+#581# CR
+#582# Moduł uszkodzony, cena obniżona
 #583# Cena podstawowa
-#584# Wybierz pełni funkcję konwerter zrobić sprzedania
+#584# Wybierz moduł do sprzedania
 #585# Uszkodzenie
-#586# Промень eksplozji
+#586# Promień eksplozji
 #587# Opóźnienie wystrzału
 #588# Siła odrzutu
-#589# kn
+#589# kN
 #590# DPS
 #591# Zasięg
 #592# s
