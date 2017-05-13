@@ -139,7 +139,7 @@
 #137# Gezondheid
 #138# Honger
 #139# Moraal
-#140# LEER HET SPEL
+#140# TIPS
 #141# Een officiële introductie tot het spel is nog niet af, voor nu raden we aan om deze gids van een speler te gebruiken
 #142# OPEN GIDS
 #143# HANDELEN
@@ -457,22 +457,22 @@
 #455# Activeer de motor handmatig. Hiervoor zijn tot 3 sneltoetsen in te stellen.
 #456# Wanneer geactiveerd, is deze motor automatisch te besturen met de WASDQE-toetsen.
 #457# De stuwkracht van deze motor zal de gestelde limiet niet overschrijden. Dit kan handig zijn om de stuwkracht van het schip gebalanceerd te houden met het zwaartepunt.
-#458# Buy Prijs
-#459# Verkoop Prijs
+#458# Koopprijs
+#459# Verkoopprijs
 #460# Vraag-Verhouding
 #461# Arc aansluitingen
 #462# Compenseren FPS
 #463# Omkeren X-as
-#464# Invert Y-as
-#465# Tutorial
-#466# Single-player
-#467# Multi-speler
-#468# Belasting
+#464# Omkeren Y-as
+#465# Leer te spelen
+#466# Speel alleen
+#467# Speel online
+#468# Spel laden
 #469# Max mijnbouw tarief
 #470# Activation time
 #471# Max. bereik
 #472# Max schade
-#473# stroomverbruik
+#473# Stroomverbruik
 #474# Kleine Generator
 #475# Station Hub
 #476# Station Kant Sectie
@@ -518,226 +518,222 @@
 #516# Module niet beschadigd
 #517# module te Selecteren om te herstellen
 #518# Reputatie
-#519# Dit is uw schip
+#519# Dit is jouw schip!
 
-Houd de rechter muisknop ingedrukt en sleep de muis om te draaien van een uitzicht
-#520# U kan de pan van het uitzicht door de druk op en houd de middelste muisknop ingedrukt en sleep de muis
-#521# Gebruik muiswiel om in te zoomen
-#522# U kunt herstellen tot de standaard positie gemarkeerd door te drukken op knop
-#523# Nu over beweging
+Houd de rechter muisknop ingedrukt en sleep de muis om de camera te draaien
+#520# Je kunt de camera verplaatsen door de middelste muisknop in te drukken en de muis te slepen.
+#521# Gebruik het muiswiel om in te zoomen
+#522# Gebruik de gemarkeerde knop om het beeld weer op je schip te richten.
+#523# Nu de besturing!
 
-Je kan het draaien van uw schip door de toetsen A en D. Proberen te draaien van uw schip een beetje links en rechts.
-#524# er rekening mee dat uw schip zich in een vacuüm is er geen luchtwrijving, dus het zal houden van zijn linier en hoeksnelheid tot u zal het handmatig stoppen.
-#525# Automatische stabilisatie is erg handig als u wilt stoppen met het draaien van uw schip. Activeren stabilizator door op highlitted knop of de sneltoets
-#526# Terwijl de stabilisator actief is, wordt automatisch een motoren om de rotatie te stoppen van het schip.
+Je kunt het schip draaien met de toetsen A en D. Probeer het schip een klein beetje heen en weer te draaien.
+#524# Houd er rekening mee dat het schip zich in een vacuüm bevindt: Er is geen luchtwrijving, dus het schip blijft eindeloos draaien tenzij je hier iets aan doet.
+#525# Automatische stabilisatie is erg handig om het draaien van je schip te stoppen. Je activeert auto-stabilisatie door op de omcirkelde knop te klikken, of de sneltoets R in te drukken.
+#526# Auto-stabilisatie gebruikt de motoren van het schip om de rotatie te stoppen.
 
-Let er echter wel rekening mee, dat uw brandstof is beperkt. Deze basic manoeuvreren motoren verbruikt vloeibare waterstof. Uw huidige bedrag van luquid waterstof op het scherm weergegeven (highligther door een pijl)
-#527# Terwijl stabilzier actief is, wordt de stop rotatie elke keer, zelfs als u niet echt nodig hebt, zal deze verhoging van het verbruik van brandstof. het kan daarom nuttig zijn voor het uitschakelen van stabilizrer als je het niet nodig hebt.
+Houd er wel rekening mee dat dit brandstof kost. De motoren van jouw schip gebruiken vloeibare waterstof. Het omcirkelde getal is de hoeveelheid brandstof die je nu nog aan boord hebt.
+#527# Met auto-stabilisatie actief wordt elke rotatie tegengegaan. Dus ook terwijl je het schip probeert te besturen. Dit verhoogt je brandstofverbruik. In veel gevallen is het dus nuttig om de auto-stabilisatie uit te schakelen en alleen aan te zetten wanneer dit echt noodzakelijk is.
 
-Uitschakelen stbilizer door op R drukt, een sneltoets.
-#528# Nu proberen om het uw schip bewegen een beetje met de toetsen W S V E te verplaatsen naar voren, achteren, links en rechts.
-#529# zoom Nu uit een camera en observeren de dichtstbijzijnde planeet en haar surroindings.
+Schakel de auto-stabilisatie uit door óf op de omcirkelde knop te klikken óf de sneltoets R in te drukken.
+#528# Het schip kan ook in verschillende richtingen stuwen. Gebruik hiervoor de toetsen W S Q E.
+#529# Zoom nu uit (muiswiel) en observeer de dichtstbijzijnde planeet en haar directe omgeving.
 
-U probabli gemerkt dat uw schip niet op een plek blijven. Het schip draait in een baan rond de planeet.
-#530# Ondanks de excentrische monteur, in dit spel, beweging is veel eenvoudiger dan in de echte wereld.
+Het is je waarschijnlijk opgevallen dat het schip niet op één plek blijft hangen. Het schip draait namelijk in een baan rond de planeet.
+#530# Hoewel dit spel wel hemelmechanica toepast, is bewegen hier veel eenvoudiger dan in de echte wereld.
 
-Laten we proberen om een aanpak te asteroïde in de buurt.
-Selecteer de highclickted asteroïde met een muisklik.
-#531# Nu weer relatieve snelheid
-#532# Terwijl dit gereedschap actief is en u heeft gekozen voor een objecten, zie je twee pijlen in de buurt van uw schip.
+Laten we proberen om de omcirkelde asteroïde te bezoeken.
+Klik op de asteroïde om hem te selecteren.
+#531# Klik nu op de omcirkelde knop om jouw relatieve snelheid en positie ten opzichte van de asteroïde te tonen. Je kunt ook sneltoets G gebruiken.
+#532# Zolang je iets geselecteerd hebt laat dit gereedschap twee pijlen zien bij je schip.
 
-Witte pijl - richting om het geselecteerde doel
-Orrange pijl - snelheid vector van uw schip in vergelijking met geselecteerde doelgroep
-#533# Nu, om aan de benadering van de gekozen doelgroep, te beginnen om het uw schip bewegen in de richting van een doel.
+Witte pijl - Deze pijl wijst altijd vanaf je schip naar het geselecteerde doel.
+Oranje pijl - Deze pijl toont je relatieve snelheid ten opzichte van het geselecteerde doel.
+#533# Om met je schip bij de asteroïde uit te komen moet je je schip zó bewegen dat de witte en oranje pijl op één lijn komen. Probeer maar!
+#534# Goed gedaan. Je schip beweegt zich nu richting het doel.
 
-U moet uitlijnen orrange pijl met de richting van de witte pijl.
-#534# Goede. Nadat de twee pijlen uitgelijnd, betekent dit dat uw schip beweegt recht naar het doel.
+Let wel op de afstand tot de asteroïde, zodat je een harde botsing voorkomt.
 
-Houd een oog op de afstand tot het doel. Niet verpletteren.
-Zodra u een aanpak, vertragen uw schip tot gele pijl wil werd zeer kort. Het betekent dat je de relatieve snelheid is bijna nul.
+Zodra je in de buurt komt moet je afremmen. De gele pijl wordt dan steeds korter. Dat betekent dat je relatieve snelheid erg laag is.
 
-Benadering van de gekozen doelgroep en stop uw schip in de buurt.
-#535# Goede. Laten we het opnieuw proberen voor een andere asteroïde.
-#536# Verplaatsen uw schip te highlighter asteroïde.
-#537# En nog een keer.
+Probeer vlak naast de asteroïde te hangen, met een lage relatieve snelheid.
+#535# Goed. Laten we het opnieuw proberen voor een andere asteroïde.
+#536# Verplaats je schip naar de omcirkelde asteroïde. Selecteer hem eerst zodat de witte en oranje pijl naar de juiste plek wijzen.
+#537# Goed. Nog één keer! Beweeg het schip naar de omcirkelde asteroïde.
 
-Beweeg uw schip te gemarkeerd asteroïde.
-#538# Perfect! Nu weet je hoe om te gaan met objecten die niet al te ver van uw schip.
-#539# laten we Nu de mijne sommige middelen om te verkopen en verdien credits.
+Zoom eventueel uit (muiswiel) om hem te kunnen selecteren.
+#538# Perfect! Je weet nu hoe je dichtbijzijnde objecten kunt benaderen.
+#539# Dan gaan we nu naar wat grondstoffen boren, om die te verkopen en geld te verdienen.
 
-Uw schip al uitgerust met een mining laser. Om het te activeren, selecteert u de mining laser en druk op de knop "Schakelen" in het verschenen venster.
+Je schip heeft een groot laserkanon aan boord om mee te graven. Om deze te activeren, selecteer je de laser en druk je op de knop "Toggle laser" in het verschenen venster.
 
-Merk op dat mijn laser verbruikt een energie die wordt weergegeven in de rechter bovenhoek van het scherm, dus los van een laser, terwijl het niet is gericht op een asteroïde.
+Je laser verbruikt wel energie; dit wordt weergegeven in de rechter bovenhoek van het scherm. Schakel de laser dus alleen in wanneer deze op een asteroïde gericht is om verspilling te voorkomen.
 
-Nu de mijne een asteroïde in de buurt met behulp van de mining laser en het verzamelen van een aantal middelen.
-#540# in de mijnbouw, zie je een indicator die aangeeft een uitgang.
-Let op, de dichter mining laser asteroïde, het meer van kracht.
+Richt je laser op de dichtstbijzijnde asteroïde en zet hem aan om grondstoffen op te graven.
+#540# Tijdens het graven zie je een indicator die aangeeft welke grondstof je binnenkrijgt.
+Hoe dichter je laser op de asteroïde staat, hoe effectiever deze graaft.
 
-Open nu een lading interface.
-#541# In deze modus ziet u mogelijk een inhoud van een opslag op uw schip.
-Hier ziet u een brandstof, energie en verzameld ore.
+Klik nu op de omcirkelde knop om de laadruimte te bekijken.
+#541# In deze modus zie je de inhoud van je schip's opslagcontainers.
+Hier zie je opgeslagen brandstof, energie, en andere grondstoffen.
 
-U kunt middelen verplaatsen van de ene container naar de andere door te slepen en neerzetten. Maar het is het niet noodzakelijk voor nu dus gewoon uitschakelen van een lading interface.
-#542# Nieuwe ruimtestation net aangekomen in het star-systeem.
+Het is mogelijk om grondstoffen van de ene naar de andere container te verslepen, maar dat is nu niet nodig. Schakel de opslaginterface nu weer uit.
+#542# Een nieuw ruimtestation is zojuist aangekomen!
 
-Laten we docking-station met het station en bij te tanken van een schip.
-Selecteer gemarkeerd space station.
-#543# de Aanvraag van een toestemming voor docking
-#544# Het station zal reserveren voor een gratis docking-poort voor uw schip.
+Door met het station te koppelen kunnen we het schip bijtanken.
 
-Aanpak aangewezen docking poort en nauwkeurig te raken met je eigen docking poort van uw schip.
-#545# Nu open handel paneel
-#546# In dit venster, zoek de regel "Waterstof" en druk op "Kopen", na dat, selecteer het gewenste bedrag, bijvoorbeeld 10 en bevestigen van een bestelling.
+Selecteer het gemarkeerde ruimtestation.
+#543# Klik op de gemarkeerde knop om een koppeling aan te vragen.
+#544# Het station reserveert nu een vrije poort voor jouw schip.
 
-Ook hier kunt u verkopen verzamelde middelen. Proberen en druk op de knop volgende wanneer het zal gebeuren.
-#547# laten we Nu eens testen met een wapen
+Benader de betreffende poort en zorg (voorzichtig!) dat de poort van je eigen schip er langzaam tegenaan komt te staan.
+#545# Open nu het handelsscherm.
+#546# In dit venster, zoek de regel "Waterstof" en druk op "Kopen". Selecteer vervolgens de gewenste hoeveelheid, bijvoorbeeld 10, en bevestig de bestelling.
 
-Uw schip niet hebben van een wapen, dus je moet om uit te breiden uw schip.
-Later zult u in staat om te bouwen modules met behulp van engineering bay, maar voor nu kan je de nieuwe modules op het station.
+Je kunt hier ook materiaal verkopen, bijvoorbeeld de grondstoffen die je van de asteroïde hebt gehaald.
+#547# Tijd om een wapen te testen!
 
-Selecteer de zender en druk op de "Werf" knop.
-#548# In het verschenen menu, selecteer een toren platform.
+Je schip heeft nu nog geen wapen, dus die moet er op gezet worden.
 
-Zie je een montage punten op uw schip. Plaats een torentje overal waar u wilt.
-#549# selecteer Nu een kanon uit de lijst en bevestig het op de top van uw torentje.
-#550# Goede. Om gebruik te maken van een kanon, moet u een munitie.
+Nieuwe modules kunnen worden gebouwd en gekocht. Voor nu houden we het bij kopen via het ruimtestation.
 
-Munitie te kopen van het station met behulp van de "Handel" knop.
-#551# Nadat u hebt gekocht een munitie, moet u de verbinding van uw kanon naar de opslag waar moet het nemen van een munitie.
+Selecteer het station en kies voor de Scheepswerf knop. Je krijgt nu een bouwmenu te zien.
+#548# In het verschenen menu, selecteer een geschutskoepel.
 
-Open een resource connection manager.
-#552# In deze mode zie je een van de lijnen die vertegenwoordigt een stroom van hulpbronnen.
+Nu zie je montagepunten op uw schip en een voorbeeld van de koepel. Plaats de koepel ergens aan het schip.
+#549# Selecteer nu een kanon in het wapenmenu en plaats deze op de koepel.
+#550# Het kanon verbruikt munitie, dus dat moet nog gekocht worden van het station. gebruik hiervoor de handelsknop.
+#551# De gekochte munitie komt in een van je schip's containers. Die container moet met het kanon worden verbonden om te kunnen schieten.
 
-Veel apparaten moet worden conencted te opslagplaatsen om te werken. Motoren moet worden aangesloten op brandstof tanks. Schild generatoren moet aangesloten worden op power opslagplaatsen etc.
+Open nu het aansluitingsinterface door op de omcirkelde knop te klikken.
 
-Sluit nu een kanon om container met munitie door slepen en neerzetten lijn van de grijze stip aan de container.
-#553# u mag Nu loskoppelen van het station.
+#552# Je ziet nu stippellijnen die verbindingen tussen modules maken. Deze verbindingen zijn voor brandstof en energie, maar ook voor munitie en andere grondstoffen.
 
-Om te ontkoppelen, selecteer uw docking poort en druk op de knop in de control panel.
-#554# Torentjes kan handmatig worden bediend of u kunt de automatische modus activeren.
+Veel modules hebben een aansluiting op een opslagtank nodig om te kunnen werken. Motoren hebben een brandstoftank nodig, een schild heeft een batterij nodig etc.
 
-Laten we proberen een manuele controle.
-Selecteer een torentje en druk op "Handmatige bediening".
-Ook kunt u op "Toon selectie" in om de in te stellen interface.
-#555# Proberen te maken van een aantal test foto ' s en druk op volgende.
-#556# U hebt de basis tutorial.
+Sluit het kannon aan op de container met munitie door een lijn te slepen tussen je kannon en de container. Begin met slepen bij de grijze stip op het kanon.
+#553# Je kunt nu loskoppelen van het station.
 
-Als u behoefte aan meer informatie, raadpleeg de handleiding van de gemeenschap.
-#557# U bent aangekomen in het star-systeem, je hebt een kleine mijnbouw schip, een beetje waterstof in de brandstoftanks, dat is genoeg voor een vlucht naar de dichtstbijzijnde asteroïden en stations. Gebruik je mining laser om middelen te verzamelen van een asteroïden en verkopen op een dichtstbijzijnde trading station.
+Selecteer je poort en klik op "Toggle docking" om te ontkoppelen.
+#554# Geschutskoepels hebben een handmatige en automatische stand.
 
-Wijzigen van uw schip op de scheepswerf en het uitvoeren van een missies om het verbeteren van uw reputatie en een toegang tot de nieuwe modules.
-#558# Display beschadigde modules
-#559# Tijdelijk hit punten voor beschadigde modules op de actieve schip
-#560# klik Rechts
+We gaan nu handmatig de koepel besturen.
+Selecteer de koepel en klik op "Toggle manual control".
+Daarnaast kun je ook op de "Show range" knop klikken om te zien hoe ver je kunt schieten.
+#555# Probeer een paar keer te schieten.
+#556# Gefeliciteerd, je hebt de basis onder de knie!
+
+Voor meer informatie kun je terecht bij de handleiding.
+#557# Je bent aangekomen in dit zonnestelsel, in een klein schip voor de mijnbouw. Je hebt nog genoeg brandstof om de dichtstbijzijnde asteroïden en ruimtestations te bereiken. Gebruik je laser om grondstoffen te verzamelen van asteroïden en verkoop ze aan een ruimtestation.
+
+Je kunt je schip aanpassen op de scheepswerf van ruimtestations. Door met stations te handelen en missies uit te voeren verdien je reputatie. Hoe meer reputatie, hoe meer verschillende onderdelen je kunt kopen!
+#558# Toon beschadigde modules
+#559# Toon tijdelijk de status van beschadigde modules op je huidige schip.
+#560# klik rechts
 #561# Annuleren
-#562# klik met de linkermuisknop
-#563# Herstel
-#564# Doel geleverde zaken op punt van bestemming
-#565# Doel van objecten is niet pakte met een grabber
-#566# Doel objecten hebben een lage relatieve snelheid met de punt van bestemming
-#567# Doel van objecten is niet verbonden aan enig schip
-#568# Vernietigen het doel
-#569# Stabiliseren baan
-#570# Activeer automatische piloot, die zal zorgen automatisch voor de cirkelvormige baan rond een planeet of ster, zelfs als het schip zal worden beïnvloed door externe krachten.
-Handmatige controle zal uitschakelen van deze modus.
-#571# αmax
-#572# Sla tarief
+#562# klik
+#563# Repareer
+#564# Doel is afgeleverd op de plaats van bestemming
+#565# Doel wordt niet met een grijper vastgehouden
+#566# Doel heeft een lage relatieve snelheid t.o.v. de plaats van bestemming.
+#567# Doel zit niet vast aan een schip.
+#568# Vernietig het doel
+#569# Stabiliseer omloopbaan
+#570# Activeer de automatische piloot, die zal automatisch een cirkelvormige baan rond een planeet of ster vasthouden.
+Handmatige controle schakelt deze modus uit.
+#571# Max. rotatie
+#572# Draaisnelheid
 #573# Max. bereik
 #574# Handmatige bediening
 #575# Automatische modus
-#576# Aanval puin
-#577# Aanval raketten
-#578# gr
-#579# deg/s
-#580# Verkopen module
+#576# Vernietig puin
+#577# Vernietig raketten
+#578# °
+#579# °/s
+#580# Verkoop module
 #581# CR
 #582# Module beschadigd, prijs verlaagd
-#583# Basis prijs
-#584# Selecteer module te verkopen
-#585# Schade
-#586# Explosie radius
-#587# Brand vertraging
-#588# Terugslag kracht
+#583# Standaardprijs
+#584# Selecteer de te verkopen module
+#585# Schade per schot
+#586# Explosie-radius
+#587# Vuurvertraging
+#588# Terugslag
 #589# kN
 #590# DPS
-#591# Range
+#591# Bereik
 #592# s
 #593# min
 #594# Munitie
 #595# Deconstrueren
 #596# Bouwen
-#597# Deze module uitgerust met een industriële 3D-printers en drones die het mogelijk maakt om het bouwen van nieuwe modules met behulp van verschillende middelen.
-#598# om te bouwen. zorg ervoor dat de bron verbinding punten, die verbonden zijn aan de containers met de juiste bron.
-#599# in Staat om te herkennen van bruikbare grondstoffen van asteroïden. Kan ook gebruikt worden als dichtbij wapen.
-#600# Het automatisch lossen uitgepakt middelen in geschikte container op het schip.
-#601# in Staat om te groeien plantenvoeding voor een crew leden. Heeft energie nodig om te werken.
-#602# Dit apparaat is in staat om het ijs te smelten en het gebruik van het proces van elektrolyse gesplitst verkregen water moleculen uit twee atomen waterstof en één atoom zuurstof die kan worden gebruikt als brandstof en oxidant voor een reactieve motoren.
-#603# Base platform voor wapens. In staat om te draaien van de aangesloten wapen in de verschillende richtingen binnen bepaalde hoeken.
+#597# Deze module gebruikt industriële 3D-printtechnieken en drones die het mogelijk maken om nieuwe modules te bouwen van verschillende grondstoffen.
+#598# Zorg ervoor dat de constructiemodule correct verbonden is om te kunnen bouwen.
+#599# Deze laser wordt gebruikt om grondstoffen uit asteroïden te winnen. Kan van dichtbij ook als wapen worden gebruikt.
+#600# Lost gewonnen grondstoffen automatisch in vrije containers op het schip.
+#601# Deze module groeit plantaardig voedsel voor de bemanning. Heeft stroom nodig om te werken.
+#602# Dit apparaat smelt ijs en past vervolgens electrolyse toe om water te splitsen in waterstof en zuurstof, dat vervolgens als brandstof en oxidator gebruikt kan worden voor raketmotoren.
+#603# Platform om wapens op te plaatsen. Kan wapens binnen een bepaalde hoek ook draaien.
 
-Kan met de hand worden bediend of in de automatische modus.
-In de automatische modus zal automatisch het aanvallen van gestelde doelen.
-#604# Meeste wapens moeten worden geplaatst op deze module.
-#605# Belangrijke module die u toelaat om te koppelen met andere schepen of een stations, vooral als ze behoren tot andere partijen.
-#606# u Toelaat om gemakkelijk te detecteren en selecteren van verschillende objecten binnen het opgegeven bereik. Vooral handig als u nodig hebt om het detecteren van kleine objecten, zoals puin of kleine asteroïden.
-#607# Eenvoudige bouwkundige deel.
-#608# Kan worden gebruikt als opslag voor vaste middelen.
+Kan zowel automatisch als handmatig bediend worden. 
+In de automatische modus kan ook puin en raketten afgeweerd worden.
+#604# De meeste wapens moeten worden geplaatst op deze module.
+#605# Stelt je in staat om met andere schepen te koppelen.
+#606# Stelt je in staat om allerlei objecten binnen bereik te detecteren. Handig om botsingen te voorkomen met ruimtepuin. 
+#607# Simpel structureel onderdeel.
+#608# Kan beperkt solide grondstoffen opslaan.
 #609# Verbruikt uranium en genereert energie.
-#610# Genereert energie bij het gebruik van panelen gericht op een ster.
+#610# Genereert zonne-energie indien op een ster gericht.
 #611# Efficiëntie hangt af van de afstand en de hoek tot een ster.
-#612# Container die kan bewaren geen vloeistof of een gas, bijvoorbeeld als brandstof voor motoren.
-#613# Staat voor het verzamelen van puin uit de ruimte en automatisch verfijnen in bruikbare materialen.
-#614# Container die kunnen opslaan van vaste lading, zoals erts, munitie of met voedsel.
-#615# Hydraulische arm die het mogelijk maakt om te grijpen van de verschillende objecten in de ruimte, zoals asteroïden, puin of andere schepen.
-#616# Dit apparaat is in staat tot het maken van een bol of ellipsoïde om zich heen die de bescherming van het schip van enige schade.
-#617# energie wordt Verbruikt, terwijl het actief is.
+#612# Opslagtank voor vloeibare of gasvormige grondstoffen, waaronder brandstof.
+#613# Deze poort kan verzameld puin omzetten in bruikbare grondstoffen.
+#614# Opslagcontainer voor solide grondstoffen, waaronder erts, munitie en voedsel.
+#615# Hydraulische arm die het mogelijk maakt om dingen vast te grijpen, zoals asteroïden, puin of andere schepen.
+#616# Dit apparaat creëert een bolvormige barrière die het schip tegen schade beschermt.
+#617# Verbruikt energie voor zolang het schild actief is.
+Verbruikt extra energie voor alle schade die wordt geabsorbeerd.
 
-Verbruikt extra energie voor geblokkeerde eenheid van de schade.
+Het energieverbruik hangt ook af van de ingestelde grootte van het beschermende veld.
+#618# Dit apparaat zendt gerichte gravitationele golven, waarmee een object een bepaalde richting in geduwd of getrokken kan worden.
+#619# Sleep objecten binnen de witte cirkel om deze een bepaalde richting in te bewegen.
+#620# Werkt als een scharnier tussen twee onderdelen.
+#621# Maakt aangebouwde modules uitschuifbaar.
+#622# Verbrandingsmotor op basis van waterstof, met zuurstof als oxidator. Krachtiger dan motoren op enkel waterstof.
 
-Grootte van beschermende veld kan worden gewijzigd. Het energieverbruik is afhankelijk van de grootte.
-#618# Dit apparaat is in staat te stralen directionele straal van gravitatie golven die op een specifiek object in een specifieke richting.
-#619# Als actieve, sleept u een van de objecten in de witte cirkel met behulp van de linker muis knop om te bewegen in elke richting.
-#620# Laat voor de bouw van een schip met draaibare onderdelen.
-#621# Laat voor de bouw van een schip met beweegbare delen.
-#622# Chemische motor die zorgt voor stuwkracht als gevolg van de verbranding van zuurstof en waterstof in de verbrandingskamer en de uitlaat verbrandingsproducten ons uit het pijpje.
-
-Om te kunnen werken, moet worden aangesloten op brandstof tanks met zuurstof en waterstof.
-
-Waterstof als brandstof en zuurstof als oxidator.
-#623# Laat om te draaien van een schip met behulp van alleen een energie.
-#624# Deze motor vereist de xenon gas en stroom. Het voordeel ten opzichte van de chemische motoren is dat het vereist een zeer kleine hoeveelheid brandstof, maar heeft een veel lagere snelheid. Als een resultaat, het is in staat om continu te werken tijdens lange tijd
+Deze motor vereist een aansluiting op zowel een waterstof- als zuurstoftank.
+#623# Gebruikt alleen energie om een schip te draaien.
+#624# Motor op basis van xenon en stroom. Het brandstofverbruik is heel laag, maar ook de stuwkracht is laag. Een goede keuze voor een motor die langdurig moet werken.
 #625# Eenvoudige en goedkope manoeuvreren motor die duwt onder druk waterstof.
 
 Om te kunnen werken, moet worden aangesloten op de brandstoftank bevat een waterstof.
-#626# Een apparaat dat in staat is om te verdraaien van een ruimte rondom een schip die het mogelijk maakt om te reizen met de snelheid veel sneller dan de snelheid van het licht.
+#626# Dit apparaat vervormt de omliggende ruimte, waardoor reizen boven de lichtsnelheid mogelijk wordt.
 
-Het kan gebruikt worden binnen een sterren systeem voor instant reizen van het ene punt naar het andere.
-#627# Beweegt elk voorwerp dat zich in een warp-veld
+Hiermee kun je direct naar een te bepalen punt binnen het zonnestelsel reizen.
+#627# Verplaatst elk voorwerp binnen bereik.
 
 Grootte van warp-veld kan worden gewijzigd
 
-Het energieverbruik is afhankelijk van de grootte van een warp-veld
+Het energieverbruik is afhankelijk van de grootte van een warp-veld en de af te leggen afstand.
 
-Als warp-veld zullen botsen met iets, zal worden gedestabiliseerd en springen zal worden afgebroken.
-#628# Moet aangesloten worden op power-opslag
+Er mogen geen objecten op de rand van het warpveld zijn.
+#628# Moet aangesloten worden op een batterij
 #629# Moet worden aangesloten op opslag met raketten
 #630# Moet worden aangesloten op opslag met munitie
-#631# in Staat om de lancering van zelf-geleide torpedo.
-Torpedo zal worden gericht in het object die is geselecteerd tijdens het starten.
-Als er geen object is geselecteerd, torpedo zal worden gelanceerd in vrije modus.
-#632# in Staat om de lancering van ongeleide raketten met een hoge mate van brand
-#633# Bevat de energie die opgewekt wordt door de reactoren of zonnepanelen. Een apparaat dat vereist dat de kracht moet worden aangesloten op het
-#634# Het control center van een schip, waarin de commando-brug, de belangrijkste computer en de toewijzing van middelen hub
-#635# Bouwen punten
+#631# In staat om doelzoekende torpedo's te lanceren.
+Torpedo's richten zich op het geselecteerde object.
+Als er geen object is geselecteerd gedraagt de torpedo zich als een ongeleid projectiel.
+#632# In staat om snel ongeleide raketten te werpen.
+#633# Bevat de energie die opgewekt wordt door reactoren of zonnepanelen. Modules die stroom verbruiken kunnen hierop aangesloten worden.
+#634# Het hoofdkwartier van ieder schip, met daarin de commando-brug en de hoofdcomputer.
+#635# Bouwpunten
 #636# Volgende niveau
-#637# Vereist reputatie
-#638# Glow effect
-#639# Show background
-
-#640# Black space background
-#641# Debug mode
-#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
+#637# Vereiste reputatie
+#638# Gloed
+#639# Toon achtergrond
+#640# Zwarte achtergrond
+#641# Debug modus
+#642# De debug modus geeft de mogelijkheid om foutmeldingen direct aan de ontwikkelaars te rapporteren. Dit helpt ons enorm met het oplossen van bestaande problemen in het spel.
 #643# Directed on star
-#644# Current production
-#645# Maximum production
-#646# Star blocked by
-#647# Small solar panel
+#644# Huidige productie
+#645# Maximale productie
+#646# Ster geblokkeerd door 
+#647# Klein zonnepaneel
