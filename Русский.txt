@@ -681,7 +681,7 @@
 #606# Позволяет легко обнаруживать и выделять различные объекты в пределах указанного диапазона. Особенно полезно, если вам нужно обнаружить небольшие объекты, такие как мусор или мелкие астероиды.
 #607# Простая часть корабля.
 #608# Может быть использована в качестве хранилища для твердых ресурсов.
-609# Потребляет Уран и генерирует энергию.
+#609# Потребляет Уран и генерирует энергию.
 #610# Генерирует энергию, когда панели направлены к звезде.
 #611# Эффективность зависит от расстояния и угла наклона к звезде.
 #612# Контейнер, который может хранить любые жидкости или газа, как топлива для двигателей.
@@ -752,3 +752,8 @@ If this value high - trader have abundance of this resource and ready to sell it
 #655# How much resource this trader ready to sell
 #656# You can buy resource for this price
 #657# You can sell resource for this price
+#658# Toggle radial grid
+#659# Radial grid helps to understand velocity of the ship.
+Each circle rotates around planet with orbital speed which corresponds its altitude.
+Keep your ship in the grid cell if you wish to keep circular orbit.
+Or move your ship along circle of the grid if you wish to bypass planet around.

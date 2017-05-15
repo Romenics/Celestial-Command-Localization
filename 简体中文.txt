@@ -751,3 +751,8 @@ If this value high - trader have abundance of this resource and ready to sell it
 #655# How much resource this trader ready to sell
 #656# You can buy resource for this price
 #657# You can sell resource for this price
+#658# Toggle radial grid
+#659# Radial grid helps to understand velocity of the ship.
+Each circle rotates around planet with orbital speed which corresponds its altitude.
+Keep your ship in the grid cell if you wish to keep circular orbit.
+Or move your ship along circle of the grid if you wish to bypass planet around.
