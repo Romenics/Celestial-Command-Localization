@@ -741,3 +741,15 @@ If no object selected, torpedo will be launched in unguided mode.
 #645# Maximum production
 #646# Star blocked by
 #647# Small solar panel
+#648# General
+#649# Control
+#650# Prices will be updated in
+#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
+#652# Availability
+#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+
+If this value high - trader have abundance of this resource and ready to sell it for decreased price
+#654# How much resource this trader ready to buy
+#655# How much resource this trader ready to sell
+#656# You can buy resource for this price
+#657# You can sell resource for this price
