@@ -247,7 +247,7 @@
 #245# Apoapsis
 #246# Periapsis
 #247# Eccentriciteit
-#248# Orbitale periode
+#248# Omlooptijd
 #249# Tang. snelheid
 #250# Ang. snelheid
 #251# Open constructiemenu
@@ -732,25 +732,25 @@ Als er geen object is geselecteerd gedraagt de torpedo zich als een ongeleid pro
 #640# Zwarte achtergrond
 #641# Debug modus
 #642# De debug modus geeft de mogelijkheid om foutmeldingen direct aan de ontwikkelaars te rapporteren. Dit helpt ons enorm met het oplossen van bestaande problemen in het spel.
-#643# Directed on star
+#643# Gericht op ster
 #644# Huidige productie
 #645# Maximale productie
 #646# Ster geblokkeerd door 
 #647# Klein zonnepaneel
-#648# General
-#649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#648# Algemeen
+#649# Besturing
+#650# Prijzen worden bijgewerkt over
+#651# Het station's prijzen worden elke minuut bijgewerkt op basis van de verkrijgbaarheid van de grondstoffen.
+#652# Verkrijgbaarheid
+#653# Een lage beschikbaarheid maakt het lucratief om de betreffende grondstof aan het station te verkopen.
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
-#658# Toggle radial grid
-#659# Radial grid helps to understand velocity of the ship.
-Each circle rotates around planet with orbital speed which corresponds its altitude.
-Keep your ship in the grid cell if you wish to keep circular orbit.
-Or move your ship along circle of the grid if you wish to bypass planet around.
+Een hoge beschikbaarheid maakt een grondstof goedkoop verkrijgbaar om te kopen.
+#654# De hoeveelheid grondstof die een station kan kopen
+#655# De hoeveelheid grondstof die een station kan verkopen
+#656# De koopprijs per grondstof op dit station
+#657# De verkoopprijs per grondstof op dit station
+#658# Toon / Verberg radiaal rooster
+#659# Dit rooster maakt de omloopsnelheid inzichtelijk.
+De snelheid waarmee elke cirkel om de planeet draait is afhankelijk van de afstand tot de planeet.
+Door op dezelfde plek in de cirkel te blijven houd je een cirkelvormige omloopbaan.
+Door je naar een kleinere cirkel te verplaatsen kun je sneller om een planeet heen vliegen.
