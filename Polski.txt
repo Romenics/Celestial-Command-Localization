@@ -20,13 +20,13 @@
 #18# Wyjście
 #19# Powrót
 #20# Bezpośrednie połączenie
-#21# Połoczenie Steam (Wkrótce)
+#21# Połączenie Steam (Wkrótce)
 #22# Twórcy
 #23# Gra nie jest jeszcze gotowa, ale jest w bardzo aktywnie rozwijana odwiedź blog rozwoju w centrum społeczności Steam, aby uzyskać więcej informacji 
 #24# Zapisz
-#25# Odrzóć
-#26# Zastosój
-#27# DZWIĘK
+#25# Odrzuć
+#26# Zastosuj
+#27# DŹWIĘK
 #28# Całkowicie
 #29# Muzyka
 #30# GRA
@@ -37,20 +37,20 @@
 #35# Automatyczne zachowywanie odstępu
 #36# GRAFIKA
 #37# Pełny ekran
-#38# Jakość textur
+#38# Jakość tekstur
 #39# Wygładzanie krawędzi
 #40# V-sync
 #41# Rozkład
 #42# Wćiśnij dowolny przycisk aby go ustawić, lub Esc by cofnąć
 #43# Zapisz
-#44# Odrzóć
+#44# Odrzuć
 #45# Skróty klawiszowe
 #46# WYBIERZ ŚWIAT
 #47# NAZWA
 #48# Zapisz plik
 #49# CZAS GRY
 #50# WERSJA
-#51# STWÓŻ ŚWIAT
+#51# STWÓRZ ŚWIAT
 #52# Potwierdź usunięcie świata
 #53# Cofnij
 #54# Usuń
@@ -69,10 +69,10 @@
 #67# ILOŚĆ STACJI
 #68# ILOŚĆ WROGÓW
 #69# ILOŚĆ ASTEROID
-#70# Nowy Swiat
+#70# Nowy świat
 #71# POWRÓT
 #72# ZACZNIJ GRĘ
-#73# Dołączy do gry wielosobowej
+#73# Dołącz do gry wieloosobowej
 #74# IP
 #75# Port
 #76# Pass
@@ -284,7 +284,7 @@
 #282# Maksymalna moc znamionowa
 #283# Wejście zasilania
 #284# Wyjście zasilania
-#285# Suma wejścia iwyjścia zasilania
+#285# Suma wejścia i wyjścia zasilania
 #286# Całkowita ilość wodoru
 #287# Całkowita ilość tlenu
 #288# Pokaż parametry orbitalne wybranego obiektu
@@ -315,7 +315,7 @@
 #313# Zmień nazwę
 #314# Zmień rangę
 #315# Niedokończony atrybut
-#316# Członkowie załogi będą automatycznie konsumować jedzenie z dowolnej ładowni gdy wartość będzie poniżej 75% (wartość zredukowana o 25% przez 2 minuty)
+#316# Członkowie załogi będą automatycznie konsumować jedzenie z dowolnej ładowni, gdy wartość będzie poniżej 75% (wartość zredukowana o 25% przez 2 minuty)
 #317# Niedokończony atrybut
 #318# Wypełnij wybrany magazyn wodorem
 #319# Dodaj członka załogi do wybranego modułu
@@ -378,7 +378,7 @@
 #376# Handel
 #377# Misje
 #378# Pokaż dostępne misje
-#379# Żadanie dokowania
+#379# Żądanie dokowania
 #380# Śmieci
 #381# USTAW NOWĄ FRAKCJĘ DLA KOPIOWANEGO STATKU
 #382# Sojusznik
@@ -419,16 +419,15 @@
 #416# Pokaż parametry orbitalne
 #417# Narzędzie malowania
 #418# Załaduj statek
-#419# Przypnij trajektorję
+#419# Przypnij trajektorię
 #420# Menu budowania
 #421# Dekonstruuj
-#422# Wyrównaj rotatację
+#422# Wyrównaj rotację
 #423# Wirnik
 #424# Część wirnika
 #425# Tłok
 #426# Część tłoka
 #427# Nie pokazuj ponownie
-#422# Wyrównaj rotatację
 #428# Nie można zapisać
 #429# Proszę wybrać statek
 #430# Proszę wybrać moduł dowodzenia statku
@@ -501,7 +500,7 @@
 #497# Cena
 #498# Misja nieudana
 #499# Słaby sygnał
-#500# Zawróć statek do układu gwiezdnego albo sygnał zostatnie utracony za 60 sekund
+#500# Zawróć statek do układu gwiezdnego albo sygnał zostanie utracony za 60 sekund
 #501# Zgubiono sygnał
 #502# Statek zaginął w przestrzeni poza układem gwiezdnym
 #503# Pozycja środka ciągu względem środka masy
@@ -529,12 +528,12 @@ Przytrzymaj prawy przycisk myszy i przeciągnij, aby obrócić widok
 #523# Teraz trochę na temat poruszania
 
 Możesz obrócić statek klawiszami A i D. Spróbuj obrócić swój statek trochę w lewo i w prawo.
-#524# Zauważ, że twój statek znajduje się w próżni, nie zachodzi tarcie, więc zachowa swoją prędkość liniową i kątową dopóki nie zostanie zatrzymany ręcznie.
+#524# Zauważ, że twój statek znajduje się w próżni, nie zachodzi tarcie, więc zachowa swoją prędkość liniową i kątową, dopóki nie zostanie zatrzymany ręcznie.
 #525# Stabilizacja automatyczna jest bardzo pomocna, jeśli chcesz zatrzymać obracanie się swojego statku. Uaktywnij stabilizator wciskając podświetlony przycisk albo skrót klawiszowy
 #526# Gdy stabilizator jest aktywny, automatycznie używa silników do zatrzymania obrotu statku.
 
 Pamiętaj, że ilość paliwa jest ograniczona. Te proste silniki manewrujące zużywają ciekły wodór. Aktualna ilość ciekłego wodoru wyświetlona jest na ekranie (oznaczona strzałką)
-#527# Gdy stabilizator jest aktywny, zatrzyma obrót za kadym razem, nawet gdy tego tak na prawdę nie potrzebujesz i zwiększy to zużycie paliwa. Przydatnym może się więc okazać wyłączenie stabilizatora, gdy go nie potrzebujesz.
+#527# Gdy stabilizator jest aktywny, zatrzyma obrót za każdym razem, nawet gdy tego tak na prawdę nie potrzebujesz i zwiększy to zużycie paliwa. Przydatnym może się więc okazać wyłączenie stabilizatora, gdy go nie potrzebujesz.
 
 Wyłącz stabilizator wciskając skrót klawiszowy R.
 #528# Teraz spróbuj poruszać swoim statkiem używając klawiszy W S Q E do przodu, wstecz, w lewo i w prawo.
@@ -543,7 +542,7 @@ Wyłącz stabilizator wciskając skrót klawiszowy R.
 Pewnie zauważyłeś, że twój statek nie pozostaje w jednym miejscu. Statek porusza się po orbicie wokół planety.
 #530# Pomimo całej mechaniki, poruszanie w grze jest znacznie prostsze niż w prawdziwym świecie.
 
-Spróbujmy podlecieć do najbliszej asteroidy.
+Spróbujmy podlecieć do najbliższej asteroidy.
 Wybierz podświetloną asteroidę klikając myszą.
 #531# Teraz wyświetl prędkość względną
 #532# Gdy to narzędzie jest aktywne i wybrałeś obiekty, zobaczysz dwie strzałki w okolicy swojego statku.
