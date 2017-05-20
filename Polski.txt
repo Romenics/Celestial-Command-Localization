@@ -405,7 +405,6 @@
 #403# Podaj nazwę pliku
 #404# Statek nie został znaleziony
 #405# Pomaluj po skonstruowaniu
-#405# Pomaluj po skonstruowaniu
 #406# Wybierz kolor
 #407# Przypnij trajektorię. Trajektoria będzie wyświetlana nawet po zamknięciu okna.
 #408# Pokaż zatwierdzone misje
