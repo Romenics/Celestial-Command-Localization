@@ -740,20 +740,20 @@ Jeśli nie ma zaznaczonych obiektów, Torpedy zostanie uruchomiony w tryb niezar
 #645# Maksymalna produkcja
 #646# Gwiazda zablokowana przez
 #647# Mały panel słoneczny
-#648# General
-#649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#648# Ogólne
+#649# Sterowanie
+#650# Ceny będą uaktualnione za
+#651# Po upłynięciu czasu handlowiec przeliczy ceny odpowiednio do dostępnej ilości zasobów
+#652# Dostępność
+#653# Jeśli wartość niska - handlowiec ma braki tego zasobu i jest gotowy go kupić za zwiększoną cenę
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
-#658# Toggle radial grid
-#659# Radial grid helps to understand velocity of the ship.
-Each circle rotates around planet with orbital speed which corresponds its altitude.
-Keep your ship in the grid cell if you wish to keep circular orbit.
-Or move your ship along circle of the grid if you wish to bypass planet around.
+Jeśli wartość wysoka - handlowiec ma nadmiar tego zasobu i jest gotowy go sprzedać za obniżoną cenę
+#654# Ile zasobu handlarz jest gotów kupić
+#655# Ile zasobu handlarz jest gotów sprzedać
+#656# Możesz kupić zasoby w tej cenie
+#657# Możesz sprzedać zasoby w tej cenie
+#658# Przełącz Siatkę promieniową
+#659# Siatka promieniowa pomaga zrozumieć prędkość statku.
+Każdy okrąg obraca się wokół planety z prędkością orbitalną, która odpowiada jej wysokości.
+Utrzymuj swój statek w komórce siatki jeśli chcesz zachować orbitę kołową.
+Albo poruszaj swój statek wzdłuż okręgu siatki jeśli chcesz obejść planetę wokoło.
