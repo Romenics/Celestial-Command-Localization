@@ -590,19 +590,19 @@ Podejdź do wyznaczonego portu dokowania i ostrożnie zetknij się z nim portem 
 #546# W oknie tym zlokalizuj "Wodór", wciśnij "Kup", a potem zaznacz wybraną ilość, na przykład 10 i potwierdź zamówienie.
 
 Możesz tutaj również sprzedać zebrane zasoby. Spróbuj, a gdy skończysz - wciśnij "Dalej".
-#547# teraz sprawdźmy broń
+#547# Teraz przetestujmy broń!
 
-Twój statek nie ma broni, dlatego należy poszerzyć swój statek.
-Później można budować modułów z wykorzystaniem technicznych zatoki, ale teraz można kupić nowe moduły na stacji.
+Twój statek nie posiada broni, dlatego należy go rozbudować.
+Później będziesz mógł sam budować moduły, ale na razie możesz je kupić na stacji.
 
-Wybierz stację i naciśnij "stocznia" przycisk.
-#548# W wyświetlonym menu wybierz obrotowej platformie.
+Wybierz stację i naciśnij przycisk "Stocznia". Pojawi się menu budowania.
+#548# W wyświetlonym menu wybierz platformę wieżyczki.
 
-Zobaczysz punkty mocowania na swój statek. Miejsce wieże w dowolnym miejscu, gdzie chcesz.
-#549# teraz wybieramy broń z listy i dołączyć go na szczycie swojej wieży.
-#550# dobrze. Aby użyć broń, trzeba amunicję.
+Zobaczysz punkty montowania na swoim statku. Umieść wieżę w dowolnym miejscu.
+#549# Teraz wybierz działo i dołącz je na szczycie swojej wieży.
+#550# Dobrze. Aby użyć broni, potrzebujesz amunicję.
 
-Sprzedam naboje od stacji za pomocą przycisku "handel".
+Kup amunicję na stacji za pomocą przycisku "Handel".
 #551# po zakupie broni, należy podłączyć pistolet do magazynu, gdzie trzeba wziąć amunicję.
 
 Otwórz menedżer połączeń usługi.
@@ -620,14 +620,14 @@ Spróbujmy sterowanie ręczne.
 Wybrać działko i nacisnąć przycisk "sterowanie ręczne".
 Możesz także nacisnąć przycisk "Pokaż widmo", aby włączyć interfejs.
 #555# spróbować zrobić kilka zdjęć testowych i kliknij przycisk Dalej.
-#556# zakończeniu tutorial.
+#556# Gratulacje! Właśnie ukończyłeś podstawowy kurs.
 
-Jeśli wymagane są Dodatkowe informacje, należy skontaktować się z przełożonym wspólnoty.
-#557# jesteście w układzie gwiezdnym, masz mały statek górniczy, trochę wodoru w zbiornikach paliwowych, co wystarcza do lotu do najbliższego asteroidy i stacji roboczych. Użyj zestawu laser, aby zebrać surowce z asteroid, i sprzedać go na najbliższej stacji handlowej.
+Jeśli potrzebujesz dodatkowych informacji, zapoznaj się z wytycznymi dla społeczności.
+#557# Dotarłeś do układu gwiezdnego; masz mały statek górniczy, trochę wodoru w zbiornikach paliwowych. Paliwa wystarczy aby dolecieć do najbliższej asteroidy i stacji. Użyj swojego lasera wydobywczego, aby zebrać surowce z najbliższych asteroid i sprzedaj je w pobliskiej stacji handlowej.
 
 Modyfikować swój statek w stoczni i wykonywania misji, aby poprawić swoją reputację i uzyskać dostęp do nowych modułów.
-#558# uszkodzone Wyświetl moduły
-#559# Tymczasowo wyświetlaj elementy życia uszkodzonych modułów W tym aktywnym статку
+#558# Wyświetl uszkodzone moduły
+#559# Tymczasowo wyświetlaj punkty życia uszkodzonych modułów aktywnego statku
 #560# Prawy klik
 #561# Anuluj
 #562# Lewy klik
