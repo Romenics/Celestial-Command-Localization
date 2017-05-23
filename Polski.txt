@@ -603,29 +603,29 @@ Zobaczysz punkty montowania na swoim statku. Umieść wieżę w dowolnym miejscu
 #550# Dobrze. Aby użyć broni, potrzebujesz amunicję.
 
 Kup amunicję na stacji za pomocą przycisku "Handel".
-#551# po zakupie broni, należy podłączyć pistolet do magazynu, gdzie trzeba wziąć amunicję.
+#551# Po kupieniu amunicji powinieneś podłączyć działo do magazynu, z którego będzie brała pobierało amunicję.
 
-Otwórz menedżer połączeń usługi.
-#552# w tym czasie, pojawi się linia, która reprezentuje przepływ zasobów.
+Otwórz menedżer połączenia zasobów.
+#552# W tym trybie pojawią się linie reprezentujące przepływ zasobów.
 
-Wiele urządzeń powinny być połączone w magazynach do tego, aby pracować. Silniki muszą być podłączone do zbiorników paliwa. Generatory tarcz muszą być podłączone do magazynów energii, itp.
+Wiele urządzeń aby pracować musi być podłączonych do magazynów. Silniki muszą być podłączone do zbiorników paliwa. Generatory tarcz muszą być podłączone do magazynów energii, itp.
 
-Teraz podłączyć pistolet do kontenera z amunicją przez przeciągnij i upuść linia od szarej punktem w pojemniku.
-#553# teraz możesz отстыковаться od stacji.
+Teraz podłącz działo do kontenera z amunicją przeciągając i upuszczając linię pomiędzy kontenerem i działem. Zacznij od szarego punktu na dziale, następnie przesuń do kontenera.
+#553# Teraz możesz odłączyć statek od stacji.
 
-Aby zdjąć mocowanie, wybierz port dokujący i nacisnąć przycisk na panelu sterowania.
-#554# wieżyczki może być sterowany ręcznie lub można włączyć tryb automatyczny.
+Aby odłączyć, wybierz port dokowania i nacisnąć przycisk na panelu sterowania.
+#554# Wieżyczki mogą być sterowane ręcznie, możesz też włączyć tryb automatyczny.
 
-Spróbujmy sterowanie ręczne.
-Wybrać działko i nacisnąć przycisk "sterowanie ręczne".
-Możesz także nacisnąć przycisk "Pokaż widmo", aby włączyć interfejs.
-#555# spróbować zrobić kilka zdjęć testowych i kliknij przycisk Dalej.
+Spróbujmy sterowania ręcznego.
+Wybierz wieżyczkę i naciśnij przycisk "Sterowanie ręczne".
+Możesz także nacisnąć przycisk "Pokaż zasięg", aby zobaczyć efektywny zasięg swojej broni.
+#555# Spróbuj wykonać kilka strzałów testowych i kliknij przycisk Dalej.
 #556# Gratulacje! Właśnie ukończyłeś podstawowy kurs.
 
 Jeśli potrzebujesz dodatkowych informacji, zapoznaj się z wytycznymi dla społeczności.
 #557# Dotarłeś do układu gwiezdnego; masz mały statek górniczy, trochę wodoru w zbiornikach paliwowych. Paliwa wystarczy aby dolecieć do najbliższej asteroidy i stacji. Użyj swojego lasera wydobywczego, aby zebrać surowce z najbliższych asteroid i sprzedaj je w pobliskiej stacji handlowej.
 
-Modyfikować swój statek w stoczni i wykonywania misji, aby poprawić swoją reputację i uzyskać dostęp do nowych modułów.
+Modyfikuj swój statek w stoczni i wykonuj misje, aby poprawić swoją reputację i uzyskać dostęp do nowych modułów.
 #558# Wyświetl uszkodzone moduły
 #559# Tymczasowo wyświetlaj punkty życia uszkodzonych modułów aktywnego statku
 #560# Prawy klik
