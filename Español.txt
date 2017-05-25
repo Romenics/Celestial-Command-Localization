@@ -278,7 +278,7 @@
 #276# Restablece la vista para enfocar el objeto seleccionado
 #277# Mostrar velocidad
 #278# Mostrar vel. relativa (naranja) y dirección (blanco) del objeto seleccionado
-#279# Mostrar cuadrícula
+#279# Mostrar/Ocultar cuadrícula
 #280# Muestra una cuadrícula rectangular relativa a la estrella.
 #281# Energía actual
 #282# Máxima capacidad energética
@@ -742,18 +742,18 @@ Si no se seleccionó ningún objeto, el torpedo se lanzará en modo sin guiado.
 #647# Panel solar pequeño
 #648# General
 #649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#650# Los precios se actualizarán en
+#651# Una vez cumplido el tiempo, el comerciante recalculará los precios según la cantidad de recursos disponibles
+#652# Disponibilidad
+#653# Si este valor es bajo, el comerciante tendrá escasez de este recurso y estará dispuesto a comprarlo por un precio mayor
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
-#658# Toggle radial grid
-#659# Radial grid helps to understand velocity of the ship.
-Each circle rotates around planet with orbital speed which corresponds its altitude.
-Keep your ship in the grid cell if you wish to keep circular orbit.
-Or move your ship along circle of the grid if you wish to bypass planet around.
+Si este valor es alto, el comerciante tendrá abundancia de este recurso y estará dispuesto a venderlo por un precio menor
+#654# Cantidad del recurso que el comerciante está dispuesto a comprar
+#655# Cantidad del recurso que el comerciante está dispuesto a vender
+#656# Puede comprar el recurso a este precio
+#657# Puede vender el recurso a este precio
+#658# Mostrar/Ocultar cuadrícula radial
+#659# La cuadrícula radial ayuda a entender la velocidad de la nave.
+Cada círculo rota alrededor del planeta con una velocidad orbital correspondiente a su altitud.
+Mantenga su nave en la celda de la cuadrícula si quiere mantener una órbita circular.
+O mueva su nave a lo largo del círculo de la cuadrícula si quiere pasar de largo el planeta.
