@@ -768,3 +768,13 @@ If this value high - trader have abundance of this resource and ready to sell it
 Each circle rotates around planet with orbital speed which corresponds its altitude.
 Keep your ship in the grid cell if you wish to keep circular orbit.
 Or move your ship along circle of the grid if you wish to bypass planet around.
+#660# Command module has been destroyed
+#661# Ship
+#662# This ship already have command module. Only one command module can be located on a ship.
+#663# Ships
+#664# Select command module
+#665# Take control
+#666# List of all ships
+#667# Focus view on object
+#668# Toggle radial grid for nearest planet
+#669# You cannot remove this command module. There is a crew inside.
