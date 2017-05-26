@@ -757,13 +757,13 @@ Jeśli wartość wysoka - handlowiec ma nadmiar tego zasobu i jest gotowy go spr
 Każdy okrąg obraca się wokół planety z prędkością orbitalną, która odpowiada jej wysokości.
 Utrzymuj swój statek w komórce siatki jeśli chcesz zachować orbitę kołową.
 Albo poruszaj swój statek wzdłuż okręgu siatki jeśli chcesz obejść planetę wokoło.
-#660# Command module has been destroyed
-#661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
-#663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
-#668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
+#660# Moduł dowodzenia został zniszczony
+#661# Statek
+#662# Ten statek już ma moduł dowodzenia. Na statku może znajdować się tylko jeden moduł dowodzenia.
+#663# Statki
+#664# Wybierz moduł dowodzenia
+#665# Przejmij sterowanie
+#666# Lista wszystkich statków
+#667# Skup widok na obiekcie
+#668# Przełącz siatkę promieniową dla najbliższej planety
+#669# Nie możesz usunąć tego modułu dowodzenia. W środku jest załoga.
