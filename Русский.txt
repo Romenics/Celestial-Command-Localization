@@ -740,30 +740,30 @@
 #645# Макс. производство
 #646# Звезда заблокирована
 #647# Малая солнечная панель
-#648# General
-#649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#648# Общее
+#649# Управление
+#650# Цены будут обновлены через
+#651# Как только закончится таймер, торговец пересчитает свои цены согласно доступному количеству ресурсов
+#652# Доступность
+#653# При низком значении - у торговца недостаток этого ресурса и он готов скупать его по повышенной цене
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
-#658# Toggle radial grid
-#659# Radial grid helps to understand velocity of the ship.
-Each circle rotates around planet with orbital speed which corresponds its altitude.
-Keep your ship in the grid cell if you wish to keep circular orbit.
-Or move your ship along circle of the grid if you wish to bypass planet around.
-#660# Command module has been destroyed
-#661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
-#663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
-#668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
+При высоком значении - у торговца избыток этого ресурса и он готов продавать его по сниженной цене
+#654# Сколько торговец готов купить этого ресурса
+#655# Сколько торговец готов продать этого ресурса
+#656# Вы можете купить этот ресурс по цене
+#657# Вы можете продать этот ресурс по цене
+#658# Переключить радиальную сетку
+#659# Радиальная сетка помогает понять скорость корабля.
+Каждая окружность вращается вокруг планеты с орбитальной скоростью согласно её высоте.
+Удерживайте Ваш корабль в ячейке секи, если хотите сохранять круговую орбиту.
+Или перемещайте корабль вдоль окружности сетки, если хотите облететь планету.
+#660# Командный модуль уничтожен
+#661# Корабль
+#662# У этого корабля уже есть командный модуль. На корабле может распологаться только один такой модуль.
+#663# Корабли
+#664# Выберите командный модуль
+#665# Взять управление
+#666# Список всех кораблей
+#667# Сфокусировать камеру на объекте
+#668# Переключить радиальную сетку для ближайшей планеты
+#669# Вы не можете убрать этот командный модуль. Внутри находится экипаж.
