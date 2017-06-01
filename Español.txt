@@ -757,13 +757,13 @@ Si este valor es alto, el comerciante tendrá abundancia de este recurso y estar
 Cada círculo rota alrededor del planeta con una velocidad orbital correspondiente a su altitud.
 Mantenga su nave en la celda de la cuadrícula si quiere mantener una órbita circular.
 O mueva su nave a lo largo del círculo de la cuadrícula si quiere pasar de largo el planeta.
-#660# Command module has been destroyed
-#661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
-#663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
-#668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
+#660# El módulo de comando ha sido destruido
+#661# Nave
+#662# Esta nave ya tiene un módulo de comando. Solamente se permite un único módulo de comando en cada nave.
+#663# Naves
+#664# Seleccione un módulo de comando
+#665# Tome el control
+#666# Lista de todas las naves
+#667# Centrar la vista en el objeto
+#668# Mostrar/Ocultar cuadrícula radial para el planeta más cercano
+#669# No puede eliminar este módulo de comando. Hay tripulación dentro.
