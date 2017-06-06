@@ -754,16 +754,16 @@ Een hoge beschikbaarheid maakt een grondstof goedkoop verkrijgbaar om te kopen.
 De snelheid waarmee elke cirkel om de planeet draait is afhankelijk van de afstand tot de planeet.
 Door op dezelfde plek in de cirkel te blijven houd je een cirkelvormige omloopbaan.
 Door je naar een kleinere cirkel te verplaatsen kun je sneller om een planeet heen vliegen.
-#660# Command module has been destroyed
-#661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
-#663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
-#668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
-#670# Open folder with saved files
-#671# Delete selected file
-#672# Saved file with such name already exist
+#660# De cockpit is vernietigd.
+#661# Schip
+#662# Dit schip heeft al een cockpit. Een schip kan niet meer dan één cockpit hebben.
+#663# Schepen
+#664# Selecteer de cockpit
+#665# Neem controle
+#666# Vlootlijst
+#667# Focus camera op object
+#668# Schakel een radiaal rooster voor de dichtstbijzijnde planeet.
+#669# Je kunt deze cockpit niet verwijderen, er is nog bemanning aanwezig.
+#670# Open map met opgeslagen bestanden
+#671# Verwijder selectie
+#672# Een bestand met deze naam bestaat al
