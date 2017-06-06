@@ -767,3 +767,6 @@ O mueva su nave a lo largo del círculo de la cuadrícula si quiere pasar de lar
 #667# Centrar la vista en el objeto
 #668# Mostrar/Ocultar cuadrícula radial para el planeta más cercano
 #669# No puede eliminar este módulo de comando. Hay tripulación dentro.
+#670# Open folder with saved files
+#671# Delete selected file
+#672# Saved file with such name already exist

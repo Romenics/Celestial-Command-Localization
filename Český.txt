@@ -764,3 +764,6 @@ Or move your ship along circle of the grid if you wish to bypass planet around.
 #667# Focus view on object
 #668# Toggle radial grid for nearest planet
 #669# You cannot remove this command module. There is a crew inside.
+#670# Open folder with saved files
+#671# Delete selected file
+#672# Saved file with such name already exist
