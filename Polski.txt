@@ -767,6 +767,6 @@ Albo poruszaj swój statek wzdłuż okręgu siatki jeśli chcesz obejść planet
 #667# Skup widok na obiekcie
 #668# Przełącz siatkę promieniową dla najbliższej planety
 #669# Nie możesz usunąć tego modułu dowodzenia. W środku jest załoga.
-#670# Open folder with saved files
-#671# Delete selected file
-#672# Saved file with such name already exist
+#670# Otwórz katalog z zapisanymi plikami
+#671# Usuń wybrany plik
+#672# Zapisany plik o takiej nazwie już istnieje
