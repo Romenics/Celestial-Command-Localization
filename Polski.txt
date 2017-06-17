@@ -160,9 +160,9 @@
 #158# Przeciągnij do transferu
 #159# Prawy klik: Sprzedaj
 #160# Kup: Przeciągnij i upuść do swojego pojemnika
-#161# Upuść aby przenieść
+#161# Upuść, aby przenieść
 #162# Przytrzymaj klawisz Shift, aby określić ilość
-#163# Upuść aby kupić
+#163# Upuść, aby kupić
 #164# Niedopasowanie typu przechowywania (dla cieczy / dla ciała stałego)
 #165# Ctrl + Prawy klik - Dekonstruuj
 #166# Prawy klik - Napraw
@@ -234,7 +234,7 @@
 #232# kupiony za
 #233# Niewystarczające środki:
 #234# uratowany
-#235# Brakuje miejsca aby uratować
+#235# Brakuje miejsca, aby uratować
 #236# Czynniki
 #237# Masa gwiazdy
 #238# Masa planety
@@ -261,13 +261,13 @@
 #259# Wyświetl zawartość wszystkich magazynów aktualnego statku. Zawartość może być przemieszczana między kontenerami lewym przyciskiem myszy metodą przeciągnij i upuść. Trzymając Lewy Shift możesz przemieścić określoną ilość zasobów.
 #260# Wyświetl załogę aktualnego statku. Członkowie załogi mogą być przemieszczani metodą przeciągnij i upuść.
 #261# Pokaż łączniki
-#262# Wyświetl łączniki zasobów dla aktualnego statku. Jeśli moduł wymaga specyficznych zasobów, powinien być podłączony do nich przy użyciu tego trybu. Łaczniki mogą być dołączone do modułów metodą przeciągnij i upuść.
+#262# Wyświetl łączniki zasobów dla aktualnego statku. Jeśli moduł wymaga specyficznych zasobów, powinien być podłączony do nich przy użyciu tego trybu. Łączniki mogą być dołączone do modułów metodą przeciągnij i upuść.
 #263# Punkty montowania
 #264# Wyświetl punkty montowania dla aktualnego statku. Punkty montowania mogą być połączone lub rozłączone lewym przyciskiem myszy.
 #265# Wyświetl środek masy aktualnego statku
 #266# Zablokuj System Sterowania Reakcyjnego
 #267# Stabilizacja rotacji statku przy użyciu silników
-#268# Jeśli aktywowany - wybierz twój statek i kliknij prawym aby wysłać rozkazy taktyczne
+#268# Jeśli aktywowany - wybierz twój statek i kliknij prawym, aby wysłać rozkazy taktyczne
 #269# Pokaż paski HP
 #270# Tymczasowo pokazuj integralność statku
 #271# Blokada rotacji
@@ -275,7 +275,7 @@
 #273# Skup widok
 #274# Skup widok na wybranym obiekcie
 #275# Resetuj obrót
-#276# Resetuj widok aby skupić na wybranym obiekcie
+#276# Resetuj widok, aby skupić na wybranym obiekcie
 #277# Pokaż prędkość
 #278# Wyświetl prędkość względną (pomarańczowy) i kierunek (biały) do wybranego obiektu
 #279# Przełącz siatkę
@@ -294,7 +294,7 @@
 #292# Ten parametr decyduje o tym, ile mocy potrzebujesz do obrócenia statku. Aby zmniejszyć tę wartość, najcięższe moduły powinny być zlokalizowane blisko środka masy.
 #293# Włączając masę zawartości w przypadku, gdy jest to ładownia lub kontener
 #294# Integralność strukturalna
-#295# Włącz \ wyłącz ręczne sterowanie dla wybranej grupy broni. Wciśnij trzymając Lewy Shift aby włączyć tryb automatyczny.
+#295# Włącz \ wyłącz ręczne sterowanie dla wybranej grupy broni. Wciśnij trzymając Lewy Shift, aby włączyć tryb automatyczny.
 #296# Wypełnij wybrany magazyn tlenem
 #297# Wypełnij wybrany magazyn wodorem
 #298# Wypełnij wybrany magazyn ksenonem
@@ -308,7 +308,7 @@
 #306# Statek będzie automatycznie podążał do wybranego obiektu. Drugie kliknięcie wyłączy autopilota.
 #307# Usuń cały statek lub asteroidę
 #308# UWAGA - Ta akcja nie może zostać cofnięta. Wyłącza grawitację i zatrzymuje wszystkie obiekty (wyłącznie w celach testowych)
-#309# (Niedokończona funkcjonalność) Wciśnij przycisk i kliknij gdzieś w przestrzeni aby utworzyć planer. Węzły pozycji i prędkości mogą być przeciągane lewym przyciskiem myszy. Prawy przycisk - usunięcie węzła.
+#309# (Niedokończona funkcjonalność) Wciśnij przycisk i kliknij gdzieś w przestrzeni, aby utworzyć planer. Węzły pozycji i prędkości mogą być przeciągane lewym przyciskiem myszy. Prawy przycisk - usunięcie węzła.
 #310# Gdy aktywny, kliknięcie lewym przyciskiem myszy gdzieś w przestrzeni utworzy śmieci. Kliknięcie z Shiftem wyrzuci śmieci z losową prędkością.
 #311# Handlarz gotowy KUPIĆ te towary
 #312# Handlarz gotowy SPRZEDAĆ te towary
@@ -319,7 +319,7 @@
 #317# Niedokończony atrybut
 #318# Wypełnij wybrany magazyn wodorem
 #319# Dodaj członka załogi do wybranego modułu
-#320# Otwórz interfejs handlowania. (UWAGA: Aby handlować ze stacją, interfejs handlowania powinien być otwarty, twój statek zadokowany w stacjiioba porty dokowania powinny być aktywowane. W celu kupienia czegoś od stacji, otwórz interfejs ładunku i przeciągnij towary ze stacji do twojego kontenera. Aby coś sprzedać - kliknij prawym na towary w twoim kontenerze)
+#320# Otwórz interfejs handlowania. (UWAGA: Aby handlować ze stacją, interfejs handlowania powinien być otwarty, twój statek zadokowany w stacji i oba porty dokowania powinny być aktywowane. W celu kupienia czegoś od stacji otwórz interfejs ładunku i przeciągnij towary ze stacji do twojego kontenera. Aby coś sprzedać - kliknij prawym na towary w twoim kontenerze)
 #321# Otwórz menu konstrukcji dostarczone przez wybraną stocznię. Podczas gdy twój statek znajduje się w stoczni, możesz kupować i sprzedawać moduły.
 #322# Stan trajektorii
 #323# Pozycja w stosunku do planety lub gwiazdy
@@ -395,7 +395,7 @@
 #393# Zapisz Statek
 #394# Nie wybrano statku
 #395# Statek zapisany
-#396# Kliknij aby umieścić statek
+#396# Kliknij, aby umieścić statek
 #397# Ctrl + Lewy klik - Wybierz kolor
 #398# Ustawienia
 #399# Nazwa pliku
@@ -532,7 +532,7 @@ Możesz obrócić statek klawiszami A i D. Spróbuj obrócić swój statek troch
 #526# Gdy stabilizator jest aktywny, automatycznie używa silników do zatrzymania obrotu statku.
 
 Pamiętaj, że ilość paliwa jest ograniczona. Te proste silniki manewrujące zużywają ciekły wodór. Aktualna ilość ciekłego wodoru wyświetlona jest na ekranie (oznaczona strzałką)
-#527# Gdy stabilizator jest aktywny, zatrzyma obrót za każdym razem, nawet gdy tego tak na prawdę nie potrzebujesz i zwiększy to zużycie paliwa. Przydatnym może się więc okazać wyłączenie stabilizatora, gdy go nie potrzebujesz.
+#527# Gdy stabilizator jest aktywny, zatrzyma obrót za każdym razem, nawet gdy tego tak naprawdę nie potrzebujesz i zwiększy to zużycie paliwa. Przydatnym może się więc okazać wyłączenie stabilizatora, gdy go nie potrzebujesz.
 
 Wyłącz stabilizator wciskając skrót klawiszowy R.
 #528# Teraz spróbuj poruszać swoim statkiem używając klawiszy W S Q E do przodu, wstecz, w lewo i w prawo.
@@ -603,12 +603,12 @@ Zobaczysz punkty montowania na swoim statku. Umieść wieżę w dowolnym miejscu
 #550# Dobrze. Aby użyć broni, potrzebujesz amunicję.
 
 Kup amunicję na stacji za pomocą przycisku "Handel".
-#551# Po kupieniu amunicji powinieneś podłączyć działo do magazynu, z którego będzie brała pobierało amunicję.
+#551# Po kupieniu amunicji powinieneś podłączyć działo do magazynu, z którego będzie pobierało amunicję.
 
 Otwórz menedżer połączenia zasobów.
 #552# W tym trybie pojawią się linie reprezentujące przepływ zasobów.
 
-Wiele urządzeń aby pracować musi być podłączonych do magazynów. Silniki muszą być podłączone do zbiorników paliwa. Generatory tarcz muszą być podłączone do magazynów energii, itp.
+Wiele urządzeń, aby pracować, musi być podłączonych do magazynów. Silniki muszą być podłączone do zbiorników paliwa. Generatory tarcz muszą być podłączone do magazynów energii, itp.
 
 Teraz podłącz działo do kontenera z amunicją przeciągając i upuszczając linię pomiędzy kontenerem i działem. Zacznij od szarego punktu na dziale, następnie przesuń do kontenera.
 #553# Teraz możesz odłączyć statek od stacji.
@@ -623,7 +623,7 @@ Możesz także nacisnąć przycisk "Pokaż zasięg", aby zobaczyć efektywny zas
 #556# Gratulacje! Właśnie ukończyłeś podstawowy kurs.
 
 Jeśli potrzebujesz dodatkowych informacji, zapoznaj się z wytycznymi dla społeczności.
-#557# Dotarłeś do układu gwiezdnego; masz mały statek górniczy, trochę wodoru w zbiornikach paliwowych. Paliwa wystarczy aby dolecieć do najbliższej asteroidy i stacji. Użyj swojego lasera wydobywczego, aby zebrać surowce z najbliższych asteroid i sprzedaj je w pobliskiej stacji handlowej.
+#557# Dotarłeś do układu gwiezdnego; masz mały statek górniczy, trochę wodoru w zbiornikach paliwowych. Paliwa wystarczy, aby dolecieć do najbliższej asteroidy i stacji. Użyj swojego lasera wydobywczego, aby zebrać surowce z najbliższych asteroid i sprzedaj je w pobliskiej stacji handlowej.
 
 Modyfikuj swój statek w stoczni i wykonuj misje, aby poprawić swoją reputację i uzyskać dostęp do nowych modułów.
 #558# Wyświetl uszkodzone moduły
@@ -633,7 +633,7 @@ Modyfikuj swój statek w stoczni i wykonuj misje, aby poprawić swoją reputacj�
 #562# Lewy klik
 #563# Napraw
 #564# Wyznaczone obiekty dostarczone do celu
-#565# Wyznaczone obiekty nie złapane chwytakiem
+#565# Wyznaczone obiekty niezłapane chwytakiem
 #566# Wyznaczone obiekty mają niską prędkość względem celu
 #567# Wyznaczone obiekty nie są powiązane z żadnym statkiem
 #568# Zniszcz cel
@@ -755,8 +755,8 @@ Jeśli wartość wysoka - handlowiec ma nadmiar tego zasobu i jest gotowy go spr
 #658# Przełącz Siatkę promieniową
 #659# Siatka promieniowa pomaga zrozumieć prędkość statku.
 Każdy okrąg obraca się wokół planety z prędkością orbitalną, która odpowiada jej wysokości.
-Utrzymuj swój statek w komórce siatki jeśli chcesz zachować orbitę kołową.
-Albo poruszaj swój statek wzdłuż okręgu siatki jeśli chcesz obejść planetę wokoło.
+Utrzymuj swój statek w komórce siatki, jeśli chcesz zachować orbitę kołową.
+Albo poruszaj swój statek wzdłuż okręgu siatki, jeśli chcesz obejść planetę wokoło.
 #660# Moduł dowodzenia został zniszczony
 #661# Statek
 #662# Ten statek już ma moduł dowodzenia. Na statku może znajdować się tylko jeden moduł dowodzenia.
