@@ -664,26 +664,26 @@ Sterowanie ręczne wyłączy ten tryb.
 #592# s
 #593# min
 #594# amunicja
-#595# Dekonstrukcji
-#596# budowa
-#597# moduł ten wyposażony jest w przemysłowe drukarki 3D i samoloty bezzałogowe, które pozwala tworzyć nowe moduły, za pomocą różnych środków.
-#598# do tego, aby budować. upewnij się, że punkt połączenia zasobów, podłączony do zbiornika z danego zasobu.
-#599# zdolnych zbierać przydatne zasoby z asteroidy. Może być również używany jako broń do walki w zwarciu.
-#600# będzie automatycznie przesyłać identyfikacji zasobów w odpowiednim pojemniku na statku.
-#601# sprawnie rozwijać pokarm roślinny dla członków załogi. Wymaga energii do pracy.
-#602# to urządzenie jest w stanie stopić lód i za pomocą procesu elektrolizy, otrzymanych podzielić cząsteczki wody dwa atomy wodoru i jeden atom tlenu, który może być używany jako paliwo i utleniacz w silnikach odrzutowych.
-Podstawowa Platforma #603# do broni. Jest w stanie obracać dodane broń w różnych kierunkach w obrębie określonych kątów.
+#595# Dekonstruuj
+#596# Konstruuj
+#597# Ten moduł wyposażony jest w przemysłowe drukarki 3D i drony, co pozwala tworzyć nowe moduły przy użyciu różnych zasobów.
+#598# Aby budować upewnij się, że punkty połączenia zasobów połączone są z kontenerami z odpowiednimi zasobami.
+#599# Używane do pozyskiwania przydatnych zasobów z asteroid. Może być również używany jako broń do walki w zwarciu.
+#600# Automatycznie wyładowuje pozyskane zasoby do odpowiednich kontenerów na statku.
+#601# Używany do wzrostu pokarmu roślinnego dla członków załogi. Wymaga energii do pracy.
+#602# To urządzenie jest w stanie stopić lód i, w procesie elektrolizy, podzielić cząsteczki wody na dwa atomy wodoru i jeden atom tlenu, które mogą być używane jako paliwo i utleniacz w silnikach odrzutowych.
+#603# Podstawowa platforma do broni. Jest w stanie obracać umieszczoną na niej broń w różnych kierunkach w ograniczonym zakresie kątów.
 
-Mogą być sterowane ręcznie lub w trybie automatycznym.
-W trybie automatycznym, będzie automatycznie atakować określone cele.
-#604# większość broni powinny być umieszczone na tym module.
-#605# ważny moduł, który pozwala dokować z innymi statkami lub stacjami, zwłaszcza jeśli należą do innej frakcji.
-#606# pozwala łatwo wykryć i wydzielać różne obiekty w określonym zakresie. Szczególnie przydatne, jeśli trzeba wykrywać małe obiekty, takie jak zanieczyszczenia lub małe asteroidy.
-#607# prosty formalnie części.
-#608# może być używany jako magazyn dla stałych zasobów.
-#609# zużywa uranu i generuje energię.
-#610# generuje energię, gdy panelu skierowane na gwiazdę.
-#611# skuteczność zależy od odległości i kąta do gwiazdy.
+Może być sterowana ręcznie lub w trybie automatycznym.
+W trybie automatycznym będzie automatycznie atakować określone cele.
+#604# Większość broni powinna być umieszczona na tym module.
+#605# Ważny moduł, który pozwala dokować do innych statków lub stacji, zwłaszcza jeśli należą do innej frakcji.
+#606# Pozwala łatwo wykrywać i wydzielać różne obiekty w określonym zakresie. Szczególnie przydatne, jeśli trzeba wykrywać małe obiekty, takie jak zanieczyszczenia lub małe asteroidy.
+#607# Prosta część statku.
+#608# Może być używany jako magazyn dla stałych zasobów.
+#609# Generuje energię zużywając uran.
+#610# Generuje energię, gdy panele skierowane są na gwiazdę.
+#611# Skuteczność zależy od kąta i odległości do gwiazdy.
 #612# pojemnik, który może przechowywać wszelkie cieczy lub gazu, jako paliwa do silników.
 #613# pozwala zebrać śmieci z kosmosu i automatycznie przerabiać w przydatne materiały.
 #614# pojemnik, który może przechowywać stałych ładunków, takich jak ruda, amunicji lub jedzenie.
