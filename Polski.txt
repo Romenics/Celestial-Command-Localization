@@ -684,40 +684,40 @@ W trybie automatycznym będzie automatycznie atakować określone cele.
 #609# Generuje energię zużywając uran.
 #610# Generuje energię, gdy panele skierowane są na gwiazdę.
 #611# Skuteczność zależy od kąta i odległości do gwiazdy.
-#612# pojemnik, który może przechowywać wszelkie cieczy lub gazu, jako paliwa do silników.
-#613# pozwala zebrać śmieci z kosmosu i automatycznie przerabiać w przydatne materiały.
-#614# pojemnik, który może przechowywać stałych ładunków, takich jak ruda, amunicji lub jedzenie.
-#615# hydrauliczny dźwignia, która pozwala rejestrować różne obiekty w przestrzeni kosmicznej, takich jak asteroidy, śmieci lub inne statki.
-#616# ten przyrząd jest w stanie stworzyć sferę lub elipsoida wokół siebie, które będą chronić statek przed wszelkimi uszkodzeniami.
-#617# zużywa energię.
+#612# Pojemnik, który może przechowywać dowolną ciecz lub gaz, na przykład paliwo.
+#613# Pozwala zbierać śmieci z kosmosu i automatycznie przerabiać je na przydatne materiały.
+#614# Pojemnik, który może przechowywać ładunki stałe, takie jak ruda, amunicja czy jedzenie.
+#615# Hydrauliczne ramię, które pozwala złapać różne obiekty w przestrzeni kosmicznej, takie jak asteroidy, śmieci lub inne statki.
+#616# Ten przyrząd jest w stanie stworzyć wokół siebie sferę lub elipsoidę, która będzie chronić statek przed uszkodzeniami.
+#617# Zużywa energię podczas działania.
 
-Zużywa dodatkową energię do zablokowanych jednostkę obrażeń.
+Zużywa dodatkową energię przy absorpcji uszkodzeń.
 
-Rozmiar ochronnego pola można zmienić. Zużycie energii zależy od wielkości.
-#618# to urządzenie emituje kierunkowe wiązki fal grawitacyjnych, które mogą popchnąć konkretnego obiektu w określonym kierunku.
-#619# gdy aktywny, przeciągać obiekty wewnątrz białego kręgu, za pomocą lewego przycisku myszy, aby przenieść je w dowolnym kierunku.
-#620# pozwala zbudować statek z obrotowymi częściami.
-#621# pozwala zbudować statek z ruchomymi częściami.
-#622# chemiczny silnik, który tworzy głód z powodu spalania tlenu i wodoru w komorze spalania i odprowadzania spalin z dyszy.
+Rozmiar pola ochronnego można zmienić; zużycie energii zależy od jego rozmiaru.
+#618# To urządzenie emituje kierunkowe wiązki fal grawitacyjnych, które mogą popchnąć wskazany obiekt w określonym kierunku.
+#619# Gdy aktywny, przeciągnij obiekty wewnątrz białego okręgu za pomocą lewego przycisku myszy, aby przenieść je w dowolnym kierunku.
+#620# Pozwala zbudować statek z obrotowymi częściami.
+#621# Pozwala zbudować statek z ruchomymi częściami.
+#622# Chemiczny silnik, który spala tlen i wodór tworząc wysoki ciąg.
 
-Do tego, aby działać, musi być podłączony do paliwa, zbiorniki z tlenem i wodorem.
+Aby działać, musi być podłączony do zbiorników paliwa z tlenem i wodorem.
 
-Wodór jako paliwo i tlen jako utleniacz.
-#623# pozwala obrócić statek, wykorzystując jedynie energię.
-#624# ten silnik wymaga Ksenonowe gazu i energii elektrycznej. Jego zaletą w porównaniu z chemicznymi silnikami jest to, że wymaga ona bardzo mała ilość paliwa, jednak ma znacznie mniejszą przyczepność. W rezultacie, jest on w stanie pracować w sposób ciągły przez długi czas
-#625# prosty i tani manewrowanie silnikiem, który popycha sprężony wodór.
+Wodór wymagany jako paliwo, a tlen jako utleniacz.
+#623# Pozwala obracać statek, wykorzystując jedynie energię.
+#624# Ten silnik wymaga ksenonowego gazu i energii elektrycznej. Jego zaletą w porównaniu z chemicznymi silnikami jest to, że zużywa bardzo małą ilość paliwa, jednak ma znacznie mniejszy ciąg. W rezultacie jest on w stanie pracować w sposób ciągły przez długi czas.
+#625# Prosty i tani silnik manewrujący, wykorzystujący sprężony wodór.
 
-Do tego, aby działać, musi być podłączony do zaworu paliwowego Baku, który zawiera wodór.
-Urządzenie #626# a, która jest w stanie zdeformować przestrzeń wokół statku, który pozwala podróżować z prędkością szybciej, niż prędkość światła.
+Do tego, aby działał, musi być podłączony do zaworu paliwowego zawierającego wodór.
+#626# Urządzenie, które jest w stanie zdeformować przestrzeń wokół statku, co pozwala podróżować z prędkością wyższą, niż prędkość światła.
 
-Może on być stosowany system gwiezdny do szybkiego przemieszczania się z jednego punktu do drugiego.
-#627# porusza się każdy obiekt, który znajduje się wewnątrz rdzenia pola
+Może on być stosowany w obrębie systemu gwiezdnego do natychmiastowego przemieszczania się z jednego punktu do drugiego.
+#627# Porusza każdy obiekt, który znajduje się wewnątrz pola warp
 
-Rozmiar warp pole może być zmieniona
+Rozmiar pola warp może być zmieniony
 
-Zużycie energii zależy od wielkości warp polu
+Zużycie energii zależy od wielkości pola warp
 
-Jeśli warp polu zmierzyć się z czymś, ona będzie destabilized i skakać będzie przerwana.
+Jeśli pole warp zderzy się z czymś, będzie ono zdestabilizowane i skok zostanie przerwany.
 #628# musi być podłączony do magazynowania energii
 #629# musi być podłączony do magazynu z rakietami
 #630# muszą być podłączone do magazynu z ammo
