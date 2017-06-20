@@ -718,18 +718,18 @@ Rozmiar pola warp może być zmieniony
 Zużycie energii zależy od wielkości pola warp
 
 Jeśli pole warp zderzy się z czymś, będzie ono zdestabilizowane i skok zostanie przerwany.
-#628# musi być podłączony do magazynowania energii
-#629# musi być podłączony do magazynu z rakietami
-#630# muszą być podłączone do magazynu z ammo
-#631# w stanie uruchomić naprowadzania torpedy.
+#628# Musi być podłączony do magazynu energii
+#629# Musi być podłączony do magazynu z rakietami
+#630# Musi być podłączony do magazynu z amunicją
+#631# Wystrzeliwuje samonaprowadzające torpedy.
 Torpedy zostaną skierowane na obiekt, który został wybrany podczas uruchamiania.
-Jeśli nie ma zaznaczonych obiektów, Torpedy zostanie uruchomiony w tryb niezarządzalny.
-#632# w stanie uruchomić niezarządzane rakiety z wysoką szybkostrzelnością
-#633# zawiera energię wytwarzaną reaktory lub baterie słoneczne. Każde urządzenie wymaga zasilania musi być podłączony do niego
-#634# centrum zarządzania każdego statku, który obejmuje team mostek, główny komputer i dystrybucji zasobów piasty
-#635# punkty montażu
-#636# następnego poziomu
-#637# potrzebna jest Reputacja
+Jeśli nie ma zaznaczonych obiektów, torpeda zostanie uruchomiona w trybie niekierowanym.
+#632# Jest w stanie wystrzeliwać niekierowane rakiety z wysoką szybkostrzelnością
+#633# Zawiera energię wytwarzaną reaktory lub baterie słoneczne. Każde urządzenie wymagające zasilania musi być podłączony do niego
+#634# Centrum zarządzania każdego statku, obejmujące mostek, główny komputer i system przydziału zasobów
+#635# Punkty montażu
+#636# Następny poziom
+#637# Potrzebna reputacja
 #638# Efekt poświaty
 #639# Pokaż tło
 #640# Czarny kosmos w tle
