@@ -770,3 +770,6 @@ O mueva su nave a lo largo del círculo de la cuadrícula si quiere pasar de lar
 #670# Abrir directorio de partidas guardadas
 #671# Borrar fichero seleccionado
 #672# Ya existe una partida guardada con ese nombre
+#673# m / s
+#674# Velocity of active ship
+#675# Meter per second

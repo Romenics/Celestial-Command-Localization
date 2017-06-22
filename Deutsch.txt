@@ -772,3 +772,6 @@ Or move your ship along circle of the grid if you wish to bypass planet around.
 #670# Open folder with saved files
 #671# Delete selected file
 #672# Saved file with such name already exist
+#673# m / s
+#674# Velocity of active ship
+#675# Meter per second

@@ -767,3 +767,6 @@ Door je naar een kleinere cirkel te verplaatsen kun je sneller om een planeet he
 #670# Open map met opgeslagen bestanden
 #671# Verwijder selectie
 #672# Een bestand met deze naam bestaat al
+#673# m / s
+#674# Velocity of active ship
+#675# Meter per second
