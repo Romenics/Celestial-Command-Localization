@@ -771,5 +771,5 @@ Albo poruszaj swój statek wzdłuż okręgu siatki, jeśli chcesz obejść plane
 #671# Usuń wybrany plik
 #672# Zapisany plik o takiej nazwie już istnieje
 #673# m / s
-#674# Velocity of active ship
-#675# Meter per second
+#674# Prędkość aktywnego statku
+#675# Metrów na sekundę
