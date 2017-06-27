@@ -771,5 +771,5 @@ O mueva su nave a lo largo del círculo de la cuadrícula si quiere pasar de lar
 #671# Borrar fichero seleccionado
 #672# Ya existe una partida guardada con ese nombre
 #673# m / s
-#674# Velocity of active ship
-#675# Meter per second
+#674# Velocidad de la nave activa
+#675# Metros por segundo
