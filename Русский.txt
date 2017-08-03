@@ -773,22 +773,22 @@
 #673# м / с
 #674# Скорость текущего корабля
 #675# Метров в секунду
-#676# 90% Black
-#677# 100% Black
-#678# Blue
-#679# Collision damage
-#680# Module should be in range of shipyard (yellow circle)
-#681# Currently there is a technical problem with visibility of created servers in the server list
+#676# 90% Черный
+#677# 100% Черный
+#678# Синий
+#679# Урон от столкновения
+#680# Модуль должен быть в зоне действия верфи (желтый круг)
+#681# В настоящее время существует техническая проблема с отображением созданных серверов в списке серверов
 
-If you created a server and you want to check its visiblity, follow this guide
-#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
-#683# Open guide
-#684# Recommended mode
-#685# Experimental mode which may contain significant technical and conceptual flaws
+Если вы создали сервер, и хотите проверить его видимость, слудуйте этому руководству
+#682# Если ваш сервер не отображается в списке, другие пользователи должны использовать прямое подключение по IP, чтобы подключиться к вам.
+#683# Открыть руководство
+#684# Рекомендуемый режим
+#685# Экспериментальный режим, который может содержать значительные технические и концептуальные недостатки
 
-We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
-#686# Module out of range of shipyard
-#687# Identifier of sector
-#688# Level of sector
-#689# Owner of sector
-#690# Capture
+Мы рекомендуем начать с аэродинамического режима, потому что он более удобный, в нем стабильнее физика и в целом обеспечивает лучший игровой опыт
+#686# Модуль вне зоны досигаемости верфи
+#687# Идентефикатор сектоа
+#688# Уровень сектора
+#689# Владелец сектора
+#690# Захват
