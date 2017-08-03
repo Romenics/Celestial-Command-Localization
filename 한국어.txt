@@ -776,3 +776,22 @@ A 및 D 키를 사용하여 우주선을 회전시킬 수 있습니다. 천천�
 #673# m / s
 #674# Velocity of active ship
 #675# Meter per second
+#676# 90% Black
+#677# 100% Black
+#678# Blue
+#679# Collision damage
+#680# Module should be in range of shipyard (yellow circle)
+#681# Currently there is a technical problem with visibility of created servers in the server list
+
+If you created a server and you want to check its visiblity, follow this guide
+#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
+#683# Open guide
+#684# Recommended mode
+#685# Experimental mode which may contain significant technical and conceptual flaws
+
+We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
+#686# Module out of range of shipyard
+#687# Identifier of sector
+#688# Level of sector
+#689# Owner of sector
+#690# Capture
