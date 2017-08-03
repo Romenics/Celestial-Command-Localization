@@ -777,7 +777,7 @@ Door je naar een kleinere cirkel te verplaatsen kun je sneller om een planeet he
 #680# Module should be in range of shipyard (yellow circle)
 #681# Currently there is a technical problem with visibility of created servers in the server list
 
-If you created a server and you want to check its visiblity, follow this guide
+If you created a server and you want to check its visibility, follow this guide
 #682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
 #683# Open guide
 #684# Recommended mode
