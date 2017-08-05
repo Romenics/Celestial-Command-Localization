@@ -1,4 +1,8 @@
 ﻿
+#
+###### PLEASE NO CHANGES FROM SOMEONE WHO BARELY SPEAKS GERMAN #####
+#
+#
 #0# Server starten
 #1# Mehrspielerspiel beitreten
 #2# Optionen
@@ -22,7 +26,7 @@
 #20# Direkte Verbindung
 #21# Steam Verbindung (kommt bald)
 #22# Entwickler
-#23# Das Spiel wird von drei Freunden mit den Spitznamen Artaani, Riya und Romenics entwickelt. Besuchen Sie unseren Entwicklerblog im Steam-Community-Hub für weitere Informationen.
+#23# Das Spiel wird von drei Freunden mit den Namen Artaani, Riya und Romenics entwickelt. Besuchen Sie unseren Entwicklerblog im Steam-Community-Hub für weitere Informationen.
 #24# Speichern
 #25# Standard
 #26# Anwenden
@@ -41,17 +45,17 @@
 #39# Kantenglättung
 #40# Vertikale Synchronisation
 #41# Bildauflösung
-#42# Drücke eine Taste für die Tastenbelegung oder ESC zum Beenden
+#42# Drücken Sie eine Taste für die Tastenbelegung oder ESC zum Beenden
 #43# Speichern
 #44# Standard
 #45# Tastenkürzel
-#46# Wähle eine Welt
+#46# Wählen Sie eine Welt
 #47# Name
 #48# Speicherdatum
 #49# Spielzeit
 #50# Version
 #51# Welt erstellen
-#52# Bestätige das Löschen der Welt
+#52# Bestätigen Sie das Löschen der Welt
 #53# Zurück
 #54# Löschen
 #55# Port
@@ -72,14 +76,14 @@
 #70# Neue Welt
 #71# Zurück
 #72# Spiel starten
-#73# Mehrspielerspiel beitreten
+#73# Mehrspielerpartie beitreten
 #74# IP
 #75# Port
 #76# Passwort
 #77# Beitreten
-#78# Wähle einen Server
+#78# Wählen Sie einen Server
 #79# Zu Favoriten hinzufügen
-#80# Bestätige das Löschen des Servers
+#80# Bestätigen Sie das Löschen des Servers
 #81# Zurück
 #82# Name
 #83# IP
@@ -107,12 +111,12 @@
 #105# Energie
 #106# Nahrung
 #107# Besatzung
-#108# KI
+#108# Computerspieler
 #109# Ausgewähltes Schiff verdoppeln
 #110# Fraktion auf freundlich setzen
 #111# Fraktion auf feindlich setzen
 #112# Erstelle feindliches Schiff
-#113# KI zum Schiff hinzufügen
+#113# Computerspieler zum Schiff hinzufügen
 #114# Autopilot
 #115# Physik
 #116# Ausgewähltes Schiff entfernen
@@ -159,11 +163,11 @@
 #157# Anhängen
 #158# Für Transfer ziehen
 #159# Rechter Mausklick: Verkaufen
-#160# Kaufen: Ziehen und auf eigenem Container fallen lassen
+#160# Kaufen: Ziehen und auf eigenem Lagerbehälter fallen lassen
 #161# Für Transfer fallen lassen
 #162# Shift-Taste gedrückt halten um Menge festzulegen
 #163# Fallen lassen um zu kaufen
-#164# falscher Lagertyp (für Flüssiges / für Festes)
+#164# falsches Lagerbehältnis (für Flüssiges / für Festes)
 #165# Strg+RMT - Abbauen
 #166# Rechte Maustaste - Reparieren
 #167# Rechte Maustaste - Bauen
@@ -195,7 +199,7 @@
 #193# Raketen
 #194# Energie
 #195# Nahrung
-#196# Es gibt keine Ressource mit dem Namen
+#196# Es gibt keine Ressource mit diesem Namen
 #197# Kann Baumenü nicht öffnen
 #198# Das aktuelle Schiff hat kein Ingenieurmodul
 #199# Nahrungsmittel erschöpft
@@ -209,25 +213,25 @@
 #207# Feuern nicht möglich
 #208# Raketenwerfer ist nicht mit Munitionslager verbunden
 #209# Feuern nicht möglich
-#210# Keine Munition im verbundenem Lager
+#210# Keine Munition im verbundenem Lagerbehälter
 #211# Autopilot - aktiviert
 #212# Autopilot - deaktiviert
-#213# Wähle ein Schiff
+#213# Wählen Sie ein Schiff
 #214# Kein Objekt gewählt
-#215# Wähle ein Schiff
-#216# Wähle ein Objekt
+#215# Wählen Sie ein Schiff
+#216# Wählen Sie ein Objekt
 #217# Tastenkürzel:
 #218# Tastenkürzel Namen:
 #219# Links:
 #220# Nur der Server kann dies tun
 #221# Spiel gespeichert
 #222# Fehler beim Speichern
-#223# Speichern nicht möglich durch einen internen Fehler.
+#223# Speichern durch einen internen Fehler nicht möglich.
 #224# Unzureichende Credits
 #225# Schiffe sollten aneinander angedockt sein
 #226# Lager ist leer
 #227# Dieser Händler benötigt diese Ware nicht
-#228# Kann Ware nicht verkaufen, Lager sind voll
+#228# Kann Ware nicht verkaufen, Lagerbehälter sind voll
 #229# Einheiten von
 #230# wurde verkauft für
 #231# Einheiten von
@@ -240,7 +244,7 @@
 #238# Planetenmasse
 #239# Triebwerksschub
 #240# Treibstoffverbrauch
-#241# Stabilisierungsrad Drehmoment
+#241# Drehmoment - Stabilisierungsmodul 
 #242# Orbitale Parameter
 #243# Flugbahn
 #244# Position
@@ -258,26 +262,26 @@
 #256# Zeit verlangsamen
 #257# Zeit beschleunigen
 #258# Zeige Lagerbehälter
-#259# Inhalt aller Speicherbehälter des aktuellen Schiff anzeigen. Die Inhalte können per Drag-and-Drop mit der linken Maustaste zwischen Containern verschoben werden. Während Sie die Taste links SHIFT halten können Sie eine bestimmte Menge an Ressourcen zu übertragen.
+#259# Inhalt aller Speicherbehälter des aktuellen Schiff anzeigen. Die Inhalte können per Drag-and-Drop mit der linken Maustaste zwischen Lagerbehälter verschoben werden. Während Sie die Taste links SHIFT halten können Sie eine bestimmte Menge an Ressourcen zu übertragen.
 #260# Anzeigen der Crewmitglieder des aktuelles Schiffes. Ein Crewmitglied kann durch drag & drop verschoben werden.
-#261# Anzeige Montagepunkte
+#261# Zeigt Montagepunkte an
 #262# Zeigt Ressourcen-Anschlüsse für das aktuelle Schiff. Wenn das Modul einige spezifische Ressourcen erfordert, sollte es mit Hilfe dieses Modus angeschlossen werden. Anschlüsse können per Drag & Drop an Module angeschlossen werden.
-#263# Montagepunkte
+#263# Montage
 #264# Zeigt Montagepunkte für das aktuelle Schiff. Montagepunkte können mit einem Links-klick verbunden und gelöst werden.
 #265# Zeigt Massenmittelpunkt für das aktuelle Schiff.
-#266# RCS feststellen
+#266# Lageregelungstriebwerke (RCS) feststellen
 #267# Rotation des Schiffes durch Triebwerksnutzung stabilisieren.
 #268# Wenn aktiviert: Schiff auswählen und durch Rechts-klick eine Position zuweisen (Autopilot).
 #269# Anzeige des Hüllenstatus.
 #270# Temporäre Anzeige für Schiffszustand.
-#271# Schließfach drehen
+#271# Rotation sperren
 #272# Sichtachse zum beobachteten Objekt drehen.
 #273# Blick fokussieren
 #274# Blick auf ausgewähltes Objekt fokussieren
 #275# Kameraschwenk zurücksetzen
 #276# Kameraausrichtung zurücksetzen um ausgewähltes Objekt zu fokussieren.
 #277# Geschwindigkeit anzeigen
-#278# Zeige relative Geschwindigkeit (orange) und Richtung (weiss) zum ausgewählten Objekt.
+#278# Zeigt relative Geschwindigkeit (orange) und Richtung (weiss) zum ausgewählten Objekt.
 #279# Rasteransicht umschalten
 #280# Rechteckiges Raster relativ zum Stern anzeigen.
 #281# Aktuelle Energiemenge
@@ -294,33 +298,33 @@
 #292# Dieser Parameter zeigt wieviel Kraft nötig ist um das Schiff zu drehen. Um den Wert zu senken sollten die Module mit der höchsten Masse im Zentrum des Schiffes plaziert werden.
 #293# Einschließlich der Masse der Inhalte wenn es sich um Behälter oder Frachtbuchten handelt.
 #294# Strukturelle Integrität
-#295# Ein-/Ausschalten der manuellen Kontrolle für ausgewählte Waffengruppen. Links-Shift + Lnke Maustaste für automatischen Modus (Automatisches Feuern).
-#296# Ausgewählten Behälter mit Sauerstoff füllen
-#297# Ausgewählten Behälter mit Wasserstoff füllen
-#298# Ausgewählten Behälter mit Xenon füllen
-#299# Ausgewählten Behälter mit Raketen füllen
-#300# Ausgewählten Behälter mit Munition füllen
+#295# Ein-/Ausschalten der manuellen Kontrolle für ausgewählte Waffengruppen. Links-Shift + Linke Maustaste für automatischen Modus (Automatisches Feuern).
+#296# Ausgewählten Lagerbehälter mit Sauerstoff füllen
+#297# Ausgewählten Lagerbehälter mit Wasserstoff füllen
+#298# Ausgewählten Lagerbehälter mit Xenon füllen
+#299# Ausgewählten Lagerbehälter mit Raketen füllen
+#300# Ausgewählten Lagerbehälter mit Munition füllen
 #301# Ausgewählten Energiespeicher vollständig laden.
-#302# Ausgewählten Behälter mit Nahrung füllen
+#302# Ausgewählten Lagerbehälter mit Nahrung füllen
 #303# Dem ausgewählten Modul ein Crewmitglied zuweisen.
 #304# Erstellen Sie ein feindliche Schiff an einem zufälligem Punkt um den Planeten, das automatisch das Schiff des Spielers angreift.
 #305# Dem Schiff eine künstliche Intelligenz zuweisen. Es wird der alliierten Fraktion zugewiesen und dem Spieler folgen.
 #306# Das Schiff wird automatisch zum ausgewählten Objekt fliegen, ein zweiter Maus-Klick schaltet den Autopiloten aus.
 #307# Gesamtes Schiff oder Asteroiden entfernen
 #308# Achtung: Diese Aktion kann für die aktuelle Welt nicht rückgängig gemacht werden. Das ausschalten der Gravitation (Schwerkraft) wird alle Objekte an ihre aktuelle Position binden (keine Bewegung). Nur zu Testzwecken empfohlen.
-#309# (Unfertige Fähigkeit) Drücke die Taste und klicke mit der Maus in den Weltraum um einen orbitalen Flugbahnplan zu erstellen. Positions- und Geschwindigkeitspunkte können mit der linken Maustaste verschoben werden. Mit der rechten Maustaste werden diese Punkte gelöscht.
+#309# (Unfertige Fähigkeit) Drücken Sie die Taste und klicken Sie mit der Maus in den Weltraum um einen orbitalen Flugbahnplan zu erstellen. Positions- und Geschwindigkeitspunkte können mit der linken Maustaste verschoben werden. Mit der rechten Maustaste werden diese Punkte gelöscht.
 #310# Wenn aktiviert kann mit der linken Maustaste Trümmerteile gesetzt werden. Shift+L-Maustaste schleudern das Trümmerstück mit zufälliger Geschwindigkeit hinfort.
-#311# Händler ist bereit diese Ware(n) zu kaufen
-#312# Händler ist bereit diese Ware(n) zu verkaufen
+#311# Händler ist bereit diese Ware zu kaufen
+#312# Händler ist bereit diese Ware zu verkaufen
 #313# Namen ändern
 #314# Rang ändern
 #315# Unfertiges Attribut
 #316# Crewmitglieder werden automatisch Nahrung aus jedem Lagerbehälter verbrauchen sobald Ihre Sättigung unter 75% fällt (dieser Wert ist um 25% vermindert für 2 Minuten).
 #317# Unfertiges Attribut
-#318# Ausgewählten Lagerraum mit Wasserstoff füllen
+#318# Ausgewählten Lagerbehälter mit Wasserstoff füllen
 #319# Dem ausgewählten Modul ein Crewmitglied zuweisen.
-#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln muss das Handelsinterface geöffnet sein, dein Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen öffne das Frachtinterface und ziehe die gewünschte Ware mit der Maus von der Station auf deinen Container. Um etwas zu verkaufen - setze einen Rechts-Klick auf die Ware in deinem Container.
-#321# Öffne das Konstruktionsmenü der Schiffswerft. Während sich dein Schiff innerhalb der Schiffswerft befindet kannst du Teile/Module für Kredits kaufen und verkaufen. 
+#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln muss das Handelsinterface geöffnet sein, Ihr Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen öffnen Sie das Frachtinterface und ziehen Sie die gewünschte Ware mit der Maus von der Station auf ihren Lagerbehälter. Um etwas zu verkaufen - setzen Sie einen Rechts-Klick auf die Ware in ihrem Lagerbehälter.
+#321# Öffnen Sie das Konstruktionsmenü der Schiffswerft. Während sich ihr Schiff innerhalb der Schiffswerft befindet können sie Teile/Module gegen Credits kaufen und verkaufen. 
 #322# Flugbahnstatus
 #323# Position relativ zum Planeten oder Stern
 #324# Entfernung vom Zentrum des Planeten bis zum äußersten Punkt auf der Umlaufbahn
@@ -329,19 +333,19 @@
 #327# Die Umlaufzeit ist die Zeit, die ein Körper für eine vollständige Umrundung benötigt.
 #328# Winkelgeschwindigkeit (in Grad pro Sekunde)
 #329# Orbitale Parameter
-#330# Frachtcontainer 2
-#331# Frachtcontainer 1
+#330# Lagerbehälter 2
+#331# Lagerbehälter 1
 #332# Chemisches Triebwerk
 #333# Flüssigkeitsbehälter 1
 #334# Nuklear Reaktor
 #335# Energiespeicher
 #336# Ingenieursmodul
 #337# Radar
-#338# Sonnenkollektoren
+#338# Solarpanel
 #339# Waffenplattform 1
 #340# Waffenplattform 2
 #341# Energiekanone
-#342# Ballistikkanone 1
+#342# Projektilkanone 1
 #343# Korridor 4-Verbindungsstellen
 #344# Laser 1
 #345# Bergbaulaser
@@ -351,10 +355,10 @@
 #349# Greifarm
 #350# Laser 2
 #351# Kraftstoff-Generator
-#352# Ballistikkanone 2
+#352# Projektilkanone 2
 #353# Korridor
 #354# Korridor 3-Verbindungsstellen
-#355# Kommando Modul
+#355# Kommandomodul
 #356# Eckkorridor
 #357# Reaktionsrad (Positionsstabilisierung)
 #358# Warpantrieb
@@ -363,9 +367,9 @@
 #361# Flüssigkeitsbehälter 3
 #362# Bergbaulaser
 #363# Flüssigkeitsbehälter 4
-#364# Kommando Modul 2
+#364# Kommandomodul 2
 #365# Schild-Generator
-#366# Frachttor
+#366# Frachthangar
 #367# Traktorstrahl
 #368# Ionen Triebwerk
 #369# Strukturträger
@@ -383,8 +387,8 @@
 #381# Dem geklonten Schiff eine Fraktion zuweisen
 #382# Alliierter
 #383# Feind
-#384# Nicht die Fraktion ändern
-#385# Das nächste geklonte Schiff wird der gleichen Fraktion angehören wie der Originalschiff.
+#384# Ändern Sie nicht die Fraktion
+#385# Das nächste geklonte Schiff wird der gleichen Fraktion angehören wie das Originalschiff.
 #386# Das nächste geklonte Schiff wird der alliierten Fraktion angehören.
 #387# Das nächste geklonte Schiff wird der feindlichen Fraktion angehören.
 #388# Asteroid
@@ -423,23 +427,23 @@
 #421# Dekonstruieren
 #422# Rotation ausgleichen
 #423# Rotor
-#424# Rotor Kopf
+#424# Rotorkopf
 #425# Kolben
-#426# Kolben Kopf
+#426# Kolbenkopf
 #427# Nicht nochmal Anzeigen
 #428# Sie können im Moment nicht Speichern
 #429# Bitte ein Schiff auswählen
-#430# Bitte ein Kommandostation auswählen
+#430# Bitte ein Kommandomodul auswählen
 #431# Schiff auswählen
 #432# Öffentlicher Server
-#433# Server Name
+#433# Name des Servers
 #434# Multiplikatoren
 #435# Erweiterte Einstellungen
 #436# Falls aktiviert wird der Server in der öffentlichen Serverliste angezeigt
 #437# Spieler
 #438# Keine Server gefunden
 #439# Server finden
-#440# Direkte IP Verbindung
+#440# Direkte IP-Verbindung
 #441# Serverliste aktualisieren
 #442# Aktualisieren
 #443# Serverliste
@@ -448,7 +452,7 @@
 #446# Kleines Triebwerk 
 #447# Kleines Triebwerk 2
 #448# Kleiner Würfel
-#449# Frachtcontainer 4
+#449# Lagerbehälter 4
 #450# Verbindung zum Server verloren
 #451# Hauptmenü
 #452# Schub
@@ -456,13 +460,11 @@
 #454# Maximalen Schub begrenzen
 #455# Aktiviert Triebwerk manuell. 3 verschiedene Hotkeys können zugewiesen werden.
 #456# Wenn aktiviert wird dieses Triebwerk automatisch von den Tasten WASDQE gesteuert.
-ЯндексПереводчик
-
-#457# Der Triebwerksschub wird den eingestellten Wert nicht überschreiten. Dies ist nützlich um Schubzentrum und Massezentrum auszurichten, um unerwünschte Kursabweichungen während der Bewegung zu verhindern.
+#457# Der Triebwerksschub wird den eingestellten Wert nicht überschreiten. Dies ist nützlich um Schubzentrum und Massenzentrum auszurichten, um unerwünschte Kursabweichungen während der Bewegung zu verhindern.
 #458# Einkaufspreis
 #459# Verkaufspreis
 #460# Angebot-Nachfrage-Verhältnis
-#461# Arc-Anschlüsse
+#461# Modul-Anschlüsse
 #462# Kompensiere niedrige Bildwiderholungsrate
 #463# X-Achse invertieren
 #464# Y-Achse invertieren
@@ -479,7 +481,7 @@
 #475# Stations Hub
 #476# Stations Seitenteil
 #477# Ingenieursmodul
-#478# Lagercontainer
+#478# Lagerbehälter
 #479# Flüssigkeitstanks
 #480# Gehen Sie zur vorgesehenen Andockschleuse
 #481# Warten auf eine freie Andockschleuse
@@ -493,28 +495,28 @@
 #489# Kein freier Lagerraum für diese Ressource
 #490# Wählen Sie ein Objekt und versuchen Sie es erneut
 #491# Mission abgeschlossen
-#492# Credit erhalten
+#492# Credits erhalten
 #493# Nicht mit dem Schiff angedockt
-#494# Neue mission verfügbar
+#494# Neue Mission verfügbar
 #495# Station
 #496# Nicht genug Credits
 #497# Preis
 #498# Mission gescheitert
 #499# Schwaches Signal
 #500# Sie sollten zurückzukehren, oder das Schiff wird in 60 Sekunden vernichtet 
-#501# - Signal verloren
+#501# Signal verloren
 #502# Das Schiff ging im Raum außerhalb des Sonnensystems verloren.
 #503# Position des Schubzentrums relativ zum Schwerpunkt
 #504# Sprungantrieb deaktiviert
 #505# Nicht genug Energie
 #506# Torpedowerfer
-#507# Art
+#507# Typ
 #508# Planetendurchmesser
 #509# Atmosphärendurchmesser
 #510# Einflussbereich
 #511# Masse
 #512# Umlaufszeit
-#513# Orbital phase
+#513# Orbitalphase
 #514# Orbitalradius
 #515# Reparatur
 #516# Modul ist nicht beschädigt
@@ -533,8 +535,8 @@ Sie können Ihr Schiff mit den Tasten A und D drehen. Versuchen Sie, Ihr Schiff 
 #525# Automatische Stabilisierung ist sehr nützlich um die Rotation des Schiffes zu stoppen. Aktivieren Sie den Stabilisator durch drücken der markierten Schaltfläche oder mittels der Taste "R"
 #526# Während der Stabilisator aktiv ist wird die Drehung mittels Manövriertriebwerke gestoppt.
 
-Beachten Sie jedoch das der Brennstoff begrenzt ist. Diese grundlegenden Manövriertriebwerke verbraucht flüssigen Wasserstoff. Die aktuelle Menge an Wasserstoff wird Ihnen oben rechts auf dem Bildschirm angezeigt. (Hervorgehoben durch den Pfeil)
-#527# Während der Aktivierung wird der Stabilisator allen Rotationen entgegenwirken, auch wenn man es Sie vieleicht gar nicht benötigen. Da für jede Stabilisierung die Triebwerke genutzt werden erhöht sich Ihr Treibstoffverbrauch. Es kann sinnvoll sein die Stabilisierung zu deaktivieren wenn Sie sie nicht benötigen.
+Beachten Sie jedoch das der Brennstoff begrenzt ist. Diese grundlegenden Manövriertriebwerke verbrauchen flüssigen Wasserstoff. Die aktuelle Menge an Wasserstoff wird Ihnen oben rechts auf dem Bildschirm angezeigt. (Hervorgehoben durch den Pfeil)
+#527# Während der Aktivierung wird der Stabilisator allen Rotationen entgegenwirken, auch wenn Sie es vieleicht gar nicht benötigen. Da für jede Stabilisierung die Triebwerke genutzt werden erhöht sich Ihr Treibstoffverbrauch. Es kann sinnvoll sein die Stabilisierung zu deaktivieren wenn Sie sie nicht benötigen.
 
 Deaktivieren des Stabilisator mittels Taste "R".
 #528# Nun versuchen Sie ihr Schiff etwas zu bewegen, mittels den Tasten W S Q E (Vorwärts, Rückwärts, Links und rechts)
@@ -545,7 +547,7 @@ Sie werden bemerkt haben, dass Ihr Schiff nicht an einem Ort bleibt. Es umkreist
 
 Versuchen Sie den nächstgelegenen Asteroiden zu erreichen.
 Wählen Sie den markierten Asteroiden und machen sie einen Maus-klick.
-#531# zeigt jetzt die relative Geschwindigkeit an
+#531# Zeigt jetzt die relative Geschwindigkeit an
 #532# Wenn Sie ein Objeckt auswählen während die Funktion akiv ist, sehen Sie zwei Pfeile, in der Nähe Ihres Schiffes.
 
 Weißer Pfeil - Richtung zum ausgewählten Ziel
@@ -556,7 +558,7 @@ Um sich nun dem Ziel zu nähern, müssen der orangene Pfeil und der weiße Pfeil
 
 #534# Gut. Zeigen beide Pfeile in die selbe Richtung bedeutet das dass Sie sich in einer Linie mit dem Ziel befinden.
 
-Achten Sie auf die Distanz und die relative Geschwindigkeit zum Ziel. Stürze nicht hinein
+Achten Sie auf die Distanz und die relative Geschwindigkeit zum Ziel. Stürzen Sie nicht hinein.
 Sobald Sie sich nähern, bremsen Sie Ihr Schiff ab, bis der orangene Pfeil sehr kurz wird. Dies bedeutet, dass Ihre Relativgeschwindigkeit fast Null ist.
 
 Fliegen Sie sehr nah an das Ziel heran und stoppen Sie dann ihr Schiff.
@@ -566,7 +568,7 @@ Fliegen Sie sehr nah an das Ziel heran und stoppen Sie dann ihr Schiff.
 
 Bewegen Sie Ihr Schiff, zum markierten Asteroiden.
 #538# Perfekt! Jetzt wissen Sie, wie Sie sich nahe gelegenen Objekten nähern können.
-#539# Jetzt lassen Sie uns einige Mineralien in Asteroiden abbauen, um Sie zu verkaufen und ein paar credits zu verdienen.
+#539# Jetzt lassen Sie uns einige Mineralien in Asteroiden abbauen, um Sie zu verkaufen und ein paar Credits zu verdienen.
 
 Ihr Schiff ist bereits mit einem Bergbaulaser ausgerüstet. Um ihn zu aktivieren, wählen Sie den Bergbaulaser, und drücken Sie die Taste "Umschalten" im geöffneten Fenster.
 
@@ -577,10 +579,10 @@ Bauen Sie jetzt einen nahegelegenen Asteroiden mit dem Bergbau-Laser ab und samm
 Beachten Sie, dass je näher sie am Asteroiden sind desto wirksamer der Bergbau-Laser ist.
 
 Öffnen Sie nun das Fracht-Interface.
-#541# In diesem Modus sehen Sie den Inhalt jedes Containers auf Ihrem Schiff.
+#541# In diesem Modus sehen Sie den Inhalt jedes Frachtbehälters auf Ihrem Schiff.
 Hier sehen Sie die Kraftstoffmenge, die Energiemenge und die Menge an gesammeltem Erz.
 
-Sie können per Drag & Drop Ressourcen von einem Container zu einem anderen verschieben. Im Moment ist das jedoch nicht nötig, daher schließen Sie das Fracht-Interface wieder.
+Sie können per Drag & Drop Ressourcen von einem Frachtbehälter zu einem anderen verschieben. Im Moment ist das jedoch nicht nötig, daher schließen Sie das Fracht-Interface wieder.
 #542# Eine neue Raumstation ist gerade im Sternensystem aufgetaucht.
 
 Lassen Sie uns an der Station andocken und das Schiff auftanken.
@@ -596,22 +598,22 @@ In diesem Waren-Fenster können Sie auch Ihre gesammelten Ressourcen verkaufen. 
 #547# Lassen Sie uns nun mal die Waffen testen.
 
 Da Ihr Schiff keine Waffe hat müssen Sie es erst erweitern.
-Später können Sie Module selbst konstruieren, bis es soweit ist können Sie neue Module an der Raumstation kaufen.
+Später können Sie Module selbst konstruieren, bis es jedoch soweit ist können Sie neue Module an der Raumstation kaufen.
 
 Wählen Sie die Station aus und klicken Sie die "Werft" - Taste.
 #548# Wählen Sie in dem Baumenü eine Waffen-Plattform.
 
-Sie sehen nun einige Befestigungspunkte am Schiff (grün). Plazieren Sie die Waffen-Plattform an eine Stelle ihrer Wahl.
-#549# Wählen Sie Nun eine Kanone aus der Liste aus und setzen Sie sie auf die Waffen-Plattform.
-#550# Gut. Um eine Projektil-Kanone zu verwenden, benötigen Sie Munition.
+Sie sehen nun einige Montagepunkte am Schiff (grün). Plazieren Sie die Waffen-Plattform an eine Stelle ihrer Wahl.
+#549# Wählen Sie Nun eine Projektilkanone aus der Liste aus und setzen Sie sie auf die Waffen-Plattform.
+#550# Gut. Um eine Projektilkanone zu verwenden, benötigen Sie Munition.
 
-Kaufen Sie Munition im Handels-Fenster durch Wahl der "Handels"-Schaltfläche.
-#551#, Nachdem Sie etwas Munition gekauft haben, müssen Sie die Kanone mit dem Container in der sich die Munition befindet verbinden.
+Kaufen Sie Munition im Handelsfenster durch Wahl der "Handels"-Schaltfläche.
+#551#, Nachdem Sie etwas Munition gekauft haben, müssen Sie die Kanone mit dem Lagerbehälter in der sich die Munition befindet verbinden.
 
-Öffnen Sie das Resourcen Verbindungs Interface.
+Öffnen Sie das Ressourcen Verbindungs Interface.
 #552# In diesem Modus sehen Sie Linien die die Verteilung der Ressourcen anzeigen.
 
-Viele Geräte müssen an Lagerbehälter angeschlossen werden, um Funktionieren zu können. Triebwerke müssen an Treibstofftanks, Schildgeneratoren an Stromspeicher angeschlossen werden, usw.
+Viele Geräte müssen an Lagerbehälter angeschlossen werden, um funktionieren zu können. Triebwerke müssen an Treibstofftanks, Schildgeneratoren an Stromspeicher angeschlossen werden, usw.
 
 Verbinden Sie nun Ihre Projektilkanone mit dem Lagerbehälter in der die Munition lagert, indem Sie eine Linie zwischen Ihrer Kanone und dem Munitionslager ziehen. Links-Klick + "halten" auf den grauen Punkt an der Kanone und ziehen Sie die Linie auf den Punkt am Behälter.
 
@@ -724,77 +726,77 @@ Die Größe der warp-Feldes kann geändert werden
 Der Energieverbrauch hängt von der Größe des Warp-Feldes ab.
 
 Kollidiert etwas mit dem Warp-Feld, wird es destabilisiert und der Sprung wird abgebrochen.
-#628# verbunden werden Sollen stromspeicher
-#629# verbunden werden Sollte die Lagerung mit Raketen
-#630# verbunden werden Sollte die Lagerung mit Munition
-#631#, Fähig zu starten, self-guided-torpedo.
-Torpedo sein Ziel-Objekt ausgewählt wurde beim Start.
-Wenn kein Objekt ausgewählt ist, torpedo startet im geführten Modus.
-#632#, Fähig zu starten, ungelenkte Raketen mit hoher Feuerrate
-#633# Enthält die Energie aus Reaktoren oder solar-panels. Jedes Gerät, das benötigt Strom angeschlossen werden sollte es
+#628# Muss an die Stromversorgung angeschlossen werden
+#629# Muss an einen Lagerbehälter, in welchem sich Raketen befinden, verbunden werden
+#630# Muss an einen Lagerbehälter, in welchem sich Munition befindet, verbunden werden
+#631# Wird verwendet um "Sich selbst steuernde" - Torpedos zu starten.
+Der Torpedo wird das aktuell ausgewählte Objekt anvisieren.
+Wurde kein Objekt als Ziel beim Start ausgewählt wird der Torpedo vom Shiff weg in den Weltraum fliegen.
+#632# Fähigkeit, ungelenkte Raketen mit hoher Feuerrate zu starten
+#633# Speichert Energie, die durch Reaktoren oder Solarzellen erzeugt wird. Jedes Gerät, das Strom benötigt, sollte damit verbunden sein
 #634# Die Kommando-Brücke beinhaltet die wichtigsten Computer und steuert Ressourcenzuweisungen für das jeweilige Schiff.
-#635# Baupunkte
+#635# Montagepunkte
 #636# nächste Reputationsstufe
 #637# Benötigte Reputation
 #638# Leuchteffekte
 #639# Hintergrund anzeigen
-#640# Black space background
+#640# "Schwarzer Weltraum" als Hintergrund
 #641# Debug mode
-#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
-#643# Directed on star
-#644# Current production
-#645# Maximum production
-#646# Star blocked by
-#647# Small solar panel
+#642# Im Debug-Modus haben Sie die Möglichkeit einen Fehler an uns zu melden. Dies wird uns helfen, verschiedene Bugs viel schneller zu beheben.
+#643# Einem Stern zugewandt
+#644# Aktuelle Produktion
+#645# Maximale Produktion
+#646# Stern wird blockiert duch
+#647# Kleine Solarpanel
 #648# General
-#649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#649# Kontrolle
+#650# Preise werden aktualisiert in
+#651# Sobald der Timer abgelaufen ist, wird der Händler seine Preise entsprechend der verfügbaren Menge neu berechnen
+#652# Verfügbarkeit
+#653# Wenn dieser Wert niedrig ist, haben Händler einen Mangel an dieser Ressource und sind bereit, sie für einen höheren Preis zu kaufen
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
-#658# Toggle radial grid
-#659# Radial grid helps to understand velocity of the ship.
-Each circle rotates around planet with orbital speed which corresponds its altitude.
-Keep your ship in the grid cell if you wish to keep circular orbit.
-Or move your ship along circle of the grid if you wish to bypass planet around.
-#660# Command module has been destroyed
-#661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
-#663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
-#668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
-#670# Open folder with saved files
-#671# Delete selected file
-#672# Saved file with such name already exist
+Wenn dieser Wert hoch ist haben Händler eine Fülle dieser Ressource und sind bereit, sie zu einen reduzierten Preis zu verkaufen
+#654# Wie viel Ressource dieser Händler bereit ist zu kaufen
+#655# Wie viel Ressource dieser Händler bereit ist zu verkaufen
+#656# Sie können Ressourcen für diesen Preis kaufen
+#657# Sie können Ressourcen für diesen Preis verkaufen
+#658# Gitteransicht umschalten
+#659# Die Gitteransicht hilft Ihnen dabei die Geschwindigkeit des Schiffen einzuschätzen.
+Jeder Kreis dreht sich um den Planeten mit der Orbitalgeschwindigkeit, die seiner Höhe entspricht.
+Halten Sie Ihr Schiff in der Rasterzelle, wenn Sie die Kreisbahn behalten möchten.
+Oder bewegen Sie ihr Schiff auf eine Kreisbahn die weiter vom Planeten entfernt ist um die Umlaufdauer zu verändern.
+#660# Kommandomodul wurde zerstört
+#661# Schiff
+#662# Dieses Schiff hat bereits ein Kommandomodul, pro Schiff ist nur eines möglich.
+#663# Schiffe
+#664# Wählen Sie das Kommandomodul aus
+#665# Kontrolle übernehmen
+#666# List aller Schiffe
+#667# Fokusansicht auf ein Objekt
+#668# Schalten Sie das Radialgitter für den nächsten Planeten um
+#669# Sie können dieses Kommandomodul nicht enfernen da sich noch Crew an Bord befindet.
+#670# Ordner mit gespeicherten Spielenständen öffnen
+#671# Löschen des ausgewählten Spielstandes
+#672# Ein Spielstand mit diesem Namen existiert schon
 #673# m / s
-#674# Velocity of active ship
-#675# Meter per second
-#676# 90% Black
-#677# 100% Black
-#678# Blue
-#679# Collision damage
-#680# Module should be in range of shipyard (yellow circle)
-#681# Currently there is a technical problem with visibility of created servers in the server list
+#674# Geschwindigkeit des aktiven Schiffes
+#675# Meter pro Sekunde
+#676# 90% Schwarz
+#677# 100% Schwarz
+#678# Blau
+#679# Kollisionsschaden
+#680# Modul muss sich im Bereich der Werft befinden (gelber Kreis)
+#681# Derzeit gibt es ein technisches Problem mit der Sichtbarkeit der erstellten Server in der Serverliste
 
-If you created a server and you want to check its visibility, follow this guide
-#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
-#683# Open guide
-#684# Recommended mode
-#685# Experimental mode which may contain significant technical and conceptual flaws
+Wenn Sie einen Server erstellt haben und Ihre Sichtbarkeit überprüfen möchten, folgen Sie dieser Anleitung
+#682# Wenn Ihr Server in der Liste nicht sichtbar ist, sollten andere Benutzer dennoch in der Lage sein, sich zu Ihrem Server über die direkte IP-Verbindung zu verbinden
+#683# Leitfaden öffnen
+#684# Empfohlener Modus
+#685# Experimenteller Modus, der erhebliche technische und konzeptliche Mängel enthalten kann
 
-We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
-#686# Module out of range of shipyard
-#687# Identifier of sector
-#688# Level of sector
-#689# Owner of sector
-#690# Capture
+Wir empfehlen, mit dem aerodynamischen Modus zu beginnen, weil es benutzerfreundlicher ist, eine stabilere Physik hat und insgesamt ein besseres Spielerlebnis bietet
+#686# Modul befindet sich außerhalb der Reichweite der Werft
+#687# Sektor Identifikation
+#688# Schwierigkeitsgrad des Sektors
+#689# Besitzer des Sektors
+#690# erorbern
