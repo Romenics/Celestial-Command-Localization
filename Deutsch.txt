@@ -159,7 +159,7 @@
 #157# Anhängen
 #158# Für Transfer ziehen
 #159# Rechter Mausklick: Verkaufen
-#160# Kaufen: Ziehen und auf eigenem Kontainer fallen lassen
+#160# Kaufen: Ziehen und auf eigenem Container fallen lassen
 #161# Für Transfer fallen lassen
 #162# Shift-Taste gedrückt halten um Menge festzulegen
 #163# Fallen lassen um zu kaufen
@@ -199,7 +199,7 @@
 #197# Kann Baumenü nicht öffnen
 #198# Das aktuelle Schiff hat kein Ingenieurmodul
 #199# Nahrungsmittel erschöpft
-#200# kann auf dem Schiff keine Nahrungsmittel finden!
+#200# Kann auf dem Schiff keine Nahrungsmittel finden!
 #201# Zu Tode gehungert
 #202# ist verhungert
 #203# Warnung
@@ -231,7 +231,7 @@
 #229# Einheiten von
 #230# wurde verkauft für
 #231# Einheiten von
-#232# wurden gekauft für
+#232# wurde gekauft für
 #233# Nicht genügend Credits:
 #234# geborgen
 #235# Ungenügender Lagerraum für Bergung
@@ -240,18 +240,18 @@
 #238# Planetenmasse
 #239# Triebwerksschub
 #240# Treibstoffverbrauch
-#241# Reaction Wheel Torque
-#242# orbitale Parameter
+#241# Stabilisierungsrad Drehmoment
+#242# Orbitale Parameter
 #243# Flugbahn
 #244# Position
 #245# Apoapsis
 #246# Periapsis
-#247# Exzentrizität
+#247# Flugbahnmuster(Exzentrizität)
 #248# Umlaufzeit
 #249# Tangentialgeschw.
 #250# Winkelgeschw.
 #251# Baumenü öffnen
-#252# ausgewähltes Modul entfernen
+#252# Ausgewähltes Modul entfernen
 #253# Kontrolle zum vorherigen Schiff umschalten
 #254# Kontrolle zum nächsten Schiff umschalten
 #255# Reset Zeitveränderung
@@ -260,12 +260,12 @@
 #258# Zeige Lagerbehälter
 #259# Inhalt aller Speicherbehälter des aktuellen Schiff anzeigen. Die Inhalte können per Drag-and-Drop mit der linken Maustaste zwischen Containern verschoben werden. Während Sie die Taste links SHIFT halten können Sie eine bestimmte Menge an Ressourcen zu übertragen.
 #260# Anzeigen der Crewmitglieder des aktuelles Schiffes. Ein Crewmitglied kann durch drag & drop verschoben werden.
-#261# Anzeige Verbindungspunkte
+#261# Anzeige Montagepunkte
 #262# Zeigt Ressourcen-Anschlüsse für das aktuelle Schiff. Wenn das Modul einige spezifische Ressourcen erfordert, sollte es mit Hilfe dieses Modus angeschlossen werden. Anschlüsse können per Drag & Drop an Module angeschlossen werden.
 #263# Montagepunkte
 #264# Zeigt Montagepunkte für das aktuelle Schiff. Montagepunkte können mit einem Links-klick verbunden und gelöst werden.
 #265# Zeigt Massenmittelpunkt für das aktuelle Schiff.
-#266# RCS Feststellen
+#266# RCS feststellen
 #267# Rotation des Schiffes durch Triebwerksnutzung stabilisieren.
 #268# Wenn aktiviert: Schiff auswählen und durch Rechts-klick eine Position zuweisen (Autopilot).
 #269# Anzeige des Hüllenstatus.
@@ -293,7 +293,7 @@
 #291# Gesamtmasse der Struktur
 #292# Dieser Parameter zeigt wieviel Kraft nötig ist um das Schiff zu drehen. Um den Wert zu senken sollten die Module mit der höchsten Masse im Zentrum des Schiffes plaziert werden.
 #293# Einschließlich der Masse der Inhalte wenn es sich um Behälter oder Frachtbuchten handelt.
-#294# strukturelle Integrität
+#294# Strukturelle Integrität
 #295# Ein-/Ausschalten der manuellen Kontrolle für ausgewählte Waffengruppen. Links-Shift + Lnke Maustaste für automatischen Modus (Automatisches Feuern).
 #296# Ausgewählten Behälter mit Sauerstoff füllen
 #297# Ausgewählten Behälter mit Wasserstoff füllen
@@ -319,7 +319,7 @@
 #317# Unfertiges Attribut
 #318# Ausgewählten Lagerraum mit Wasserstoff füllen
 #319# Dem ausgewählten Modul ein Crewmitglied zuweisen.
-#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln muss das Handelsinterface geöffnet sein, dein Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen öffne das Frachtinterface und ziehe die gewünschte Ware mit der Maus von der Station auf deinen Kontainer. Um etwas zu verkaufen - setze einen Rechts-Klick auf die Ware in deinem Kontainer.
+#320# Öffnet das Handelsinterface. (Notiz: Um mit einer Station zu handeln muss das Handelsinterface geöffnet sein, dein Schiff muss angedockt sein und beide Andockschleusen müssen aktiviert sein (grün). Um etwas zu kaufen öffne das Frachtinterface und ziehe die gewünschte Ware mit der Maus von der Station auf deinen Container. Um etwas zu verkaufen - setze einen Rechts-Klick auf die Ware in deinem Container.
 #321# Öffne das Konstruktionsmenü der Schiffswerft. Während sich dein Schiff innerhalb der Schiffswerft befindet kannst du Teile/Module für Kredits kaufen und verkaufen. 
 #322# Flugbahnstatus
 #323# Position relativ zum Planeten oder Stern
@@ -328,12 +328,12 @@
 #326# Die Exzentrizität definiert die Form der Umlaufbahn (e=0) -> Kreis,  (0<e<1) -> Ellipse, (e=1) -> Parabel,  (e>1) -> Hyperbel
 #327# Die Umlaufzeit ist die Zeit, die ein Körper für eine vollständige Umrundung benötigt.
 #328# Winkelgeschwindigkeit (in Grad pro Sekunde)
-#329# orbitale Parameter
+#329# Orbitale Parameter
 #330# Frachtcontainer 2
 #331# Frachtcontainer 1
-#332# chemisches Triebwerk
+#332# Chemisches Triebwerk
 #333# Flüssigkeitsbehälter 1
-#334# Nuklearer Reaktor
+#334# Nuklear Reaktor
 #335# Energiespeicher
 #336# Ingenieursmodul
 #337# Radar
@@ -397,7 +397,7 @@
 #395# Schiff gespeichert
 #396# Klicken um ein Schiff zu platzieren
 #397# Strg + Linksklick - Farbe wählen
-#398# Presets
+#398# Voreinstellungen
 #399# Dateiname
 #400# existiert bereits
 #401# Umbennenen
@@ -409,7 +409,7 @@
 #407# Flugbahn festlegen. Flugbahn wird angezeigt auch nachdem das Fenster geschlossen wurde
 #408# Akzeptierte Missionen anzeigen
 #409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
+#410# Warp-Feld ist aufgrund eines dichten Hindernisses zusammengebrochen
 #411# Besatzung anzeigen
 #412# Masseschwerpunkt anzeigen
 #413# Mit Maus steuern
@@ -438,7 +438,7 @@
 #436# Falls aktiviert wird der Server in der öffentlichen Serverliste angezeigt
 #437# Spieler
 #438# Keine Server gefunden
-#439# Server entdecken
+#439# Server finden
 #440# Direkte IP Verbindung
 #441# Serverliste aktualisieren
 #442# Aktualisieren
@@ -458,59 +458,59 @@
 #456# Wenn aktiviert wird dieses Triebwerk automatisch von den Tasten WASDQE gesteuert.
 ЯндексПереводчик
 
-#457# Der Schub wird nicht mehr als den angegebenen Wert. Dies ist nützlich, wenn Sie wollen, richten Sie Ihr "center of thrust" mit "center of mass" um zu vermeiden, unerwünschte Abweichung vom Kurs während der Bewegung.
+#457# Der Triebwerksschub wird den eingestellten Wert nicht überschreiten. Dies ist nützlich um Schubzentrum und Massezentrum auszurichten, um unerwünschte Kursabweichungen während der Bewegung zu verhindern.
 #458# Einkaufspreis
 #459# Verkaufspreis
 #460# Angebot-Nachfrage-Verhältnis
 #461# Arc-Anschlüsse
-#462# Kompensiere niedrige FPS
-#463# X-Achse Invertieren
-#464# Invert Y-Achse
+#462# Kompensiere niedrige Bildwiderholungsrate
+#463# X-Achse invertieren
+#464# Y-Achse invertieren
 #465# Tutorial
 #466# Einzelspieler
 #467# Mehrspieler
-#468#, laden
-#469# maximale Bergbaurate
+#468# Laden
+#469# Maximale Bergbaurate
 #470# Aktivierung Zeit
-#471# Max-Bereich
-#472# Max Schaden
+#471# Maximaler Bereich
+#472# Maximaler Schaden
 #473# Stromverbrauch
 #474# Kleiner Schildgenerator
-#475# Station Hub
-#476# Bahnhof Seite Abschnitt
-#477# Station Engineering Bay
-#478# - Station, Cargo-Container
-#479# Station-Speicher-Tanks
-#480# Gehen Sie zu den vorgesehenen docking-Anschluss
+#475# Stations Hub
+#476# Stations Seitenteil
+#477# Ingenieursmodul
+#478# Lagercontainer
+#479# Flüssigkeitstanks
+#480# Gehen Sie zur vorgesehenen Andockschleuse
 #481# Warten auf eine freie Andockschleuse
 #482# Position in der Warteschlange
 #483# Ihr aktives Schiff sollte an der Station angedockt sein
 #484# Modul verkauft
 #485# Modul
-#486# verkauft
+#486# Verkauft
 #487# Modul gekauft für
 #488# Bergbaulaser deaktiviert
-#489# Keine freier Lagerraum für die Ressource
+#489# Kein freier Lagerraum für diese Ressource
 #490# Wählen Sie ein Objekt und versuchen Sie es erneut
 #491# Mission abgeschlossen
-#492# CR erhalten
-#493#, Nicht mit dem Schiff angedockt
+#492# Credit erhalten
+#493# Nicht mit dem Schiff angedockt
 #494# Neue mission verfügbar
 #495# Station
-#496# Nicht genug CR
+#496# Nicht genug Credits
 #497# Preis
 #498# Mission gescheitert
-#499# Low-signal
-#500# Sie sollten Zurückzukehren, oder das Schiff wird in 60 Sekunden vernichtet 
+#499# Schwaches Signal
+#500# Sie sollten zurückzukehren, oder das Schiff wird in 60 Sekunden vernichtet 
 #501# - Signal verloren
-#502# Das Schiff wurde im Raum außerhalb des Sonnensystems verloren.
-#503# Position des Schubmittelpunktes relativ zum Massezentrum
+#502# Das Schiff ging im Raum außerhalb des Sonnensystems verloren.
+#503# Position des Schubzentrums relativ zum Schwerpunkt
 #504# Sprungantrieb deaktiviert
 #505# Nicht genug Energie
 #506# Torpedowerfer
 #507# Art
 #508# Planetendurchmesser
-#509# Atmosphäredurchmesser
+#509# Atmosphärendurchmesser
 #510# Einflussbereich
 #511# Masse
 #512# Umlaufszeit
@@ -522,52 +522,53 @@
 #518# Reputation
 #519# Das ist Ihr Schiff
 
-Halten Sie die rechte Maus-Taste und ziehen Sie die Maus, um die Ansicht zu drehen
+Halten Sie die rechte Maus-Taste gedrückt und ziehen Sie die Maus, um die Ansicht zu drehen
 #520# Sie können die Ansicht schwenken, indem Sie die mittlere Maustaste halten und ziehen.
 #521# Verwenden Sie das Scrollrad um zu zoomen.
 #522# Ansicht zurücksetzen
-#523# Jetzt über die Bewegung
+#523# Nun wollen wir darüber reden, wie Sie das Schiff bewegen können
 
-Sie können Sie drehen Sie Ihr Schiff mit den Tasten A und D. Versuchen Sie, um dein Schiff zu drehen ein wenig nach Links und rechts.
-#524# Beachten Sie, dass Ihr Schiff sich im Vakuum gibt es keinen Luftwiderstand, also hält es seine linier-und Winkelgeschwindigkeit, bis Sie manuell stoppen.
-#525# Automatische Stabilisierung ist sehr nützlich, wenn Sie möchten, stoppen Sie die Drehung des Schiffes. Aktivieren stabilizator durch drücken highlitted-Taste oder die Taste
-#526# Während der Bildstabilisator aktiv ist, wird es automatisch ein-Motoren zum stoppen der rotation des Schiffes.
+Sie können Ihr Schiff mit den Tasten A und D drehen. Versuchen Sie, Ihr Schiff langsam im Uhrzeigersinn und gegen den Uhrzeigersinn zu drehen.
+#524# Beachten Sie, dass sich Ihr Schiff im Vakuum befindet wo es keinen Luftwiderstand gibt, also hält es seine Richtung und Geschwindigkeit bei, bis Sie es manuell stoppen.
+#525# Automatische Stabilisierung ist sehr nützlich um die Rotation des Schiffes zu stoppen. Aktivieren Sie den Stabilisator durch drücken der markierten Schaltfläche oder mittels der Taste "R"
+#526# Während der Stabilisator aktiv ist wird die Drehung mittels Manövriertriebwerke gestoppt.
 
-Jedoch beachten Sie, dass Ihr Brennstoff ist begrenzt. Diese grundlegenden manövriertriebwerke verbraucht flüssigem Wasserstoff. Ihre aktuelle Betrag luquid Wasserstoff auf dem Bildschirm angezeigt (highligther von Pfeil)
-#527#, Während stabilzier aktiv ist, Stoppt die rotation jedes mal, auch wenn Sie nicht wirklich brauchen, erhöht dies den Verbrauch von Kraftstoff. so könnte es nützlich sein, zu deaktivieren stabilizrer wenn Sie es nicht brauchen.
+Beachten Sie jedoch das der Brennstoff begrenzt ist. Diese grundlegenden Manövriertriebwerke verbraucht flüssigen Wasserstoff. Die aktuelle Menge an Wasserstoff wird Ihnen oben rechts auf dem Bildschirm angezeigt. (Hervorgehoben durch den Pfeil)
+#527# Während der Aktivierung wird der Stabilisator allen Rotationen entgegenwirken, auch wenn man es Sie vieleicht gar nicht benötigen. Da für jede Stabilisierung die Triebwerke genutzt werden erhöht sich Ihr Treibstoffverbrauch. Es kann sinnvoll sein die Stabilisierung zu deaktivieren wenn Sie sie nicht benötigen.
 
-Deaktivieren stbilizer durch drücken der R-Taste erreicht werden.
-#528# Nun versuchen, um Ihr Schiff zu verschieben, ein bisschen mit den Tasten W S Q E, um es zu bewegen vorwärts, rückwärts, Links und rechts.
-#529# Jetzt zoom-out der Kamera und beobachten den nächstgelegenen Planeten und seine surroindings.
+Deaktivieren des Stabilisator mittels Taste "R".
+#528# Nun versuchen Sie ihr Schiff etwas zu bewegen, mittels den Tasten W S Q E (Vorwärts, Rückwärts, Links und rechts)
+#529# Nun zoomen Sie raus schauen Sie auf den nächstgelegenen Planeten und seine Umgebung.
 
-Sie probabli bemerkt, dass Ihr Schiff nicht an einem Ort bleiben. Das Schiff dreht sich auf einer Umlaufbahn um den Planeten.
-#530# Trotz der orbital-Mechaniker, in diesem Spiel, Bewegung ist viel einfacher als in der realen Welt.
+Sie werden bemerkt haben, dass Ihr Schiff nicht an einem Ort bleibt. Es umkreist auf einer Umlaufbahn den Planeten.
+#530# Trotz der orbital-Mechanik, ist eine Bewegung in diesem Spiel viel einfacher als in der realen Welt unter diesen Umständen.
 
-Lassen Sie uns versuchen zu nähern, um in der Nähe Asteroiden.
-Wählen Sie die highclickted Asteroiden mit der Maus klicken.
-#531# zeigt Jetzt relative Geschwindigkeit
-#532#, Während das Werkzeug aktiv ist und Sie haben gewählt-Objekte, sehen Sie zwei Pfeile, in der Nähe Ihres Schiffes.
+Versuchen Sie den nächstgelegenen Asteroiden zu erreichen.
+Wählen Sie den markierten Asteroiden und machen sie einen Maus-klick.
+#531# zeigt jetzt die relative Geschwindigkeit an
+#532# Wenn Sie ein Objeckt auswählen während die Funktion akiv ist, sehen Sie zwei Pfeile, in der Nähe Ihres Schiffes.
 
-Weißer Pfeil - Richtung zum gewählten Ziel
-Orrange Pfeil - geschwindigkeitsvektor des Schiffes relativ zum gewählten Ziel
-#533# Nun, um sich zu nähern, zu ausgewählten Ziel -, beginnen sich zu bewegen Sie Ihr Schiff in Richtung Ziel.
+Weißer Pfeil - Richtung zum ausgewählten Ziel
+Oranger Pfeil - Geschwindigkeitsvektor des Schiffes relativ zum ausgewählten Ziel
+#533# Um Ihr Ziel zu erreichen müssen Sie das Schiff bewegen.
 
-Sie müssen ausrichten orrange Pfeil mit derselben Richtung, wie weiße Pfeil.
-#534# Gut. Einmal zwei Pfeile ausgerichtet sind, bedeutet das, dass Ihr Schiff bewegt sich direkt auf das Ziel zu.
+Um sich nun dem Ziel zu nähern, müssen der orangene Pfeil und der weiße Pfeil übereinander liegen.
 
-Halten Sie ein Auge auf die Entfernung zum Ziel. Nicht verknallt in Sie.
-Sobald Sie nähern, verlangsamen Sie Ihr Schiff bis gelben Pfeil wil wurde sehr kurz. Es bedeutet, dass Ihre relative Geschwindigkeit ist fast null.
+#534# Gut. Zeigen beide Pfeile in die selbe Richtung bedeutet das dass Sie sich in einer Linie mit dem Ziel befinden.
 
-Ansatz für die ausgewählten Ziel-und stoppen Sie Ihr Schiff in der Nähe.
-#535# Gut. Lassen Sie uns versuchen, wieder für einen anderen Asteroiden.
-#536# Bewegen Sie Ihr Schiff, um highlighter Asteroiden.
-#537#, Und man mehr Zeit.
+Achten Sie auf die Distanz und die relative Geschwindigkeit zum Ziel. Stürze nicht hinein
+Sobald Sie sich nähern, bremsen Sie Ihr Schiff ab, bis der orangene Pfeil sehr kurz wird. Dies bedeutet, dass Ihre Relativgeschwindigkeit fast Null ist.
 
-Bewegen Sie Ihr Schiff, um markierten Asteroiden.
-#538# Perfekt! Jetzt wissen Sie, wie Sie dabei Vorgehen, um Objekte, die sich nicht allzu weit von Ihrem Schiff.
-#539# Jetzt lassen Sie mir einige Ressourcen, um Sie zu verkaufen und verdienen credits.
+Fliegen Sie sehr nah an das Ziel heran und stoppen Sie dann ihr Schiff.
+#535# Gut. Lassen Sie es uns noch mit einem anderen Asteroiden probieren.
+#536# Bewegen Sie Ihr Schiff, zum markierten Asteroiden.
+#537# Sie bekommen den Dreh raus. Noch einmal zum Üben.
 
-Ihr Schiff bereits ausgerüstet mit einem mining laser. Um es zu aktivieren, wählen Sie den mining laser, und drücken Sie die Taste "Umschalten" im geöffneten Fenster.
+Bewegen Sie Ihr Schiff, zum markierten Asteroiden.
+#538# Perfekt! Jetzt wissen Sie, wie Sie sich nahe gelegenen Objekten nähern können.
+#539# Jetzt lassen Sie uns einige Mineralien in Asteroiden abbauen, um Sie zu verkaufen und ein paar credits zu verdienen.
+
+Ihr Schiff ist bereits mit einem Bergbaulaser ausgerüstet. Um ihn zu aktivieren, wählen Sie den Bergbaulaser, und drücken Sie die Taste "Umschalten" im geöffneten Fenster.
 
 Beachten Sie, dass die mining laser verbraucht eine Energie, die angezeigt wird in der rechten oberen Ecke des Bildschirms, so lösen Sie einen laser, während es nicht direkt in einem Asteroiden.
 
