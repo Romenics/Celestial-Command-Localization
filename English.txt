@@ -577,7 +577,7 @@ Now open the cargo interface.
 #541# In this mode you can see the contents of every storage container on your ship.
 Here you see the ship's fuel, energy and gathered resources.
 
-You may drag and drop resources from one container to another. Right now this is not neccesary, so just disable the cargo interface again.
+You may drag and drop resources from one container to another. Right now this is not necessary, so just disable the cargo interface again.
 #542# A new space station just arrived in the star system.
 
 Let's dock with the station and refuel the ship.
@@ -634,7 +634,7 @@ Modify your ship at the shipyard and complete missions in order to improve your 
 #563# Repair
 #564# Target objects delivered to destination point
 #565# Target objects is not grabbed with a grabber
-#566# Target objects have low relative velocity with the destination point
+#566# Cargo container must have low relative velocity with the station where it should be delivered
 #567# Target objects is not attached to any ship
 #568# Destroy the target
 #569# Stabilize orbit
@@ -676,7 +676,7 @@ Manual control will deactivate this mode.
 
 Can be controlled manually or in automatic mode.
 In automatic mode it will attack specified targets.
-#604# Most weapons should be placed on this module.
+#604# All turrets must be placed on this module.
 #605# Allows you to dock with other ships or stations, especially if they belong to another faction
 #606# Allows you to easily detect and select various objects within range. Especially useful if you need to detect small objects such as debris or small asteroids.
 #607# Simple structural part.
@@ -689,7 +689,7 @@ In automatic mode it will attack specified targets.
 #614# Container which stores solid cargo, such as ore, ammo or food.
 #615# Hydraulic arm which allows physically grabbing various objects in space, such as asteroids, debris or other ships.
 #616# This device creates a sphere or ellipsoid around itself which will protect the ship from damage.
-#617# Consumes energy while in operation.
+#617# Consumes energy while forcefield in operation.
 
 Consumes additional energy based on damage absorbed.
 
