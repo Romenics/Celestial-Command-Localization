@@ -570,157 +570,160 @@ Bewegen Sie Ihr Schiff, zum markierten Asteroiden.
 
 Ihr Schiff ist bereits mit einem Bergbaulaser ausgerüstet. Um ihn zu aktivieren, wählen Sie den Bergbaulaser, und drücken Sie die Taste "Umschalten" im geöffneten Fenster.
 
-Beachten Sie, dass die mining laser verbraucht eine Energie, die angezeigt wird in der rechten oberen Ecke des Bildschirms, so lösen Sie einen laser, während es nicht direkt in einem Asteroiden.
+Beachten Sie, dass ein aktiver Bergbau-Laser Energie verbraucht welcher der rechten oberen Ecke des Bildschirms angezeigt wird. Deaktiviere Sie den Laser, wenn er nicht auf einen Asteroiden gerichtet ist.
 
-Jetzt mir einem nahe gelegenen asteroid mining laser und sammeln einige Ressourcen.
-#540# Während des Abbaus, sehen Sie eine Anzeige, die zeigt eine Ausgabe.
-Beachten Sie, dass die näher mining laser auf asteroid ist, desto mehr wird es wirksam.
+Bauen Sie jetzt einen nahegelegenen Asteroiden mit dem Bergbau-Laser ab und sammeln Sie einige Ressourcen.
+#540# Während des Abbaus sehen Sie einen Indikator, der die aktuelle Ausbeute des Lasers zeigt.
+Beachten Sie, dass je näher sie am Asteroiden sind desto wirksamer der Bergbau-Laser ist.
 
-Öffnen Sie nun eine Fracht-Schnittstelle.
-#541# In diesem Modus können Sie sehen, ein content von jedem Speicher auf Ihrem Schiff.
-Hier können Sie sehen, Kraftstoff -, Energie-und sammelte Erz.
+Öffnen Sie nun das Fracht-Interface.
+#541# In diesem Modus sehen Sie den Inhalt jedes Containers auf Ihrem Schiff.
+Hier sehen Sie die Kraftstoffmenge, die Energiemenge und die Menge an gesammeltem Erz.
 
-Sie können verschieben von Ressourcen von einem Behälter zu einem anderen per drag-and-drop. Aber es ist nicht notwendig, für jetzt, so einfach deaktivieren, eine cargo-Schnittstelle.
-#542# Neue Raumstation gerade angekommen in dem Sterne-system.
+Sie können per Drag & Drop Ressourcen von einem Container zu einem anderen verschieben. Im Moment ist das jedoch nicht nötig, daher schließen Sie das Fracht-Interface wieder.
+#542# Eine neue Raumstation ist gerade im Sternensystem aufgetaucht.
 
-Lassen Sie uns mit der station andocken und auftanken, ein Schiff.
-Wählen Sie hervorgehoben Raumstation.
-#543# Anfrage eine Erlaubnis zum andocken
-#544# Der Sender wird behalten eine freie docking-Anschluss für Ihr Schiff.
+Lassen Sie uns an der Station andocken und das Schiff auftanken.
+Wählen Sie die markierte Raumstation.
+#543# Erbitten Sie eine Andockerlaubnis.
+#544# Die Station wird Ihnen eine freie Andockschleuse zuweisen.
 
-Ansatz zu den vorgesehenen docking-Anschluss und genau berühren es mit Ihren eigenen docking-port Ihres Schiffes.
-#545# Nun öffnen trading-panel
-#546# In diesem Fenster, suchen Sie die Zeile "Wasserstoff" und drücken Sie auf "Kaufen", danach wählen Sie den gewünschten Betrag, zum Beispiel 10 ein und bestätigen einer Bestellung.
+Nähern Sie sich der markierten Stations-Andockschleuse und berühren Sie sie vorsichtig mit der Schiffs-Andockschleuse.
+#545# Nun öffnen Sie das Handels-Interface
+#546# Suchen Sie im Waren-Fenster nach der Zeile "Wasserstoff" und wählen "Kaufen", nun wählen Sie den gewünschten Betrag (zum Beispiel 10) und bestätigen den kauf.
 
-Auch hier können Sie verkaufen gesammelte Ressourcen. Probieren Sie es aus und drücken Sie "weiter", wenn Sie fertig sein wird.
-#547# Jetzt testen wir, eine Waffe
+In diesem Waren-Fenster können Sie auch Ihre gesammelten Ressourcen verkaufen. Probieren Sie es aus und drücken Sie "weiter", wenn Sie fertig sind.
+#547# Lassen Sie uns nun mal die Waffen testen.
 
-Ihr Schiff habe nicht eine Waffe, so dass Sie brauchen, um zu erweitern Ihr Schiff.
-Später werden Sie in der Lage zu konstruieren Modulen mit der engineering bay, aber jetzt können Sie kaufen neue Module auf der station.
+Da Ihr Schiff keine Waffe hat müssen Sie es erst erweitern.
+Später können Sie Module selbst konstruieren, bis es soweit ist können Sie neue Module an der Raumstation kaufen.
 
-Wählen Sie den Sender und drücken Sie die "Werft" - Taste.
-#548# Im erschienen Menü wählen Sie eine Turm-Plattform.
+Wählen Sie die Station aus und klicken Sie die "Werft" - Taste.
+#548# Wählen Sie in dem Baumenü eine Waffen-Plattform.
 
-Sie werden sehen, eine Montage-Punkte auf Ihrem Schiff. Stelle einen Turm überall wo Sie möchten.
-#549# wählen Sie Nun eine Kanone aus der Liste aus und befestigen Sie es oben auf Ihrem Turm.
-#550# Gut. Um eine Kanone zu verwenden, müssen Sie eine Munition.
+Sie sehen nun einige Befestigungspunkte am Schiff (grün). Plazieren Sie die Waffen-Plattform an eine Stelle ihrer Wahl.
+#549# Wählen Sie Nun eine Kanone aus der Liste aus und setzen Sie sie auf die Waffen-Plattform.
+#550# Gut. Um eine Projektil-Kanone zu verwenden, benötigen Sie Munition.
 
-Kaufen Munition aus der station mit "Trade" - button.
-#551#, Nachdem Sie gekauft haben, eine Munition, die Sie eine Verbindung herstellen soll Sie Ihre Kanone, um den Speicher, wo es sollte eine Munition.
+Kaufen Sie Munition im Handels-Fenster durch Wahl der "Handels"-Schaltfläche.
+#551#, Nachdem Sie etwas Munition gekauft haben, müssen Sie die Kanone mit dem Container in der sich die Munition befindet verbinden.
 
-Öffnen Sie eine resource connection manager.
-#552# In diesem Modus sehen Sie ein Linien, das entspricht einem Fluss von Ressourcen.
+Öffnen Sie das Resourcen Verbindungs Interface.
+#552# In diesem Modus sehen Sie Linien die die Verteilung der Ressourcen anzeigen.
 
-Viele Geräte werden conencted zu Speicher, um zu arbeiten. Motoren angeschlossen werden sollte, um Kraftstoff-tanks. Schild-Generatoren angeschlossen werden, um Leistung, Speicher usw.
+Viele Geräte müssen an Lagerbehälter angeschlossen werden, um Funktionieren zu können. Triebwerke müssen an Treibstofftanks, Schildgeneratoren an Stromspeicher angeschlossen werden, usw.
 
-Nun verbinden Sie eine Kanone, um container mit Munition per drag-and-drop line aus Grau-Punkt-container.
-#553# Jetzt können Sie abdocken aus der station.
+Verbinden Sie nun Ihre Projektilkanone mit dem Lagerbehälter in der die Munition lagert, indem Sie eine Linie zwischen Ihrer Kanone und dem Munitionslager ziehen. Links-Klick + "halten" auf den grauen Punkt an der Kanone und ziehen Sie die Linie auf den Punkt am Behälter.
 
-Um die Verankerung zu lösen, wählen Sie Ihre docking-Anschluss und drücken Sie eine Schaltfläche in der Systemsteuerung.
-#554# Türmchen kann manuell bedient werden, oder Sie können die Aktivierung des automatischen Modus.
+#553# Jetzt können Sie von der Station abdocken.
 
-Lassen Sie uns versuchen, eine manuelle Steuerung.
-Wählen Sie einen Turm und drücken Sie die "Manuelle Steuerung".
-Auch drücken Sie die "Show range", um die Schnittstelle aktivieren.
-#555# Versuchen Sie, machen Sie einige test-Aufnahmen und drücken Sie auf weiter.
-#556# Sie abgeschlossen basic tutorial.
+Um die Verankerung zu lösen, wählen Sie Ihre Andock-Schleuse und klicken Sie auf den "Umschalten-Andocken" Bereich.
+#554# Waffentürme können manuell bedient werden oder Sie können den automatischen Modus aktivieren.
 
-Wenn Sie zusätzliche Informationen benötigen, überprüfen Sie die Anleitung aus der Gemeinschaft.
-#557# Sie kamen in das star-system, Sie haben ein kleines mining Schiff, ein wenig Wasserstoff in die tanks-genug für eine Reise zum nächsten Asteroiden und Stationen. Verwenden Sie Ihre Bergbau-laser, sammeln Sie Ressourcen von einem Asteroiden, und verkaufen es auf einer nächsten Handelsstation.
+Lassen Sie uns einmal die manuelle Steuerung versuchen.
+Wählen Sie einen Turm und drücken Sie auf "Manuelle Steuerung".
+Sie sollten auch auf "Waffenreichweite anzeigen" klicken, um die effektive Reichweite Ihrer Waffe zu sehen.
+#555# Geben Sie, mehrere Test-Schüsse ab und drücken Sie danach auf weiter.
+#556# Sie haben das Grundlagen-Tutorial abgeschlossen.
 
-Ändern Sie Ihr Schiff auf die Werft und führen Missionen, um um Ihren Ruf zu verbessern und den Zugang zu neuen Modulen.
+Wenn Sie zusätzliche Informationen benötigen, schauen Sie doch mal in die Community-Anleitung.
+#557# Du bist im Sternsystem angekommen; Sie haben ein kleines Bergbauschiff mit etwas Wasserstoff in den Treibstofftanks, genug für einen Flug zum nächsten Asteroiden und zu nächsten Stationen. Benutzen Sie Ihren Bergbau-Laser, um Ressourcen von Asteroiden zu sammeln und sie auf jeder nahe gelegenen Handelsstation zu verkaufen.
+
+Ändern Sie Ihr Schiff an einer Stations-Werft und erfüllen Sie Stations-Missionen, um Ihren Ruf zu verbessern und Zugang zu neuen Modulen zu erhalten.
+
 #558# Zeigt beschädigte Module
-#559# Vorübergehend display Treffer Punkte für beschädigte Module, die auf dem aktiven Schiff
+#559# Zeigt vorübergehend Trefferpunkte von beschädigten Modulen am Schiff an.
 #560# Rechts klicken
 #561# Abbrechen
 #562# Links klicken
 #563# Reparatur
-#564# Zielobjekte geliefert Zielpunkt
-#565# Zielobjekte nicht packte mit einem grabber
-#566# Ziel-Objekte haben eine geringe relative Geschwindigkeit mit dem Ziel Punkt
-#567# Zielobjekte ist nicht an dem Schiff
-#568# Zerstörung der Ziel -
-#569# orbit Stabilisieren
-#570# Aktivieren autopilot wird automatisch beibehalten kreisförmigen Umlaufbahn um einen Planeten oder Sterne, auch wenn das Schiff wird beeinflusst durch externe Kräfte.
-Manuelle Steuerung deaktivieren Sie diesen Modus.
+#564# Zielobjekte an Zielpunkt geliefert
+#565# Zielobjekte wurde nicht mit dem Greifarm gepackt
+#566# Der Container muss eine niedrige Geschwindigkeit mit der Station haben, wo er geliefert werden soll
+#567# Zielobjekte ist nicht mit dem Schiff verbunden
+#568# Zerstöre das Ziel
+#569# Stabilisiere deinen Orbit
+#570# Aktivieren Sie den Autopiloten, der die Kreisbahn um einen Planeten oder einen Stern automatisch aufrechterhält, auch wenn das Schiff von äußeren Kräften betroffen ist.
+
+Eine manuelle Steuerung wird den Autopilot-Modus deaktivieren.
 #571# Winkelbereich
 #572# Drehrate
-#573# Max-Bereich
+#573# Maximale Reichweite
 #574# Manuelle Kontrolle
 #575# Automatik-Modus
-#576# Angreifen Schmutz
-#577# Attack-Raketen
-#578# deg
-#579# deg/s
+#576# Trümmer angreifen
+#577# Raketen angreifen
+#578# Grad
+#579# Grad/s
 #580# Modul zu Verkaufen
-#581# CR
-#582# Modul beschädigt, Preis wird reduziert
+#581# Credits
+#582# Modul ist beschädigt, der Preis wird reduziert
 #583# Grundpreis
-#584# Wählen Sie Modul zu verkaufen
+#584# Wählen Sie ein Modul zum verkaufen
 #585# Schaden
-#586# Explosion radius
-#587# delay-Feuer
-#588# Recoil force
+#586# Explosionsradius
+#587# Verzögerung beim Feuern
+#588# Stärke des Rückstoßes
 #589# kN
-#590# DPS
-#591# Angebot
-#592# s
+#590# Schaden/s
+#591# Reichweite
+#592# Sekunden
 #593# min
 #594# Munition
 #595# Dekonstruieren
 #596# Bauen
-#597# Dieses Modul ausgestattet mit industriellen 3D-Drucker und Drohnen, die es erlaubt den Bau neuer Module mit verschiedenen Ressourcen.
-#598#, um zu bauen. vergewissern Sie sich, dass resource connection points verbunden, um Behälter mit den entsprechenden Ressourcen.
-#599#, Fähig zu extrahieren nützliche Ressourcen aus Asteroiden. Kann auch verwendet werden, als Nahkampfwaffe.
-#600# Es wird automatisch entladen extrahierten Ressourcen in geeignete container auf dem Schiff.
-#601#, Fähig zu wachsen pflanze, die Nahrung für eine crew-Mitglieder. Benötigt Energie um zu funktionieren.
-#602# Dieses Gerät ist fähig, das Eis zu Schmelzen und über den Prozess der Elektrolyse split erhalten Wassermoleküle auf zwei Atomen Wasserstoff und einem atom Sauerstoff, die verwendet werden kann, als Treibstoff und Oxidator für eine reaktive Motoren.
-#603# Basis-Plattform für die Waffen. In der Lage zu drehen, die beigefügte Waffe in verschiedene Richtungen in bestimmten Winkeln.
+#597# Dieses Modul ist mit industriellen 3D-Druckern und Dronen ausgestattet, die den Bau neuer Module mit verschiedenen Ressourcen ermöglichen.
+#598# Um zu bauen, stellen Sie sicher, dass die Modul-Ressourcen-Verbindungspunkte mit Lagerbehältern in denen Ressourcen lagern verbunden sind.
+#599# Wird verwendet, um nützliche Ressourcen aus Asteroiden zu extrahieren. Kann jedoch auch als behelfsmäßige Waffe aus nächster Nähe eingesetzt werden.
+#600# Befördert automatisch extrahierte Ressourcen in geignete Lagerbehälter.
+#601# Darin wachsen Plfanzen die als nahrung dienen. Das Modul benötigt Energie um zu funktionieren.
+#602# Diese Vorrichtung schmilzt Eis und unterzieht das Wasser der Elektrolyse. Der entstehende Wasserstoff und Sauerstoff können als Brennstoff und Oxidationsmittel für chemisch betriebene Triebwerke verwendet werden.
+#603# Basis-Plattform für Waffentürme. Ist in der Lage die angebrachte Waffe innerhalb eines begrenzten Winkels zu drehen.
 
-Kann manuell gesteuert werden oder im Automatik-Modus.
-Im automatischen Modus wird es automatisch angreifen angegebenen Ziele.
-#604# die Meisten Waffen platziert werden soll auf dieses Modul.
-#605# Wichtige Modul, welches es erlaubt, die Sie zum andocken an andere Schiffe oder Stationen, vor allem, wenn Sie sind gehören zu anderen Fraktionen.
-#606# Können Sie leicht erkennen und auswählen verschiedener Objekte im angegebenen Bereich. Besonders nützlich, wenn Sie brauchen, um zu erkennen, dass kleine Objekte wie Schmutz oder kleine Asteroiden.
-#607# Einfache Bauliche Teil.
-#608# Kann verwendet werden, als Speicher für Feste Ressourcen.
-#609# Uran Verbraucht und erzeugt Energie.
-#610# Energie Erzeugt, wenn sich die Seitenwände gerichtet auf einen Stern.
-#611# Effizienz hängt von der Entfernung und den Winkel zu einem Stern.
-#612# Container können Sie speichern, Flüssigkeiten oder gas, wie Kraftstoff für Motoren.
-#613# Erlaubt zu sammeln, Schutt aus Raum und automatisch zu verfeinern, es zu brauchbaren Materialien.
-#614# Container speichern können, Feste Ladung, wie Erz, Munition oder Nahrung.
-#615# Hydraulischen arm, die es erlaubt, greifen verschiedene Objekte im Raum, wie Asteroiden, Weltraumschrott oder anderen Schiffen.
-#616# Dieses Gerät ist in der Lage, erstellen Sie eine Kugel oder ellipsoid um sich selbst, schützen das Schiff vor Schäden.
-#617#, Verbraucht Energie, wenn Sie aktiv sind.
+Kann sowohl manuell als auch im Automatik-Modus betrieben werden.
+Im automatischen Modus wird Sie automatisch markierte Ziele angreifen.
+#604# Alle Waffentürme müssen auf diesem Modul plaziert werden.
+#605# Ermöglicht es Ihnen, an anderen Schiffen oder Stationen anzudocken, besonders wenn sie einer anderen Fraktion angehören.
+#606# Ermöglicht es Ihnen, verschiedene Objekte innerhalb der Reichweite leicht zu erkennen und auszuwählen. Besonders nützlich, wenn man kleine Trümmer oder kleine Asteroiden erkennen muss.
+#607# Einfaches Striktur-Bauteil.
+#608# Kann als Speicher für feste Ressourcen verwendet werden.
+#609# Erzeugt Energie durch den Verbrauch von Uran.
+#610# Erzeugt Energie, wenn Solarpanele auf einen Stern gerichtet sind.
+#611# Effizienz hängt von der Entfernung und den Winkel zu einem Stern ab.
+#612# Behälter, der jegliche Flüssigkeiten oder Gas, wie Kraftstoff, aufbewahren kann.
+#613# Ermöglicht die Sammlung von Trümmern aus dem Weltraum und verfeinert sie automatisch in nützliche Materialien.
+#614# Behälter, der feste Fracht wie Erz, Munition oder Lebensmittel, aufbewahren kann.
+#615# Hydraulischer Arm, der es ermöglicht, verschiedene Objekte im Raum, wie Asteroiden, Trümmer oder andere Schiffe, zu packen.
+#616# Diese Vorrichtung erzeugt eine Kugel oder Ellipse aus Energie um das Schiff um es vor Schäden zu schützen.
+#617# Modul verbraucht Energie, wenn das Schutzschild aktiv sind.
 
-Verbraucht zusätzliche Energie für geblockte Einheit Schaden.
+Verbraucht zusätzlich Energie in Höhe des geblockten Schadens.
 
-Größe des schutzfeldes kann geändert werden. Der Energieverbrauch ist abhängig von der Größe.
-#618# Dieses Gerät ist in der Lage zu emittieren gerichtetes ray von Gravitationswellen, die können push ein bestimmtes Objekt in bestimmter Richtung.
-#619# Wenn aktiviert, ziehen Sie Objekte in den weißen Kreis mit der linken Maustaste, um Sie zu bewegen, in jede Richtung.
-#620# Können für ein Schiff zu entwerfen mit drehbaren teilen.
-#621# Können für ein Schiff zu entwerfen, die mit beweglichen teilen.
-#622# Chemie-Motor erzeugt Schub durch Verbrennung von Sauerstoff und Wasserstoff in der Brennkammer und Auspuff Verbrennungsprodukte aus der Düse.
+Die Größe des Schutzfeldes kann geändert werden. Der Energieverbrauch ist abhängig von der Größe.
+#618# Dieses Gerät sendet gerichtete Gravitationswellen aus die ein Zielobjekt in die gewünschte Richtung schieben können.
+#619# Wenn aktiv, ziehen Sie Objekte in den weißen Kreis mit der linken Maustaste, um sie in jede Richtung zu bewegen.
+#620# Ermöglicht den Bau von drehbaren Bauteilen.
+#621# Ermöglicht den Bau von beweglichen/verschiebbaren Komponenten.
+#622# Das chemische-Triebwerk erzeugt Schub durch die Verbrennung von Sauerstoff und Wasserstoff in der Brennkammer um einen hohen Schub zu erzeugen. Der Zusatz von Sauerstoff als Oxidationsmittel macht es stärker als reine Wasserstoff-Triebwerke.
 
-Um arbeiten zu können, sollten angeschlossen werden, um tanks mit Sauerstoff und Wasserstoff.
+Um zu funktionieren muss es mit Treibstofftanks die sowohl mit Sauerstoff als auch mit Wasserstoff gefüllt, verbunden werden.
 
-Wasserstoff als Brennstoff und Sauerstoff als Oxidationsmittel.
-#623# Erlaubt das drehen eines Schiffes mit nur einer Energie.
-#624# Dieser Motor erfordert die xenon-gas und elektrische Energie. Sein Vorteil im Vergleich zu chemischen Triebwerken ist, dass es erfordert sehr kleine Menge an Kraftstoff, hat jedoch einen viel geringeren Schub. Als Ergebnis, es ist in der Lage, kontinuierlich arbeiten über längere Zeit
-#625# Einfache und billige Manöver Motor schiebt druckwasserstoffspeicherung.
+Wasserstoff dient als Brennstoff und Sauerstoff als Oxidationsmittel.
+#623# Erlaubt das drehen eines Schiffes wobei Energie anstatt Treibstoff verbraucht wird.
+#624# Dieser Motor erfordert Xenon-Gas und elektrische Energie. Sein Vorteil im Vergleich zu chemischen Triebwerken ist, dass es nur sehr kleine Mengen and Treibstoff (Xenon-Gas) benötigt hat jedoch einen viel geringeren Schub. Es kann daher über längere Zeiträume kontinuierlich genutzt werden.
+#625# Einfaches und Kostengünstiges Manöver-Triebwerk, das Wasserstoff verwendet.
 
-Um arbeiten zu können, sollten angeschlossen werden, um den Brennstoff-tank enthält ein Wasserstoff.
-#626# Ein Gerät, das fähig ist, auf warp-Raum um ein Schiff, die es erlaubt, zu Reisen mit Geschwindigkeiten viel schneller als die Geschwindigkeit des Lichts.
+Um arbeiten zu können, muss es an einen mit Wasserstoff gefüllten Treibstofftank angeschlossen werden.
+#626# Eine Vorrichtung, die in der Lage ist, den Raum um ein Schiff zu falten und somit dem Schiff erlaubt schneller als mit Lichtgeschwindikeit zu reisen.
 
-Es kann verwendet werden innerhalb von ein Sterne-system für sofortiges Reisen von einem Punkt zum anderen.
-#627# zieht jedes Objekt, das sich in ein warp-Feld
+Es kann innerhalb eines Sternsystems für sofortige Reise von einem Punkt zum anderen verwendet werden.
+#627# Bewegt jedes Objekt, das sich innerhalb des Warp-Feldes befindet
 
-Die Größe der warp-Feld kann geändert werden
+Die Größe der warp-Feldes kann geändert werden
 
-Der Energieverbrauch hängt von der Größe des Sprungantriebfeldes ab.
+Der Energieverbrauch hängt von der Größe des Warp-Feldes ab.
 
-Wenn warp-Feld wird sich stoßen mit etwas, wird es destabilisiert und springen wird abgebrochen.
+Kollidiert etwas mit dem Warp-Feld, wird es destabilisiert und der Sprung wird abgebrochen.
 #628# verbunden werden Sollen stromspeicher
 #629# verbunden werden Sollte die Lagerung mit Raketen
 #630# verbunden werden Sollte die Lagerung mit Munition
