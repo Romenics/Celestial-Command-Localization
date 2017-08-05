@@ -524,7 +524,7 @@ Hold right mouse button and drag the mouse to rotate the camera
 #520# You may pan the camera by holding the middle mouse button
 #521# Use your mouse's scroll wheel to zoom
 #522# You may reset the camera by pressing the highlighted button
-#523# Now, regarding movement:
+#523# Now let's talk about how to move the ship:
 
 You may rotate your ship with the A and D keys. Try to gently rotate your ship clockwise and counter clockwise.
 #524# Note that your ship is located in a vacuum. In space, there is no air friction, so your ship will keep its linear and angular velocity until you stop it manually.
