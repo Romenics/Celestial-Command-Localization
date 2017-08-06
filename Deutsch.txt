@@ -346,7 +346,7 @@
 #344# Laser 1
 #345# Bergbaulaser
 #346# Flüssigkeitsbehälter 2
-#347# Frachtcontainer 3
+#347# Lagerbehälter 3
 #348# Andockschleuse
 #349# Greifarm
 #350# Laser 2
@@ -359,7 +359,7 @@
 #357# Reaktionsrad (Positionsstabilisierung)
 #358# Warpantrieb
 #359# Rahmen 2x1 Adapter
-#360# Manöver-Triebwerk
+#360# Manövriertriebwerk
 #361# Flüssigkeitsbehälter 3
 #362# Bergbaulaser
 #363# Flüssigkeitsbehälter 4
@@ -409,7 +409,7 @@
 #407# Flugbahn festlegen. Flugbahn wird angezeigt auch nachdem das Fenster geschlossen wurde
 #408# Akzeptierte Missionen anzeigen
 #409# Discord chat
-#410# Warp-Feld ist aufgrund eines dichten Hindernisses zusammengebrochen
+#410# Warpfeld ist aufgrund eines dichten Hindernisses zusammengebrochen
 #411# Besatzung anzeigen
 #412# Masseschwerpunkt anzeigen
 #413# Mit Maus steuern
@@ -460,7 +460,7 @@
 #458# Einkaufspreis
 #459# Verkaufspreis
 #460# Angebot-Nachfrage-Verhältnis
-#461# Modul-Anschlüsse
+#461# Modulverbindungsbogen-Anschluss
 #462# Kompensiere niedrige Bildwiderholungsrate
 #463# X-Achse invertieren
 #464# Y-Achse invertieren
@@ -491,11 +491,11 @@
 #489# Kein freier Lagerraum für diese Ressource
 #490# Wählen Sie ein Objekt und versuchen Sie es erneut
 #491# Mission abgeschlossen
-#492# Credits erhalten
+#492# CR erhalten
 #493# Nicht mit dem Schiff angedockt
 #494# Neue Mission verfügbar
 #495# Station
-#496# Nicht genug Credits
+#496# Nicht genug CR
 #497# Preis
 #498# Mission gescheitert
 #499# Schwaches Signal
@@ -568,11 +568,11 @@ Bewegen Sie Ihr Schiff, zum markierten Asteroiden.
 
 Ihr Schiff ist bereits mit einem Bergbaulaser ausgerüstet. Um ihn zu aktivieren, wählen Sie den Bergbaulaser, und drücken Sie die Taste "Umschalten" im geöffneten Fenster.
 
-Beachten Sie, dass ein aktiver Bergbau-Laser Energie verbraucht welcher der rechten oberen Ecke des Bildschirms angezeigt wird. Deaktiviere Sie den Laser, wenn er nicht auf einen Asteroiden gerichtet ist.
+Beachten Sie, dass ein aktiver Bergbaulaser Energie verbraucht welcher der rechten oberen Ecke des Bildschirms angezeigt wird. Deaktiviere Sie den Laser, wenn er nicht auf einen Asteroiden gerichtet ist.
 
-Bauen Sie jetzt einen nahegelegenen Asteroiden mit dem Bergbau-Laser ab und sammeln Sie einige Ressourcen.
+Bauen Sie jetzt einen nahegelegenen Asteroiden mit dem Bergbaulaser ab und sammeln Sie einige Ressourcen.
 #540# Während des Abbaus sehen Sie einen Indikator, der die aktuelle Ausbeute des Lasers zeigt.
-Beachten Sie, dass je näher sie am Asteroiden sind desto wirksamer der Bergbau-Laser ist.
+Beachten Sie, dass je näher sie am Asteroiden sind desto wirksamer der Bergbaulaser ist.
 
 Öffnen Sie nun das Fracht-Interface.
 #541# In diesem Modus sehen Sie den Inhalt jedes Frachtbehälters auf Ihrem Schiff.
@@ -604,7 +604,7 @@ Sie sehen nun einige Montagepunkte am Schiff (grün). Plazieren Sie die Waffen-P
 #550# Gut. Um eine Projektilkanone zu verwenden, benötigen Sie Munition.
 
 Kaufen Sie Munition im Handelsfenster durch Wahl der "Handels"-Schaltfläche.
-#551#, Nachdem Sie etwas Munition gekauft haben, müssen Sie die Kanone mit dem Lagerbehälter in der sich die Munition befindet verbinden.
+#551# Nachdem Sie etwas Munition gekauft haben, müssen Sie die Kanone mit dem Lagerbehälter in der sich die Munition befindet verbinden.
 
 Öffnen Sie das Ressourcen Verbindungs Interface.
 #552# In diesem Modus sehen Sie Linien die die Verteilung der Ressourcen anzeigen.
@@ -624,10 +624,10 @@ Sie sollten auch auf "Waffenreichweite anzeigen" klicken, um die effektive Reich
 #555# Geben Sie, mehrere Test-Schüsse ab und drücken Sie danach auf weiter.
 #556# Sie haben das Grundlagen-Tutorial abgeschlossen.
 
-Wenn Sie zusätzliche Informationen benötigen, schauen Sie doch mal in die Community-Anleitung.
-#557# Du bist im Sternsystem angekommen; Sie haben ein kleines Bergbauschiff mit etwas Wasserstoff in den Treibstofftanks, genug für einen Flug zum nächsten Asteroiden und zu nächsten Stationen. Benutzen Sie Ihren Bergbau-Laser, um Ressourcen von Asteroiden zu sammeln und sie auf jeder nahe gelegenen Handelsstation zu verkaufen.
+Wenn Sie zusätzliche Informationen benötigen, schauen Sie doch mal in die Community-Anleitungen.
+#557# Sie sind im Sternsystem angekommen; Sie haben ein kleines Bergbauschiff mit etwas Wasserstoff in den Treibstofftanks, genug für einen Flug zum nächsten Asteroiden und zur nächsten Station. Benutzen Sie Ihren Bergbaulaser, um Ressourcen von Asteroiden zu sammeln und sie auf jeder nahe gelegenen Handelsstation zu verkaufen.
 
-Ändern Sie Ihr Schiff an einer Stations-Werft und erfüllen Sie Stations-Missionen, um Ihren Ruf zu verbessern und Zugang zu neuen Modulen zu erhalten.
+Ändern Sie Ihr Schiff an einer Stationswerft und erfüllen Sie Stations-Missionen, um Ihren Ruf zu verbessern und Zugang zu neuen Modulen zu erhalten.
 
 #558# Zeigt beschädigte Module
 #559# Zeigt vorübergehend Trefferpunkte von beschädigten Modulen am Schiff an.
@@ -637,11 +637,11 @@ Wenn Sie zusätzliche Informationen benötigen, schauen Sie doch mal in die Comm
 #563# Reparatur
 #564# Zielobjekte an Zielpunkt geliefert
 #565# Zielobjekte wurde nicht mit dem Greifarm gepackt
-#566# Der Container muss eine niedrige Geschwindigkeit mit der Station haben, wo er geliefert werden soll
-#567# Zielobjekte ist nicht mit dem Schiff verbunden
+#566# Der Lagerbehälter muss eine niedrige Geschwindigkeit im Bezug zur Station haben, wo er geliefert werden soll
+#567# Zielobjekt ist nicht mit dem Schiff verbunden
 #568# Zerstöre das Ziel
-#569# Stabilisiere deinen Orbit
-#570# Aktivieren Sie den Autopiloten, der die Kreisbahn um einen Planeten oder einen Stern automatisch aufrechterhält, auch wenn das Schiff von äußeren Kräften betroffen ist.
+#569# Stabilisieren Sie ihren Orbit
+#570# Aktivieren Sie den Autopiloten, der die Kreisbahn um einen Planeten oder einem Stern automatisch aufrechterhält, auch wenn das Schiff von äußeren Kräften betroffen ist.
 
 Eine manuelle Steuerung wird den Autopilot-Modus deaktivieren.
 #571# Winkelbereich
@@ -654,19 +654,19 @@ Eine manuelle Steuerung wird den Autopilot-Modus deaktivieren.
 #578# Grad
 #579# Grad/s
 #580# Modul zu Verkaufen
-#581# Credits
+#581# CR
 #582# Modul ist beschädigt, der Preis wird reduziert
 #583# Grundpreis
 #584# Wählen Sie ein Modul zum verkaufen
 #585# Schaden
 #586# Explosionsradius
-#587# Verzögerung beim Feuern
+#587# Sekunden zwischen Feuern
 #588# Stärke des Rückstoßes
 #589# kN
 #590# Schaden/s
 #591# Reichweite
-#592# Sekunden
-#593# min
+#592# Sek
+#593# Min
 #594# Munition
 #595# Dekonstruieren
 #596# Bauen
@@ -674,20 +674,20 @@ Eine manuelle Steuerung wird den Autopilot-Modus deaktivieren.
 #598# Um zu bauen, stellen Sie sicher, dass die Modul-Ressourcen-Verbindungspunkte mit Lagerbehältern in denen Ressourcen lagern verbunden sind.
 #599# Wird verwendet, um nützliche Ressourcen aus Asteroiden zu extrahieren. Kann jedoch auch als behelfsmäßige Waffe aus nächster Nähe eingesetzt werden.
 #600# Befördert automatisch extrahierte Ressourcen in geignete Lagerbehälter.
-#601# Darin wachsen Plfanzen die als nahrung dienen. Das Modul benötigt Energie um zu funktionieren.
+#601# Darin wachsen Plfanzen die als Nahrung dienen. Das Modul benötigt Energie um zu funktionieren.
 #602# Diese Vorrichtung schmilzt Eis und unterzieht das Wasser der Elektrolyse. Der entstehende Wasserstoff und Sauerstoff können als Brennstoff und Oxidationsmittel für chemisch betriebene Triebwerke verwendet werden.
 #603# Basis-Plattform für Waffentürme. Ist in der Lage die angebrachte Waffe innerhalb eines begrenzten Winkels zu drehen.
 
 Kann sowohl manuell als auch im Automatik-Modus betrieben werden.
-Im automatischen Modus wird Sie automatisch markierte Ziele angreifen.
+Im automatischen Modus wird Sie selbstständig markierte Ziele angreifen.
 #604# Alle Waffentürme müssen auf diesem Modul plaziert werden.
-#605# Ermöglicht es Ihnen, an anderen Schiffen oder Stationen anzudocken, besonders wenn sie einer anderen Fraktion angehören.
+#605# Ermöglicht es Ihnen, an anderen Schiffen oder Stationen anzudocken, insbesondere wenn sie einer anderen Fraktion angehören.
 #606# Ermöglicht es Ihnen, verschiedene Objekte innerhalb der Reichweite leicht zu erkennen und auszuwählen. Besonders nützlich, wenn man kleine Trümmer oder kleine Asteroiden erkennen muss.
-#607# Einfaches Striktur-Bauteil.
+#607# Einfaches Strukturbauteil.
 #608# Kann als Speicher für feste Ressourcen verwendet werden.
 #609# Erzeugt Energie durch den Verbrauch von Uran.
 #610# Erzeugt Energie, wenn Solarpanele auf einen Stern gerichtet sind.
-#611# Effizienz hängt von der Entfernung und den Winkel zu einem Stern ab.
+#611# Effizienz hängt von der Entfernung und dem Winkel zu einem Stern ab.
 #612# Behälter, der jegliche Flüssigkeiten oder Gas, wie Kraftstoff, aufbewahren kann.
 #613# Ermöglicht die Sammlung von Trümmern aus dem Weltraum und verfeinert sie automatisch in nützliche Materialien.
 #614# Behälter, der feste Fracht wie Erz, Munition oder Lebensmittel, aufbewahren kann.
@@ -709,30 +709,30 @@ Um zu funktionieren muss es mit Treibstofftanks die sowohl mit Sauerstoff als au
 Wasserstoff dient als Brennstoff und Sauerstoff als Oxidationsmittel.
 #623# Erlaubt das drehen eines Schiffes wobei Energie anstatt Treibstoff verbraucht wird.
 #624# Dieser Motor erfordert Xenon-Gas und elektrische Energie. Sein Vorteil im Vergleich zu chemischen Triebwerken ist, dass es nur sehr kleine Mengen and Treibstoff (Xenon-Gas) benötigt hat jedoch einen viel geringeren Schub. Es kann daher über längere Zeiträume kontinuierlich genutzt werden.
-#625# Einfaches und Kostengünstiges Manöver-Triebwerk, das Wasserstoff verwendet.
+#625# Einfaches und Kostengünstiges Manövriertriebwerke, das Wasserstoff verwendet.
 
 Um arbeiten zu können, muss es an einen mit Wasserstoff gefüllten Treibstofftank angeschlossen werden.
-#626# Eine Vorrichtung, die in der Lage ist, den Raum um ein Schiff zu falten und somit dem Schiff erlaubt schneller als mit Lichtgeschwindikeit zu reisen.
+#626# Eine Vorrichtung, die in der Lage ist, den Raum um ein Schiff zu krümmen und somit dem Schiff erlaubt schneller als mit Lichtgeschwindikeit zu Reisen.
 
 Es kann innerhalb eines Sternsystems für sofortige Reise von einem Punkt zum anderen verwendet werden.
-#627# Bewegt jedes Objekt, das sich innerhalb des Warp-Feldes befindet
+#627# Bewegt jedes Objekt, das sich innerhalb des Warpfeldes befindet
 
-Die Größe der warp-Feldes kann geändert werden
+Die Größe der Warpfeldes kann geändert werden
 
-Der Energieverbrauch hängt von der Größe des Warp-Feldes ab.
+Der Energieverbrauch hängt von der Größe des Warpfeldes ab.
 
-Kollidiert etwas mit dem Warp-Feld, wird es destabilisiert und der Sprung wird abgebrochen.
-#628# Muss an die Stromversorgung angeschlossen werden
-#629# Muss an einen Lagerbehälter, in welchem sich Raketen befinden, verbunden werden
-#630# Muss an einen Lagerbehälter, in welchem sich Munition befindet, verbunden werden
+Kollidiert etwas mit dem Warpfeld, wird es destabilisiert und der Sprung wird abgebrochen.
+#628# Muss an die Stromversorgung angeschlossen sien
+#629# Muss mit einen Lagerbehälter, in welchem sich Raketen befinden, verbunden sein
+#630# Muss mit einen Lagerbehälter, in welchem sich Munition befindet, verbunden sein
 #631# Wird verwendet um "Sich selbst steuernde" - Torpedos zu starten.
 Der Torpedo wird das aktuell ausgewählte Objekt anvisieren.
 Wurde kein Objekt als Ziel beim Start ausgewählt wird der Torpedo vom Shiff weg in den Weltraum fliegen.
 #632# Fähigkeit, ungelenkte Raketen mit hoher Feuerrate zu starten
-#633# Speichert Energie, die durch Reaktoren oder Solarzellen erzeugt wird. Jedes Gerät, das Strom benötigt, sollte damit verbunden sein
+#633# Speichert Energie, die durch Reaktoren oder Solarpanele erzeugt wird. Jedes Gerät, das Strom benötigt, muss damit verbunden sein
 #634# Die Kommando-Brücke beinhaltet die wichtigsten Computer und steuert Ressourcenzuweisungen für das jeweilige Schiff.
 #635# Montagepunkte
-#636# nächste Reputationsstufe
+#636# Nächste Reputationsstufe
 #637# Benötigte Reputation
 #638# Leuchteffekte
 #639# Hintergrund anzeigen
@@ -744,7 +744,7 @@ Wurde kein Objekt als Ziel beim Start ausgewählt wird der Torpedo vom Shiff weg
 #645# Maximale Produktion
 #646# Stern wird blockiert duch
 #647# Kleine Solarpanel
-#648# General
+#648# Allgemeines
 #649# Kontrolle
 #650# Preise werden aktualisiert in
 #651# Sobald der Timer abgelaufen ist, wird der Händler seine Preise entsprechend der verfügbaren Menge neu berechnen
@@ -752,8 +752,8 @@ Wurde kein Objekt als Ziel beim Start ausgewählt wird der Torpedo vom Shiff weg
 #653# Wenn dieser Wert niedrig ist, haben Händler einen Mangel an dieser Ressource und sind bereit, sie für einen höheren Preis zu kaufen
 
 Wenn dieser Wert hoch ist haben Händler eine Fülle dieser Ressource und sind bereit, sie zu einen reduzierten Preis zu verkaufen
-#654# Wie viel Ressource dieser Händler bereit ist zu kaufen
-#655# Wie viel Ressource dieser Händler bereit ist zu verkaufen
+#654# Die Menge an einer Ressource die der Händler bereit ist zu kaufen
+#655# Die Menge an einer Ressource die der Händler bereit ist zu verkaufen
 #656# Sie können Ressourcen für diesen Preis kaufen
 #657# Sie können Ressourcen für diesen Preis verkaufen
 #658# Gitteransicht umschalten
@@ -788,11 +788,11 @@ Wenn Sie einen Server erstellt haben und Ihre Sichtbarkeit überprüfen möchten
 #682# Wenn Ihr Server in der Liste nicht sichtbar ist, sollten andere Benutzer dennoch in der Lage sein, sich zu Ihrem Server über die direkte IP-Verbindung zu verbinden
 #683# Leitfaden öffnen
 #684# Empfohlener Modus
-#685# Experimenteller Modus, der erhebliche technische und konzeptliche Mängel enthalten kann
+#685# Experimenteller Modus, der erhebliche technische und konzeptionelle Mängel enthalten kann
 
 Wir empfehlen, mit dem aerodynamischen Modus zu beginnen, weil es benutzerfreundlicher ist, eine stabilere Physik hat und insgesamt ein besseres Spielerlebnis bietet
 #686# Modul befindet sich außerhalb der Reichweite der Werft
 #687# Sektor Identifikation
 #688# Schwierigkeitsgrad des Sektors
 #689# Besitzer des Sektors
-#690# erorbern
+#690# Erorbern
