@@ -1,8 +1,5 @@
 ﻿
 #
-###### PLEASE NO CHANGES FROM SOMEONE WHO BARELY SPEAKS GERMAN #####
-#
-#
 #0# Server starten
 #1# Mehrspielerspiel beitreten
 #2# Optionen
@@ -471,7 +468,7 @@
 #465# Tutorial
 #466# Einzelspieler
 #467# Mehrspieler
-#468# Laden
+#468# Spiel laden
 #469# Maximale Bergbaurate
 #470# Aktivierung Zeit
 #471# Maximaler Bereich
