@@ -1,5 +1,4 @@
 ﻿
-#
 #0# Server starten
 #1# Mehrspielerspiel beitreten
 #2# Optionen
