@@ -565,7 +565,7 @@
 #538#完美！ 现在你学会了如何驾驶舰船接近附近的目标。
 #539#现在让我们开采一些资源，将他们卖掉并获得点数。
 
-你的船已经配备了一个采矿激光。 选择采矿激光，按下控制面板中的“开启（Toggle）”按钮。
+你的船已经配备了一个采矿激光。 选择采矿激光，按下控制面板中的“开关（Toggle）”按钮。
 
 注意到采矿激光消耗能量，这在屏幕右上方可以看到。所以当激光没有接触到小行星时应该关闭它以节省能量。
 
@@ -641,7 +641,7 @@
 #570#活动驾驶仪，它使得舰船在一颗行星或恒星的圆形轨道上运行——即便舰船受到外力作用。
 手动控制舰船，将关闭这个模式。
 #571#角度范围内
-#572#转率
+#572#偏转速率
 #573#最大范围
 #574#手动控制
 #575#自动模式
@@ -651,145 +651,146 @@
 #579#度/s
 #580#卖模块
 #581#CR
-#582#模块的损坏，价格降低
-#583#基的价格
-#584#选择模块卖掉
+#582#模块损坏，售出价格降低
+#583#基础价格
+#584#点选模块以卖出
 #585#伤害
 #586#爆炸半径
-#587#火延时
-#588#反冲力
-#589#kN
+#587#开火延时
+#588#后坐力
+#589#千牛（kN力的单位）
 #590#DPS
-#591#范围
-#592#s
+#591#射程
+#592#秒（s）
 #593#分钟
 #594#弹药
-#595#解构
+#595#拆卸
 #596#构造
-#597#这个模块的装备与工业3D打印机和无人驾驶飞机允许建造新的模块，使用各种资源。
+#597#这个模块装备了工业3D打印机和无人机，能够使用各种资源来建造新模块。
 #598#为了建立。 确保资源的连接点连接容器盛装适当的资源。
-#599#能够提取有用的资源，从小行星。 也可用作接近范围的武器。
-#600#它会自动卸货中提取的资源进入适当的容器上的船舶。
-#601#能够生长的植物食品的船员。 需要的能源来操作。
-#602#这种装置能够融冰和使用过程中的电解分获得水分子在两个氢原子和一个原子的氧气，这是可以作为一个推进剂和助燃剂一反应的引擎。
-#603#基础的平台的武器。 能旋转的附着武器在不同方向，在某些角度。
+#599#能够提取从小行星提取有用资源。 也可将就地作为近距离武器。
+#600#自动把提取的资源装载到船上的合适容器。
+#601#能够为船员种植粮食。 需要的能量来运作。
+#602#这种装置能够融冰并且将水电解成氢气和氧气。它们可以分别用作化学引擎的燃料和氧化剂。
+#603#用于安装武器的基础平台。可以在一定角度范围内转动。
 
-可以控制的手动或自动模式。
+可以手动或者自动控制。
 在自动模式，它会自动攻击指定目标。
-#604#最武器应放在这个模块。
-#605#重要的模块，该模块可以让你与其他人船只或一站，特别是如果他们是属于其他派别。
-#606#可以让你轻易地检测并选择各种对象，在规定的范围。 特别是有用的，如果你需要检测小型对象（如碎片或小的小行星。
-#607#简单的结构的一部分。
-#608#可以被用作一种储存用于固体资源。
-#609#消耗铀而产生的能量。
-#610#产生的能量时板上的指示一个明星。
-#611#效率取决于距离和角度，为一个明星。
-#612#容器，它可以存储的任何液体或气体，例如燃料的一个引擎。
-#613#允许收集空间碎片和自动改进到可用的材料。
-#614#容器可以储存固体货物，例如矿石、弹药或食物。
-#615#液压臂这使得抓住各种空间物体，如小行星、碎屑或其他船舶。
-#616#这种装置能够以创建一个球体或椭圆体自己周围，这将保护的船舶从任何损害。
-#617#消耗的能量而激活。
+#604#所有武器都必须放在这个模块上。
+#605#允许你和其它的舰船或者空间站对接，特别是如果他们属于其他派别。
+#606#允许你轻松探测并选择范围内的各种对象。 如果你需要检测小型对象（如碎片或小的小行星）时它特别有用。
+#607#简单的结构部件。
+#608#可以用来储存固体资源。
+#609#消耗铀来产生能量。
+#610#当面板指向恒星时产生能量（电能）。
+#611#产能的效率取决于与恒星的距离和面板的角度。
+#612#容器，可以存储任何液体或气体，例如燃料。
+#613#允许收集太空碎片和并自动将其回收成可用物料。
+#614#容器，可以储存固体货物，例如矿石、弹药或食物。
+#615#液压臂，可用来抓住各种太空中的物体，如小行星、碎片或其他船舶。
+#616#这种装置能够在自己走位创建一个球体或者椭球，可使舰船免受损伤。
+#617#力场（forcefield）工作时将消耗能量。
 
-消耗额外的能源用于阻止单元的损坏。
+消耗额外的能量来吸收伤害。
 
-大小的保护领域可以改变的。 能源消耗依赖于大小。
-#618#这种装置能够以这些方向射线的引力波的可能推动一个具体的目的在特定的方向。
-#619#当活跃，将一个物体内的白圈使用鼠标左键，以便将它们在任何方向。
-#620#允许建造一艘船与转动部件。
-#621#允许建造的船舶可移动的零部件。
-#622#化学发动机的创造力推力因燃烧氧气和氢气燃烧室和排出的燃烧产物，我们离喷嘴。
+防御范围的大小可用改变；能耗随大小变化。
+#618#这种装置能够放出定向的引力波，来将目标物品推向特定方向。
+#619#模块激活时，在白圈范围内，用左键拖动目标物品向任意方向。
+#620#允许建造旋转部件。
+#621#允许建造可移动（伸缩）零部件。
+#622#同时使用氢气和氧气作为燃料的化学引擎，能产生大推力。氧化剂（氧气）的加入使它比纯氢气的引擎更加有力。
 
-为了工作，应当连接的油箱与氧气和氢气。
+为了正常工作，它应当与装有氧气和氢气的燃料罐相连。
 
-氢作为燃料以及氧气作为氧化剂。
-#623#允许转船只使用一种能源。
-#624#这个发动机需要氙气和电力。 其优势相比，化学引擎，它要求非常少量的燃料，但是具有低得多的推力。 因此，它能够连续工作期间长时间
-#625#简单和廉价的机动引擎，推动加压氢。
+需要氢作为燃料以及氧气作为氧化剂。
+#623#允许船只只使用能量来旋转。
+#624#这个发动机消耗氙气和电力。 它消耗非常少量的燃料，但是具有低得多的推力。 它能够连续工作较长时间。
+#625#简单而廉价的机动引擎，使用压缩氢气。
 
-为了工作，应该可以连接到燃料罐，其中包含有氢。
-#626#一种装置，这种装置能够以在经一个空间周围的船舶，它允许的旅行的速度远远快于光速。
+为了正常工作，应该连接到燃料罐，其中包含有氢。
+#626#这种装置能够弯曲舰船附近的空间，能够进行超光速飞行。
 
-它可以用在一个星系统瞬间从一个点到另一个。
-#627#移动，每个对象，其内部位于一个经领域
+可用于星系中点对点的瞬间移动。
+#627#弯曲力场中的所有物体都将移动。
 
-尺寸的扭曲的领域可以改变的
+弯曲力场的大小可以改变。
 
-能源消耗量取决于大的经领域
+能源消耗量取决于力场的大小。
 
-如果经领域将发生碰撞的东西，这将是不稳定和跳将被中止。
-#628#应连接到电源的储存
+如果力场将撞上任何东西，它将变得不稳定并且跳跃将被中止。
+#628#应连接到能源仓
 #629#应连接到储存的火箭
 #630#应连接到储存的弹药
-#631#能够启动自我指导鱼雷。
-鱼雷将目标对象是选定的期间推出。
-如果没有对象的选择、鱼雷将在非制导模式。
-#632#能够启动非制导导弹率高的火灾
-#633#包含能产生的反应或者太阳能电池板。 任何装置，它需要的权力应该连接到它
-#634#控制中心的任何船舶，其中包括命令的桥梁，主要计算机和资源分配枢纽
-#635#建立点
+#631#能够发射制导鱼雷。
+鱼雷将自动瞄准当前选择的目标。
+如果没有选择的对象，鱼雷将在非制导模式发射。
+#632#能够快速发射非制导导弹。
+#633#储存反应堆或者太阳能板等产生的能量。任何需要能量的设备都应该和它相连。
+#634#任何舰船的控制中心，其中包括舰桥，主计算机和资源分配枢纽。
+#635#建设点
 #636#下一个级别
-#637#需要信誉
-#638# Glow effect
-#639# Show background
-#640# Black space background
-#641# Debug mode
-#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
-#643# Directed on star
-#644# Current production
-#645# Maximum production
-#646# Star blocked by
-#647# Small solar panel#648# General
+#637#需要声望
+#638# 光晕特效
+#639# 展示背景
+#640# 黑色太空背景
+#641# 调试模式（debug mode）
+#642# 在调试模式中，当你遇到软件错误，你会看到“发送错误报告”的提醒。这样会帮助我们更快地修复各种错误（BUG）
+#643# 指向恒星(directed on star)
+#644# 当前产出
+#645# 最大产出
+#646# 恒星被遮挡
+#647# 小型太阳能面板
+#648# General
 #649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#650# 价格更新还有
+#651# 倒计时结束后，商人们将根据可用资源数目重新计算商品价格。
+#652# 库存（Availability）
+#653# 数值较低时，商人缺乏这种资源并打算用更高的价格收购它
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
-#658# Toggle radial grid
-#659# Radial grid helps to understand velocity of the ship.
-Each circle rotates around planet with orbital speed which corresponds its altitude.
-Keep your ship in the grid cell if you wish to keep circular orbit.
-Or move your ship along circle of the grid if you wish to bypass planet around.
-#660# Command module has been destroyed
+数值较高时，商人拥有此资源较多库存并准备降价销售
+#654# 这位商人准备购买的资源数量
+#655# 这位商人准备销售的资源数量
+#656# 你可以用这个价格购买资源
+#657# 你可以用这个价格卖出资源
+#658# 开关放射状网格。
+#659# 放射状网格帮助我们了解舰船的速度。
+每个圆圈的转速与圆圈所在高度的稳定轨道速度匹配。（译者注：意味着和圆圈同高度同速度，那么舰船的轨道就会稳定了）
+将你的舰船维持在一个网格中，就能维持圆形轨道。
+或者将你的舰船移动到更远离行星的轨道上去，来改变轨道周期。
+#660# 命令模块已被摧毁
 #661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
+#662# 这艘船已经有命令模块。一艘船只能有一个命令模块。
 #663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
-#668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
+#664# 选择命令模块
+#665# 控制舰船
+#666# 船只列表
+#667# 聚焦视角到目标
+#668# 开关最近星球的放射状网格
+#669# 你不能移除这个命令模块，因为里面有船员。
 #670# Open folder with saved files
 #671# Delete selected file
 #672# Saved file with such name already exist
-#673# m / s
-#674# Velocity of active ship
-#675# Meter per second
+#673# 米/秒（m / s）
+#674# 当前舰船的速度
+#675# 米每秒
 #676# 90% Black
 #677# 100% Black
 #678# Blue
-#679# Collision damage
-#680# Module should be in range of shipyard (yellow circle)
+#679# 碰撞伤害
+#680# 模块应该在船坞的工作范围内（黄色圈）
 #681# Currently there is a technical problem with visibility of created servers in the server list
 
 If you created a server and you want to check its visibility, follow this guide
 #682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
-#683# Open guide
-#684# Recommended mode
+#683# 打开指引
+#684# 推荐的模式
 #685# Experimental mode which may contain significant technical and conceptual flaws
 
-We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
-#686# Module out of range of shipyard
+我们推荐从大气动力模式开始，因为这个模式下的操作更加容易，物理模型也更稳定（译者：更让人熟悉）。总的来说有更轻松愉快的游戏体验
+#686# 模块超出船坞范围
 #687# Identifier of sector
 #688# Level of sector
 #689# Owner of sector
 #690# Capture
 #691# Density
-#692# Density of space in aerodynamic mode. Defines the air drag during movement.
+#692# 大气动力模式下，太空中的空气密度。这将决定移动时的空气阻力。
