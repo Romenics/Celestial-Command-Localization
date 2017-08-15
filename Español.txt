@@ -793,3 +793,4 @@ Se recomienda empezar con el modo aerodinámico porque es más sencillo de usar,
 #689# Propietario del sector
 #690# Capturar
 #691# Densidad
+#692# Densidad del espacio en modo aerodinámico. Define la resistencia al aire durante el movimiento.
