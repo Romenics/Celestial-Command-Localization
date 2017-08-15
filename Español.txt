@@ -773,24 +773,23 @@ O mueva su nave a lo largo del círculo de la cuadrícula si quiere pasar de lar
 #673# m / s
 #674# Velocidad de la nave activa
 #675# Metros por segundo
-#676# 90% Black
-#677# 100% Black
-#678# Blue
-#679# Collision damage
-#680# Module should be in range of shipyard (yellow circle)
-#681# Currently there is a technical problem with visibility of created servers in the server list
+#676# 90% Negro
+#677# 100% Negro
+#678# Azul
+#679# Daño por colisión
+#680# El módulo debe estar en rango del astillero (círculo amarillo)
+#681# Hay un problema técnico con la visibilidad de los servidores creados en la lista de servidores en este momento
 
-If you created a server and you want to check its visibility, follow this guide
-#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
-#683# Open guide
-#684# Recommended mode
-#685# Experimental mode which may contain significant technical and conceptual flaws
+Si creó un servidor y quiere comprobar su visibilidad, siga esta guía
+#682# Si su servidor no es visible en la lista, otros usuarios deberían poder conectarse usando una conexión por IP directa
+#683# Abrir guía
+#684# Modo recomendado
+#685# Modo experimental que puede contener fallos técnicos y conceptuales significativos
 
-We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
-#686# Module out of range of shipyard
-#687# Identifier of sector
-#688# Level of sector
-#689# Owner of sector
-#690# Capture
-#691# Density
-#692# Density of space in aerodynamic mode. Defines the air drag during movement.
+Se recomienda empezar con el modo aerodinámico porque es más sencillo de usar, tiene físicas mas estables y provee, en conjunto, una mejor experiencia de juego
+#686# Módulo fuera de rango del astillero
+#687# Identificador del sector
+#688# Nivel del sector
+#689# Propietario del sector
+#690# Capturar
+#691# Densidad
