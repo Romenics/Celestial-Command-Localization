@@ -31,7 +31,7 @@
 #29# Musique
 #30# Jeu
 #31# Afficher l'aide
-#32# Aff. l'heure dans le tchat
+#32# Afficher l'heure dans le tchat
 #33# Mode 'bac à sable'
 #34# Inverser bout. de la souris
 #35# Sauvegarde automatique
