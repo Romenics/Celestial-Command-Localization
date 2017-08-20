@@ -624,7 +624,7 @@ Aussi, vous pouvez appuyer sur le bouton "Afficher la plage" afin de voir votre 
 Si vous avez besoin d'informations supplémentaires, consultez le guide des collectivités.
 #557# Vous êtes arrivés dans le système solaire, vous avez un petit navire minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers les astéroïdes et les stations les plus proches. Utilisez votre laser minier pour rassembler des ressources d'astéroïdes, et négocier leur prix de vente à proximité de la station.
 
-Modifier votre vaisseau sur le chantier et des missions complètes dans le but d'améliorer votre réputation et obtenir un accès à de nouveaux modules.
+Modifiez votre vaisseau sur le chantier et accomplissez des missions dans le but d'améliorer votre réputation et pour accéder à de nouveaux modules.
 #558# Afficher les modules endommagés
 #559# Temporairement l'affichage des points de vie pour les modules endommagés sur le vaisseau actif
 #560# clic Droit
@@ -722,7 +722,7 @@ Si la courbure de champ va entrer en collision avec quelque chose, il sera dést
 #631# Capables de lancer l'auto-guidée de la torpille.
 Torpille sera ciblée dans l'objet qui a été sélectionné lors du lancement.
 Si aucun objet sélectionné, torpille sera lancé en unguided mode.
-#632# Capables de lancer des missiles non guidés avec un taux élevé d'incendie
+#632# Capables de lancer des missiles non guidés avec une cadence de feu élevée
 #633# Contient de l'énergie produite par les réacteurs ou des panneaux solaires. Tout appareil qui nécessite une alimentation doit être connecté
 #634# Le centre de contrôle de tout navire, qui comprend la passerelle de commandement, de l'ordinateur principal et l'allocation des ressources hub
 #635# Accumuler des points
