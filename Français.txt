@@ -766,8 +766,8 @@ Ou déplacez votre navire le long du cercle de la grille si vous souhaitez conto
 #668# Activer grille radiale pour la planète la plus proche
 #669# Vous ne pouvez pas supprimer ce module de commande. Il y a un membre de l'équipage à l'intérieur.
 #670# Ouvrir le dossier avec les fichiers de sauvegarde
-#671# Delete selected file
-#672# Supprimer le fichier sélectionné
+#671# Supprimer le fichier sélectionné
+#672# Un fichier enregistré avec ce nom existe déjà
 #673# m / s
 #674# Vitesse du vaisseau actif
 #675# Mètre par seconde
