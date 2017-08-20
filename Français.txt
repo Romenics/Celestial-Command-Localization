@@ -622,7 +622,7 @@ Aussi, vous pouvez appuyer sur le bouton "Afficher la plage" afin de voir votre 
 #556# Félicitation! Vous avez terminé le tutoriel de base.
 
 Si vous avez besoin d'informations supplémentaires, consultez le guide des collectivités.
-#557# Vous êtes arrivés dans le star système, vous avez un petit navire minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers la plus proche des astéroïdes et des stations. Utilisez votre laser minier de rassembler des ressources d'astéroïdes, et de les vendre sur toute proximité de la négociation de la station.
+#557# Vous êtes arrivés dans le star système, vous avez un petit navire minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers la plus proche des astéroïdes et des stations. Utilisez votre laser minier pour rassembler des ressources d'astéroïdes, et les vendre sur toute proximité de la négociation de la station.
 
 Modifier votre vaisseau sur le chantier et des missions complètes dans le but d'améliorer votre réputation et obtenir un accès à de nouveaux modules.
 #558# Afficher les modules endommagés
@@ -651,7 +651,7 @@ Manuel de contrôle de désactiver ce mode.
 #580# Vendre module
 #581# CR
 #582# Module endommagé, le prix est réduit
-#583# prix de Base
+#583# Prix de Base
 #584# Sélectionnez le module à vendre
 #585# Dommage
 #586# Explosion radius
@@ -725,70 +725,70 @@ Si aucun objet sélectionné, torpille sera lancé en unguided mode.
 #632# Capables de lancer des missiles non guidés avec un taux élevé d'incendie
 #633# Contient de l'énergie produite par les réacteurs ou des panneaux solaires. Tout appareil qui nécessite une alimentation doit être connecté
 #634# Le centre de contrôle de tout navire, qui comprend la passerelle de commandement, de l'ordinateur principal et l'allocation des ressources hub
-#635# accumuler des points
-#636# niveau Suivant
+#635# Accumuler des points
+#636# Niveau Suivant
 #637# de réputation Requis
-#638# Glow effect
-#639# Show background
-#640# Black space background
-#641# Debug mode
-#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
-#643# Directed on star
-#644# Current production
-#645# Maximum production
-#646# Star blocked by
-#647# Small solar panel
-#648# General
-#649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#638# Effet Glow
+#639# Afficher l'arrière-plan
+#640# Fond noir
+#641# Mode de Debug
+#642# En mode de debug, lorsque vous rencontrerez une erreur, vous verrez une proposition pour nous envoyer une erreur. Cela nous aidera à corriger divers bugs beaucoup plus rapidement.
+#643# Réalisé sur l'étoile
+#644# Production actuelle
+#645# Production maximale
+#646# Étoile bloquée par
+#647# Petit panneau solaire
+#648# Général
+#649# Contrôle
+#650# Les prix seront mis à jour dans
+#651# Une fois la durée écoulée, le marchand va recalculer ses prix selon le montant disponible des ressources
+#652# Disponibilité
+#653# Si cette valeur est basse - le marchand manquant de cette ressource sera prêt à l'acheter pour un prix accru
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
-#658# Toggle radial grid
-#659# Radial grid helps to understand velocity of the ship.
-Each circle rotates around planet with orbital speed which corresponds its altitude.
-Keep your ship in the grid cell if you wish to keep circular orbit.
-Or move your ship along circle of the grid if you wish to bypass planet around.
-#660# Command module has been destroyed
-#661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
-#663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
-#668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
-#670# Open folder with saved files
+Si cette valeur est grande - le marchand possédant une abondance de cette ressource sera prêt à le vendre pour un prix réduit
+#654# Combien de ressources ce marchand sera prêt à acheter
+#655# Combien de ressources ce marchand sera prêt à vendre
+#656# Vous pouvez acheter des ressources pour ce prix
+#657# Vous pouvez vendre des ressources pour ce prix
+#658# Activer la grille radial
+#659# La grille radiale aide à comprendre la vitesse du navire.
+Chaque cercle qui tourne autour de la planète avec une vitesse orbitale correspond à son altitude.
+Gardez votre navire dans la cellule de la grille si vous souhaitez garder une orbite circulaire.
+Ou déplacez votre navire le long du cercle de la grille si vous souhaitez contourner la planète.
+#660# Le module de commande a été détruit
+#661# Vaisseau
+#662# Ce vaisseau dispose déjà d'un module de commande. Un seul module de commande peut être situé sur un vaisseau.
+#663# Vaisseaux
+#664# Sélectionnez le module de commande
+#665# Prendre le contrôle
+#666# Liste de tous les vaisseaux
+#667# Focaliser la vue sur l'objet
+#668# Activer grille radiale pour la planète la plus proche
+#669# Vous ne pouvez pas supprimer ce module de commande. Il y a un membre de l'équipage à l'intérieur.
+#670# Ouvrir le dossier avec les fichiers de sauvegarde
 #671# Delete selected file
-#672# Saved file with such name already exist
+#672# Supprimer le fichier sélectionné
 #673# m / s
-#674# Velocity of active ship
-#675# Meter per second
-#676# 90% Black
-#677# 100% Black
-#678# Blue
-#679# Collision damage
-#680# Module should be in range of shipyard (yellow circle)
-#681# Currently there is a technical problem with visibility of created servers in the server list
+#674# Vitesse du vaisseau actif
+#675# Mètre par seconde
+#676# 90% Noir
+#677# 100% Noir
+#678# Bleu
+#679# Dommage par collision
+#680# Le module devrait être dans la portée du chantier naval (cercle jaune)
+#681# Actuellement, il existe un problème technique avec la visibilité des serveurs créés dans la liste des serveurs
 
-If you created a server and you want to check its visibility, follow this guide
-#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
-#683# Open guide
-#684# Recommended mode
-#685# Experimental mode which may contain significant technical and conceptual flaws
+Si vous avez créé un serveur et que vous souhaitez vérifier sa visibilité, suivez ce guide
+#682# Si votre serveur n'est pas visible dans la liste, d'autres utilisateurs devraient pouvoir rejoindre votre serveur en utilisant une adresse IP directe
+#683# Guide Ouvert
+#684# Mode Recommandé
+#685# Mode expérimental qui peut contenir des défauts techniques et conceptuels significatifs
 
-We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
-#686# Module out of range of shipyard
-#687# Identifier of sector
-#688# Level of sector
-#689# Owner of sector
+Nous recommandons de commencer avec le mode aérodynamique car il est plus convivial, dispose d'une physique plus stable et, en général, offre une meilleure expérience de jeu
+#686# Module hors de portée du chantier naval
+#687# Identificateur du secteur
+#688# Niveau du secteur
+#689# Propriétaire du secteur
 #690# Capture
-#691# Density
-#692# Density of space in aerodynamic mode. Defines the air drag during movement.
+#691# Densité
+#692# Densité de l'espace en mode aérodynamique. Définit la traînée d'air pendant le mouvement.
