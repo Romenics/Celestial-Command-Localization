@@ -622,7 +622,7 @@ Aussi, vous pouvez appuyer sur le bouton "Afficher la plage" afin de voir votre 
 #556# Félicitation! Vous avez terminé le tutoriel de base.
 
 Si vous avez besoin d'informations supplémentaires, consultez le guide des collectivités.
-#557# Vous êtes arrivés dans le système solaire, vous avez un petit navire minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers les astéroïdes et les stations les plus proches. Utilisez votre laser minier pour rassembler des ressources d'astéroïdes, et les vendre sur toute proximité de la négociation de la station.
+#557# Vous êtes arrivés dans le système solaire, vous avez un petit navire minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers les astéroïdes et les stations les plus proches. Utilisez votre laser minier pour rassembler des ressources d'astéroïdes, et négocier leur prix de vente à proximité de la station.
 
 Modifier votre vaisseau sur le chantier et des missions complètes dans le but d'améliorer votre réputation et obtenir un accès à de nouveaux modules.
 #558# Afficher les modules endommagés
