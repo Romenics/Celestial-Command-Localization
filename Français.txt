@@ -267,7 +267,7 @@
 #265# Afficher le centre de masse pour le vaisseau actuel.
 #266# Vérrouiller le SCR
 #267# Stabiliser la rotation du vaisseau en utilisant ses moteurs.
-#268# Si activé - sélectionnez votre navire et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
+#268# Si activé - sélectionnez votre vaisseau et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
 #269# Afficher les dégats
 #270# Afficher temporairement l'intégrité du vaisseau
 #271# Rotate locker
@@ -291,7 +291,7 @@
 #289# Faction
 #290# Renommer le vaisseau
 #291# Masse de l'ensemble de la structure
-#292# Ce paramètre détermine la force nécessaire pour faire pivoter le navire. Pour réduire cette valeur, les modules les plus massifs devraient être situés à proximité du centre de masse.
+#292# Ce paramètre détermine la force nécessaire pour faire pivoter le vaisseau. Pour réduire cette valeur, les modules les plus massifs devraient être situés à proximité du centre de masse.
 #293# Intégrité structurelle
 #295# Active \ désactive le contrôle manuel du groupe d'armes sélectionné. Appuyez tout en maintenant la touche Shift-Gauche enfoncée pour activer le mode automatique.
 #296# Remplir le stockage sélectionné avec de l'Oxygène
@@ -398,17 +398,17 @@
 #397# Ctrl + Clic gauche: sélectionner une couleur
 #398# Presets
 #399# Nom de fichier
-#400# Existe déjà ! 
+#400# existe déjà ! 
 #401# Renommer
 #402# Écraser
 #403# Entrez un nom de fichier
 #404# Ce vaisseau ne peut être trouvé !
 #405# Peindre après construction
 #406# Sélectionnez une couleur
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
+#407# Trajectoire épinglée. La trajectoire sera affichée même lorsque cette fenêtre sera fermée.
 #408# Afficher les missions acceptées
 #409# Discord (→)
-#410# Warp field has been collapsed due dense obstacle
+#410# Le champ de protection a été détruit en raison d'un obstacle dense
 #411# Afficher l'équipage
 #412# Afficher le centre des masses
 #413# Planification de trajectoire
@@ -422,7 +422,7 @@
 #421# Déconstruire
 #422# Compenser la rotation
 #423# Rotor
-#424# Rotor Part
+#424# Partie Rotor
 #425# Piston
 #426# Piston Part
 #427# Ne plus afficher
@@ -464,11 +464,11 @@
 #463# Inverser l'axe des X
 #464# Inverser l'axe Y
 #465# Tutoriel
-#466# solo
+#466# Solo
 #467# Multi-joueur
-#468# Load
+#468# Charger
 #469# Max taux d'extraction
-#470# temps d'Activation
+#470# Temps d'activation
 #471# Max
 #472# Max de dégâts
 #473# consommation d'Énergie
@@ -517,7 +517,7 @@
 #516# Module n'est pas endommagé
 #517# Sélectionnez le module de réparation
 #518# Réputation
-#519# Ceci est votre navire
+#519# Ceci est votre vaisseau
 
 Maintenez le bouton droit de la souris et faites glisser la souris pour faire pivoter la caméra
 #520# Vous pouvez effectuer un panoramique de l'appareil photo par un cliquer-glisser le bouton central de la souris
@@ -526,12 +526,12 @@ Maintenez le bouton droit de la souris et faites glisser la souris pour faire pi
 #523# Maintenant, concernant le mouvement:
 
 Vous pouvez faire tourner votre vaisseau avec les touches A et D. Essayez doucement tourner votre vaisseau dans le sens horaire et dans le sens antihoraire.
-#524# Notez que votre vaisseau est situé dans un vide. Dans l'espace, il n'y a pas de frottement de l'air, de sorte que votre navire va garder son liniar et de la vitesse angulaire jusqu'à ce que vous l'arrêtiez manuellement.
+#524# Notez que votre vaisseau est situé dans un vide. Dans l'espace, il n'y a pas de frottement de l'air, de sorte que votre vaisseau va garder son liniar et de la vitesse angulaire jusqu'à ce que vous l'arrêtiez manuellement.
 #525# stabilisation Automatique est très utile si vous souhaitez arrêter votre rotation du vaisseau. Activer le stabilizator en appuyant sur le bouton en surbrillance ou son raccourci (R).
-#526# Tandis que le stabilisateur est actif, il va automatiquement utiliser les moteurs du bateau à l'arrêt de la rotation du navire.
+#526# Tandis que le stabilisateur est actif, il va automatiquement utiliser les moteurs du vaisseau à l'arrêt de la rotation du vaisseau.
 
 Toutefois, prenez note que votre carburant est limité. Ces manœuvres moteur consomme de l'hydrogène liquide. Votre montant actuel de l'hydrogène liquide est affiché sur l'écran (comme highligthed par la flèche).
-#527# lorsqu'il est actif, la rotation stabilisateur permet de compenser la rotation, même lorsque vous n'avez pas vraiment besoin de le faire. Parce qu'il utilise les moteurs du bateau, ayant le stabilisateur sur l'augmentation de la consommation de carburant. Donc, il peut être utile de désactiver le stabilisateur chaque fois que vous n'en avez pas besoin.
+#527# lorsqu'il est actif, la rotation stabilisateur permet de compenser la rotation, même lorsque vous n'avez pas vraiment besoin de le faire. Parce qu'il utilise les moteurs du vaisseau, ayant le stabilisateur sur l'augmentation de la consommation de carburant. Donc, il peut être utile de désactiver le stabilisateur chaque fois que vous n'en avez pas besoin.
 
 Désactiver le stabilisateur en appuyant sur la touche de raccourci (R).
 #528# Maintenant, essayez de déplacer votre vaisseau un peu, à l'aide des touches W S Q E pour aller de l'avant, arrière, gauche et droite.
@@ -543,19 +543,19 @@ Maintenant, vous avez probablement remarqué que votre vaisseau ne pas rester da
 Essayons d'approcher la proximité de l'astéroïde.
 Sélectionnez-le en surbrillance astéroïde en cliquant dessus.
 #531# Maintenant, affichage de la vitesse relative.
-#532# Avec une vitesse relative active, et que vous avez sélectionné un objet, vous allez voir deux flèches à proximité de votre navire.
+#532# Avec une vitesse relative active, et que vous avez sélectionné un objet, vous allez voir deux flèches à proximité de votre vaisseau.
 
 Flèche blanche - direction de l'objet sélectionné
-Flèche Orange - vecteur vitesse de votre bateau par rapport à l'objet sélectionné
+Flèche Orange - vecteur vitesse de votre vaisseau par rapport à l'objet sélectionné
 #533# Maintenant, afin d'approcher votre cible, de commencer à déplacer votre vaisseau.
 
 Vous devez aligner la flèche orange et la flèche blanche.
 #534# Bonne. Ayant les deux flèches aligné signifie que votre vaisseau se déplace tout droit en direction de la cible.
 
 Gardez un œil sur la distance et la vitesse relative à votre cible. Ne pas s'écraser sur elle.
-Une fois que vous vous approchez, ralentissez votre navire jusqu'à ce que la flèche jaune devient très courte. Cela signifie que votre vitesse relative est presque à zéro.
+Une fois que vous vous approchez, ralentissez votre vaisseau jusqu'à ce que la flèche jaune devient très courte. Cela signifie que votre vitesse relative est presque à zéro.
 
-L'approche de la cible sélectionnée et d'arrêter votre navire près d'elle.
+L'approche de la cible sélectionnée et d'arrêter votre vaisseau près d'elle.
 #535# Bonne. Essayez encore une fois pour un autre astéroïde.
 #536# Déplacer votre vaisseau pour le marqueur de l'astéroïde.
 #537# Vous êtes l'obtention le coup de cela! Une fois de plus!
@@ -564,7 +564,7 @@ Déplacez votre vaisseau à l'souligné l'astéroïde.
 #538# Parfait! Maintenant, vous savez comment aborder les objets à proximité.
 #539# Maintenant, nous allons mine de certaines ressources dans le but de les vendre et de gagner des crédits.
 
-Votre navire est déjà équipé d'un laser minier. Pour l'activer, sélectionnez le laser minier et appuyez sur le bouton "Basculer" dans la fenêtre qui apparaît.
+Votre vaisseau est déjà équipé d'un laser minier. Pour l'activer, sélectionnez le laser minier et appuyez sur le bouton "Basculer" dans la fenêtre qui apparaît.
 
 Note qu'un laser minier, consomme de l'énergie qui est affiché dans le coin supérieur droit de l'écran pour désactiver le laser quand il n'est pas dirigé vers un astéroïde.
 
@@ -573,31 +573,31 @@ Maintenant la mienne, à proximité de l'astéroïde à l'aide de l'exploration 
 Remarque, plus le laser minier, obtient de l'astéroïde, le plus efficace, il devient.
 
 Maintenant, ouvrez le fret de l'interface.
-#541# Dans ce mode, vous pouvez voir le contenu de n'importe quel conteneur de stockage sur votre bateau.
-Ici, vous voyez le navire du carburant, de l'énergie et des ressources collectées.
+#541# Dans ce mode, vous pouvez voir le contenu de n'importe quel conteneur de stockage sur votre vaisseau.
+Ici, vous voyez le carburant du vaisseau, de l'énergie et des ressources collectées.
 
 Vous pouvez transférer des ressources d'un récipient à l'autre par glisser-déposer. Droit maintenant, ce n'est pas nécessaire, il suffit donc de désactiver la cargaison à nouveau à l'interface.
 #542# Une nouvelle station spatiale vient d'arriver dans le système d'étoile.
 
-Laissez quai de la gare et de ravitailler le navire.
+Laissez quai de la gare et de ravitailler le vaisseau.
 Sélectionnez-le en surbrillance la station spatiale.
 #543# Demande d'autorisation pour l'amarrage.
-#544# La station vous réserve un gratuit port d'amarrage pour votre bateau.
+#544# La station vous réserve un gratuit port d'amarrage pour votre vaisseau.
 
-Approche désignés port d'amarrage et avec précision le toucher avec votre propre bateau du port d'amarrage.
+Approche désignés port d'amarrage et avec précision le toucher avec votre propre vaisseau du port d'amarrage.
 #545# Maintenant, ouvrez le panneau de négociation.
 #546# Dans cette fenêtre, recherchez la ligne "Hydrogène" et appuyez sur "Acheter". Après cela, sélectionnez la quantité désirée (par exemple 10) et de confirmer votre commande.
 
 Aussi, vous pouvez vendre des ressources collectées. Essayez de vendre votre extrait de minerais, et appuyez sur next (suivant) lorsque c'est terminé.
 #547# Maintenant, nous allons tester une arme!
 
-Votre navire ne dispose pas d'une arme, donc vous avez besoin pour développer votre navire.
+Votre vaisseau ne dispose pas d'une arme, donc vous avez besoin pour développer votre vaisseau.
 Plus tard, vous serez en mesure de construire des modules de vous-même, mais pour l'instant vous pouvez acheter de nouveaux modules de la station spatiale.
 
 Sélectionnez la station et appuyez sur le "chantier Naval". Une accumulation de menu apparaîtra.
 #548# Dans le menu générer, sélectionnez une tourelle de la plate-forme.
 
-Vous verrez un certain nombre de points de fixation de votre navire. Placer une tourelle n'importe où sur votre bateau, où vous voulez.
+Vous verrez un certain nombre de points de fixation de votre vaisseau. Placer une tourelle n'importe où sur votre vaisseau, où vous voulez.
 #549# Maintenant, sélectionnez un coup de canon dans le menu générer et fixer sur le dessus de votre tourelle.
 #550# Bonne. Pour utiliser un canon, vous avez besoin de munitions.
 
@@ -622,7 +622,7 @@ Aussi, vous pouvez appuyer sur le bouton "Afficher la plage" afin de voir votre 
 #556# Félicitation! Vous avez terminé le tutoriel de base.
 
 Si vous avez besoin d'informations supplémentaires, consultez le guide des collectivités.
-#557# Vous êtes arrivés dans le système solaire, vous avez un petit navire minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers les astéroïdes et les stations les plus proches. Utilisez votre laser minier pour rassembler des ressources d'astéroïdes, et négocier leur prix de vente à proximité de la station.
+#557# Vous êtes arrivés dans le système solaire, vous avez un petit vaisseau minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers les astéroïdes et les stations les plus proches. Utilisez votre laser minier pour rassembler des ressources d'astéroïdes, et négocier leur prix de vente à proximité de la station.
 
 Modifiez votre vaisseau sur le chantier et accomplissez des missions dans le but d'améliorer votre réputation et pour accéder à de nouveaux modules.
 #558# Afficher les modules endommagés
@@ -634,10 +634,10 @@ Modifiez votre vaisseau sur le chantier et accomplissez des missions dans le but
 #564# Cible objets livrés à un point de destination
 #565# objets Cible n'est pas saisi avec une pince
 #566# Cible les objets ont une faible vitesse relative avec le point de destination
-#567# objets Cible n'est pas attaché à un navire
+#567# objets Cible n'est pas attaché à un vaisseau
 #568# Détruire la cible
 #569# Stabiliser orbite
-#570# Activer le pilote automatique qui maintient automatiquement une orbite circulaire autour d'une planète ou d'une étoile, même si le navire est affecté par des forces externes.
+#570# Activer le pilote automatique qui maintient automatiquement une orbite circulaire autour d'une planète ou d'une étoile, même si le vaisseau est affecté par des forces externes.
 Manuel de contrôle de désactiver ce mode.
 #571# plage Angulaire
 #572# taux de Virage
@@ -667,7 +667,7 @@ Manuel de contrôle de désactiver ce mode.
 #596# Construction
 #597# Ce module équipé avec des imprimantes 3D et les drones, ce qui permet la construction de nouveaux modules à l'aide de diverses ressources.
 
-#600# Il sera automatiquement décharger des ressources extraites dans des conteneurs sur le navire.
+#600# Il sera automatiquement décharger des ressources extraites dans des conteneurs sur le vaisseau.
 #601# Capables de cultiver des plantes alimentaires pour les membres de l'équipage. Nécessite de l'énergie pour fonctionner.
 #602# Cet appareil est capable de faire fondre la glace et en utilisant le procédé de l'électrolyse split obtenu des molécules d'eau sur les deux atomes d'hydrogène et d'un atome d'oxygène qui peut être utilisé comme carburant et le comburant pour un réactif de moteurs.
 #603# plate-forme de Base pour les armes. Capable de faire tourner le joint d'armes dans des directions différentes au sein de certains angles.
@@ -675,7 +675,7 @@ Manuel de contrôle de désactiver ce mode.
 Peut être contrôlé manuellement ou en mode automatique.
 En mode automatique, il sera automatiquement attaquer des cibles précisées.
 #604# la Plupart des armes doit être placé sur ce module.
-#605# Important module qui vous permet de quai avec d'autres navires ou d'une des stations, en particulier s'ils appartiennent à d'autres factions.
+#605# Important module qui vous permet de quai avec d'autres vaisseaux ou d'une des stations, en particulier s'ils appartiennent à d'autres factions.
 #606# vous Permet de détecter et de sélectionner les différents objets à l'intérieur de la plage spécifiée. Particulièrement utile si vous avez besoin de détecter les petits objets comme des débris ou de petits astéroïdes.
 #607# Simple partie structurelle.
 #608# Peut être utilisé comme un stockage de solides ressources.
@@ -685,8 +685,8 @@ En mode automatique, il sera automatiquement attaquer des cibles précisées.
 #612# Container qui peut stocker un liquide ou d'un gaz, tels que le carburant pour les moteurs.
 #613# Permet de collecter les débris de l'espace et automatiquement affiner dans les matériels utilisables.
 #614# Container qui peut stocker des cargaisons solides, tels que des minerais, de munitions ou de la nourriture.
-#615# bras Hydraulique qui permet de saisir divers objets dans l'espace, tels que des astéroïdes, des débris ou d'autres navires.
-#616# Cet appareil est capable de créer une sphère ou ellipsoïde autour de lui, ce qui permettra de protéger le navire contre tout dommage.
+#615# bras Hydraulique qui permet de saisir divers objets dans l'espace, tels que des astéroïdes, des débris ou d'autres vaisseaux.
+#616# Cet appareil est capable de créer une sphère ou ellipsoïde autour de lui, ce qui permettra de protéger le vaisseau contre tout dommage.
 #617# Consomme de l'énergie lorsqu'elle est active.
 
 Consomme de l'énergie supplémentaire pour le blocage de l'unité de dommages.
@@ -694,19 +694,19 @@ Consomme de l'énergie supplémentaire pour le blocage de l'unité de dommages.
 La taille du champ de protection peut être changé. La consommation d'énergie dépend de la taille.
 #618# Cet appareil est capable d'émettre directionnelle ray des ondes gravitationnelles qui peut pousser un objet spécifique en direction spécifique.
 #619# Lorsqu'il est activé, faites glisser l'un des objets à l'intérieur du cercle blanc à l'aide de bouton gauche de la souris pour les déplacer dans n'importe quelle direction.
-#620# Permet de construire un bateau avec des pièces rotatives.
-#621# Permet de construire un bateau avec des parties mobiles.
+#620# Permet de construire un vaisseau avec des pièces rotatives.
+#621# Permet de construire un vaisseau avec des parties mobiles.
 #622# Chimique moteur qui crée la poussée due à la combustion de l'oxygène et de l'hydrogène dans la chambre de combustion et d'échappement de la combustion des produits de notre de la buse.
 
 Pour fonctionner, doit être connecté à des réservoirs de carburant, de l'oxygène et de l'hydrogène.
 
 L'hydrogène utilisé comme combustible et de l'oxygène comme oxydant.
-#623# Permet la rotation d'un navire en utilisant uniquement l'énergie.
+#623# Permet la rotation d'un vaisseau en utilisant uniquement l'énergie.
 #624# Ce moteur nécessite le xenon gaz et de l'électricité. Son avantage par rapport à des moteurs chimiques, c'est qu'il ne nécessite que très peu de carburant, cependant, est beaucoup moins poussée. En conséquence, il est capable à travailler sans interruption pendant longtemps
 #625# Simple et bon marché de manœuvre moteur qui pousse sous pression d'hydrogène.
 
 Pour fonctionner, doit être raccordée au réservoir de carburant qui contient de l'hydrogène.
-#626# Un appareil capable de déformer un espace autour d'un navire qui permet de voyager avec une vitesse beaucoup plus rapide que la vitesse de la lumière.
+#626# Un appareil capable de déformer un espace autour d'un vaisseau qui permet de voyager avec une vitesse beaucoup plus rapide que la vitesse de la lumière.
 
 Il peut être utilisé dans un système d'étoiles pour voyager instantanément d'un point à un autre.
 #627# se Déplace chaque objet situé à l'intérieur d'un champ de force
@@ -724,7 +724,7 @@ Torpille sera ciblée dans l'objet qui a été sélectionné lors du lancement.
 Si aucun objet sélectionné, torpille sera lancé en unguided mode.
 #632# Capables de lancer des missiles non guidés avec une cadence de feu élevée
 #633# Contient de l'énergie produite par les réacteurs ou des panneaux solaires. Tout appareil qui nécessite une alimentation doit être connecté
-#634# Le centre de contrôle de tout navire, qui comprend la passerelle de commandement, de l'ordinateur principal et l'allocation des ressources hub
+#634# Le centre de contrôle de tout vaisseau, qui comprend la passerelle de commandement, de l'ordinateur principal et l'allocation des ressources hub
 #635# Accumuler des points
 #636# Niveau Suivant
 #637# de réputation Requis
@@ -751,10 +751,10 @@ Si cette valeur est grande - le marchand possédant une abondance de cette resso
 #656# Vous pouvez acheter des ressources pour ce prix
 #657# Vous pouvez vendre des ressources pour ce prix
 #658# Activer la grille radial
-#659# La grille radiale aide à comprendre la vitesse du navire.
+#659# La grille radiale aide à comprendre la vitesse du vaisseau.
 Chaque cercle qui tourne autour de la planète avec une vitesse orbitale correspond à son altitude.
-Gardez votre navire dans la cellule de la grille si vous souhaitez garder une orbite circulaire.
-Ou déplacez votre navire le long du cercle de la grille si vous souhaitez contourner la planète.
+Gardez votre vaisseau dans la cellule de la grille si vous souhaitez garder une orbite circulaire.
+Ou déplacez votre vaisseau le long du cercle de la grille si vous souhaitez contourner la planète.
 #660# Le module de commande a été détruit
 #661# Vaisseau
 #662# Ce vaisseau dispose déjà d'un module de commande. Un seul module de commande peut être situé sur un vaisseau.
