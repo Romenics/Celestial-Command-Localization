@@ -398,7 +398,7 @@
 #397# Ctrl + Clic gauche: sélectionner une couleur
 #398# Presets
 #399# Nom de fichier
-#400# existe déjà ! 
+#400# Existe déjà ! 
 #401# Renommer
 #402# Écraser
 #403# Entrez un nom de fichier
@@ -451,7 +451,7 @@
 #450# Connexion au serveur perdue
 #451# menu Principal
 #452# Poussée
-#453# mode Auto
+#453# Mode Auto
 #454# Limite max de poussée
 #455# Activer le moteur manuellement. Vous pouvez attribuer jusqu'à 3 touches de raccourci pour cette action.
 #456# Lorsque activé, ce moteur est commandée automatiquement par WASDQE clés.
@@ -481,7 +481,7 @@
 #480# Passez à l'désignés port d'accueil
 #481# Attente pour un gratuit port d'accueil
 #482# Position dans la file d'attente
-#483# Votre vaisseau actif doit être ancrée sur le chantier
+#483# Votre vaisseau actif devrait être amarré au chantier naval
 #484# Module vendu
 #485# Module
 #486# vendu pour
@@ -491,28 +491,28 @@
 #490# Sélectionnez un objet et essayez à nouveau
 #491# Mission terminée
 #492# CR reçu
-#493# Non coupée avec le navire
+#493# Non amarré avec le vaisseau
 #494# Nouvelle mission disponible
 #495# Station
 #496# Pas assez de CR
 #497# Prix
 #498# Mission a échoué
 #499# signal Faible
-#500# Retourne le bateau de retour à star-system ou le signal est perdu dans les 60 secondes
+#500# Retournez le vaisseau dans le système solaire ou le signal sera perdu dans les 60 secondes
 #501# perte du Signal
-#502# Le vaisseau perdu dans l'espace à l'extérieur du star système
+#502# Le vaisseau perdu dans l'espace à l'extérieur du système solaire
 #503# Position du centre de poussée par rapport au centre de masse
 #504# Warp drive désactivé
 #505# Pas assez de puissance
 #506# Lanceur De Torpilles
 #507# Type
-#508# Planète de rayon
-#509# Atmosphère rayon
+#508# Rayon de la planète
+#509# Rayon de l'atmosphère
 #510# Sphère de rayon d'influence
 #511# Masse
-#512# période Orbitale
-#513# Orbital de la phase
-#514# Orbite de rayon
+#512# Période orbitale
+#513# Phase orbitale
+#514# Rayon d'orbite
 #515# Réparation
 #516# Module n'est pas endommagé
 #517# Sélectionnez le module de réparation
