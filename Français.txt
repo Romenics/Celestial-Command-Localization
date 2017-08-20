@@ -10,76 +10,76 @@
 #8# Enregistrer
 #9# Quitter
 #10# Ressusciter
-#11# ! ACCES ANTICIPÉ !
-#12# Ce jeu est en cours de développement ! Veuillez consulter les actualités du jeu sur Steam et sur http://celestialcommand.com pour plus d'informations.
-#13# Actualités (→)
-#14# Discussions (→)
-#15# Guides (→)
-#16# A faire (→Trello)
-#17# Etes-vous sûr de vouloir quitter?
-#18# Oui
+#11# ACCES ANTICIPÉ
+#12# Le jeu n'est pas encore prêt mais le développement est très actif Visitez le blog de développement dans le Steam Community Hub pour obtenir plus d'informations
+#13# Actualités
+#14# Discussions
+#15# Guides
+#16# A faire
+#17# Etes-vous sûr ?
+#18# Quitter
 #19# Annuler
 #20# Connection directe
 #21# Via Steam (A venir)
 #22# L'équipe de développeurs
-#23# Ce jeu a été créé par trois amis Artaani, Riya et Romenics. Veuillez consulter les actualités du jeu sur Steam et sur http://celestialcommand.com pour les aider et obtenir plus d'informations.
+#23# Ce jeu a été créé par trois amis Artaani, Riya et Romenics  Visitez le blog de développement dans le Steam Community Hub pour obtenir plus d'informations
 #24# Enregistrer
 #25# Défaut
 #26# Appliquer
-#27# Volume sonore
+#27# AUDIO
 #28# Global
 #29# Musique
-#30# Jeu
+#30# JEU
 #31# Afficher l'aide
 #32# Afficher l'heure dans le tchat
-#33# Mode 'bac à sable'
-#34# Inverser bout. de la souris
+#33# Mode "bac à sable"
+#34# Inverser bouton de la souris
 #35# Sauvegarde automatique
-#36# Graphisme
+#36# GRAPHISME
 #37# Plein écran
 #38# Qualité des textures
 #39# Anti-crénelage
 #40# V-Sync
 #41# Résolution
-#42# Pressez une touche à définir ou Echap. pour quitter
-#43# Enregistrer
+#42# Appuyez sur n'importe quelle touche pour régler la touche ou appuyez sur ECHAP pour quitter
+#43# Sauvegarder
 #44# Défaut
-#45# Raccourcis clavier
-#46# Sélectionnez une partie enregistrée
-#47# Nom
-#48# Date
-#49# Temps de jeu
-#50# Version
-#51# Nouvelle partie
-#52# Veuillez confirmer la suppression de la partie
+#45# RACCOURCIS CLAVIER
+#46# SÉLECTIONNER LE MONDE
+#47# NOM
+#48# DATE DE SAUVEGARDE
+#49# TEMPS DE JEU
+#50# VERSION
+#51# CRÉER UN MONDE
+#52# Veuillez confirmer la suppression du monde
 #53# Retour
 #54# Effacer
-#55# Port n°
+#55# PORT N°
 #56# Mot de passe
-#57# Nb joueurs
-#58# Effacer
-#59# Ouvrir
-#60# Chargement...
+#57# MAX DE JOUEURS
+#58# EFFACER
+#59# CHARGER
+#60# CHARGEMENT
 #61# Connection...
-#62# Nom partie
-#63# Port n°
-#64# Mot de passe
-#65# Nb joueurs
-#66# Mode 'bac à sable'
-#67# Nombre de station
-#68# Nombre d'ennemi
-#69# Nombre d'astéroide
-#70# Démarrer
-#71# Retour
-#72# Démarrer
-#73# Joindre partie multijoueurs
+#62# NOM DU MONDE
+#63# PORT N°
+#64# MOT DE PASSE
+#65# MAX DE JOUEURS
+#66# MODE "BAC À SABLE"
+#67# NOMBRE DE STATION
+#68# NOMBRE D'ENNEMIS
+#69# NOMBRE D'ASTÉROÏDE
+#70# Nouveau monde
+#71# RETOUR
+#72# DÉMARRER
+#73# Rejoindre le multijoueurs
 #74# IP
 #75# Port n°
 #76# Mot de passe
-#77# Joindre
+#77# Rejoindre
 #78# Sélection du serveur
-#79# Ajout. aux favoris
-#80# Confirmer la suppression
+#79# Ajouter aux favoris
+#80# Confirmer la suppression du serveur
 #81# Retour
 #82# Nom
 #83# IP
@@ -87,19 +87,19 @@
 #85# Mot de passe
 #86# Effacer
 #87# Rejoindre
-#88# Enregistrer
+#88# Sauvegarder
 #89# Editer
 #90# Langue
 #91# Pause
-#92# Rotat.
-#93# Vue
-#94# Véloc.
+#92# Verrouiller Rotation
+#93# Réinitialiser la vue
+#94# Vitesse Local
 #95# Grille
-#96# Commerc.
-#97# Construire
-#98# Déconstruire
-#99# Outils bac à sable
-#100# Nouvelle ressource
+#96# Commerce
+#97# CONSTRUIRE
+#98# DÉCONSTRUIRE
+#99# OUTILS BAC À SABLE
+#100# AJOUTER RESSOURCE
 #101# Oxygène
 #102# Hydrogène
 #103# Xénon
@@ -107,22 +107,22 @@
 #105# Energie
 #106# Nourriture
 #107# Membre
-#108# Intel. Artif. (IA)
-#109# Dupliquer vaisseau
-#110# Définir allier
-#111# Définir ennemi
-#112# Créer vaiss. ennemi
-#113# Ajouter IA au vaiss.
-#114# Pilote Auto.
-#115# Physique
-#116# Effacer vaisseau
+#108# IA
+#109# Dupliquer vaisseau sélectionner
+#110# Définir cette faction comme allier
+#111# Définir cette faction comme ennemi
+#112# Créer un vaisseau ennemi
+#113# Ajouter IA au vaisseau
+#114# Pilote Auto
+#115# PHYSIQUE
+#116# Supprimer vaisseau sélectionner
 #117# Désactiver mouvements orbitaux
 #118# Définir trajectoire de vol
 #119# Mode lancer de débris
 #120# Appliquer
 #121# Annuler
-#122# Pressez une touche
-#123# Définir une touche
+#122# Appuyez sur une touche
+#123# Définir un nouveau raccourci
 #124# Distance
 #125# Vélocité relative
 #126# Joueur
@@ -135,44 +135,44 @@
 #133# Armes
 #134# Tourelles
 #135# Propulsion
-#136# Membre d'équipage
+#136# Information Membre d'équipage
 #137# Santé
 #138# Nourriture
 #139# Morale
-#140# Démarrage
-#141# Le tutoriel de prise en main n'est pas encore disponible, il est préférable de consulter la version en ligne créé par la communauté sur Steam (rubrique 'Guides...')
-#142# Ouvrir le guide
-#143# Commerce
-#144# Nom
-#145# Quantité
-#146# Prix
-#147# Achat
-#148# Vente
-#149# Vaisseau précédent
-#150# Prochain vaisseau
-#151# Masse totale
-#152# Moment d'inertie
-#153# Masse du module
+#140# COMMENCER
+#141# Comme le tutoriel n'est pas encore prêt, nous vous recommandons de consulter ce guide de départ d'un membre de la communauté
+#142# OUVRIR LE GUIDE
+#143# COMMERCE
+#144# NOM
+#145# QUANTITÉ
+#146# PRIX
+#147# DEMANDE
+#148# OFFRE
+#149# VAISSEAU PRÉCÉDENT
+#150# VAISSEAU SUIVANT
+#151# MASSE TOTALE
+#152# MOMENT D'INERTIE
+#153# MASSE DU MODULE
 #154# Non-connecté à une réserve d'énergie
-#155# Consom. énergie
-#156# Attacher
-#157# Détacher
+#155# Consomation énergie
+#156# Détacher
+#157# Atacher
 #158# Glisser pour transférer
 #159# Clic droit: Vendre
 #160# Acheter: Glisser-déposer dans conteneur
 #161# Déposer pour transférer
 #162# Maintenir Shift pour définir une quantité
 #163# Déposer pour acheter
-#164# Type de stockage incompatible (liquide/solide)
+#164# Type de stockage non adapté (pour liquide / pour solide)
 #165# Ctrl + Clic droit: Déconstruire
 #166# Clic droit: Réparer
 #167# Clic droit: Construire
 #168# Clic droit: Afficher contenu
 #169# Clic droit: Définir raccourci clavier
 #170# Masse
-#171# Ejecter
+#171# ejecter
 #172# Clic droit
-#173# Effacer raccourci clavier
+#173# Réinitialiser raccourci clavier
 #174# Ctrl + Clic droit: Déconstruire
 #175# Ctrl + Clic droit: Déconstruire
 #176# Carbone
@@ -195,7 +195,7 @@
 #193# Missile
 #194# Energie
 #195# Nourriture
-#196# Pas de ressource sans nom
+#196# Il n'y a aucune ressource sans nom
 #197# Impossible d'ouvrir le menu Construire
 #198# Le vaisseau actuel ne possède pas de module de construction
 #199# Plus de nourriture !
