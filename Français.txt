@@ -202,27 +202,27 @@
 #200# impossible de trouver de la nourriture sur le vaisseau!
 #201# Mort de faim
 #202# est mort de faim!
-#203# Avertissement
+#203# Alerte
 #204# Le dernier module de commande ne peut être déconstruit
 #205# Pilote automatique désactivé à cause du contrôle manuel
 #206# L'hyperespace n'est pas encore prêt
 #207# Impossible de tirer 
 #208# Le lance missile n'est pas connecté à un stockage de missile
-#209# Impossible de tirer !
-#210# Pas de munition disponible
-#211# Pilote autom. activé
-#212# Pilote autom. désactivé
-#213# Sélect. un vaisseau
-#214# Pas d'objet sélect.
-#215# Sélect. un vaisseau
-#216# Sélect. un objet
-#217# Raccourcis:
-#218# Nom racc.:
+#209# Impossible de tirer
+#210# Pas de munitions dans le stockage connecté
+#211# Pilote automatique - activé
+#212# Pilote automatique - désactivé
+#213# Sélectionner un vaisseau
+#214# Pas d'objet sélectionner
+#215# Sélectionner un vaisseau
+#216# Sélectionner un objet
+#217# Raccourcis clavier:
+#218# Noms du raccourcis clavier:
 #219# Gauche:
-#220# Autorisé par le serveur seulement
-#221# Partie enregistrée
-#222# ! ERREUR ENREGISTREMENT !
-#223# Enregistrement impossible suite à une erreur interne
+#220# Seulement le serveur peut le faire
+#221# Partie sauvegarder
+#222# ERREUR SAUVEGARDE
+#223# Enregistrement impossible suite à une erreur interne.
 #224# Crédit insuffisant
 #225# Les vaisseaux ne peuvent être amarrés ensemble
 #226# Stockage plein
