@@ -196,18 +196,18 @@
 #194# Energie
 #195# Nourriture
 #196# Il n'y a aucune ressource sans nom
-#197# Impossible d'ouvrir le menu Construire
+#197# Impossible d'ouvrir le menu de construction
 #198# Le vaisseau actuel ne possède pas de module de construction
-#199# Plus de nourriture !
-#200# Pas de nourriture à bord de ce vaisseau !
+#199# Plus de nourriture
+#200# impossible de trouver de la nourriture sur le vaisseau!
 #201# Mort de faim
-#202# est mort de faim !
-#203# Avertissement !
-#204# Le dernier module de commande ne peut être déconstruit !
-#205# Pilote automatique désactivé par l'action du joueur
-#206# Le 'Warp drive' n'est pas encore prêt
-#207# Impossible de tirer ! 
-#208# Le lanceur de missile n'est pas connecté à un stockage de munitions
+#202# est mort de faim!
+#203# Avertissement
+#204# Le dernier module de commande ne peut être déconstruit
+#205# Pilote automatique désactivé à cause du contrôle manuel
+#206# L'hyperespace n'est pas encore prêt
+#207# Impossible de tirer 
+#208# Le lance missile n'est pas connecté à un stockage de missile
 #209# Impossible de tirer !
 #210# Pas de munition disponible
 #211# Pilote autom. activé
