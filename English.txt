@@ -261,7 +261,7 @@
 #259# Display content of all storage containers of the current ship. Content can be moved between containers by dragging and dropping with the left mouse button. Hold Left-Shift to transfer a specific amount of resources.
 #260# Display the crew of the current ship. Crew members can be moved using drag and drop.
 #261# Show Connectors
-#262# Display resource connectors for the current ship. If a module requires specific resources, they should be connected to the module using this mode. Connectors can be attached to modules by dragging and droppingp.
+#262# Display resource connectors for the current ship. If a module requires specific resources, they should be connected to the module using this mode. Connectors can be attached to modules by dragging and dropping.
 #263# Mounting Points
 #264# Display mounting points for the current ship. Mounting points can be connected or disconnected with left click.
 #265# Display center of mass for the current ship
