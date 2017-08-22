@@ -224,76 +224,77 @@
 #222# ERREUR SAUVEGARDE
 #223# Enregistrement impossible suite à une erreur interne.
 #224# Crédit insuffisant
-#225# Les vaisseaux ne peuvent être amarrés ensemble
-#226# Stockage plein
-#227# Le vendeur ne demande pas cette ressource
-#228# Impossible de vendre, le stockage est plein
+#225# Les vaisseaux devraient être amarrés ensemble
+#226# Stockage est vide
+#227# Le marchand n'a pas de demande
+#228# Impossible de vendre cela. Le stockage est plein
 #229# unités de
-#230# ont été vendu(e)s pour
+#230# a été vendu pour
 #231# unités de
-#232# ont été acheté(e)s pour
+#232# a été acheté pour
 #233# Crédits insuffisants:
 #234# récupéré
-#235# Pas assez d'espace pour récupérer
+#235# Pas assez d'espace de stockage pour récupéré
 #236# Facteurs
 #237# Masse des étoiles
 #238# Masse des planètes
-#239# Poussée du moteur
+#239# Propulsion du moteur
 #240# Consommation de carburant
 #241# Couple du volant d'inertie
-#242# Paramètres orbitaux
+#242# PARAMÈTRES ORBITAUX
 #243# Trajectoire
 #244# Position
 #245# Apoapside
 #246# Périapside
 #247# Excentricité
 #248# Période orbitale
-#249# Tang. velocity
-#250# Ang. velocity
+#249# Vitesse tangentielle
+#250# Vitesse angulaire
 #251# Ouvrir le menu de construction
 #252# Déconstruire le module sélectionné
-#253# Prendre contrôle du vaisseau disponible précédent
+#253# Prendre contrôle du vaisseau disponible précédemment
 #254# Prendre contrôle du prochain vaisseau disponible
-#255# Réinitialiser la durée
-#256# Réduire la durée
-#257# Augmenter la durée
-#258# Afficher les stockages
+#255# Réinitialiser l'échelle de temps
+#256# Réduire l'échelle de temps
+#257# Augmenter l'échelle de temps
+#258# Afficher le stockage
 #259# Afficher le contenu de tous les conteneurs de stockage du vaisseau actuel. Le contenu peut être déplacé entre les conteneurs en utilisant le glisser-déposer avec le bouton gauche de la souris. En maintenant le bouton Shift-Gauche vous pouvez transférer une quantité spécifique de ressources.
 #260# Afficher l'équipage du vaisseau actuel. Les membres de l'équipage peuvent être déplacés en utilisant le glisser-déposer.
 #261# Afficher les connecteurs
 #262# Afficher les connecteurs de ressources pour le vaisseau actuel. Si le module nécessite des ressources spécifiques, il doit être connecté à ces dernières en utilisant ce mode. Les connecteurs peuvent être attachés aux modules en utilisant le glisser-déposer.
 #263# Afficher les points de montage
-#264# Afficher les points de montage pour le vaisseau actuel. Les points de montage peuvent être connectés ou déconnectés par un clic gauche.
-#265# Afficher le centre de masse pour le vaisseau actuel.
-#266# Vérrouiller le SCR
-#267# Stabiliser la rotation du vaisseau en utilisant ses moteurs.
+#264# Afficher les points de montage pour le vaisseau actuel. Les points de montage peuvent être connectés ou déconnectés avec le clic gauche.
+#265# Afficher le centre de masse pour le vaisseau actuel
+#266# Lock RCS
+#267# Stabiliser la rotation du vaisseau en utilisant ses moteurs
 #268# Si activé - sélectionnez votre vaisseau et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
-#269# Afficher les dégats
+#269# Afficher la barre de vie
 #270# Afficher temporairement l'intégrité du vaisseau
-#271# Rotate locker
+#271# Rotation locker
 #272# Aligner la rotation de la vue avec l'objet observé
 #273# Centrer la vue
 #274# Focaliser la vue sur le vaisseau sélectionné
-#275# Réinitialiser la vue panoramique
-#276# Vue par défaut sur le vaisseau sélectionné
-#277# Afficher la vélocité
-#278# Afficher la vélocité relative (orange) et la direction (blanc) jusqu'à l'objet sélectionné
-#279# Afficher les repères
-#280# Les lignes de quadrillages utiles à la navigation dans le système solaire
+#275# Réinitialise l'angle de la caméra
+#276# Réinitialiser la caméra pour focaliser la vue sur l'objet sélectionner
+#277# Montrer la vitesse
+#278# Afficher la vitesse relative (orange) et la direction (blanc) jusqu'à l'objet sélectionné
+#279# Afficher la grille
+#280# Afficher une grille rectangulaire relative au étoile
 #281# Puissance actuelle
 #282# Capacité de puissance maximale
 #283# Puissance d'entrée
 #284# Puissance de sortie
 #285# Somme de la puissance d'entrée et de sortie
-#286# Quantité totale d'Hydrogène
-#287# Quantité totale d'Oxygène
+#286# Quantité totale d'hydrogène
+#287# Quantité totale d'oxygène
 #288# Afficher les paramètres orbitaux pour l'objet sélectionné
 #289# Faction
 #290# Renommer le vaisseau
 #291# Masse de l'ensemble de la structure
 #292# Ce paramètre détermine la force nécessaire pour faire pivoter le vaisseau. Pour réduire cette valeur, les modules les plus massifs devraient être situés à proximité du centre de masse.
-#293# Intégrité structurelle
-#295# Active \ désactive le contrôle manuel du groupe d'armes sélectionné. Appuyez tout en maintenant la touche Shift-Gauche enfoncée pour activer le mode automatique.
+#293# Y compris la masse de contenu dans le cas où il s'agit d'une baie de chargement ou d'un conteneur
+#294# Intégrité structurelle
+#295# Active \ désactive le contrôle manuel pour le groupe d'armes sélectionné. Appuyez tout en maintenant la touche Shift-Gauche enfoncée pour activer le mode automatique.
 #296# Remplir le stockage sélectionné avec de l'Oxygène
 #297# Remplir le stockage sélectionné avec de l'Hydrogène
 #298# Remplir le stockage sélectionné avec du Xenon
