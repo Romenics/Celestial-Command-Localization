@@ -412,7 +412,7 @@
 #410# Le champ de protection a été détruit en raison d'un obstacle dense
 #411# Afficher l'équipage
 #412# Afficher le centre des masses
-#413# Planification de trajectoire
+#413# Contrôle par curseur(RTS)
 #414# Fixer l'angle de vue
 #415# Missions acceptées
 #416# Afficher les paramètres orbitaux
