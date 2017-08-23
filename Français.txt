@@ -303,19 +303,19 @@
 #301# Charger complètement le stockage d'énergie sélectionné
 #302# Remplir le stockage sélectionné avec de la nourriture
 #303# Ajouter un membre d'équipage au module sélectionné
-#304# Créer un vaisseau ennemi au hasard autour de la planète de départ qui va automatiquement attaquer le vaisseau du joueur.
+#304# Crée un vaisseau ennemi au hasard autour de la planète de départ. Il va automatiquement attaquer le vaisseau du joueur.
 #305# Ajouter une Intelligence Artificielle au vaisseau sélectionné. Il sera affecté à la faction alliée. Ce vaisseau suivra le vaisseau du joueur.
 #306# Le vaisseau se dirigera automatiquement vers l'objet sélectionné. Un second clic désactivera le pilote automatique.
 #307# Supprime entièrement le vaisseau ou l'astéroïde
 #308# ATTENTION - Cette action ne peut pas être annulée pour le monde actuel. Désactive la gravité et arrête tous les objets (à des fins de test uniquement)
-#309# (Fonction inachevée) Appuyez sur le bouton et cliquez quelque part dans l'espace pour créer une planification orbitale. Les nœuds de position et de vélocité peuvent être déplacés avec le bouton gauche de la souris. Cliquez avec le bouton droit de la souris pour supprimer le nœud.
+#309# (Fonction inachevée) Appuyez sur le bouton et cliquez quelque part dans l'espace pour créer une planification orbitale. Les nœuds de position et de vitesse peuvent être déplacés avec le bouton gauche de la souris. Clique avec le bouton droit de la souris pour supprimer le nœud.
 #310# Si activé, le clic gauche de la souris quelque part dans l'espace créera des débris. Shift + clic gauche lancera les débris avec une vitesse aléatoire.
-#311# Commerçant prêt à acheter ces biens
-#312# Commerçant prêt à vendre ces biens
+#311# Marchand prêt à ACHETER ces biens
+#312# Marchand prêt à VENDRE ces biens
 #313# Changer le nom
 #314# Changer le rang
 #315# Attributs non complétés
-#316# Les membres de l'équipage consommeront automatiquement de la nourriture à partir de n'importe quel compartiment de stockage quand sa valeur est inférieure à 75% (la valeur est réduite à 25% pendant 2 minutes)
+#316# Les membres de l'équipage consommeront automatiquement de la nourriture à partir de n'importe quel compartiment de stockage quand sa valeur est inférieure à 75% (la valeur est réduite à 25% toute les 2 minutes)
 #317# Attributs non complétés
 #318# Remplir le stockage sélectionné avec de l'Hydrogène
 #319# Ajouter un membre d'équipage au module sélectionné
@@ -327,48 +327,48 @@
 #325# Distance du centre de la planète jusqu'au point le plus proche de l'orbite
 #326# L'excentricité définit la forme de l'orbite (e = 0) cercle (0 <e <1) ellipse (e = 1) parabole (e> 1) hyperbole
 #327# La période orbitale est le temps que prend le corps pour faire une rotation autour de son orbite
-#328# Vélocité angulaire (en degré par seconde)
-#329# Paramètres orbitaux
-#330# Type de chargement 2
-#331# Type de chargement 1
+#328# Vitesse angulaire (en degré par seconde)
+#329# PARAMÈTRES ORBITAUX
+#330# Conteneur de fret 2
+#331# Conteneur de fret 1
 #332# Moteur chimique
-#333# Réservoir pour liquide type 1
+#333# Réservoir pour liquide 1
 #334# Réacteur nucléaire
 #335# Stockage énergie
 #336# Baie de construction
 #337# Radar
 #338# Panneaux solaires
-#339# Tourelle type 1
-#340# Tourelle type 2
-#341# Canon type 1
-#342# Canon type 2
-#343# Corridor jonction type 4
-#344# Laser type 1
-#345# Laser Minier
-#346# Réservoir pour liquide type 2
-#347# Stockage type 3
-#348# Sas d'amarrage
-#349# Grappin
-#350# Laser type 2
-#351# Générateur de combustible
-#352# Canon type 3
-#353# Corridor
-#354# Corridor jonction type 3
+#339# Platforme Tourelle 1
+#340# Platforme Tourelle 2
+#341# Cannon d'énergie
+#342# Canon balistique 1
+#343# Couloir 4 Jonction
+#344# Laser 1
+#345# Minier
+#346# Réservoir pour liquide 2
+#347# Conteneur de fret 3
+#348# Porte d'amarrage
+#349# Agrippeur
+#350# Laser 2
+#351# Générateur de carburant
+#352# Canon balistique 2
+#353# Couloir
+#354# Couloir 3 Jonction
 #355# Module de commande
 #356# Angle de couloir
 #357# Volant d'inertie
-#358# Warp Drive
+#358# Module d'hyperespace
 #359# Adaptateur de cadre 2x1
 #360# Moteur SCR
-#361# Réservoir pour liquide type 3
+#361# Réservoir pour liquide 3
 #362# Laser minier
-#363# Réservoir pour liquide type 4
+#363# Réservoir pour liquide 4
 #364# Module de commande 2
 #365# Générateur de bouclier
 #366# Porte de chargement
 #367# Rayon tracteur
 #368# Moteur Ion
-#369# Poutre de structure
+#369# Rayon de structure
 #370# Lance-missile
 #371# Adaptateur 2x1
 #372# Chantier spatial
@@ -377,10 +377,10 @@
 #375# Amarrage
 #376# Commerce
 #377# Missions
-#378# Missions disponibles
-#379# Demander l'amarrage
+#378# Montrer Missions disponibles
+#379# Demande d'amarrage
 #380# Débris
-#381# Régler une nouvelle faction pour le vaisseau dupliqué
+#381# RÉGLER UNE NOUVELLE FACTION POUR LE VAISSEAU DUPLIQUÉ
 #382# Allié
 #383# Ennemi
 #384# Ne pas changer la faction
@@ -388,27 +388,27 @@
 #386# Le prochain vaisseau dupliqué sera dans la faction alliée
 #387# Le prochain vaisseau dupliqué sera dans la faction ennemie
 #388# Astéroïde
-#389# Outil peindre
+#389# OUTIL DE PEINTURE
 #390# Sélectionner le module à peindre
 #391# Clic gauche: Peindre
-#392# VAISS. ENREGIST.
+#392# VAISSEAU SAUVEGARDÉ
 #393# Enregistrer le vaisseau
 #394# Aucun vaisseau sélectionné
 #395# Vaisseau enregistré
-#396# Clic gauche pour placer un vaisseau
+#396# Clic pour placer un vaisseau
 #397# Ctrl + Clic gauche: sélectionner une couleur
-#398# Presets
+#398# Préréglages
 #399# Nom de fichier
-#400# existe déjà ! 
+#400# existe déjà 
 #401# Renommer
 #402# Écraser
 #403# Entrez un nom de fichier
-#404# Ce vaisseau ne peut être trouvé !
+#404# Ce vaisseau ne peut être trouvé
 #405# Peindre après construction
 #406# Sélectionnez une couleur
 #407# Trajectoire épinglée. La trajectoire sera affichée même lorsque cette fenêtre sera fermée.
 #408# Afficher les missions acceptées
-#409# Discord (→)
+#409# Tchat Discord
 #410# Le champ de protection a été détruit en raison d'un obstacle dense
 #411# Afficher l'équipage
 #412# Afficher le centre des masses
