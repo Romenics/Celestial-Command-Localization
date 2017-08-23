@@ -667,7 +667,8 @@ Manuel de contrôle de désactiver ce mode.
 #595# Déconstruire
 #596# Construction
 #597# Ce module équipé avec des imprimantes 3D et les drones, ce qui permet la construction de nouveaux modules à l'aide de diverses ressources.
-
+#598# Pour construire. Assurez-vous que les points de connexion de ressources sont connectés aux conteneurs avec une ressource appropriée.
+#599# Utilisé pour extraire des ressources utiles des astéroïdes. Peut également être utilisé comme arme improvisée à portée rapprochée.
 #600# Il sera automatiquement décharger des ressources extraites dans des conteneurs sur le vaisseau.
 #601# Capables de cultiver des plantes alimentaires pour les membres de l'équipage. Nécessite de l'énergie pour fonctionner.
 #602# Cet appareil est capable de faire fondre la glace et en utilisant le procédé de l'électrolyse split obtenu des molécules d'eau sur les deux atomes d'hydrogène et d'un atome d'oxygène qui peut être utilisé comme carburant et le comburant pour un réactif de moteurs.
