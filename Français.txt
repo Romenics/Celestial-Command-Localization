@@ -197,7 +197,7 @@
 #195# Nourriture
 #196# Il n'y a aucune ressource sans nom
 #197# Impossible d'ouvrir le menu de construction
-#198# Le vaisseau actuel ne possède pas de module de construction
+#198# Le vaisseau actuel ne possède pas de baie d'ingénierie
 #199# Plus de nourriture
 #200# impossible de trouver de la nourriture sur le vaisseau!
 #201# Mort de faim
@@ -335,7 +335,7 @@
 #333# Réservoir pour liquide 1
 #334# Réacteur nucléaire
 #335# Stockage énergie
-#336# Baie de construction
+#336# Baie D'Ingénierie
 #337# Radar
 #338# Panneaux solaires
 #339# Platforme Tourelle 1
@@ -413,13 +413,13 @@
 #411# Afficher l'équipage
 #412# Afficher le centre des masses
 #413# Contrôle par curseur(RTS)
-#414# Fixer l'angle de vue
+#414# Réinitialiser l'angle de vue
 #415# Missions acceptées
 #416# Afficher les paramètres orbitaux
-#417# Outil peinture
+#417# Outil de peinture
 #418# Charger un vaisseau
-#419# Navigation automatique
-#420# Menu construction
+#419# Trajectoire épinglé
+#420# Menu de construction
 #421# Déconstruire
 #422# Compenser la rotation
 #423# Rotor
@@ -427,11 +427,11 @@
 #425# Piston
 #426# Piston Part
 #427# Ne plus afficher
-#428# Impossible d'enregistrer
-#429# Sélectionnez un vaisseau
-#430# Sélectionnez un module de commande pour ce vaisseau
-#431# Types de vaisseau disponible
-#432# Public server
+#428# Impossible de sauvegarder
+#429# Merci de sélectionnez un vaisseau
+#430# Merci de sélectionnez un module de commande sur le vaisseau
+#431# SÉLECTIONNEZ UN VAISSEAU
+#432# Serveur Public
 #433# Nom du serveur
 #434# Multiplicateurs
 #435# Paramètres avancés
@@ -441,7 +441,7 @@
 #439# Serveurs découverts
 #440# Connexion IP directe
 #441# Actualiser la liste des serveurs
-#442# Refresh
+#442# Actualiser
 #443# Liste des serveurs
 #444# Modules de commande
 #445# Composants structurels
@@ -450,45 +450,45 @@
 #448# Petit Cube
 #449# Conteneur De Fret 4
 #450# Connexion au serveur perdue
-#451# menu Principal
+#451# Menu Principal
 #452# Poussée
 #453# Mode Auto
-#454# Limite max de poussée
-#455# Activer le moteur manuellement. Vous pouvez attribuer jusqu'à 3 touches de raccourci pour cette action.
-#456# Lorsque activé, ce moteur est commandée automatiquement par WASDQE clés.
-#457# La poussée du moteur ne pourra pas dépasser la valeur spécifiée. Ceci est utile si vous souhaitez aligner votre "centre de poussée" par "centre de masse" afin d'éviter tout écart de route pendant le mouvement.
-#458# Acheter Prix
+#454# Limite de poussée maximale
+#455# Activer le moteur manuellement. Vous pouvez attribuer jusqu'à 3 raccourci clavier différents pour cette action.
+#456# Lorsqu'il est activé, ce moteur sera automatiquement contrôlé par les touches WASDQE.
+#457# La poussée du moteur ne pourra pas dépasser la valeur spécifiée. Ceci est utile si vous souhaitez aligner votre "centre de poussée" avec le "centre de masse" afin d'éviter des écarts de parcours indésirables pendant le mouvement.
+#458# Prix d'achat
 #459# Prix De Vente
-#460# Demande En Rapport
-#461# Arc connecteurs
+#460# Ratio de demande
+#461# Connecteurs d'arc
 #462# Compenser les FPS
-#463# Inverser l'axe des X
+#463# Inverser l'axe X
 #464# Inverser l'axe Y
 #465# Tutoriel
 #466# Solo
 #467# Multi-joueur
 #468# Charger
-#469# Max taux d'extraction
+#469# Taux maximal d'exploitation
 #470# Temps d'activation
-#471# Max
-#472# Max de dégâts
-#473# consommation d'Énergie
-#474# Petit Générateur De BouclierN ° 
+#471# Portée maximale
+#472# Dommage maximum
+#473# Consommation d'énergie
+#474# Petit Générateur De Bouclier
 #475# Station Hub
-#476# Station De Côté
+#476# Section latérale de la station
 #477# Station D'Ingénierie De La Baie
 #478# Station De Conteneurs De Fret
 #479# Station De Réservoirs De Stockage
-#480# Passez à l'désignés port d'accueil
-#481# Attente pour un gratuit port d'accueil
-#482# Position dans la file d'attente
+#480# Procédez au porte d'amarrage désigné
+#481# En attente d'une porte d'amarrage libre
+#482# Position en file d'attente
 #483# Votre vaisseau actif devrait être amarré au chantier naval
 #484# Module vendu
 #485# Module
 #486# vendu pour
 #487# Module acheté pour
-#488# laser Minier désactivé
-#489# Pas d'espace de stockage gratuit pour les ressources
+#488# Laser minier désactivé
+#489# Pas d'espace de stockage disponible pour les ressources
 #490# Sélectionnez un objet et essayez à nouveau
 #491# Mission terminée
 #492# CR reçu
@@ -500,10 +500,10 @@
 #498# Mission a échoué
 #499# signal Faible
 #500# Retournez le vaisseau dans le système solaire ou le signal sera perdu dans les 60 secondes
-#501# perte du Signal
-#502# Le vaisseau perdu dans l'espace à l'extérieur du système solaire
-#503# Position du centre de poussée par rapport au centre de masse
-#504# Warp drive désactivé
+#501# Perte du signal
+#502# Le vaisseau a était perdu dans l'espace à l'extérieur du système solaire
+#503# Position du centre de la poussée par rapport au centre de masse
+#504# Hyperespace désactivé
 #505# Pas assez de puissance
 #506# Lanceur De Torpilles
 #507# Type
@@ -515,8 +515,8 @@
 #513# Phase orbitale
 #514# Rayon d'orbite
 #515# Réparation
-#516# Module n'est pas endommagé
-#517# Sélectionnez le module de réparation
+#516# Le Module n'est pas endommagé
+#517# Sélectionnez le module à réparer
 #518# Réputation
 #519# Ceci est votre vaisseau
 
