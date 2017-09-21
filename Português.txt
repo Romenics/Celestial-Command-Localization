@@ -793,3 +793,62 @@ We recommend to start with aerodynamic mode because it is more user friendly, ha
 #690# Capture
 #691# Density
 #692# Density of space in aerodynamic mode. Defines the air drag during movement.
+#693# Produces ammo for light balistic cannons
+#694# (unused)
+#695# (unused)
+#696# Produces ammo for rocket launchers
+#697# (unused)
+#698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
+
+It can be used within a star system for instant travel from one point to another. 
+#699# Moves every object which is located inside the warp field except gate
+
+Size of warp field can be changed
+
+Energy consumption depends on size of warp field
+#700# Active
+#701# Not enough resource in storage
+#702# Storage is not connected
+#703# consumption
+#704# Crew capacity
+#705# Durability
+#706# Capacity
+#707# liquid or gas
+#708# solid cargo
+#709# energy
+#710# Shield durability
+#711# Radius
+#712# Shooting interval
+#713# Projectile damage
+#714# Projectile velocity
+#715# Shots in burst
+#716# Burst interval
+#717# Energy consumption
+#718# Flight time
+#719# Build rate
+#720# Build radius
+#721# Area of solar panel
+#722# Efficiency
+#723# square meters
+#724# m2
+#725# Radar radius
+#726# Radar energy consumption
+#727# Max extraction rate
+#728# (unused)
+#729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
+#730# Should be located very close to edge of the atmosphere and directed in the planet
+#731# Consumes
+#732# Produces
+#733# Cycle time
+#734# Resource connector connected to wrong storage
+#735# Ammo fabricator
+#736# Rocket fabricator
+#737# Gas collector
+#738# Engineering module
+#739# Cycle duration
+#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
+#741# Large adapter
+#742# Collection rate
+#743# Should be directed on planet
+#744# Too far from the atmosphere
+#745# Can't find free container to unload collected gas
