@@ -794,62 +794,62 @@ Se recomienda empezar con el modo aerodinámico porque es más sencillo de usar,
 #690# Capturar
 #691# Densidad
 #692# Densidad del espacio en modo aerodinámico. Define la resistencia al aire durante el movimiento.
-#693# Produces ammo for light balistic cannons
+#693# Produce munición para los cañones balísticos ligeros
 #694# (unused)
 #695# (unused)
-#696# Produces ammo for rocket launchers
+#696# Produce municion para los lanzamisiles
 #697# (unused)
-#698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
+#698# Puerta de salto capaz de curvar el espacio alrededor de la nave permitiendo viajar más rápido que la luz.
 
-It can be used within a star system for instant travel from one point to another. 
-#699# Moves every object which is located inside the warp field except gate
+Puede usarse dentro de un sistema solar para viajar al instante de un punto a otro. 
+#699# Mueve todos los objetos que están dentro del campo de curvatura excepto la puerta.
 
-Size of warp field can be changed
+El tamaño del campo de curvatura puede cambiarse
 
-Energy consumption depends on size of warp field
-#700# Active
-#701# Not enough resource in storage
-#702# Storage is not connected
-#703# consumption
-#704# Crew capacity
-#705# Durability
-#706# Capacity
-#707# liquid or gas
+El consumo de energía depende del tamaño del campo de curvatura.
+#700# Activo
+#701# No hay recursos suficientes en el almacén
+#702# Almacén no conectado
+#703# consumo
+#704# Capacidad de tripulación
+#705# Resistencia
+#706# Capacidad
+#707# líquido o gas
 #708# solid cargo
-#709# energy
-#710# Shield durability
-#711# Radius
-#712# Shooting interval
-#713# Projectile damage
-#714# Projectile velocity
-#715# Shots in burst
-#716# Burst interval
-#717# Energy consumption
-#718# Flight time
-#719# Build rate
-#720# Build radius
-#721# Area of solar panel
-#722# Efficiency
-#723# square meters
+#709# energía
+#710# Resistencia del escudo
+#711# Radio
+#712# Intervalo de disparo
+#713# Daño del proyectil
+#714# Velocidad del proyectil
+#715# Ráfaga de disparos
+#716# Intervalo de la ráfaga
+#717# Consumo de energía
+#718# Tiempo de vuelo
+#719# Ritmo de construcción
+#720# Radio de construcción
+#721# Área del panel solar
+#722# Eficiencia
+#723# metros cuadrados
 #724# m2
-#725# Radar radius
-#726# Radar energy consumption
-#727# Max extraction rate
+#725# Radio del radar
+#726# Consumo de energía del radar
+#727# Ritmo de extracción máximo
 #728# (unused)
-#729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
+#729# Dispositivo capaz de recolectar gases útiles de la atmósfera alta de los planetas. Usar para conseguir xenón de la atmósfera.
 #730# Should be located very close to edge of the atmosphere and directed in the planet
-#731# Consumes
-#732# Produces
-#733# Cycle time
-#734# Resource connector connected to wrong storage
-#735# Ammo fabricator
-#736# Rocket fabricator
-#737# Gas collector
-#738# Engineering module
-#739# Cycle duration
-#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
-#741# Large adapter
-#742# Collection rate
-#743# Should be directed on planet
-#744# Too far from the atmosphere
-#745# Can't find free container to unload collected gas
+#731# Consume
+#732# Produce
+#733# Tiempo del ciclo
+#734# Conector de recursos conectado al almacén equivocado
+#735# Productor de munición
+#736# Productor de misiles
+#737# Recolector de gas
+#738# Módulo de ingeniería
+#739# Duración del ciclo
+#740# Módulo con brazo robótico instaldo, capaz de reparar, construir o demoler módulos dentro del alcance
+#741# Adaptador grande
+#742# Ritmo de recogida
+#743# Debe dirigirse al planeta
+#744# Demasiado lejos de la atmósfera
+#745# No es posible encontrar un contenedor disponible para descargar el gas recogido
