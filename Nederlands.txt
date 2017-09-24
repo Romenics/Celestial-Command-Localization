@@ -768,87 +768,87 @@ Door je naar een kleinere cirkel te verplaatsen kun je sneller om een planeet he
 #671# Verwijder selectie
 #672# Een bestand met deze naam bestaat al
 #673# m / s
-#674# Velocity of active ship
-#675# Meter per second
-#676# 90% Black
-#677# 100% Black
-#678# Blue
-#679# Collision damage
-#680# Module should be in range of shipyard (yellow circle)
-#681# Currently there is a technical problem with visibility of created servers in the server list
+#674# Snelheid van het actieve schip
+#675# Meter per seconde
+#676# 90% Zwart
+#677# 100% Zwart
+#678# Blauw
+#679# Schade door impact
+#680# Module moet binnen het bereik van de scheepswerd (gele cirkel) zijn
+#681# Momenteel is er een technisch probleem met de zichtbaarheid van servers in de serverlijst.
 
-If you created a server and you want to check its visibility, follow this guide
-#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
+Heb je een server gestart en wil je de zichtbaarheid checken? Volg deze guide
+#682# Als je server niet zichtbaar is in de lijst, dan kunnen andere spelers je vaak wel nog vinden via een directe IP-verbinding.
 #683# Open guide
-#684# Recommended mode
-#685# Experimental mode which may contain significant technical and conceptual flaws
+#684# Aanbevolen modus
+#685# Experimentele modus met mogelijk technische of conceptuele problemen
 
-We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
-#686# Module out of range of shipyard
-#687# Identifier of sector
-#688# Level of sector
-#689# Owner of sector
-#690# Capture
-#691# Density
-#692# Density of space in aerodynamic mode. Defines the air drag during movement.
-#693# Produces ammo for light balistic cannons
+We raden aan om met de aerodynamische modus te starten gezien deze gebruiksvriendelijker en stabieler is en een betere gameplay-ervaring biedt.
+#686# Module buiten het bereik van de scheepswerf
+#687# Identifier van de sector
+#688# Sector niveau
+#689# Eigenaar van de sector
+#690# Verovering
+#691# Dichtheid
+#692# De hoeveelheid luchtwrijving tijdens het bewegen in de aerodynamische modus.
+#693# Produceert munitie voor lichte ballistische kannonnen.
 #694# (unused)
 #695# (unused)
-#696# Produces ammo for rocket launchers
+#696# Produceert raketten voor raketwerpers.
 #697# (unused)
-#698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
+#698# Ruimteportaal dat de omliggende ruimte zo vervormd dat reizen boven de lichtsnelheid mogelijk wordt.
 
-It can be used within a star system for instant travel from one point to another. 
-#699# Moves every object which is located inside the warp field except gate
+Binnen het zonnestelsel kun je deze module gebruiken om direct naar een andere plek te teleporteren.
+#699# Verplaatst elk object binnen het warpveld behalve het portaal
 
-Size of warp field can be changed
+De grootte van het warpveld kan worden ingesteld.
 
-Energy consumption depends on size of warp field
-#700# Active
-#701# Not enough resource in storage
-#702# Storage is not connected
-#703# consumption
-#704# Crew capacity
-#705# Durability
-#706# Capacity
-#707# liquid or gas
-#708# solid cargo
-#709# energy
-#710# Shield durability
+Energieverbruik is afhankelijk van de grootte van het warpveld
+#700# Actief
+#701# Onvoldoende grondstoffen beschikbaar
+#702# Opslag is niet verbonden
+#703# verbruik
+#704# Bemanningscapaciteit
+#705# Integriteit
+#706# Capaciteit
+#707# Vloeibaar of gas
+#708# Vaste vracht
+#709# energie
+#710# Integriteit schild
 #711# Radius
-#712# Shooting interval
-#713# Projectile damage
-#714# Projectile velocity
-#715# Shots in burst
-#716# Burst interval
-#717# Energy consumption
-#718# Flight time
-#719# Build rate
-#720# Build radius
-#721# Area of solar panel
-#722# Efficiency
-#723# square meters
+#712# Tijd tussen elk schot
+#713# Schade per projectiel
+#714# Kogelsnelheid
+#715# Schoten per salvo
+#716# Tijd tussen elk salvo
+#717# Energieverbruik
+#718# Raket vliegt voor
+#719# Bouwsnelheid
+#720# Bouwradius
+#721# Oppervlakte
+#722# Efficiëntie
+#723# vierkante meters
 #724# m2
-#725# Radar radius
-#726# Radar energy consumption
-#727# Max extraction rate
+#725# Detectieradius
+#726# Energieverbruik
+#727# Max. extractiesnelheid
 #728# (unused)
-#729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
-#730# Should be located very close to edge of the atmosphere and directed in the planet
-#731# Consumes
-#732# Produces
-#733# Cycle time
-#734# Resource connector connected to wrong storage
-#735# Ammo fabricator
-#736# Rocket fabricator
-#737# Gas collector
-#738# Engineering module
-#739# Cycle duration
-#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
-#741# Large adapter
-#742# Collection rate
-#743# Should be directed on planet
-#744# Too far from the atmosphere
-#745# Can't find free container to unload collected gas
-#746# Turret with attached weapon cannot be sold. Sell weapon first
-#747# Only empty storages can be sold
+#729# Dit apparaat verzamelt bruikbare gassen (zoals Xenon) van de buitenste laag van de atmosfeer van planeten.
+#730# Richt het apparaat van vlak buiten de atmosfeer op een planeet voor gebruik.
+#731# Verbruikt
+#732# Produceert
+#733# Tijdscyclus
+#734# Grondstofconnector op verkeerde opslag aangesloten
+#735# Munitiefabriek
+#736# Raketfabriek
+#737# Gasverzamelaar
+#738# Bouwmodule
+#739# Duur productiecyclus
+#740# Module met robotische arm, die kan repareren, bouwen en slopen binnen een beperkt bereik.
+#741# Grote adapter
+#742# Verzamelsnelheid
+#743# Moet op een planeet worden gericht
+#744# Te ver van de atmosfeer
+#745# Geen lege tank beschikbaar om verzameld gas in te pompen
+#746# Verkoop eerst het wapen, dan de turret.
+#747# Alleen lege opslag kan worden verkocht.
