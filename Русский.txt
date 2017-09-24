@@ -853,3 +853,5 @@ Energy consumption depends on size of warp field
 #743# Should be directed on planet
 #744# Too far from the atmosphere
 #745# Can't find free container to unload collected gas
+#746# Turret with attached weapon cannot be sold. Sell weapon first
+#747# Only empty storages can be sold
