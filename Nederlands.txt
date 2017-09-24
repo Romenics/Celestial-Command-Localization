@@ -468,19 +468,19 @@
 #466# Speel alleen
 #467# Speel online
 #468# Spel laden
-#469# Max mijnbouw tarief
-#470# Activation time
+#469# Verzamelsnelheid
+#470# Activatietijd
 #471# Max. bereik
-#472# Max schade
+#472# Max. schade
 #473# Stroomverbruik
 #474# Kleine Generator
-#475# Station Hub
-#476# Station Kant Sectie
-#477# Station Engineering Bay
-#478# Station Lading Container
+#475# Station Centrum
+#476# Station Arm
+#477# Station Bouwmodule
+#478# Station Vrachtopslag
 #479# Station Opslagtanks
-#480# Ga naar de daarvoor aangewezen docking poort
-#481# Wachten voor een gratis docking poort
+#480# Ga naar de aangewezen docking poort
+#481# Wachten op een vrije docking poort
 #482# Positie in de wachtrij
 #483# Uw actieve schip moet gekoppeld worden aan de werf
 #484# Module verkocht
@@ -488,35 +488,35 @@
 #486# verkocht voor
 #487# Module gekocht voor
 #488# Mining laser uitgeschakeld
-#489# Geen vrije ruimte beschikbaar is voor de resource
+#489# Onvoldoende opslag beschikbaar voor de grondstof
 #490# Selecteer een object en probeer het opnieuw
 #491# Missie voltooid
-#492# CR ontvangen
+#492# Ontvangen CR
 #493# Niet gekoppeld met het schip
 #494# Nieuwe missie beschikbaar
 #495# Station
 #496# Niet genoeg CR
 #497# Prijs
 #498# Missie mislukt
-#499# Laag signaal
-#500# Terug het schip terug naar star systeem of signaal verloren in 60 seconden
+#499# Zwak signaal
+#500# Stuur het schip terug naar het zonnestelsel, het schip gaat over 60 seconden verloren 
 #501# - Signaal verloren
-#502# Het schip verloren in de ruimte buiten het sterren systeem
-#503# Positie van het midden van de stuwkracht in vergelijking tot het midden van de massa
+#502# Het schip is verloren in de ruimte buiten het zonnestelsel
+#503# Positie van het midden van de stuwkracht in vergelijking tot het zwaartepunt
 #504# Warp drive uitgeschakeld
-#505# Niet genoeg macht
-#506# Torpedo Launcher
+#505# Niet genoeg energie
+#506# Torpedokanon
 #507# Type
 #508# Planeet radius
-#509# Sfeer radius
+#509# Atmosfeer radius
 #510# Invloedssfeer radius
 #511# Massa
-#512# baanperiode
-#513# Excentrische fase
+#512# Baanperiode
+#513# Orbitale fase
 #514# Baan radius
 #515# Herstel
 #516# Module niet beschadigd
-#517# module te Selecteren om te herstellen
+#517# Selecteer de te repareren module
 #518# Reputatie
 #519# Dit is jouw schip!
 
