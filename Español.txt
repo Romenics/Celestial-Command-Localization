@@ -853,5 +853,5 @@ El consumo de energía depende del tamaño del campo de curvatura.
 #743# Debe dirigirse al planeta
 #744# Demasiado lejos de la atmósfera
 #745# No es posible encontrar un contenedor disponible para descargar el gas recogido
-#746# Turret with attached weapon cannot be sold. Sell weapon first
-#747# Only empty storages can be sold
+#746# Torreta con arma montada, no se puede vender. Vende el arma primero
+#747# Solamente se pueden vender contenedores vacíos
