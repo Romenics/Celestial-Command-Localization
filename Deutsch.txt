@@ -796,66 +796,66 @@ Wir empfehlen, mit dem aerodynamischen Modus zu beginnen, weil es benutzerfreund
 #688# Schwierigkeitsgrad des Sektors
 #689# Besitzer des Sektors
 #690# Erorbern
-#691# Density
-#692# Density of space in aerodynamic mode. Defines the air drag during movement.
-#693# Produces ammo for light balistic cannons
+#691# Dichte
+#692# Dichte des Raumes im aerodynamischen Modus. Legt den Widerstand bei der Bewegung fest.
+#693# Produziert Munition für leichte ballistische Kanonen
 #694# (unused)
 #695# (unused)
-#696# Produces ammo for rocket launchers
+#696# Produziert Munition für Raketenwerfer
 #697# (unused)
-#698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
+#698# Ein Sprungtor welches Überlichtgeschwindigkeit erlaubt indem es den Raum um ein Schiff verzerrt.
 
-It can be used within a star system for instant travel from one point to another. 
-#699# Moves every object which is located inside the warp field except gate
+Es kann innerhalb eines Sternensystems für sofortige Punkt-zu-Punkt-Reisen eingesetzt werden.
+#699# Bewegt jedes Objekt innerhalb des Warpfelds außer dem Tor
 
-Size of warp field can be changed
+Größe des Warpfelds kann angepasst werden
 
-Energy consumption depends on size of warp field
-#700# Active
-#701# Not enough resource in storage
-#702# Storage is not connected
-#703# consumption
-#704# Crew capacity
-#705# Durability
-#706# Capacity
-#707# liquid or gas
-#708# solid cargo
-#709# energy
-#710# Shield durability
+Energieverbrauch ist abhängig von der Größe des Warpfelds
+#700# Aktiv
+#701# nicht genug Ressourcen im Lager
+#702# Lager ist nicht verbunden
+#703# Verbrauch
+#704# Besatzungskapazität
+#705# Beständigkeit
+#706# Kapazität
+#707# Flüssigkeit oder Gas
+#708# feste Fracht
+#709# Energie
+#710# Schildbeständigkeit
 #711# Radius
-#712# Shooting interval
-#713# Projectile damage
-#714# Projectile velocity
-#715# Shots in burst
-#716# Burst interval
-#717# Energy consumption
-#718# Flight time
-#719# Build rate
-#720# Build radius
-#721# Area of solar panel
-#722# Efficiency
-#723# square meters
-#724# m2
-#725# Radar radius
-#726# Radar energy consumption
-#727# Max extraction rate
+#712# Schussrate
+#713# Projektilschaden
+#714# Projektilgeschwindigkeit
+#715# Schuss pro Salve
+#716# Salvenintervall
+#717# Energieverbrauch
+#718# Flugzeit
+#719# Baurate
+#720# Bauradius
+#721# Fläche des Solarpanels
+#722# Effizienz
+#723# Quadratmeter
+#724# m^2
+#725# Radarradius
+#726# Radar Eenergieverbrauch
+#727# maximale Extraktionsrate
 #728# (unused)
-#729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
-#730# Should be located very close to edge of the atmosphere and directed in the planet
-#731# Consumes
-#732# Produces
+#729# Ein Gerät zum Sammeln von nutzbaren Gasen aus der oberen Atmosphäre eines Planeten. Wird benutzt um Xenon aus einer Atmosphäre zu sammeln.
+#730# Sollte sehr nah am Rande der Atmosphäre platziert sein und in Richtung Planet zeigen.
+#731# verbraucht
+#732# produziert
 #733# Cycle time
-#734# Resource connector connected to wrong storage
-#735# Ammo fabricator
-#736# Rocket fabricator
-#737# Gas collector
-#738# Engineering module
+#734# Ressourcenverbinder zu falschem Lager verbunden
+#735# Munitionsfabrikator
+#736# Raketenfabrikator
+#737# Gassammler
+#738# Ingenieursmodul
 #739# Cycle duration
 #740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
-#741# Large adapter
-#742# Collection rate
-#743# Should be directed on planet
-#744# Too far from the atmosphere
+#741# großer Adapter
+#742# Sammelrate
+#743# Sollte auf Planet gerichtet sein
+#744# Zu weit entfernt von Atmosphäre
 #745# Can't find free container to unload collected gas
 #746# Turret with attached weapon cannot be sold. Sell weapon first
-#747# Only empty storages can be sold
+#747# nur leere Lager können verkauft werden.
