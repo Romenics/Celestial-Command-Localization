@@ -794,10 +794,10 @@
 #690# Захват
 #691# Плотность
 #692# Плотность пространства в аэродинамическом режиме. Определяет сопротивление воздуха во время движения.
-#693# Produces ammo for light balistic cannons
+#693# Производит боеприпасы для легких баллистических пушек
 #694# (unused)
 #695# (unused)
-#696# Produces ammo for rocket launchers
+#696# Производит боеприпасы для ракетных установок
 #697# (unused)
 #698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
 
@@ -807,51 +807,51 @@ It can be used within a star system for instant travel from one point to another
 Size of warp field can be changed
 
 Energy consumption depends on size of warp field
-#700# Active
-#701# Not enough resource in storage
-#702# Storage is not connected
-#703# consumption
-#704# Crew capacity
-#705# Durability
-#706# Capacity
-#707# liquid or gas
-#708# solid cargo
-#709# energy
-#710# Shield durability
-#711# Radius
-#712# Shooting interval
-#713# Projectile damage
-#714# Projectile velocity
-#715# Shots in burst
-#716# Burst interval
-#717# Energy consumption
-#718# Flight time
-#719# Build rate
-#720# Build radius
-#721# Area of solar panel
-#722# Efficiency
-#723# square meters
-#724# m2
-#725# Radar radius
-#726# Radar energy consumption
-#727# Max extraction rate
+#700# Активно
+#701# Не хватает ресурсов в хранилище
+#702# Хранилище не подключено
+#703# потребление
+#704# Вместимость экипажа
+#705# Прочность
+#706# Емкость
+#707# жидкость или газ
+#708# твердый груз
+#709# энергия
+#710# Прочность щита
+#711# Радиус
+#712# Интервал стрельбы
+#713# Урон снаряда
+#714# Скорость снаряда
+#715# Выстрелов в залпе
+#716# Интервал залпов
+#717# Потребление энергии
+#718# Время полета
+#719# Скорость строительства
+#720# Радиус строительства
+#721# Площадь солнечной панели
+#722# Эффективность
+#723# квадратные метры
+#724# м2
+#725# Радиус радара
+#726# Потребление энергии радаром
+#727# Максимальная скорость добычи
 #728# (unused)
-#729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
-#730# Should be located very close to edge of the atmosphere and directed in the planet
-#731# Consumes
-#732# Produces
-#733# Cycle time
-#734# Resource connector connected to wrong storage
-#735# Ammo fabricator
-#736# Rocket fabricator
-#737# Gas collector
-#738# Engineering module
-#739# Cycle duration
-#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
-#741# Large adapter
-#742# Collection rate
-#743# Should be directed on planet
-#744# Too far from the atmosphere
-#745# Can't find free container to unload collected gas
-#746# Turret with attached weapon cannot be sold. Sell weapon first
-#747# Only empty storages can be sold
+#729# Устройство способное добывать полезные газы из верхних слоев атмосферы планеты. Используйте для добычи ксенона из атмосферы.
+#730# Должно быть расположено очень близко к краю атмосферы и направлено на планету
+#731# Потребляет
+#732# Производит
+#733# Время цикла
+#734# Модуль подключен к неправильному хранилищу
+#735# Изготовитель боеприпасов
+#736# Изготовитель ракет
+#737# Сборщик газа
+#738# Инженерный модуль
+#739# Длительность цикла
+#740# Модуль с установленным роботизированным манипулятором, который способен ремонтировать, конструировать или деконструировать модули в пределах досягаемости
+#741# Большой адаптер
+#742# Скорость сбора
+#743# Должно быть направлено на планету
+#744# Слишком далеко от атмосферы
+#745# Не найдено свободного хранилища для выгрузки собранного газа
+#746# Турель с подключенным оружием не может быть продана. Сперва продайте оружие
+#747# Только пустые хранилища можно продать
