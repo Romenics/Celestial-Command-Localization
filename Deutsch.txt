@@ -840,21 +840,21 @@ Der Energieverbrauch hängt von der Größe des Warpfeldes ab
 #727# Maximale Extraktionsrate
 #728# (unused)
 #729# Ein Gerät das in der Lage, nützliche Gase aus der oberen Atmosphäre eines Planeten zu sammeln. Wird verwendet, um Xenon Gas aus einer Atmosphäre zu sammeln.
-#730# Should be located very close to edge of the atmosphere and directed in the planet
-#731# Consumes
-#732# Produces
-#733# Cycle time
-#734# Resource connector connected to wrong storage
-#735# Ammo fabricator
-#736# Rocket fabricator
-#737# Gas collector
-#738# Engineering module
-#739# Cycle duration
-#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
-#741# Large adapter
-#742# Collection rate
-#743# Should be directed on planet
-#744# Too far from the atmosphere
-#745# Can't find free container to unload collected gas
-#746# Turret with attached weapon cannot be sold. Sell weapon first
-#747# Only empty storages can be sold
+#730# Sollte sich sehr nahe am Rand der Atmosphäre befinden und auf dem Planeten gerichtet sein
+#731# Verbraucht
+#732# Produziert
+#733# Zeit für einen Zyklus
+#734# Ressourcen-Anschluss ist an falschen Speicherbehälter angeschlossen
+#735# Munitionsfabrik
+#736# Raketenfrabrik
+#737# Gas Sammler
+#738# Ingenieurmodul
+#739# Zyklusdauer
+#740# Modul mit installiertem Roboterarm, der in der Lage ist, Module in Reichweite zu reparieren, zu konstruieren oder zu dekonstruieren
+#741# Großer Adapter
+#742# Sammelrate
+#743# Muss auf einen Planeten gerichtet sein
+#744# Zu weit entfernt von der Atmosphäre
+#745# Kann keinen freien Tank finden, um gesammeltes Gas zu entladen
+#746# Waffenplattform mit installierter Waffe kann nicht verkauft werden. Waffe zuerst verkaufen 
+#747# Nur leere Behälter können verkauft werden
