@@ -521,29 +521,29 @@
 #519# Ceci est votre vaisseau
 
 Maintenez le bouton droit de la souris et faites glisser la souris pour faire pivoter la caméra
-#520# Vous pouvez effectuer un panoramique de l'appareil photo par un cliquer-glisser le bouton central de la souris
+#520# Vous pouvez effectuer une vue panoramique par un cliquer-glisser le bouton central de la souris
 #521# Utilisez votre souris à molette pour zoomer
-#522# Vous pouvez réinitialiser l'appareil en appuyant sur le bouton en surbrillance
+#522# Vous pouvez réinitialiser la vue par defaut en appuyant sur le bouton en surbrillance
 #523# Maintenant, concernant le mouvement:
 
-Vous pouvez faire tourner votre vaisseau avec les touches A et D. Essayez doucement tourner votre vaisseau dans le sens horaire et dans le sens antihoraire.
-#524# Notez que votre vaisseau est situé dans un vide. Dans l'espace, il n'y a pas de frottement de l'air, de sorte que votre vaisseau va garder son liniar et de la vitesse angulaire jusqu'à ce que vous l'arrêtiez manuellement.
-#525# stabilisation Automatique est très utile si vous souhaitez arrêter votre rotation du vaisseau. Activer le stabilizator en appuyant sur le bouton en surbrillance ou son raccourci (R).
-#526# Tandis que le stabilisateur est actif, il va automatiquement utiliser les moteurs du vaisseau à l'arrêt de la rotation du vaisseau.
+Vous pouvez faire tourner votre vaisseau avec les touches A et D. Essayez doucement de tourner votre vaisseau sur la gauche et la droite.
+#524# Notez que votre vaisseau est situé dans le vide. Dans l'espace, il n'y a pas de frottement de l'air, donc il va garder son axe et sa vitesse angulaire jusqu'à ce que vous l'arrêtiez manuellement.
+#525# La stabilisation Automatique est très utile si vous souhaitez arrêter la rotation du vaisseau. Activer le stabilisateur en appuyant sur le bouton en surbrillance ou son raccourci (R).
+#526# Pendant que le stabilisateur est actif, il va automatiquement utiliser les moteurs du vaisseau pour arrêter la rotation du vaisseau.
 
-Toutefois, prenez note que votre carburant est limité. Ces manœuvres moteur consomme de l'hydrogène liquide. Votre montant actuel de l'hydrogène liquide est affiché sur l'écran (comme highligthed par la flèche).
-#527# lorsqu'il est actif, la rotation stabilisateur permet de compenser la rotation, même lorsque vous n'avez pas vraiment besoin de le faire. Parce qu'il utilise les moteurs du vaisseau, ayant le stabilisateur sur l'augmentation de la consommation de carburant. Donc, il peut être utile de désactiver le stabilisateur chaque fois que vous n'en avez pas besoin.
+Toutefois, prenez note que votre carburant est limité. Cette manœuvres basique du moteur consomme de l'hydrogène liquide. Votre montant actuel d'hydrogène liquide est affiché sur l'écran (en surbrillance par la flèche).
+#527# Pendant que la stabilisateur est actif, il va compenser la rotation en permanence, même lorsque vous n'avez pas vraiment besoin de le faire, ceci va donc augmenter la consomation du fuel. Donc, il peut être utile de désactiver le stabilisateur chaque fois que vous n'en avez pas besoin.
 
 Désactiver le stabilisateur en appuyant sur la touche de raccourci (R).
 #528# Maintenant, essayez de déplacer votre vaisseau un peu, à l'aide des touches W S Q E pour aller de l'avant, arrière, gauche et droite.
 #529# Maintenant un zoom arrière et d'observer la planète la plus proche et de ses environs.
 
-Maintenant, vous avez probablement remarqué que votre vaisseau ne pas rester dans un seul endroit. Le vaisseau en orbite autour de la planète voisine.
+Maintenant, vous avez probablement remarqué que votre vaisseau ne pas rester dans un seul endroit. Le vaisseau est en orbite autour de la planète voisine.
 #530# en Dépit de la mécanique orbitale dans ce jeu, le mouvement est ici beaucoup plus simple que dans le monde réel.
 
-Essayons d'approcher la proximité de l'astéroïde.
-Sélectionnez-le en surbrillance astéroïde en cliquant dessus.
-#531# Maintenant, affichage de la vitesse relative.
+Essayons d'approcher de l'astéroïde le plus proche.
+Sélectionnez l'astéroïde en surbrillance en cliquant dessus.
+#531# Maintenant afficher la vitesse relative.
 #532# Avec une vitesse relative active, et que vous avez sélectionné un objet, vous allez voir deux flèches à proximité de votre vaisseau.
 
 Flèche blanche - direction de l'objet sélectionné

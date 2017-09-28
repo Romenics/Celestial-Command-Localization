@@ -786,7 +786,7 @@ If you created a server and you want to check its visibility, follow this guide
 #684# Recommended mode
 #685# Experimental mode which may contain significant technical and conceptual flaws
 
-We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
+We recommend to start with aerodynamic mode because it is more user friendly, has more stable physics and overall provides a better gameplay experience
 #686# Module out of range of shipyard
 #687# Identifier of sector
 #688# Level of sector
@@ -794,10 +794,10 @@ We recommend to start with aerodynamic mode because it is more user friendly, ha
 #690# Capture
 #691# Density
 #692# Density of space in aerodynamic mode. Defines the air drag during movement.
-#693# Produces ammo for light balistic cannons
+#693# Produces ammo for light ballistic cannons
 #694# (unused)
 #695# (unused)
-#696# Produces ammo for rocket launchers
+#696# Produces rockets for rocket launchers
 #697# (unused)
 #698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
 
@@ -837,7 +837,7 @@ Energy consumption depends on size of warp field
 #727# Max extraction rate
 #728# (unused)
 #729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
-#730# Should be located very close to edge of the atmosphere and directed in the planet
+#730# Should be located very close to edge of the atmosphere and directed towards the planet
 #731# Consumes
 #732# Produces
 #733# Cycle time
@@ -847,11 +847,11 @@ Energy consumption depends on size of warp field
 #737# Gas collector
 #738# Engineering module
 #739# Cycle duration
-#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
+#740# Module with installed robotic arm, which is used to repair, construct or deconstruct modules within reach
 #741# Large adapter
 #742# Collection rate
-#743# Should be directed on planet
+#743# Should be directed towards planet
 #744# Too far from the atmosphere
 #745# Can't find free container to unload collected gas
-#746# Turret with attached weapon cannot be sold. Sell weapon first
+#746# Turret with attached weapon cannot be sold. Sell the attached weapon first
 #747# Only empty storages can be sold

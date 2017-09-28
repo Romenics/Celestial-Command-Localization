@@ -821,7 +821,7 @@ Energieverbrauch ist abhängig von der Größe des Warpfelds
 #707# Flüssigkeit oder Gas
 #708# feste Fracht
 #709# Energie
-#710# Schildbeständigkeit
+#710# Schildstärke
 #711# Radius
 #712# Schussrate
 #713# Projektilschaden
@@ -835,27 +835,27 @@ Energieverbrauch ist abhängig von der Größe des Warpfelds
 #721# Fläche des Solarpanels
 #722# Effizienz
 #723# Quadratmeter
-#724# m^2
-#725# Radarradius
-#726# Radar Eenergieverbrauch
+#724# m²
+#725# Radar-Radius
+#726# Radar-Energieverbrauch
 #727# maximale Extraktionsrate
 #728# (unused)
 #729# Ein Gerät zum Sammeln von nutzbaren Gasen aus der oberen Atmosphäre eines Planeten. Wird benutzt um Xenon aus einer Atmosphäre zu sammeln.
 #730# Sollte sehr nah am Rande der Atmosphäre platziert sein und in Richtung Planet zeigen.
 #731# verbraucht
 #732# produziert
-#733# Cycle time
-#734# Ressourcenverbinder zu falschem Lager verbunden
+#733# Zeit für einen Zyklus
+#734# Ressourcen-Anschluss zu falschem Lager verbunden
 #735# Munitionsfabrikator
 #736# Raketenfabrikator
 #737# Gassammler
 #738# Ingenieursmodul
-#739# Cycle duration
-#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
+#739# Zyklusdauer
+#740# Modul mit installiertem Roboterarm, der in der Lage ist Module in Reichweite zu reparieren, zu konstruieren oder zu dekonstruieren
 #741# großer Adapter
 #742# Sammelrate
-#743# Sollte auf Planet gerichtet sein
+#743# Muss auf einen Planeten gerichtet sein
 #744# Zu weit entfernt von Atmosphäre
-#745# Can't find free container to unload collected gas
-#746# Turret with attached weapon cannot be sold. Sell weapon first
-#747# nur leere Lager können verkauft werden.
+#745# Kann keinen freien Tank finden, um gesammeltes Gas zu entladen
+#746# Waffenplattform mit installierter Waffe kann nicht verkauft werden. Waffe muss zuerst verkauft werden
+#747# nur leere Behälter können verkauft werden.
