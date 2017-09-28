@@ -740,8 +740,8 @@
 #645# 最大产出
 #646# 恒星被遮挡
 #647# 小型太阳能面板
-#648# General
-#649# Control
+#648# 一般的
+#649# 控制
 #650# 价格更新还有
 #651# 倒计时结束后，商人们将根据可用资源数目重新计算商品价格。
 #652# 库存（Availability）
@@ -767,91 +767,91 @@
 #667# 聚焦视角到目标
 #668# 开关最近星球的放射状网格
 #669# 你不能移除这个命令模块，因为里面有船员。
-#670# Open folder with saved files
-#671# Delete selected file
-#672# Saved file with such name already exist
+#670# 打开保存文件文件夹
+#671# 删除选定的文件
+#672# 保存的文件名已经存在
 #673# 米/秒（m / s）
 #674# 当前舰船的速度
 #675# 米每秒
-#676# 90% Black
-#677# 100% Black
+#676# 90% 黑色
+#677# 100% 黑色
 #678# Blue
 #679# 碰撞伤害
 #680# 模块应该在船坞的工作范围内（黄色圈）
-#681# Currently there is a technical problem with visibility of created servers in the server list
+#681# 当前存在服务器列表中创建的服务器可见性的技术问题。
 
-If you created a server and you want to check its visibility, follow this guide
-#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
+如果您创建了一个服务器并希望检查其可见性，请遵循本指南
+#682# 如果您的服务器在列表中不可见，其他用户仍然应该能够通过直接的IP连接加入服务器。
 #683# 打开指引
 #684# 推荐的模式
-#685# Experimental mode which may contain significant technical and conceptual flaws
+#685# 可能含有重大技术和概念缺陷的实验模式
 
 我们推荐从大气动力模式开始，因为这个模式下的操作更加容易，物理模型也更稳定（译者：更让人熟悉）。总的来说有更轻松愉快的游戏体验
 #686# 模块超出船坞范围
-#687# Identifier of sector
-#688# Level of sector
-#689# Owner of sector
-#690# Capture
-#691# Density
+#687# 标识行业
+#688# 级部门
+#689# 业主部门
+#690# 捕获
+#691# 密度
 #692# 大气动力模式下，太空中的空气密度。这将决定移动时的空气阻力。
-#693# Produces ammo for light balistic cannons
+#693# 产生光弹道炮弹药
 #694# (unused)
 #695# (unused)
-#696# Produces ammo for rocket launchers
+#696# 发射火箭发射器的弹药
 #697# (unused)
-#698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
+#698# 能使船周围空间变形的跃门,它能比光速快.
 
-It can be used within a star system for instant travel from one point to another. 
-#699# Moves every object which is located inside the warp field except gate
+它可以在恒星系统中用于从一个点到另一个点的瞬间旅行.
+#699# 移动除门以外的位于弯曲场内的每一物体
 
-Size of warp field can be changed
+翘曲场的大小可以改变。
 
-Energy consumption depends on size of warp field
-#700# Active
-#701# Not enough resource in storage
-#702# Storage is not connected
-#703# consumption
-#704# Crew capacity
-#705# Durability
-#706# Capacity
-#707# liquid or gas
-#708# solid cargo
-#709# energy
-#710# Shield durability
-#711# Radius
-#712# Shooting interval
-#713# Projectile damage
-#714# Projectile velocity
-#715# Shots in burst
-#716# Burst interval
-#717# Energy consumption
-#718# Flight time
-#719# Build rate
-#720# Build radius
-#721# Area of solar panel
-#722# Efficiency
-#723# square meters
+能量消耗取决于经纱场的大小。
+#700# 主动
+#701# 存储资源不足
+#702# 存储未连接
+#703# 消费
+#704# 机组容量
+#705# 耐久性
+#706# 容量
+#707# 液体或气体
+#708# 固体货物
+#709# 能量
+#710# 盾的耐久性
+#711# 半径
+#712# 拍摄间隔
+#713# 弹伤害
+#714# 弹丸速度
+#715# 枪爆
+#716# 脉冲间隔
+#717# 能源消费
+#718# 飞行时间
+#719# 建立率
+#720# 建立半径
+#721# 太阳能电池板面积
+#722# 效率
+#723# 平方米
 #724# m2
-#725# Radar radius
-#726# Radar energy consumption
-#727# Max extraction rate
+#725# 雷达半径
+#726# 雷达的能量消耗
+#727# 马克斯的提取率
 #728# (unused)
-#729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
-#730# Should be located very close to edge of the atmosphere and directed in the planet
-#731# Consumes
-#732# Produces
-#733# Cycle time
-#734# Resource connector connected to wrong storage
-#735# Ammo fabricator
-#736# Rocket fabricator
-#737# Gas collector
-#738# Engineering module
-#739# Cycle duration
-#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
-#741# Large adapter
-#742# Collection rate
-#743# Should be directed on planet
-#744# Too far from the atmosphere
-#745# Can't find free container to unload collected gas
-#746# Turret with attached weapon cannot be sold. Sell weapon first
-#747# Only empty storages can be sold
+#729# 能够从行星上层大气收集有用气体的装置。用于从大气中收集氙气。
+#730# 应该位于离大气层很近的地方，并且指向地球。
+#731# 消耗
+#732# 生产
+#733# 周期时间
+#734# 连接器连接到错误的存储资源
+#735# 弹药制造商
+#736# 火箭制造者
+#737# 集气器
+#738# 工程模块
+#739# 周期持续时间
+#740# 带有安装的机械臂的模块，能够修复、构造或分解到达的模块。
+#741# 大的适配器
+#742# 收集率
+#743# 应该指向行星
+#744# 离大气层太远
+#745# 找不到空容器卸下收集的气体
+#746# 带附加武器的炮塔不能出售。第一次卖武器
+#747# 只有空的仓库可以出售。
