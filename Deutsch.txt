@@ -834,7 +834,7 @@ Der Energieverbrauch hängt von der Größe des Warpfeldes ab
 #721# Bereich der Solarpanel
 #722# Wirkungsgrad
 #723# Quadratmeter
-#724# m2
+#724# m²
 #725# Radar Radius
 #726# Radar Energieverbrauch
 #727# Maximale Extraktionsrate
