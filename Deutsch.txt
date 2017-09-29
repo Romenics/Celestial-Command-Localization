@@ -797,64 +797,65 @@ Wir empfehlen, mit dem aerodynamischen Modus zu beginnen, weil es benutzerfreund
 #689# Besitzer des Sektors
 #690# Erorbern
 #691# Dichte
-#692# Weltraumdichte im aerodynamischen Modus. Definiert den Luftwiderstand während der Bewegung.
+#692# Dichte des Raumes im aerodynamischen Modus. Legt den Widerstand bei der Bewegung fest.
 #693# Produziert Munition für leichte ballistische Kanonen
 #694# (unused)
 #695# (unused)
 #696# Produziert Munition für Raketenwerfer
 #697# (unused)
-#698# Sprungtor, das in der Lage ist, den Raum um ein Schiff zu falten, um so Reisen schneller als Licht erlaubt.
-Es kann innerhalb eines Sternsystems für sofortige Reise von einem Punkt zum anderen verwendet werden. 
-#699# Bewegt jedes Objekt, das sich innerhalb des Warp-Feldes befindet, jedoch keine Tore
+#698# Ein Sprungtor welches Überlichtgeschwindigkeit erlaubt indem es den Raum um ein Schiff verzerrt.
 
-Die Größe des Warp-Feldes kann verändert werden
+Es kann innerhalb eines Sternensystems für sofortige Punkt-zu-Punkt-Reisen eingesetzt werden.
+#699# Bewegt jedes Objekt innerhalb des Warpfelds außer dem Tor
 
-Der Energieverbrauch hängt von der Größe des Warpfeldes ab
+Größe des Warpfelds kann angepasst werden
+
+Energieverbrauch ist abhängig von der Größe des Warpfelds
 #700# Aktiv
-#701# Nicht genügend Ressourcen in der Lagerbehälter
-#702# Lagerbehälter ist nicht verbunden
+#701# nicht genug Ressourcen im Lager
+#702# Lager ist nicht verbunden
 #703# Verbrauch
 #704# Besatzungskapazität
-#705# Haltbarkeit
+#705# Beständigkeit
 #706# Kapazität
-#707# flüssig oder gasförmig
-#708# feste Ladung
+#707# Flüssigkeit oder Gas
+#708# feste Fracht
 #709# Energie
 #710# Schildstärke
 #711# Radius
-#712# Abschussintervall
+#712# Schussrate
 #713# Projektilschaden
 #714# Projektilgeschwindigkeit
-#715# Schießt in Intervallen
-#716# Schussintervall
+#715# Schuss pro Salve
+#716# Salvenintervall
 #717# Energieverbrauch
 #718# Flugzeit
 #719# Baurate
 #720# Bauradius
-#721# Bereich der Solarpanel
-#722# Wirkungsgrad
+#721# Fläche des Solarpanels
+#722# Effizienz
 #723# Quadratmeter
 #724# m²
 #725# Radar-Radius
 #726# Radar-Energieverbrauch
 #727# Maximale Extraktionsrate
 #728# (unused)
-#729# Ein Gerät das in der Lage, nützliche Gase aus der oberen Atmosphäre eines Planeten zu sammeln. Wird verwendet, um Xenon Gas aus einer Atmosphäre zu sammeln.
-#730# Sollte sich sehr nahe am Rand der Atmosphäre befinden und auf dem Planeten gerichtet sein
-#731# Verbraucht
-#732# Produziert
+#729# Ein Gerät zum Sammeln von nutzbaren Gasen aus der oberen Atmosphäre eines Planeten. Wird benutzt um Xenon aus einer Atmosphäre zu sammeln.
+#730# Sollte sehr nah am Rande der Atmosphäre platziert sein und in Richtung Planet zeigen.
+#731# verbraucht
+#732# produziert
 #733# Zeit für einen Zyklus
-#734# Ressourcen-Anschluss ist an falschen Speicherbehälter angeschlossen
-#735# Munitionsfabrik
-#736# Raketenfrabrik
-#737# Gas Sammler
-#738# Ingenieurmodul
+#734# Ressourcen-Anschluss zu falschem Lager verbunden
+#735# Munitionsfabrikator
+#736# Raketenfabrikator
+#737# Gassammler
+#738# Ingenieursmodul
 #739# Zyklusdauer
-#740# Modul mit installiertem Roboterarm, der in der Lage ist, Module in Reichweite zu reparieren, zu konstruieren oder zu dekonstruieren
-#741# Großer Adapter
+#740# Modul mit installiertem Roboterarm, der in der Lage ist Module in Reichweite zu reparieren, zu konstruieren oder zu dekonstruieren
+#741# großer Adapter
 #742# Sammelrate
 #743# Muss auf einen Planeten gerichtet sein
-#744# Zu weit entfernt von der Atmosphäre
+#744# Zu weit entfernt von Atmosphäre
 #745# Kann keinen freien Tank finden, um gesammeltes Gas zu entladen
-#746# Waffenplattform mit installierter Waffe kann nicht verkauft werden. Waffe zuerst verkaufen 
-#747# Nur leere Behälter können verkauft werden
+#746# Waffenplattform mit installierter Waffe kann nicht verkauft werden. Waffe muss zuerst verkauft werden
+#747# nur leere Behälter können verkauft werden.
