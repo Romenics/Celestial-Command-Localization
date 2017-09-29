@@ -838,7 +838,7 @@ Energieverbrauch ist abhängig von der Größe des Warpfelds
 #724# m²
 #725# Radar-Radius
 #726# Radar-Energieverbrauch
-#727# maximale Extraktionsrate
+#727# Maximale Extraktionsrate
 #728# (unused)
 #729# Ein Gerät zum Sammeln von nutzbaren Gasen aus der oberen Atmosphäre eines Planeten. Wird benutzt um Xenon aus einer Atmosphäre zu sammeln.
 #730# Sollte sehr nah am Rande der Atmosphäre platziert sein und in Richtung Planet zeigen.
