@@ -855,3 +855,5 @@ El consumo de energía depende del tamaño del campo de curvatura.
 #745# No es posible encontrar un contenedor disponible para descargar el gas recogido
 #746# Torreta con arma montada, no se puede vender. Vende el arma primero
 #747# Solamente se pueden vender contenedores vacíos
+#748# Toggle radar
+#749# Engineering module Mk2

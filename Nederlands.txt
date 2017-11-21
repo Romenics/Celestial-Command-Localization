@@ -852,3 +852,5 @@ Energieverbruik is afhankelijk van de grootte van het warpveld
 #745# Geen lege tank beschikbaar om verzameld gas in te pompen
 #746# Verkoop eerst het wapen, dan de turret.
 #747# Alleen lege opslag kan worden verkocht.
+#748# Toggle radar
+#749# Engineering module Mk2

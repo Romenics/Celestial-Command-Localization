@@ -858,3 +858,5 @@ Der Energieverbrauch hängt von der Größe des Warpfeldes ab
 #745# Kann keinen freien Tank finden, um gesammeltes Gas zu entladen
 #746# Waffenplattform mit installierter Waffe kann nicht verkauft werden. Waffe zuerst verkaufen 
 #747# Nur leere Behälter können verkauft werden
+#748# Toggle radar
+#749# Engineering module Mk2
