@@ -10,78 +10,78 @@
 #8# Зберегти
 #9# Вихід
 #10# Створити новий корабель
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
-#17# Are you sure?
-#18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
+#11# Ранній доступ
+#12# Гра ще не готова но вона дуже активно розвивається  Відвідайте блог розробника у Steam Community Hub щоб отримати більше інформації
+#13# Новини
+#14# Обговорення
+#15# Довідник
+#16# Що робити лист
+#17# Ви впевнені?
+#18# Вихід
+#19# До початку
+#20# Прямий зв'язок
+#21# Steam з'єднання (незабаром)
+#22# Розробники
 #23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
-#27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
+#24# Зберегти
+#25# За умовчуванням
+#26# Застосувати
+#27# Звук
+#28# Усього
+#29# Музика
+#30# Гра
+#31# Показати довідку
+#32# Показати час У чаті
+#33# Sandbox Режим
+#34# Обмін кнопками миші
+#35# Автоматичний інтервал збереження
+#36# Графіка
+#37# повний екран
+#38# Якість текстур
+#39# Екранне згладжування
 #40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
+#41# Роздільна здатність
+#42# Натисніть будь-яку клавішу, щоб встановити клавішу, або натисніть ESC, щоб вийти
+#43# Зберегти
+#44# за замовчуванням
+#45# Пекучі клавіши
+#46# Вибір Світу
+#47# Ім'я
 #48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
-#55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
-#63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
+#49# Ігрове врем'я
+#50# Версія
+#51# Створити світ
+#52# Підтвердження знищення світу
+#53# Назад
+#54# Видалити
+#55# Порт
+#56# Пароль
+#57# Максимум гравців
+#58# Знищіти
+#59# Завантажити
+#60# Завантаження
+#61# Підключення...
+#62# Ім'я світу
+#63# Порт
+#64# Пароль
+#65# Максимум Гравців
 #66# SANDBOX MODE
 #67# STATIONS AMOUNT
 #68# ENEMIES AMOUNT
 #69# ASTEROIDS AMOUNT
-#70# New world
+#70# Новий світ
 #71# BACK
-#72# START GAME
+#72# Початок гри
 #73# Join Multiplayer
 #74# IP
-#75# Port
+#75# Порт
 #76# Pass
 #77# Join
 #78# Select the Server
 #79# Add to Favorites
 #80# Confirm deletion of server
 #81# Back
-#82# Name
+#82# Ім'я
 #83# IP
 #84# Port
 #85# Password
@@ -89,29 +89,29 @@
 #87# Join
 #88# Save
 #89# Edit
-#90# Language
-#91# Paused
+#90# Мова
+#91# Зупинка
 #92# Lock Rot.
 #93# Reset Pan
 #94# Local Vel.
 #95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
+#96# Торгівля
+#97# Будування
+#98# Знищення
 #99# SANDBOX TOOLS
 #100# ADD RESOURCES
-#101# Oxygen
+#101# Повітря
 #102# Hydrogen
 #103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
+#104# Рокети
+#105# Потужність
+#106# Їжа
 #107# Crew
 #108# AI
 #109# Duplicate selected ship
 #110# Set faction to friendly
 #111# Set faction to enemy
-#112# Create enemy ship
+#112# Створити корабель ворога
 #113# Add AI to the ship
 #114# Auto pilot
 #115# PHYSICS
