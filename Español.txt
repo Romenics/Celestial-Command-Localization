@@ -857,3 +857,14 @@ El consumo de energía depende del tamaño del campo de curvatura.
 #747# Solamente se pueden vender contenedores vacíos
 #748# Toggle radar
 #749# Engineering module Mk2
+#750# Power supply
+#751# Display options
+#752# Display hit points on damage
+#753# Display radar markers
+#754# Display radar range
+#755# Max input / output
+#756# Watt
+#757# W
+#758# Joule
+#759# J
+#760# Abort jump
