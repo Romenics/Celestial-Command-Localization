@@ -108,14 +108,14 @@
 #106# Nourriture
 #107# Membre
 #108# IA
-#109# Dupliquer vaisseau sélectionner
-#110# Définir cette faction comme allier
+#109# Dupliquer vaisseau sélectionné
+#110# Définir cette faction comme alliée
 #111# Définir cette faction comme ennemi
 #112# Créer un vaisseau ennemi
 #113# Ajouter IA au vaisseau
 #114# Pilote Auto
 #115# PHYSIQUE
-#116# Supprimer vaisseau sélectionner
+#116# Supprimer vaisseau sélectionné
 #117# Désactiver mouvements orbitaux
 #118# Définir trajectoire de vol
 #119# Mode lancer de débris
@@ -170,7 +170,7 @@
 #168# Clic droit: Afficher contenu
 #169# Clic droit: Définir raccourci clavier
 #170# Masse
-#171# ejecter
+#171# Ejecter
 #172# Clic droit
 #173# Réinitialiser raccourci clavier
 #174# Ctrl + Clic droit: Déconstruire
@@ -220,7 +220,7 @@
 #218# Noms du raccourcis clavier:
 #219# Gauche:
 #220# Seulement le serveur peut le faire
-#221# Partie sauvegarder
+#221# Partie sauvegardée
 #222# ERREUR SAUVEGARDE
 #223# Enregistrement impossible suite à une erreur interne.
 #224# Crédit insuffisant
@@ -234,7 +234,7 @@
 #232# a été acheté pour
 #233# Crédits insuffisants:
 #234# récupéré
-#235# Pas assez d'espace de stockage pour récupéré
+#235# Pas assez d'espace de stockage pour récupérer
 #236# Facteurs
 #237# Masse des étoiles
 #238# Masse des planètes
