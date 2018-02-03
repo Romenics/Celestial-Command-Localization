@@ -858,16 +858,16 @@ Der Energieverbrauch hängt von der Größe des Warpfeldes ab
 #745# Kann keinen freien Tank finden, um gesammeltes Gas zu entladen
 #746# Waffenplattform mit installierter Waffe kann nicht verkauft werden. Waffe zuerst verkaufen 
 #747# Nur leere Behälter können verkauft werden
-#748# Toggle radar
-#749# Engineering module Mk2
-#750# Power supply
-#751# Display options
+#748# Radar umschalten
+#749# Ingenieursmodul 2
+#750# Energieversorgung
+#751# Optionen
 #752# Display hit points on damage
-#753# Display radar markers
-#754# Display radar range
+#753# Radarmakierungen
+#754# Radarreichweite
 #755# Max input / output
 #756# Watt
 #757# W
 #758# Joule
 #759# J
-#760# Abort jump
+#760# Sprung abbrechen
