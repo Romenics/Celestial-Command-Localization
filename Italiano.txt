@@ -868,3 +868,115 @@ Energy consumption depends on size of warp field
 #758# Joule
 #759# J
 #760# Abort jump
+#761# Researched
+#762# Time to research:
+#763# Research
+#764# Research unenable
+#765# You don't reseatched
+#766# You already reserch some techonlogy
+#767# You already have this technology
+#768# Research finished 
+#769# You sucssesfully research:
+#770# Basic Tech
+#771# Description dont translate this
+#772# Advenced recycle
+#773# New recycling will allow you to collect more resources from the husks of your enemies
+#774# Extendet Cargo
+#775# Description dont translate this
+#776# Energy
+#777# Description dont translate this
+#778# Capture System
+#779# Capture system technology will provide access to gravitational manipulators which will allow you to grab and collect almost any small objects you could only want
+#780# Capital Size Containers
+#781# Biggest possible containers for the biggest ships!
+#782# Radar
+#783# Radar will allow you to spot enemies before they could spot and start firing at you
+#784# Advenced Energy
+#785# To fuel your future high-tech stuff you will need a lot of energy and this tech is here to help you with it
+#786# Small Shields
+#787# Small shields are smaller and weaker copies of original shields
+#788# Shields
+#789# This energy hungry bubble could become your best friend in this harsh galaxy
+#790# Warp Technology
+#791# With the warp drive on your ship you will be able to travel dozens of light years in the blink of an eye
+#792# Production
+#793# Very basic fabricators allows you to stay out of the space stations for a longer period of time
+#794# Advenced Building
+#795# Advanced building modules allows you to create more complicated and sturdy ship designs
+#796# Engines
+#797# Better engines for better speed! Don't forget to paint them red
+#798# Advenced Chemical Engine
+#799# Faster than with advanced chemical engines you could travel only with warp engine
+#800# Physical Manipulators
+#801# Description dont translate this
+#802# Advenced Production
+#803# Advanced fabricators could construct almost any equipment possible, consider getting this technology if you don't want to visit space stations to buy any items without a dire need
+#804# Life Support
+#805# Food farms on board of your ship will provide your crew with everything they need to survive long space journeys
+#806# Weapons
+#807# Now it's time to get serious
+#808# Laser Tech
+#809# Basic pew-pew weapons could only hurt some small spacecrafts
+#810# Advenced Laser
+#811# Now with this small copies of death star you could finally shoot down something big 
+#812# Ballistic Tech
+#813# Cannons in the open space? Well if you want to survive you would want to have any weapon possible
+#814# Advenced Ballistic
+#815# Big guns for big boys and their big ships
+#816# Small Rocket
+#817# Reliable but resources hungry weapon, it would be a good idea to have some extra weapons ready in case of losing all rockets
+#818# Rocket Launcher
+#819# The nuclear case is not included
+#820# Description for yellow star dont translate this
+#821# Description for blue star dont translate this
+#822# Description for red star dont translate this
+#823# Description for white star dont translate this
+#824# Description for black hole dont translate this
+#825# Description for gas gigant dont translate this
+#826# Description for ice dont translate this
+#827# Description for lava dont translate this
+#828# Description for moon dont translate this
+#829# Description for sand dont translate this
+#830# Description for okean dont translate this
+#831# Description for terra dont translate this
+#832# Gas giant
+#833# Ice
+#834# Lava
+#835# Moon
+#836# Oceanic
+#837# Sand
+#838# Terrestrial
+#839# Storm 
+#840# Ammo Production
+#841# Now you can fabricate your own ammo on board of your ship! Even doesn't need to buy a license!
+#842# Rocket Production
+#843# Rocket Production Description dont translate this
+#844# Gas collector Extractor
+#845# Gas collector Description dont translate this
+#846# Advenced Mining
+#847# Advenced Mining Description dont translate this
+#848# Show gravitational acceleration at the position of cursor
+#849# Gravitational acceleration
+#850# Distance to source of gravity
+#851# meter
+#852# m
+#853# kilometer
+#854# km
+#855# Star irradiance
+#856# astrometric unit
+#857# au
+#858# light year
+#859# ly
+#860# Planets
+#861# Asteroid locations
+#862# Moons
+#863# Yellow star
+#864# Blue star
+#865# Red star
+#866# Neutron star
+#867# Black hole
+#868# Hotkey
+#869# Reveal all systems on map
+#870# Teleport to planetary system
+#871# Click on planetary system on map to teleport
+#872# Warp Gate 
