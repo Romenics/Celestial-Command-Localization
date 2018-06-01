@@ -440,8 +440,6 @@
 #443# seznamu Servery
 #444# příkazů moduly
 #445# Konstrukční prvky
-ЯндексПереводчик
-
 #446# Malých Trysek 
 #447# Malé Trysky 2
 #448# Malá Kostka
