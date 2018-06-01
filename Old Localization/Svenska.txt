@@ -1,0 +1,982 @@
+﻿ 
+#0# Starta server 
+#1# Anslut till multiplayer 
+#2# Inställningar 
+#3# Utvecklare
+#4# Exit 
+#5# fortsätt 
+#6# Paus
+#7# Inställningar 
+#8# Spara 
+#9# Exit 
+#10# Återuppstå
+#11# EARLY ACCESS 
+#12# Spelet är inte klart ännu men jobbas aktivt med att utvecklas. Besök vår utvecklings blogg i Steams Gemenskaps Hub för mer information
+#13# Nyheter 
+#14# Diskussion 
+#15# Guider 
+#16# Att göra lista
+#17# Är du säker? 
+#18# Exit 
+#19# Tillbaka 
+#20# Direktkoppling
+#21# Steam koppling (Kommer snart) 
+#22# Utvecklare
+#23# Detta spelet är utvecklat av tre kompisar med smeknamnen Artaani, Riya och Romenics  Besök vår Utvecklar blogg på Steams gemenskaps Hub för mera information  
+#24# Spara 
+#25# Standard 
+#26# Tillämpa 
+#27# LJUD 
+#28# Totalt 
+#29# Musik 
+#30# Spel 
+#31# Visa hjälp 
+#32# Visa tiden i Chatten 
+#33# Sandbox läge
+#34# Byta musknapparna 
+#35# Auto sparnings intervall
+#36# GRAFIK
+#37# Fullskärm 
+#38# texturkvalitet 
+#39# Kantutjämning 
+#40# V-sync 
+#41# Upplösning
+#42# Tryck valfri knapp för att välja knappen eller tryck ESC för att avsluta
+#43# Spara 
+#44# Standard
+#45# SNABBKOMMANDO 
+#46# VÄLJ VÄRLDEN 
+#47# NAMN 
+#48# SPARNINGSDATUM 
+#49# SPEL TID 
+#50# VERSION 
+#51# SKAPA VÄRLD
+#52# Bekräfta radering av världen 
+#53# Tillbaka 
+#54# Radera 
+#55# PORT 
+#56# Lösenord 
+#57# MAX SPELARE 
+#58# RADERA 
+#59# LADDA 
+#60# LADDAR 
+#61# Ansluter... 
+#62# Värld namn 
+#63# PORT 
+#64# LÖSENORD 
+#65# MAX SPELARE 
+#66# SANDBOX MODE 
+#67# STATIONS AMOUNT 
+#68# FIENDES MÄNGD 
+#69# ASTEROID MÄNGD
+#70# Ny värld 
+#71# Tillbaka 
+#72# Starta spelet 
+#73# Anslut till Multiplayer 
+#74# IP 
+#75# Port 
+#76# Pass 
+#77# Anslut 
+#78# Välj server 
+#79# Adda till Favoriter 
+#80# Bekräfta radering av servern
+#81# Tillbaka 
+#82# Namn 
+#83# IP 
+#84# Port 
+#85# Lösenord
+#86# Radera 
+#87# Anslut 
+#88# Spara 
+#89# Redigera
+#90# Språk
+#91# Pausat 
+#92# Lås rotation
+#93# Återställ Panoreringen
+#94# Lokal hastighet
+#95# Kraftfält
+#96# Byteshandla
+#97# BYGG 
+#98# DEKONSTRUERA
+#99# SANDBOX VERKTYG 
+#100# ADDA RESURSER 
+#101# Syre 
+#102# Väte 
+#103# Xenon 
+#104# Raket
+#105# Kraft 
+#106# Mat 
+#107# Besättning
+#108# AI 
+#109# Duplicera valt skepp
+#110# Sätt falang till vän
+#111# Sätt falang till fiende
+#112# Skapa fiende skepp
+#113# Lägg till AI till skeppet
+#114# Auto pilot 
+#115# Fysiskt 
+#116# Ta bort valt skepp 
+#117# Inaktivera omloppsbanans mekanik
+#118# Placera projektilbanan
+#119# Skräp kastar läge  
+#120# Tillämpa
+#121# Kasta
+#122# Tryck valfri knapp 
+#123# Fastställ snabbkommando
+#124# Avstånd
+#125# Relativ Hastighet
+#126# Spelare 
+#127# Ping 
+#128# Tillgängliga moduler 
+#129# Förvaring 
+#130# Produktion
+#131# Kraft 
+#132# Diverse
+#133# Vapen 
+#134# Turrets 
+#135# Drift
+#136# Besättnings medlems Info 
+#137# Hälsa 
+#138# mat 
+#139# Moral
+#140# KOMMA IGÅNG 
+#141# Eftersom denna handledningen inte är redo ännu, så rekommenderar vi den här start guiden från Gemenskaps medlemen 
+#142# ÖPPNA GUIDE 
+#143# BYTESHANDLA
+#144# NAMN 
+#145# MÄNGD 
+#146# PRIS 
+#147# KRAV
+#148# FÖRRÅD
+#149# FÖREGÅENDE SKEPP
+#150# NÄSTA SKEPP
+#151# TOTAL MASSA  
+#152# EN STUND AV TRÖGHET
+#153# MODUL MASSA 
+#154# Kraft lagringen är inte kopplad
+#155# Kraft förbrukning
+#156# Lösgöra
+#157# Fästa
+#158# Dra för att överföra
+#159# Höger klicka: Sälj 
+#160# Köp: dra och släpp i egen container 
+#161# Släpp för att överföra 
+#162# håll shift för att ange mängd
+#163# Släpp för att köpa
+#164# lagrings typ missmatchning (för flytande/ för fast)
+#165# Ctrl+RMB - Dekonstruera 
+#166# Höger klicka - laga 
+#167# Höger klicka - Konstruera 
+#168# Höger Klicka - Visa innehåll
+#169# Höger klicka - ange Snabbkommando 
+#170# Massa 
+#171# Slunga ut 
+#172# höger klicka 
+#173# återställ snabbkommando
+#174# Ctrl + Höger klicka - Dekonstruera
+#175# Ctrl + Höger klicka - Dekonstruera
+#176# Carbon
+#177# Aluminium
+#178# Silicon
+#179# Silver
+#180# Titan
+#181# Järn
+#182# Kobolt
+#183# Nickel
+#184# Koppar
+#185# Niob
+#186# Syre
+#187# Väte
+#188# Xenon
+#189# Is
+#190# Fullerite
+#191# Deuterium
+#192# Uran
+#193# Raket
+#194# Kraft
+#195# Mat
+#196# Det finns inga resurser med namn
+#197# Kan inte öppna den bygga-menyn
+#198# Den aktuella fartyget inte har en teknisk bay
+#199# av mat
+#200# kan inte hitta någon mat på fartyget!
+#201# Svalt ihjäl
+#202# har svalt ihjäl!
+#203# Varning
+#204# Sista kommandot-modulen kan inte dekonstrueras
+#205# Automatisk rörelse stoppas på grund av manuell kontroll
+#206# Warp drive är ännu inte klar
+#207# kan Inte skjuta
+#208# Rocket launcher är inte ansluten till ammunition lagring
+#209# kan Inte skjuta
+#210# Ingen ammunition i ansluten lagring
+#211# Auto pilot - aktiverad
+#212# Auto pilot - funktionshindrade
+#213# Välj ett fartyg
+#214# Inga objekt markerade
+#215# Välj ett fartyg
+#216# Välj ett objekt
+#217# Kommando:
+#218# HotkeysNames:
+#219# Vänster:
+#220# Endast server kan göra detta
+#221# sparade Spel
+#222# SPARA FEL
+#223# Spara var inte slutföras på grund av internt fel.
+#224# Otillräckliga poäng
+#225# Fartyg bör vara dockad ihop
+#226# Lagring är tom
+#227# det Här näringsidkaren inte efterfrågan
+#228# Kan inte sälja den. Förråd är fullt
+#229# enheter
+#230# såldes för
+#231# enheter
+#232# köptes för
+#233# Otillräckliga poäng:
+#234# bärgad
+#235# Inte tillräckligt med utrymme för att rädda
+#236# Faktorer
+#237# Stjärniga Massa
+#238# Planet Massa
+#239# Motorns Dragkraft
+#240# Bränsleförbrukning
+#241# Reaktion Hjulet Vridmoment
+#242# ORBITAL PARAMETRAR
+#243# Bana
+#244# Läge
+#245# Aphelium
+#246# Periapsis
+#247# Excentricitet
+#248# Omloppstid
+#249# Tang. hastighet
+#250# Ang. hastighet
+#251# Öppna bygga-menyn
+#252# Dekonstruera vald modul
+#253# Switch kontroll till föregående tillgängliga fartyg
+#254# Switch control till nästa tillgängliga fartyg
+#255# Återställ tid skala
+#256# Minska tiden skala
+#257# Öka tiden skala
+#258# Visa Lager
+#259# Visa innehållet i alla behållare för lagring av den aktuella fartyget. Innehåll kan flyttas mellan behållare med hjälp av dra och släpp med vänster musknapp. Med att hålla Vänster Shift du kan överföra en viss mängd resurser.
+#260# Visa en besättning på det aktuella fartyget. Besättningen kan flyttas genom att dra och släppa.
+#261# Visa Kontakter
+#262# Display resurs kontakter för det aktuella fartyget. Om modulen kräver särskilda resurser, det ska vara ansluten till det genom att använda detta läge. Kontakter kan knytas till moduler med hjälp av dra och släpp.
+#263# Fästpunkter
+#264# Visa fästpunkter för det aktuella fartyget. Fästpunkter kan anslutas eller kopplas från genom att vänsterklicka.
+#265# Visa masscentrum för den nuvarande fartyg
+#266# Lock RCS
+#267# Stabilisera rotation av fartyget med hjälp av sina motorer
+#268# Om denna funktion har aktiverats, välj ditt skepp och klicka på höger musknapp för att skicka en rörelse för
+#269# Visa HP barer
+#270# Tillfälligt visa integritet, ship
+#271# Rotera skåp
+#272# Anpassa visa rotation med observerade objekt
+#273# Fokusera visa
+#274# Fokus syn på utvalda objekt
+#275# Återställ pan
+#276# Återställ kameran för att fokusera på det markerade objektet
+#277# Visa hastighet
+#278# Visa hastigheten (orange) och riktning (vita) till valt objekt
+#279# Växla nätet
+#280# Visa rektangulärt rutnät i förhållande till stjärnan
+#281# ström
+#282# Maximal effekt
+#283# ineffekt
+#284# uteffekt
+#285# Summan av power input och output
+#286# Totalt belopp av väte
+#287# Totala mängden syre
+#288# Visa orbital parametrar för markerat objekt
+#289# Fraktion
+#290# Byta namn på fartyget
+#291# Massan av hela strukturen
+#292# Denna parameter bestämmer hur mycket kraft du behöver för att rotera båten. För att minska detta värde, den mest massiva moduler som ska vara beläget nära centrum av massa.
+#293# Inklusive massan av innehållet i fallet om detta är ett lastutrymme eller behållare
+#294# Strukturella integritet
+#295# Aktivera \ inaktivera manuell kontroll för valda vapen gruppen. Tryck på med att hålla Vänster Skift för att växla auto-läge.
+#296# Fylla utvalda lagring med Syre
+#297# Fylla utvalda lagring med Väte
+#298# Fylla utvalda lagring med Xenon
+#299# Fylla utvalda lagring med raketer
+#300# Fylla utvalda lagring med ammo
+#301# ladda Fullt valda Makt Lagring
+#302# Fylla utvalda lagring med mat
+#303# Lägg besättningsmedlem till vald modul
+#304# Skapa fiendens fartyg i slumpmässig punkt runt börjar planet som kommer automatiskt att attackera spelarens skepp.
+#305# Lägg till Artificiell Intelligens för att utvalda fartyg. Det kommer att tilldelas en allierad fraktion. Fartyget kommer att följa spelarens skepp.
+#306# skepp kommer automatiskt att flyga till valda objekt. Andra klicket kommer att stänga av autopiloten.
+#307# ta Bort hela fartyget eller asteroid
+#308# UPPMÄRKSAMHET - Denna åtgärd kan inte ångras för dagens värld. Inaktiverar allvar och stoppar alla objekt (endast för testning)
+#309# (Oavslutade) Tryck på-knappen och klicka någonstans i rymden för att skapa omloppsbanor planner. Position och Hastighet noder kan dras med vänster musknapp. Högerklicka på - ta bort noden.
+#310# Om aktiv, klicka på vänster musknapp någonstans i rymden kommer att skapa ett skräp. Skift+Klicka för att kasta skräpet med slumpmässig hastighet.
+#311# Handlare redo att KÖPA dessa varor
+#312# Handlare redo att SÄLJA dessa varor
+#313# Ändra namn
+#314# Ändra rang
+#315# Oavslutade attribut
+#316# Besättning kommer automatiskt att konsumera livsmedel från ett lastutrymme när det är värdet som understiger 75% (värdet minskar med 25% till 2 minuter)
+#317# Oavslutade attribut
+#318# Fylla utvalda lagring med Väte
+#319# Lägg besättningsmedlem till vald modul
+#320# Öppna handel gränssnitt. (OBSERVERA: för att handla med en ipod, handel gränssnitt bör öppnas, ditt skepp ska vara dockade med stationen och både för hamnar bör vara aktiverat. För att köpa något från stationen, öppna last gränssnitt, och sedan dra och släpp önskade varor från station till din container. För att sälja något - högerklicka på varor i din behållare)
+#321# Öppna konstruktion meny som tillhandahålls av utvalda varvet. Medan ditt fartyg som ligger inne på varvet, du kan köpa och sälja moduler för krediter.
+#322# Status för banan
+#323# Läge i förhållande till planet eller stjärna
+#324# Avstånd från centrum av planeten till den yttersta punkten på banan
+#325# Avstånd från centrum av planeten till den närmaste punkt på banan
+#326# excentricitet definierar formen av orbit (e=0) circle (0<e<1)ellips (e=1) parabel (e>1) hyperbel
+#327# orbital är den tid under vilken kroppen gör en rotation runt sin bana
+#328# vinkelhastighet (i grader per sekund)
+#329# ORBITAL PARAMETRAR
+#330# Cargo Container 2
+#331# Cargo Container 1
+#332# Kemiska Motor
+#333# Flytande Container 1
+#334# Kärnreaktor
+#335# Makt Lagring
+#336# Ingenjörskonst Bay
+#337# Radar
+#338# Solpaneler
+#339# Torn Plattform 1
+#340# Torn Plattform 2
+#341# Energi Kanon
+#342#, Skottsäkra Kanon 1
+#343# Korridoren 4 Junction
+#344# 1 Laser
+#345# Miner
+#346# Flytande Container 2
+#347# Cargo Container 3
+#348# För Port
+#349# Grabber
+#350# Laser 2
+#351# Bränsle Generator
+#352# Ballistiska Cannon 2
+#353# Korridoren
+#354# Korridor 3 Junction
+#355# Manövermodulen
+#356# Korridoren Hörnet
+#357# Reaktion Hjul
+#358# Warp Drive
+#359# Ram 2x1-Adapter
+#360# RCS Motor
+#361# Flytande Container 3
+#362# Gruv-Laser
+#363# Flytande Container 4
+#364# Kommando Modul 2
+#365# Shield Generator
+#366# Gate-Last
+#367# Tractor Beam
+#368# Jonmotor
+#369# Struktur balk
+#370# Rocket Launcher
+#371# 2x1-Adapter
+#372# Varvet
+#373# Hydrokultur
+#374# Varvet
+#375# För
+#376# Handel
+#377# Uppdrag
+#378# Visa tillgängliga uppdrag
+#379# Begäran för
+#380# Skräp
+#381# STÄLL IN NY FRAKTION FÖR DUPLICERAS FARTYG
+#382# Ally
+#383# Fiende
+#384# inte ändra den fraktion
+#385# Nästa dupliceras fartyget kommer att ha samma fraktion som ursprungliga skeppet
+#386# Nästa dupliceras fartyget kommer att ha allierade fraktion
+#387# Nästa dupliceras fartyget kommer att ha fienden fraktion
+#388# Asteroid
+#389# MÅLA VERKTYG
+#390# Välj modul för att måla
+#391# Vänster Klickar Du På - Måla
+#392# SPARADE FARTYG
+#393# Spara Fartyg
+#394# Inget fartyg utvalda
+#395# Ship sparas
+#396# Klicka på att placera ett fartyg
+#397# Ctrl + Vänster Klicka på Plocka färg
+#398# Förinställningar
+#399# Fil
+#400# finns redan
+#401# Byta namn
+#402# skriv över
+#403# Ange filnamn
+#404# fartyget kan inte hittas
+#405# Måla efter konstruktion
+#406# Plocka färg
+#407# Pin-bana. Förloppet visas även när fönstret är stängt.
+#408# Visa accepteras uppdrag
+#409# Oenighet chatt
+#410# Warp området har kollapsat på grund av tät hinder
+#411# Show crew
+#412# Visa masscentrum
+#413# Kontroll av markören
+#414# Lock bildvinkeln
+#415# Accepterade uppdrag
+#416# Visa orbital parametrar
+#417# Måla verktyg
+#418# Last fartyget
+#419# Pin-bana
+#420# Bygga-menyn
+#421# Dekonstruerar
+#422# Kompensera rotation
+#423# Rotor
+#424# Rotor Del
+#425# Kolv
+#426# Kolv Del
+#427# visa inte igen
+#428# det går Inte att spara
+#429# Vänligen välj ett fartyg
+#430# Vänligen valt ett kommando modul av fartyget
+#431# VÄLJ ETT FARTYG
+#432# Public server
+#433# Server namn
+#434# Multiplikatorer
+#435# Avancerade inställningar
+#436# Om aktiverad, kommer servern att vara synlig i global server lista
+#437# Spelare
+#438# Inga servrar som finns
+#439# Upptäckte servrar
+#440# Direkta IP-anslutning
+#441# Uppdatera listan över servrar
+#442# Uppdatera
+#443# Servrar lista
+#444# Kommando moduler
+#445# Strukturella komponenter
+#446# Liten Propeller 
+#447# Liten Propeller 2
+#448# Kub Liten
+#449# Cargo Container 4
+#450# Anslutningen till servern förlorade
+#451# huvudmenyn
+#452# Dragkraft
+#453# Auto-läge
+#454# Gräns max dragkraft
+#455# Aktivera motorn manuellt. Du kan tilldela upp till 3 olika snabbtangenter för denna åtgärd.
+#456#, När de är aktiverade, att denna motor kommer att styras automatiskt av WASDQE nycklar.
+#457# motorns dragkraft kommer inte att överstiga det angivna värdet. Detta är användbart om du vill anpassa din "center of stack" med "masscentrum" för att undvika oönskade kurs avvikelse under rörelse.
+#458# Köp Pris
+#459# Sälja Pris
+#460# Efterfrågan Förhållande
+#461# Arc-anslutningarna
+#462# Kompensera FPS
+#463# Invertera X-axeln
+#464# Invertera Y-axeln
+#465# Handledning
+#466# spelare
+#467# Multi-player
+#468# Belastning
+#469# Max mining priser
+#470# Aktivering tid
+#471# Max räckvidd
+#472# Max skada
+#473# strömförbrukning
+#474# Lilla Shield Generator
+#475# Hub Station
+#476# Station Sida Avsnitt
+#477# Station Engineering Bay
+#478# Station Cargo Container
+#479# Station Lagringstankar
+#480# Fortsätta att särskilt för port
+#481# Väntar ett ledigt för port
+#482# Ställning i kö
+#483# Din aktiva fartyget bör vara dockad till varvet
+#484# Modul som säljs
+#485# Modul
+#486# säljs för
+#487# Module köpte för
+#488# Gruv-laser funktionshindrade
+#489# Ingen gratis lagringsutrymme för resurs
+#490# Välj ett objekt och försök igen
+#491# Uppdrag slutfört
+#492# CR fått
+#493# Inte dockad med fartyget
+#494# Nya uppdrag tillgängligt
+#495# Station
+#496# Inte tillräckligt CR
+#497# Pris
+#498# Uppdrag som misslyckades
+#499# Låg signal
+#500# Avkastning fartyget tillbaka till star systemet eller den signal som kommer att vara förlorade i 60 sekunder
+#501# Signal förlorade
+#502# fartyget förlorade i rymden utanför stjärnor
+#503# Läge i centrum av dragkraft i förhållande till masscentrum
+#504# Warp drive avaktiverat
+#505# Inte tillräckligt med ström
+#506# Torped Launcher
+#507# Typ
+#508# Planet radie
+#509# Atmosfär radie
+#510# inflytande radie
+#511# Vikt
+#512# Omloppstid
+#513# Orbital fas
+#514# Bana radie
+#515# Reparation
+#516# Modulen inte skadas
+#517# Välj modul för att reparera
+#518# Rykte
+#519# det Här är ditt skepp
+
+Håll ned höger musknapp och dra musen för att rotera en vy
+#520# Du kan panorera visa genom att trycka på och hålla mitt mus-knappen och dra musen
+#521# Använd mushjulet för att zooma
+#522# Du kan återställ vy till standard position genom att trycka på markerade knappen
+#523# Nu om rörelse
+
+Du kan rotera ditt skepp av tangenterna A och D. Försök att rotera ditt skepp lite vänster och höger.
+#524# Observera att fartyg som ligger i vakuum, det finns ingen luft friktion, så det kommer att hålla sin linier och vinkelhastighet unil du stoppa den manuellt.
+#525# Automatisk stabilisering är mycket användbart om du vill stoppa rotationen av din båt. Aktivera stabilizator genom att trycka highlitted knappen eller dess hotkey
+#526# Samtidigt som stabilisator är aktiv, kommer det automatiskt att använda en motor för att stoppa rotationen av fartyget.
+
+Observera dock, att din bränsle är begränsad. Dessa grundläggande manövrering motorer förbrukar flytande väte. Din nuvarande mängden av luquid vätgas som visas på skärmen (highligther med pilen)
+#527# stabilzier är aktiv, kommer det att sluta rotation varje gång, även om du inte verkligen behöver det, detta kommer att öka förbrukningen av bränsle. så det kan vara bra att inaktivera stabilizrer om du inte behöver det.
+
+Inaktivera stbilizer genom att trycka på R-kortkommando.
+#528# prova Nu att flytta ditt skepp lite hjälp av knapparna W S F E för att flytta den framåt, bakåt, vänster och höger.
+#529# Nu zooma ut en kamera, och observera närmaste planeten och dess surroindings.
+
+Du probabli märkt att ditt skepp är inte stanna på ett ställe. Fartyget roterar i omloppsbana runt planeten.
+#530#, Trots orbital mekaniker, i det här spelet, rörelse är mycket enklare än i verkliga världen.
+
+Låt oss försöka att närma sig i närheten asteroid.
+Välj highclickted asteroid genom att klicka med musen.
+#531# Nu visa relativa hastigheten
+#532#, Medan verktyget är aktivt och du har valt ett objekt, kommer du att se två pilar nära ditt skepp.
+
+Vit pil - riktning till utvalda mål
+Orrange pil - hastighetsvektorn i ditt skepp i förhållande till valt mål
+#533# Nu, för att närma sig till valda mål att börja flytta ditt skepp mot ett mål.
+
+Du behöver för att anpassa orrange pil med samma riktning som vita pilen.
+#534# Bra. När två pilar anpassade, det innebär att ditt fartyg rör sig mot målet.
+
+Hålla ett öga på avståndet till målet. Krossa inte till det.
+När du kommer fram, bromsa ditt skepp tills gul pil wil blev mycket kort. Det innebär att din relativa hastigheten är nästan noll.
+
+Förhållningssätt till valda mål och stoppa fartyg i närheten av det.
+#535# Bra. Låt oss försöka igen för en asteroid.
+#536# Flytta ditt skepp för att highlighter asteroid.
+#537# Och en gång till.
+
+Flytta ditt skepp till markerade asteroid.
+#538# Perfekta! Nu vet du hur man förhållningssätt till objekt som ligger inte alltför långt från ditt skepp.
+#539# låt oss Nu min del resurser i syfte att sälja det och tjäna poäng.
+
+Ditt skepp är redan utrustade med en gruv-laser. För att aktivera det, välj gruv-laser och tryck på knappen "Växla" dök upp i fönstret.
+
+Observera att gruvdrift laser förbrukar en energi som visas i högra övre hörnet på skärmen, så att lösgöra en laser även om det inte är riktad på en asteroid.
+
+Nu mitt i närheten asteroid med gruv-laser och samla några resurser.
+#540# Under gruvdrift, kommer du att se en indikator som visar en utgång.
+Obs, närmare gruv-laser för att asteroid, desto mer effektiv.
+
+Nu öppnar en last gränssnitt.
+#541# I detta läge kan du se ett innehåll av lagring på ditt skepp.
+Här kan du se ett bränsle, energi och samlade malm.
+
+Du kan flytta resurser från en behållare till en annan genom att dra och släppa. Men det är inte nödvändigt för nu, så det är bara att stänga av en last gränssnitt.
+#542# New rymdstationen just anlänt i-stjärnigt systemet.
+
+Låt oss docka med stationen och tanka ett fartyg.
+Välj ett markerat utrymme station.
+#543# Begära tillstånd för
+#544# stationen kommer att boka en gratis dockningsport för ditt skepp.
+
+Strategi för att särskilt för port och exakt touch det med ditt eget för-port på ditt skepp.
+#545# Nu öppen handel panel
+#546# I detta fönster, leta upp en linje "Väte" och tryck på "Köp", välj sedan önskat belopp, till exempel 10 och bekräftar en beställning.
+
+Även här kan du sälja samlade resurser. Prova och tryck på nästa när det kommer att ske.
+#547# låt oss Nu testa ett vapen
+
+Ditt skepp inte har ett vapen, så du behöver förlänga ditt skepp.
+Senare kommer du att kunna bygga moduler med tekniska bay, men för nu kan du köpa nya moduler på stationen.
+
+Välj kanalen och tryck på "Varvet" - knappen.
+#548# dök upp I menyn, välj ett torn plattform.
+
+Du kommer att se en fästpunkter på ditt skepp. Placera ett torn någonstans där du vill.
+#549# välj Nu en kanon från listan och fäst den på toppen av ditt torn.
+#550# Bra. För att använda en kanon, du behöver en ammo.
+
+Köpa ammunition från stationen med hjälp av "Handel" - knappen.
+#551# Efter att du köpt en ammo, bör du ansluta din kanon till den förvaring där det ska ta en ammo.
+
+Öppna en resurs connection manager.
+#552# I detta läge kommer du att se en linje som representerar ett flöde av resurser.
+
+Många enheter bör vara conencted till förråd för att arbeta. Motorer ska vara ansluten till bränsletankar. Sköld generatorer bör vara kopplade till makt förråd etc.
+
+Anslut nu en kanon för att behållare med ammunition genom att dra och släppa linjen från grå prick till behållaren.
+#553# Nu kan du koppla från stationen.
+
+För att koppla från väljer du för din port och tryck på a-knappen i kontrollpanelen.
+#554# Torn kan manövreras manuellt eller så kan du aktivera det automatiska läget.
+
+Låt oss prova en manuell kontroll.
+Välj ett torn och tryck på "Manuell kontroll".
+Också kan du trycka på "Visa utbud" för att aktivera gränssnittet.
+#555# Prova att göra flera test skott och tryck på nästa.
+#556# Du har genomfört grundläggande handledning.
+
+Om du behöver ytterligare information, kolla guiden från gemenskapen.
+#557# Du har kommit i star system, du har en liten gruvdrift fartyget, lite vätgas i tankarna, vilket är tillräckligt för en flygning till närmaste asteroider och stationer. Använda din gruvdrift laser för att samla resurser från en asteroider, och sälja det på en närmast trading station.
+
+Ändra ditt fartyg på varvet och utföra ett uppdrag för att förbättra ditt rykte och få tillgång till nya moduler.
+#558# Visa skadad moduler
+#559# Tillfälligt visa träffar poäng för skadade moduler på aktiva fartyg
+#560# högerklicka
+#561# Avbryt
+#562# Vänster klicka
+#563# Reparation
+#564# Mål objekt levereras till destinationen
+#565# målobjekt inte tog med en grabber
+#566# Target-objekt har en låg relativ hastighet med destination
+#567# målobjekt är inte knuten till ett fartyg,
+#568# Förstöra målet
+#569# Stabilisera bana
+#570# Aktivera autopilot som kommer att automatiskt hålla cirkulär omloppsbana runt en planet eller stjärna, även om fartyget kommer att påverkas av yttre krafter.
+Manuell kontroll kommer att avaktivera detta läge.
+#571# Kantiga sortiment
+#572# Aktivera ränta
+#573# Max räckvidd
+#574# Manuell kontroll
+#575# Automatisk läge
+#576# Attack skräp
+#577# Attack raketer
+#578# ° 
+#579# ° /s
+#580# Buy modul
+#581# CR
+#582# Modulen skadad, priset är nedsatt
+#583# Bas pris
+#584# Välj modul för att sälja
+#585# Skada
+#586# explosionsradie
+#587# Brand dröjsmål
+#588# Rekyl kraft
+#589# kN
+#590# UP
+#591# Sortiment
+#592# s
+#593# min
+#594# Ammunition
+#595# Dekonstruerar
+#596# Konstruera
+#597# Denna modul är utrustade med industriell 3D-skrivare och drönare som gör det möjligt att bygga nya moduler med olika resurser.
+#598# för att bygga. se till att resource anslutningspunkter som är anslutna till behållare med lämplig resurs.
+#599# Kapabel att utvinna användbara resurser från asteroider. Kan också användas som nära håll vapen.
+#600# Det kommer automatiskt ta bort extraherade resurser i lämplig behållare på fartyget.
+#601# i Stånd att odla växter mat för en besättning. Kräver energi för att fungera.
+#602# enheten är kapabel att smälta isen och med hjälp av den process av elektrolys split fått vatten molekyler med två atomer väte och en atom syre som kan användas som drivmedel och oxidationsmedel för en reaktiv motorer.
+#603# Bas plattform för vapen. Möjlighet att rotera den bifogade vapen i olika riktningar inom vissa vinklar.
+
+Kan styras manuellt eller i automatiskt läge.
+I det automatiska läget kommer automatiskt att attackera angivna målen.
+#604# de Flesta vapen bör placeras på denna modul.
+#605# Viktig modul som gör att du kan docka med andra fartyg eller ett stationer, särskilt om de tillhör andra fraktioner.
+#606# Kan du enkelt identifiera och välja olika objekt inom angivet intervall. Särskilt användbart om du behöver för att detektera små objekt som skräp eller små asteroider.
+#607# Enkel strukturell del.
+#608# Kan användas som lagringsplats för fasta resurser.
+#609# Förbrukar uran och genererar energi.
+#610# Genererar energi när panelerna riktas mot en stjärna.
+#611# Effektivitet beror på avstånd och vinkel till en stjärna.
+#612# Container som kan lagra vätska eller en gas som bränsle för motorer.
+#613# Gör det möjligt att samla in skräp från rymden och automatiskt förfina den till användbart material.
+#614# Container som kan lagra fasta gods, såsom malm, ammunition eller mat.
+#615# Hydraulisk arm som gör det möjligt att ta tag i olika objekt i rymden, som asteroider, skräp eller andra fartyg.
+#616# den Här enheten är i stånd att skapa en sfär eller ellipsoid omkring sig som kommer att skydda fartyget från skador.
+#617# Förbrukar energi när den är aktiv.
+
+Förbrukar mer energi för blockerade enhet av skador.
+
+Storlek skyddande fält kan ändras. Energiförbrukningen beror på storlek.
+#618# enheten är kapabel att släppa ut riktad stråle av gravitation vågor som kan driva ett specifikt objekt i viss riktning.
+#619# När den är aktiv, dra ett objekt i den vita cirkeln med hjälp av vänster musknapp för att flytta dem i valfri riktning.
+#620# Gör det möjligt att bygga ett fartyg med vridbara delar.
+#621# Gör det möjligt att bygga ett fartyg med rörliga delar.
+#622# Kemiska motor som skapar dragkraft på grund av förbränning av syre och väte i förbränningskammaren och avgassystem förbränning produkter våra ur munstycket.
+
+För att arbetet ska vara ansluten till bränsletankar med syre och väte.
+
+Vätgas som bränsle och syre som oxidationsmedel.
+#623# Gör det möjligt att rotera ett skepp med hjälp av endast en energi.
+#624# Denna motor kräver xenon gas och elektrisk kraft. Dess fördel jämfört med kemiska motorer är att det kräver väldigt liten mängd bränsle, men har ett mycket lägre dragkraft. Som ett resultat, det är kapabla att kontinuerligt arbete under lång tid
+#625# billig och Enkel att manövrera motorn som driver trycksatt vätgas.
+
+För att arbetet ska vara ansluten till tank som innehåller väte.
+#626# En enhet som är kapabel att tänja en plats runt ett fartyg som gör det möjligt att resa med en hastighet mycket snabbare än ljusets hastighet.
+
+Det kan användas inom en stjärna system för omedelbar resa från en punkt till en annan.
+#627# Flyttar varje objekt som ligger innanför en varp fält
+
+Storleken på warp fält kan ändras
+
+Energiförbrukningen beror på storleken av varp fält
+
+Om varpen området kommer att kollidera med något, det kommer att vara dåligt skick och hoppa kommer att avbrytas.
+#628# Bör vara kopplade till makt förvaring
+#629# Ska vara ansluten till lagring med raketer
+#630# Ska vara ansluten till lagring med ammo
+#631# Kapabla att starta egen guidad torped.
+En torped kommer att vara inriktade på objekt som valts under lanseringen.
+Om inga objekt markerade, torped kommer att lanseras i ostyrd läge.
+#632# Kapabel att lansera ostyrda missiler med hög eldhastighet
+#633# Innehåller energi som genereras av reaktorer eller solpaneler. Någon enhet som kräver att makten ska vara ansluten till det
+#634# control center för alla fartyg, som innehåller kommandot bridge, huvuddator och resursfördelning nav
+#635# Bygga poäng
+#636# Nästa nivå
+#637# Krävs rykte
+#638# Glow effect
+#639# Show background
+#640# Black space background
+#641# Debug mode
+#642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
+#643# Directed on star
+#644# Current production
+#645# Maximum production
+#646# Star blocked by
+#647# Small solar panel
+#648# General
+#649# Control
+#650# Prices will be updated in
+#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
+#652# Availability
+#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+
+If this value high - trader have abundance of this resource and ready to sell it for decreased price
+#654# How much resource this trader ready to buy
+#655# How much resource this trader ready to sell
+#656# You can buy resource for this price
+#657# You can sell resource for this price
+#658# Toggle radial grid
+#659# Radial grid helps to understand velocity of the ship.
+Each circle rotates around planet with orbital speed which corresponds its altitude.
+Keep your ship in the grid cell if you wish to keep circular orbit.
+Or move your ship along circle of the grid if you wish to bypass planet around.
+#660# Command module has been destroyed
+#661# Ship
+#662# This ship already have command module. Only one command module can be located on a ship.
+#663# Ships
+#664# Select command module
+#665# Take control
+#666# List of all ships
+#667# Focus view on object
+#668# Toggle radial grid for nearest planet
+#669# You cannot remove this command module. There is a crew inside.
+#670# Open folder with saved files
+#671# Delete selected file
+#672# Saved file with such name already exist
+#673# m / s
+#674# Velocity of active ship
+#675# Meter per second
+#676# 90% Black
+#677# 100% Black
+#678# Blue
+#679# Collision damage
+#680# Module should be in range of shipyard (yellow circle)
+#681# Currently there is a technical problem with visibility of created servers in the server list
+
+If you created a server and you want to check its visibility, follow this guide
+#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
+#683# Open guide
+#684# Recommended mode
+#685# Experimental mode which may contain significant technical and conceptual flaws
+
+We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
+#686# Module out of range of shipyard
+#687# Identifier of sector
+#688# Level of sector
+#689# Owner of sector
+#690# Capture
+#691# Density
+#692# Density of space in aerodynamic mode. Defines the air drag during movement.
+#693# Produces ammo for light balistic cannons
+#694# (unused)
+#695# (unused)
+#696# Produces ammo for rocket launchers
+#697# (unused)
+#698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
+
+It can be used within a star system for instant travel from one point to another. 
+#699# Moves every object which is located inside the warp field except gate
+
+Size of warp field can be changed
+
+Energy consumption depends on size of warp field
+#700# Active
+#701# Not enough resource in storage
+#702# Storage is not connected
+#703# consumption
+#704# Crew capacity
+#705# Durability
+#706# Capacity
+#707# liquid or gas
+#708# solid cargo
+#709# energy
+#710# Shield durability
+#711# Radius
+#712# Shooting interval
+#713# Projectile damage
+#714# Projectile velocity
+#715# Shots in burst
+#716# Burst interval
+#717# Energy consumption
+#718# Flight time
+#719# Build rate
+#720# Build radius
+#721# Area of solar panel
+#722# Efficiency
+#723# square meters
+#724# m2
+#725# Radar radius
+#726# Radar energy consumption
+#727# Max extraction rate
+#728# (unused)
+#729# Device capable to collect useful gases from upper atmosphere of planets. Used in order to collect xenon from an atmosphere.
+#730# Should be located very close to edge of the atmosphere and directed in the planet
+#731# Consumes
+#732# Produces
+#733# Cycle time
+#734# Resource connector connected to wrong storage
+#735# Ammo fabricator
+#736# Rocket fabricator
+#737# Gas collector
+#738# Engineering module
+#739# Cycle duration
+#740# Module with installed robotic arm, which is capable to repair, construct or deconstruct modules within reach
+#741# Large adapter
+#742# Collection rate
+#743# Should be directed on planet
+#744# Too far from the atmosphere
+#745# Can't find free container to unload collected gas
+#746# Turret with attached weapon cannot be sold. Sell weapon first
+#747# Only empty storages can be sold
+#748# Toggle radar
+#749# Engineering module Mk2
+#750# Power supply
+#751# Display options
+#752# Display hit points on damage
+#753# Display radar markers
+#754# Display radar range
+#755# Max input / output
+#756# Watt
+#757# W
+#758# Joule
+#759# J
+#760# Abort jump
+#761# Researched
+#762# Time to research:
+#763# Research
+#764# Research unenable
+#765# You don't reseatched
+#766# You already reserch some techonlogy
+#767# You already have this technology
+#768# Research finished 
+#769# You sucssesfully research:
+#770# Basic Tech
+#771# Description dont translate this
+#772# Advenced recycle
+#773# New recycling will allow you to collect more resources from the husks of your enemies
+#774# Extendet Cargo
+#775# Description dont translate this
+#776# Energy
+#777# Description dont translate this
+#778# Capture System
+#779# Capture system technology will provide access to gravitational manipulators which will allow you to grab and collect almost any small objects you could only want
+#780# Capital Size Containers
+#781# Biggest possible containers for the biggest ships!
+#782# Radar
+#783# Radar will allow you to spot enemies before they could spot and start firing at you
+#784# Advenced Energy
+#785# To fuel your future high-tech stuff you will need a lot of energy and this tech is here to help you with it
+#786# Small Shields
+#787# Small shields are smaller and weaker copies of original shields
+#788# Shields
+#789# This energy hungry bubble could become your best friend in this harsh galaxy
+#790# Warp Technology
+#791# With the warp drive on your ship you will be able to travel dozens of light years in the blink of an eye
+#792# Production
+#793# Very basic fabricators allows you to stay out of the space stations for a longer period of time
+#794# Advenced Building
+#795# Advanced building modules allows you to create more complicated and sturdy ship designs
+#796# Engines
+#797# Better engines for better speed! Don't forget to paint them red
+#798# Advenced Chemical Engine
+#799# Faster than with advanced chemical engines you could travel only with warp engine
+#800# Physical Manipulators
+#801# Description dont translate this
+#802# Advenced Production
+#803# Advanced fabricators could construct almost any equipment possible, consider getting this technology if you don't want to visit space stations to buy any items without a dire need
+#804# Life Support
+#805# Food farms on board of your ship will provide your crew with everything they need to survive long space journeys
+#806# Weapons
+#807# Now it's time to get serious
+#808# Laser Tech
+#809# Basic pew-pew weapons could only hurt some small spacecrafts
+#810# Advenced Laser
+#811# Now with this small copies of death star you could finally shoot down something big 
+#812# Ballistic Tech
+#813# Cannons in the open space? Well if you want to survive you would want to have any weapon possible
+#814# Advenced Ballistic
+#815# Big guns for big boys and their big ships
+#816# Small Rocket
+#817# Reliable but resources hungry weapon, it would be a good idea to have some extra weapons ready in case of losing all rockets
+#818# Rocket Launcher
+#819# The nuclear case is not included
+#820# Description for yellow star dont translate this
+#821# Description for blue star dont translate this
+#822# Description for red star dont translate this
+#823# Description for white star dont translate this
+#824# Description for black hole dont translate this
+#825# Description for gas gigant dont translate this
+#826# Description for ice dont translate this
+#827# Description for lava dont translate this
+#828# Description for moon dont translate this
+#829# Description for sand dont translate this
+#830# Description for okean dont translate this
+#831# Description for terra dont translate this
+#832# Gas giant
+#833# Ice
+#834# Lava
+#835# Moon
+#836# Oceanic
+#837# Sand
+#838# Terrestrial
+#839# Storm 
+#840# Ammo Production
+#841# Now you can fabricate your own ammo on board of your ship! Even doesn't need to buy a license!
+#842# Rocket Production
+#843# Rocket Production Description dont translate this
+#844# Gas collector Extractor
+#845# Gas collector Description dont translate this
+#846# Advenced Mining
+#847# Advenced Mining Description dont translate this
+#848# Show gravitational acceleration at the position of cursor
+#849# Gravitational acceleration
+#850# Distance to source of gravity
+#851# meter
+#852# m
+#853# kilometer
+#854# km
+#855# Star irradiance
+#856# astrometric unit
+#857# au
+#858# light year
+#859# ly
+#860# Planets
+#861# Asteroid locations
+#862# Moons
+#863# Yellow star
+#864# Blue star
+#865# Red star
+#866# Neutron star
+#867# Black hole
+#868# Hotkey
+#869# Reveal all systems on map
+#870# Teleport to planetary system
+#871# Click on planetary system on map to teleport
+#872# Warp Gate 
